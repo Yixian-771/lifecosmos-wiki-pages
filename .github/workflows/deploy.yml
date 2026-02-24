@@ -3,6 +3,7 @@ name: Deploy wiki-pages to 65
 on:
   push:
     branches: [ "main" ]
+  workflow_dispatch:
 
 jobs:
   deploy:
