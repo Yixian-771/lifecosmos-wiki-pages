@@ -1,0 +1,39 @@
+name: Deploy wiki pages to server
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install rsync
+        run: sudo apt-get update && sudo apt-get install -y rsync
+
+      - name: Setup SSH
+        shell: bash
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -p ${{ secrets.DEPLOY_PORT }} ${{ secrets.DEPLOY_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Ensure target dir exists
+        shell: bash
+        run: |
+          ssh -p ${{ secrets.DEPLOY_PORT }} -i ~/.ssh/id_ed25519 \
+            ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }} \
+            "mkdir -p '${{ secrets.DEPLOY_PATH }}'"
+
+      - name: Rsync en/ and zh/ to server
+        shell: bash
+        run: |
+          rsync -avz --delete \
+            -e "ssh -p ${{ secrets.DEPLOY_PORT }} -i ~/.ssh/id_ed25519" \
+            en/ zh/ \
+            ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_PATH }}/
