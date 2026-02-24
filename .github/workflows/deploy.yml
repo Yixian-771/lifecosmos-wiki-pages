@@ -26,10 +26,8 @@ jobs:
           echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
 
-          # 预热 known_hosts（避免首次连接交互失败）
           ssh-keyscan -p "$PORT" -H "${{ secrets.DEPLOY_HOST }}" >> ~/.ssh/known_hosts 2>/dev/null || true
 
-          # 快速自检：能否连上（失败会直接在这里报清楚原因）
           ssh -o StrictHostKeyChecking=no -p "$PORT" -i ~/.ssh/id_ed25519 \
             "${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}" \
             "echo connected && whoami"
@@ -53,6 +51,10 @@ jobs:
           if [ -z "$PORT" ]; then PORT="22"; fi
 
           rsync -avz --delete \
+            --exclude '.user.ini' \
+            --exclude '.htaccess' \
+            --exclude '.git/' \
+            --exclude '.github/' \
             -e "ssh -o StrictHostKeyChecking=no -p $PORT -i ~/.ssh/id_ed25519" \
             en/ zh/ \
             "${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_PATH }}/"
