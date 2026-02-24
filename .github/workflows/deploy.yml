@@ -56,5 +56,5 @@ jobs:
             --exclude '.git/' \
             --exclude '.github/' \
             -e "ssh -o StrictHostKeyChecking=no -p $PORT -i ~/.ssh/id_ed25519" \
-            en/ zh/ \
+            en zh \
             "${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_PATH }}/"
