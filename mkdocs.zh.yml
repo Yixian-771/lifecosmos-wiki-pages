@@ -1,0 +1,25 @@
+site_name: 生命禅院百科馆
+site_url: /zh/
+docs_dir: zh
+site_dir: site/zh
+use_directory_urls: true
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - admonition
