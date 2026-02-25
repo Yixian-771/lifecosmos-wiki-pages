@@ -1,5 +1,5 @@
 site_name: Lifechanyuan Wiki
-site_url: /en/
+site_url: "http://wiki.lifecosmos.org/en/"
 docs_dir: en
 site_dir: site/en
 use_directory_urls: true
