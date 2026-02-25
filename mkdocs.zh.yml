@@ -1,5 +1,5 @@
 site_name: 生命禅院百科馆
-site_url: /zh/
+site_url: "http://wiki.lifecosmos.org/zh/"
 docs_dir: zh
 site_dir: site/zh
 use_directory_urls: true
