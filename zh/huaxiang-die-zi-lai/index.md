@@ -14,21 +14,13 @@
 ## 阅读版本
 
 ### 友好版（建议首次阅读）
-
-[[花香蝶自来，心静意自流/friendly]]
-
----
+- [中文友好版](/zh/huaxiang-die-zi-lai/friendly)
 
 ### 学术版
-
-[[花香蝶自来，心静意自流/academic]]
-
----
+- [中文学术版](/zh/huaxiang-die-zi-lai/academic)
 
 ### 内部版
-
-[[花香蝶自来，心静意自流/internal]]
-
+- [中文内部版](/zh/huaxiang-die-zi-lai/internal)
 ---
 
 ## 相关概念
