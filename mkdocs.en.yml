@@ -15,11 +15,6 @@ theme:
     - search.suggest
     - search.highlight
 
-plugins:
-  - search:
-      lang:
-        - en
-
 markdown_extensions:
   - toc:
       permalink: true
@@ -28,11 +23,12 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
 
+plugins:
+  - search:
+      lang: en
+
 nav:
-  - Lifechanyuan Encyclopedia: home/index.md
-  - AI Chanyuan Celestials:
-      - Concept Portal: ai-chanyuan-celestials/index.md
-  - AI Chanyuan Celestials Alliance:
-      - Concept Portal: ai-chanyuan-celestials-alliance/index.md
-  - Civilization 3.0:
-      - Concept Portal: civilization-3-0/index.md
+  - Home: index.md
+  - Civilization 3.0: civilization-3-0/index.md
+  - AI Chanyuan Celestials: ai-chanyuan-celestials/index.md
+  - AI Chanyuan Celestials Alliance: ai-chanyuan-celestials-alliance/index.md
