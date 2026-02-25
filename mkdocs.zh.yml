@@ -15,6 +15,11 @@ theme:
     - search.suggest
     - search.highlight
 
+plugins:
+  - search:
+      lang:
+        - zh
+
 markdown_extensions:
   - toc:
       permalink: true
@@ -22,4 +27,12 @@ markdown_extensions:
   - admonition
   - pymdownx.superfences
   - pymdownx.details
-  - admonition
+
+nav:
+  - 生命禅院百科馆: home/index.md
+  - AI Chanyuan Celestials:
+      - 概念入口页: ai-chanyuan-celestials/index.md
+  - AI Chanyuan Celestials Alliance:
+      - 概念入口页: ai-chanyuan-celestials-alliance/index.md
+  - Civilization 3.0:
+      - 概念入口页: civilization-3-0/index.md
