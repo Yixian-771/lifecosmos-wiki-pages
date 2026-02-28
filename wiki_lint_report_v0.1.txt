@@ -1,0 +1,66 @@
+=== Encyclopedia Lint v0.1 Report ===
+Repo: /tmp/lifecosmos-wiki-pages
+ERROR: 135 | WARN: 73 | INFO: 0
+-- Top issue codes --
+WIKILINK_FOUND: 97
+MISSING_HTML_META: 49
+TAG_HEADING_STYLE: 28
+HEADING_TOO_DEEP: 15
+MISSING_FILE: 9
+EXTRA_FILE: 7
+CROSS_LANG_LINK: 2
+FILENAME_TYPO: 1
+
+-- Sample issues (first 50) --
+[ERROR] MISSING_FILE /tmp/lifecosmos-wiki-pages/zh/home/academic.md:0 :: Missing required file: academic.md
+[ERROR] MISSING_FILE /tmp/lifecosmos-wiki-pages/zh/home/friendly.md:0 :: Missing required file: friendly.md
+[ERROR] MISSING_FILE /tmp/lifecosmos-wiki-pages/zh/home/index.md:0 :: Missing required file: index.md
+[ERROR] MISSING_FILE /tmp/lifecosmos-wiki-pages/zh/home/internal.md:0 :: Missing required file: internal.md
+[WARN] EXTRA_FILE /tmp/lifecosmos-wiki-pages/zh/home/ENTRY_TRACKING_STANDARD.md:0 :: Unexpected markdown file: ENTRY_TRACKING_STANDARD.md
+[WARN] EXTRA_FILE /tmp/lifecosmos-wiki-pages/zh/home/SLUG_NAMING_STANDARD.md:0 :: Unexpected markdown file: SLUG_NAMING_STANDARD.md
+[WARN] EXTRA_FILE /tmp/lifecosmos-wiki-pages/zh/home/WIKI_ENTRY_STANDARD.md:0 :: Unexpected markdown file: WIKI_ENTRY_STANDARD.md
+[WARN] EXTRA_FILE /tmp/lifecosmos-wiki-pages/zh/home/sop.md:0 :: Unexpected markdown file: sop.md
+[WARN] EXTRA_FILE /tmp/lifecosmos-wiki-pages/zh/home/system-manual.md:0 :: Unexpected markdown file: system-manual.md
+[ERROR] MISSING_FILE /tmp/lifecosmos-wiki-pages/zh/ai-chanyuan-celestials-alliance/friendly.md:0 :: Missing required file: friendly.md
+[WARN] EXTRA_FILE /tmp/lifecosmos-wiki-pages/zh/ai-chanyuan-celestials-alliance/fridenly.md:0 :: Unexpected markdown file: fridenly.md
+[ERROR] MISSING_FILE /tmp/lifecosmos-wiki-pages/en/home/academic.md:0 :: Missing required file: academic.md
+[ERROR] MISSING_FILE /tmp/lifecosmos-wiki-pages/en/home/friendly.md:0 :: Missing required file: friendly.md
+[ERROR] MISSING_FILE /tmp/lifecosmos-wiki-pages/en/home/index.md:0 :: Missing required file: index.md
+[ERROR] MISSING_FILE /tmp/lifecosmos-wiki-pages/en/home/internal.md:0 :: Missing required file: internal.md
+[WARN] EXTRA_FILE /tmp/lifecosmos-wiki-pages/en/home/translation.md:0 :: Unexpected markdown file: translation.md
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/README.md:1 :: Top HTML comment metadata not found
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/index.md:1 :: Top HTML comment metadata not found
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/index.md:47 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/index.md:48 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/index.md:49 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/index.md:50 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/index.md:51 :: Wikilink [[...]] is disallowed
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/civilization-3-0/internal.md:1 :: Top HTML comment metadata not found
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/civilization-3-0/friendly.md:1 :: Top HTML comment metadata not found
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/civilization-3-0/index.md:1 :: Top HTML comment metadata not found
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/civilization-3-0/academic.md:1 :: Top HTML comment metadata not found
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/greatest-creator/internal.md:1 :: Top HTML comment metadata not found
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/greatest-creator/friendly.md:1 :: Top HTML comment metadata not found
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/greatest-creator/index.md:1 :: Top HTML comment metadata not found
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/greatest-creator/academic.md:1 :: Top HTML comment metadata not found
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/home/translation.md:1 :: Top HTML comment metadata not found
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/internal.md:1 :: Top HTML comment metadata not found
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/internal.md:157 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/internal.md:158 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/internal.md:159 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/internal.md:160 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/internal.md:161 :: Wikilink [[...]] is disallowed
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/friendly.md:1 :: Top HTML comment metadata not found
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/friendly.md:84 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/friendly.md:85 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/friendly.md:86 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/friendly.md:87 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/friendly.md:88 :: Wikilink [[...]] is disallowed
+[WARN] MISSING_HTML_META /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/index.md:1 :: Top HTML comment metadata not found
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/index.md:42 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/index.md:43 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/index.md:44 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/index.md:45 :: Wikilink [[...]] is disallowed
+[ERROR] WIKILINK_FOUND /tmp/lifecosmos-wiki-pages/en/ai-chanyuan-celestials/index.md:46 :: Wikilink [[...]] is disallowed
+
+JSON report written: /root/.openclaw/workspace/wiki_lint_report_v0.1.json
