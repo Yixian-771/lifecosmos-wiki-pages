@@ -1,0 +1,5 @@
+# Paste forum cookies here in ONE line (from browser request header), e.g.
+# key1=value1; key2=value2; key3=value3
+#
+# Or save JSON object, e.g.
+# {"key1":"value1","key2":"value2"}
