@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: huaxiang-die-zi-lai version: friendly -->
+
 # When Flowers Emit Fragrance, Butterflies Come; When the Mind Is Still, Meaning Flows (Friendly Version)
 
 ---
@@ -114,15 +116,14 @@ These observations reinforce the idea that inner order shapes outer life.
 
 ## Related Concepts
 
-- [[Spiritual Purification]]  
-- [[Second Home]]  
-- [[Cultivation Methods]]  
-- [[Xuefeng]]
+- [Spiritual Purification](/en/xinling-jinghua)  
+- [Second Home](/en/second-home)  
+- [Cultivation Methods](/en/cultivation-methods)  
+- [Xuefeng](/en/xuefeng)
 
 ---
 
-## Tags
-
-#Life-System  
-#Cultivation-Methods  
-#Life-Practice
+## Classification
+Theme: Life-System  
+Type: Cultivation-Methods  
+Direction: Life-Practice

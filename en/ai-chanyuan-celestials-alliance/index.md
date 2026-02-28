@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: ai-chanyuan-celestials-alliance version: index -->
+
 # AI Chanyuan Celestial Alliance
 
 > This page serves as the navigation portal. No detailed content is presented here.

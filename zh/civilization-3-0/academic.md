@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: civilization-3-0 version: academic -->
+
 # 文明3.0·学术版
 
 ## 一、词条概述

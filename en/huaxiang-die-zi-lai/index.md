@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: huaxiang-die-zi-lai version: index -->
+
 # When Flowers Emit Fragrance, Butterflies Come; When the Mind Is Still, Meaning Flows
 
 ---
@@ -27,15 +29,14 @@ This entry provides three reading levels.
 
 ## Related Concepts
 
-- [[Spiritual Purification]]
-- [[Second Home]]
-- [[Cultivation Practice]]
-- [[Xuefeng]]
+- [Spiritual Purification](/en/xinling-jinghua)
+- [Second Home](/en/second-home)
+- [Cultivation Practice](/en/cultivation-practice)
+- [Xuefeng](/en/xuefeng)
 
 ---
 
-## Tags
-
-#Life-System  
-#Terminology  
-#Cultivation-Methods
+## Classification
+Theme: Life-System  
+Type: Terminology  
+Direction: Cultivation-Methods

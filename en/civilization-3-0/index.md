@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: civilization-3-0 version: index -->
+
 # Civilization 3.0
 
 **Civilization 3.0**, also known as **Human Civilization 3.0**, is the term used within the Lifechanyuan framework to describe the envisioned next stage of human civilization.

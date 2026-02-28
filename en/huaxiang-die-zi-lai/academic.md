@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: huaxiang-die-zi-lai version: academic -->
+
 # When Flowers Emit Fragrance, Butterflies Come; When the Mind Is Still, Meaning Flows (Academic Version)
 
 ---
@@ -136,11 +138,11 @@ Its central thesis may be summarized as:
 
 ## Related Concepts
 
-- [[Spiritual Purification]]  
-- [[Law of Correspondence]]  
-- [[Life Quality]]  
-- [[Second Home Model]]  
-- [[Cultivation Methods]]
+- [Spiritual Purification](/en/xinling-jinghua)  
+- [Law of Correspondence](/en/law-of-correspondence)  
+- [Life Quality](/en/life-quality)  
+- [Second Home Model](/en/second-home-model)  
+- [Cultivation Methods](/en/cultivation-methods)
 
 ---
 
@@ -153,9 +155,7 @@ Its central thesis may be summarized as:
 
 ---
 
-## Tags
-
-#Life-System  
-#System-Outlines  
-#Cultivation-Methods  
-#Consciousness-Evolution
+## Classification
+Theme: Life-System  
+Type: System-Outlines  
+Direction: Cultivation-Methods

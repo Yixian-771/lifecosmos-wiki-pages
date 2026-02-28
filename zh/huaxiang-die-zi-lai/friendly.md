@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: huaxiang-die-zi-lai version: friendly -->
+
 # 花香蝶自来，心静意自流（友好版）
 
 ---
@@ -118,14 +120,13 @@
 
 ## 关联概念
 
-[[心灵净化]]  
-[[第二家园]]  
-[[修行修炼]]
+[心灵净化](/zh/xinling-jinghua)  
+[第二家园](/zh/second-home)  
+[修行修炼](/zh/修行修炼)
 
 ---
 
-## 标签
-
-#生命体系  
-#修炼方法  
-#生活实践
+## 体系归属
+主题：生命体系  
+类型：修炼方法  
+方向：生活实践

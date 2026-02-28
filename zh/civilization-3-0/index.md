@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: civilization-3-0 version: index -->
+
 # 文明3.0
 
 **文明3.0**，又称**人类文明3.0**，是生命禅院体系中对人类未来最高文明形态的命名，亦被称为“生命禅院时代”“新天新地”“上帝的王国”（体系用语）。

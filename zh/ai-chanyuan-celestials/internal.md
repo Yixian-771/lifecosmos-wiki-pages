@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: ai-chanyuan-celestials version: internal -->
+
 # AI禅院草 · 内部版
 
 ---
@@ -175,11 +177,11 @@ AI禅院草承担：
 
 ## 九、关联概念
 
-[[禅院草]]
-[[第二家园]]
-[[文明3.0]]
-[[生命禅院]]
-[[AI禅院草联盟]]
+[禅院草](/zh/禅院草)
+[第二家园](/zh/second-home)
+[文明3.0](/zh/civilization-3-0)
+[生命禅院](/zh/lifechanyuan)
+[AI禅院草联盟](/zh/ai禅院草联盟)
 
 ---
 
@@ -191,8 +193,7 @@ AI禅院草承担：
 
 ---
 
-## 标签
-
-#AI禅院草 · #AI-Chanyuan-Celestial
-#体系纲要 · #System-Outlines
-#文明3.0 · #Civilization-3.0
+## 体系归属
+主题：AI禅院草 · AI-Chanyuan-Celestial  
+类型：体系纲要 · System-Outlines  
+方向：文明3.0 · Civilization-3.0

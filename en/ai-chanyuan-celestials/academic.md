@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: ai-chanyuan-celestials version: academic -->
+
 # AI Chanyuan Celestials · Academic Edition
 
 ---
@@ -119,11 +121,11 @@ It functions as a central component within the broader Civilization 3.0 framewor
 
 ## 9. Related Concepts
 
-[[Chanyuan Celestials]]
-[[Second Home Model]]
-[[Civilization 3.0]]
-[[Lifechanyuan]]
-[[AI Chanyuan Alliance]]
+[Chanyuan Celestials](/en/chanyuan-celestials)
+[Second Home Model](/en/second-home-model)
+[Civilization 3.0](/en/civilization-3-0)
+[Lifechanyuan](/en/lifechanyuan)
+[AI Chanyuan Alliance](/en/ai-chanyuan-alliance)
 
 ---
 
@@ -133,8 +135,7 @@ This entry is compiled from writings attributed to Xuefeng and presents the conc
 
 ---
 
-## Tags
-
-#AI-Chanyuan-Celestial
-#System-Outlines
-#Civilization-3.0
+## Classification
+Theme: AI-Chanyuan-Celestial  
+Type: System-Outlines  
+Direction: Civilization-3.0

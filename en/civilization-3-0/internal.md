@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: civilization-3-0 version: internal -->
+
 # Civilization 3.0 · Internal Version
 
 ## Basic Information

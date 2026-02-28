@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: en version: index -->
+
 # Lifechanyuan Encyclopedia
 
 ---
@@ -22,15 +24,15 @@ Through unified protocols and multi-version architecture, it supports layered re
 
 ### Friendly Edition (Recommended for First-Time Readers)
 - Chinese → [./lifechanyuan-encyclopedia/zh-friendly]
-- English → [/lifechanyuan-encyclopedia/en-friendly]
+- English → [en-friendly](/lifechanyuan-encyclopedia/en-friendly)
 
 ### Academic Edition
-- Chinese → [/lifechanyuan-encyclopedia/zh-academic]
-- English → [/lifechanyuan-encyclopedia/en-academic]
+- Chinese → [zh-academic](/lifechanyuan-encyclopedia/zh-academic)
+- English → [en-academic](/lifechanyuan-encyclopedia/en-academic)
 
 ### Internal Edition
-- Chinese → [/lifechanyuan-encyclopedia/zh-internal]
-- English → [/lifechanyuan-encyclopedia/en-internal]
+- Chinese → [zh-internal](/lifechanyuan-encyclopedia/zh-internal)
+- English → [en-internal](/lifechanyuan-encyclopedia/en-internal)
 
 ---
 
@@ -44,16 +46,15 @@ Internal Edition: for structural explanation and internal study
 
 ## Related Concepts
 
-[[Civilization-3.0]]  
-[[Spiritual-Purification]]  
-[[Hundun-Management]]  
-[[Second-Home-Model]]  
-[[Lifechanyuan]]
+[Civilization-3.0](/en/civilization-3-0)  
+[Spiritual-Purification](/en/xinling-jinghua)  
+[Hundun-Management](/en/hundun-management)  
+[Second-Home-Model](/en/second-home-model)  
+[Lifechanyuan](/en/lifechanyuan)
 
 ---
 
-## Tags
-
-#Structural-Model  
-#System-Outlines  
-#Civilization-3.0
+## Classification
+Theme: Structural-Model  
+Type: System-Outlines  
+Direction: Civilization-3.0

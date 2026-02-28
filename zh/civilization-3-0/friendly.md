@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: civilization-3-0 version: friendly -->
+
 # 文明3.0 · 友好版
 
 ## 什么是文明3.0？

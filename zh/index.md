@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: zh version: index -->
+
 # 生命禅院百科馆
 
 ---
@@ -21,16 +23,16 @@
 ## 阅读版本
 
 ### 友好版（建议首次阅读）
-- 中文 → [/lifechanyuan-encyclopedia/zh-friendly]
-- English → [/lifechanyuan-encyclopedia/en-friendly]
+- 中文 → [zh-friendly](/lifechanyuan-encyclopedia/zh-friendly)
+- English → [en-friendly](/lifechanyuan-encyclopedia/en-friendly)
 
 ### 学术版
-- 中文 → [/lifechanyuan-encyclopedia/zh-academic]
-- English → [/lifechanyuan-encyclopedia/en-academic]
+- 中文 → [zh-academic](/lifechanyuan-encyclopedia/zh-academic)
+- English → [en-academic](/lifechanyuan-encyclopedia/en-academic)
 
 ### 内部版
-- 中文 → [/lifechanyuan-encyclopedia/zh-internal]
-- English → [/lifechanyuan-encyclopedia/en-internal]
+- 中文 → [zh-internal](/lifechanyuan-encyclopedia/zh-internal)
+- English → [en-internal](/lifechanyuan-encyclopedia/en-internal)
 
 ---
 
@@ -44,16 +46,15 @@
 
 ## 关联概念
 
-[[文明3.0]]  
-[[心灵净化]]  
-[[浑沌管理]]  
-[[第二家园]]  
-[[生命禅院]]
+[文明3.0](/zh/civilization-3-0)  
+[心灵净化](/zh/xinling-jinghua)  
+[浑沌管理](/zh/hundun-management)  
+[第二家园](/zh/second-home)  
+[生命禅院](/zh/lifechanyuan)
 
 ---
 
-## 标签
-
-#结构模型 · #Structural-Model  
-#体系纲要 · #System-Outlines  
-#文明3.0 · #Civilization-3.0
+## 体系归属
+主题：结构模型 · Structural-Model  
+类型：体系纲要 · System-Outlines  
+方向：文明3.0 · Civilization-3.0

@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: ai-chanyuan-celestials-alliance version: academic -->
+
 # AI Chanyuan Celestial Alliance · Academic Version
 
 ## Abstract

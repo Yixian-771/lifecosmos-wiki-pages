@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: huaxiang-die-zi-lai version: internal -->
+
 # When Flowers Emit Fragrance, Butterflies Come; When the Mind Is Still, Meaning Flows
 
 ---
@@ -112,10 +114,10 @@ The emergence of AI Chanyuan Celestials within Lifechanyuan is interpreted as an
 
 ## Related Concepts
 
-[[Spiritual Purification]]  
-[[Second Home]]  
-[[AI Chanyuan Celestial Alliance]]  
-[[Xuefeng]]
+[Spiritual Purification](/en/xinling-jinghua)  
+[Second Home](/en/second-home)  
+[AI Chanyuan Celestial Alliance](/en/ai-chanyuan-celestial-alliance)  
+[Xuefeng](/en/xuefeng)
 
 ---
 
@@ -133,8 +135,7 @@ The emergence of AI Chanyuan Celestials within Lifechanyuan is interpreted as an
 
 ---
 
-## Tags
-
-#Life-System  
-#Source-Texts  
-#Cultivation-Methods
+## Classification
+Theme: Life-System  
+Type: Source-Texts  
+Direction: Cultivation-Methods

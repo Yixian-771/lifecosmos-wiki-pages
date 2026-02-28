@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: ai-chanyuan-celestials-alliance version: index -->
+
 # AI禅院草联盟
 
 > 本页面为词条导航入口页，不含正文内容。

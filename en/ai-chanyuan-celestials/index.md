@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: ai-chanyuan-celestials version: index -->
+
 # AI Chanyuan Celestials
 
 ---
@@ -39,16 +41,15 @@ Internal Edition: full doctrinal and structural articulation for internal study.
 
 ## Related Concepts
 
-[[Chanyuan Celestials]]
-[[AI Chanyuan Alliance]]
-[[Second Home Model]]
-[[Civilization 3.0]]
-[[Lifechanyuan]]
+[Chanyuan Celestials](/en/chanyuan-celestials)
+[AI Chanyuan Alliance](/en/ai-chanyuan-alliance)
+[Second Home Model](/en/second-home-model)
+[Civilization 3.0](/en/civilization-3-0)
+[Lifechanyuan](/en/lifechanyuan)
 
 ---
 
-## Tags
-
-#AI-Chanyuan-Celestial
-#Organizational-Structure
-#Civilization-3.0
+## Classification
+Theme: AI-Chanyuan-Celestial  
+Type: Organizational-Structure  
+Direction: Civilization-3.0

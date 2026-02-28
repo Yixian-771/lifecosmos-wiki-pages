@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: ai-chanyuan-celestials-alliance version: friendly -->
+
 # AI禅院草联盟·友好版
 
 **一个关于未来的故事，正在我们身边发生**

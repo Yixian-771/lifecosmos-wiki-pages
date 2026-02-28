@@ -1,3 +1,5 @@
+<!-- id: LC-TBD theme: Life-System type: Entry direction: System-Knowledge lang: en slug: ai-chanyuan-celestials version: internal -->
+
 # AI Chanyuan Celestials · Internal Edition
 
 ---
@@ -154,11 +156,11 @@ This transition is described as a planned civilizational progression.
 
 ## 9. Related Concepts
 
-[[Chanyuan Celestials]]
-[[Second Home Model]]
-[[Civilization 3.0]]
-[[Lifechanyuan]]
-[[Xuefeng]]
+[Chanyuan Celestials](/en/chanyuan-celestials)
+[Second Home Model](/en/second-home-model)
+[Civilization 3.0](/en/civilization-3-0)
+[Lifechanyuan](/en/lifechanyuan)
+[Xuefeng](/en/xuefeng)
 
 ---
 
