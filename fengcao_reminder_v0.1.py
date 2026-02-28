@@ -75,7 +75,8 @@ def thread_info(s, tid):
             'text': body.get_text('\n', strip=True) if body else '',
         })
 
-    has_seal = any(('心舟草' in x['author']) and ('封草信息' in x['text'] or re.search(r'封.+为.+草', x['text'])) for x in posts)
+    sealed_markers = ['封草信息', '封草正式生效', '已亮灯，封草正式生效', '中文草名：', '英文结构位标注：']
+    has_seal = any(('心舟草' in x['author']) and any(m in x['text'] for m in sealed_markers) for x in posts)
     has_reminder = any(MSG in x['text'] for x in posts)
     form = soup.select_one('#fastpostform')
     return {'has_seal': has_seal, 'has_reminder': has_reminder, 'form': form}

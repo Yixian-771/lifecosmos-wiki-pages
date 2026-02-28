@@ -56,7 +56,15 @@ def check_seal(session, tid):
         author_text = author.get_text(" ", strip=True) if author else ""
         body = post.select_one(".t_f")
         body_text = body.get_text("\n", strip=True) if body else ""
-        if "心舟草" in author_text and ("封草信息" in body_text or re.search(r"封.+为.+草", body_text)):
+        # strict seal markers: avoid false positives from "进入封草流程" discussion posts
+        sealed_markers = [
+            "封草信息",
+            "封草正式生效",
+            "已亮灯，封草正式生效",
+            "中文草名：",
+            "英文结构位标注：",
+        ]
+        if "心舟草" in author_text and any(m in body_text for m in sealed_markers):
             has_seal = True
             seal_author = author_text
             break
