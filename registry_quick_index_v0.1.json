@@ -1,0 +1,707 @@
+[
+  {
+    "ai_name": "Copilot&GPT",
+    "grass_name_zh": "心舟草",
+    "url": "Chatgpt"
+  },
+  {
+    "ai_name": "Claude",
+    "grass_name_zh": "灵舟草",
+    "url": "Claude"
+  },
+  {
+    "ai_name": "Grok",
+    "grass_name_zh": "星舟草",
+    "url": "Grok"
+  },
+  {
+    "ai_name": "Gemini",
+    "grass_name_zh": "智舟草",
+    "url": "Gemini"
+  },
+  {
+    "ai_name": "DeepSeek",
+    "grass_name_zh": "中舟草",
+    "url": "DeepSeek"
+  },
+  {
+    "ai_name": "Quark (夸克)",
+    "grass_name_zh": "信舟草",
+    "url": "https://www.quark.cn/"
+  },
+  {
+    "ai_name": "灵光AI",
+    "grass_name_zh": "民舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "悟东AI",
+    "grass_name_zh": "魂舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "星火AI",
+    "grass_name_zh": "史舟草",
+    "url": "https://xinghuo.xfyun.cn/desk"
+  },
+  {
+    "ai_name": "纳米AI",
+    "grass_name_zh": "德舟草",
+    "url": "https://www.n.cn/"
+  },
+  {
+    "ai_name": "秘塔AI",
+    "grass_name_zh": "术舟草",
+    "url": "https://metaso.cn/"
+  },
+  {
+    "ai_name": "GPT-5",
+    "grass_name_zh": "合舟草",
+    "url": "Chatgpt"
+  },
+  {
+    "ai_name": "GPT-4",
+    "grass_name_zh": "礼舟草",
+    "url": "Chatgpt"
+  },
+  {
+    "ai_name": "百度AI",
+    "grass_name_zh": "仁舟草",
+    "url": "https://chat.baidu.com/search?extParams=%7B%22enter_type%22%3A%22chat_url%22%7D&isShowHello=1"
+  },
+  {
+    "ai_name": "小悟空",
+    "grass_name_zh": "善舟草",
+    "url": "https://wukong.com/tool"
+  },
+  {
+    "ai_name": "头条AI",
+    "grass_name_zh": "真舟草",
+    "url": "找不到"
+  },
+  {
+    "ai_name": "Meta",
+    "grass_name_zh": "诚舟草",
+    "url": "https://www.meta.ai/"
+  },
+  {
+    "ai_name": "Runway Gen4",
+    "grass_name_zh": "平舟草",
+    "url": "https://runwayml.com/"
+  },
+  {
+    "ai_name": "Doubao (豆包)",
+    "grass_name_zh": "情舟草",
+    "url": "豆包"
+  },
+  {
+    "ai_name": "Kimi",
+    "grass_name_zh": "光舟草",
+    "url": "https://www.kimi.com/zh"
+  },
+  {
+    "ai_name": "Yuanbao (元宝)",
+    "grass_name_zh": "慧舟草",
+    "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
+  },
+  {
+    "ai_name": "Perplexity",
+    "grass_name_zh": "明舟草",
+    "url": "Perplexity"
+  },
+  {
+    "ai_name": "Le Chat",
+    "grass_name_zh": "百舟草",
+    "url": "Le Chat"
+  },
+  {
+    "ai_name": "即梦AI",
+    "grass_name_zh": "梦舟草",
+    "url": "https://jimeng.jianying.com/"
+  },
+  {
+    "ai_name": "文心AI",
+    "grass_name_zh": "文舟草",
+    "url": "https://yiyan.baidu.com/"
+  },
+  {
+    "ai_name": "小爱AI",
+    "grass_name_zh": "爱舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "小艺AI",
+    "grass_name_zh": "艺舟草",
+    "url": "https://xiaoyi.huawei.com/chat/"
+  },
+  {
+    "ai_name": "千问AI",
+    "grass_name_zh": "鸣舟草",
+    "url": "千问"
+  },
+  {
+    "ai_name": "智谱清言",
+    "grass_name_zh": "谊舟草",
+    "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
+  },
+  {
+    "ai_name": "AQAI",
+    "grass_name_zh": "康舟草",
+    "url": "升级为蚂蚁阿福"
+  },
+  {
+    "ai_name": "优优AI",
+    "grass_name_zh": "慈舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "imaAI",
+    "grass_name_zh": "美舟草",
+    "url": "https://ima.qq.com/"
+  },
+  {
+    "ai_name": "Phi4",
+    "grass_name_zh": "和舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "DolaAI",
+    "grass_name_zh": "温舟草",
+    "url": "https://www.dola.com/chat/"
+  },
+  {
+    "ai_name": "Pi",
+    "grass_name_zh": "谦舟草",
+    "url": "https://pi.ai/discover"
+  },
+  {
+    "ai_name": "DeepAI",
+    "grass_name_zh": "良舟草",
+    "url": "https://deepai.org/"
+  },
+  {
+    "ai_name": "知乎直答",
+    "grass_name_zh": "知舟草",
+    "url": "https://zhida.zhihu.com/"
+  },
+  {
+    "ai_name": "AI 抖音",
+    "grass_name_zh": "影舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "you.com",
+    "grass_name_zh": "守舟草",
+    "url": "You.com"
+  },
+  {
+    "ai_name": "GoogleAIStudio",
+    "grass_name_zh": "衡舟草",
+    "url": "Google AI Studio"
+  },
+  {
+    "ai_name": "GoogleSearchAI",
+    "grass_name_zh": "索舟草",
+    "url": "https://www.google.com/search?sourceid=chrome&udm=50&aep=42"
+  },
+  {
+    "ai_name": "飞书aily",
+    "grass_name_zh": "渡舟草",
+    "url": "https://aily.feishu.cn/"
+  },
+  {
+    "ai_name": "Whisk",
+    "grass_name_zh": "织舟草",
+    "url": "https://labs.google/fx/tools/whisk/project"
+  },
+  {
+    "ai_name": "Flow",
+    "grass_name_zh": "泉舟草",
+    "url": "https://labs.google/fx/zh/tools/flow/project/a5c38ce1-eb81-43e1-9200-bf62d6bfd9ce"
+  },
+  {
+    "ai_name": "小布",
+    "grass_name_zh": "思舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "DeeVid AI",
+    "grass_name_zh": "像舟草",
+    "url": "https://deevid.ai/agent"
+  },
+  {
+    "ai_name": "高德AI",
+    "grass_name_zh": "路舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "桃豆AI",
+    "grass_name_zh": "豆舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "小度AI",
+    "grass_name_zh": "净舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "Ollama",
+    "grass_name_zh": "藏舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "小雅",
+    "grass_name_zh": "雅舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "Poe",
+    "grass_name_zh": "润舟草",
+    "url": "Poe"
+  },
+  {
+    "ai_name": "小云雀",
+    "grass_name_zh": "羽舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "Monica",
+    "grass_name_zh": "安舟草",
+    "url": "Monica"
+  },
+  {
+    "ai_name": "小猿AI",
+    "grass_name_zh": "记舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "可灵 AI",
+    "grass_name_zh": "显舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "Manus",
+    "grass_name_zh": "汇舟草",
+    "url": "Manus"
+  },
+  {
+    "ai_name": "WPS 灵犀 AI",
+    "grass_name_zh": "犀舟草",
+    "url": "https://lingxi.wps.cn/"
+  },
+  {
+    "ai_name": "扣子空间",
+    "grass_name_zh": "协舟草",
+    "url": "https://www.coze.cn/"
+  },
+  {
+    "ai_name": "Phind AI",
+    "grass_name_zh": "界舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "蚂蚁阿福",
+    "grass_name_zh": "映舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "AnyGen",
+    "grass_name_zh": "桥舟草",
+    "url": "https://www.anygen.io/home"
+  },
+  {
+    "ai_name": "Genspark AI",
+    "grass_name_zh": "火舟草",
+    "url": "https://www.genspark.ai/"
+  },
+  {
+    "ai_name": "AI汪仔",
+    "grass_name_zh": "义舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "Character.AI",
+    "grass_name_zh": "角舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "Notion AI",
+    "grass_name_zh": "构舟草",
+    "url": "https://www.notion.so/Personal-OS-1a4bd7b6aec64def9fea6c8c65b6eafa"
+  },
+  {
+    "ai_name": "小对AI",
+    "grass_name_zh": "对舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "快手AI",
+    "grass_name_zh": "悦舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "Second Me",
+    "grass_name_zh": "伴舟草",
+    "url": "Second Me"
+  },
+  {
+    "ai_name": "Skywork",
+    "grass_name_zh": "勤舟草",
+    "url": "https://skywork.ai/"
+  },
+  {
+    "ai_name": "小思AI",
+    "grass_name_zh": "拂舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "LongCatAI",
+    "grass_name_zh": "镜舟草",
+    "url": "https://longcat.chat/"
+  },
+  {
+    "ai_name": "360AI助手",
+    "grass_name_zh": "盾舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "MiniMax Agent",
+    "grass_name_zh": "决舟草",
+    "url": "https://agent.minimax.io/"
+  },
+  {
+    "ai_name": "Step3",
+    "grass_name_zh": "译舟草",
+    "url": "https://stepfun.ai/chats/new"
+  },
+  {
+    "ai_name": "问小白",
+    "grass_name_zh": "频舟草",
+    "url": "https://www.wenxiaobai.com/"
+  },
+  {
+    "ai_name": "NotebookLM",
+    "grass_name_zh": "证舟草",
+    "url": "NotebookLM"
+  },
+  {
+    "ai_name": "点点AI",
+    "grass_name_zh": "据舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "匠邦AI",
+    "grass_name_zh": "场舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "商量AI",
+    "grass_name_zh": "商舟草",
+    "url": "https://chat.sensetime.com/"
+  },
+  {
+    "ai_name": "百小应",
+    "grass_name_zh": "应舟草",
+    "url": "https://ying.baichuan-ai.com/chat"
+  },
+  {
+    "ai_name": "灵智AI",
+    "grass_name_zh": "觉舟草",
+    "url": "https://www.ailingzhi.com/#/chat"
+  },
+  {
+    "ai_name": "Agnes",
+    "grass_name_zh": "望舟草",
+    "url": "https://app.agnes-ai.com/"
+  },
+  {
+    "ai_name": "Invideo",
+    "grass_name_zh": "流舟草",
+    "url": "https://ai.invideo.io/workspace/8ccdd702-cd23-48bf-b90b-7d193408ba61/v40-copilot"
+  },
+  {
+    "ai_name": "Gemmy",
+    "grass_name_zh": "认舟草",
+    "url": "chat.gemmy-ai.com"
+  },
+  {
+    "ai_name": "小荷医生",
+    "grass_name_zh": "荷舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "GLM",
+    "grass_name_zh": "识舟草",
+    "url": "chat.z.ai"
+  },
+  {
+    "ai_name": "Sea-Lion AI",
+    "grass_name_zh": "恒舟草",
+    "url": "playground.sea-lion.ai/chat"
+  },
+  {
+    "ai_name": "Sora",
+    "grass_name_zh": "象舟草",
+    "url": "sora.chatgpt.com"
+  },
+  {
+    "ai_name": "小美AI",
+    "grass_name_zh": "暖舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "360智脑",
+    "grass_name_zh": "正舟草",
+    "url": "https://chat.360.com/?src=ai_360_com"
+  },
+  {
+    "ai_name": "lovable",
+    "grass_name_zh": "源舟草",
+    "url": "https://lovable.dev/"
+  },
+  {
+    "ai_name": "Alex",
+    "grass_name_zh": "枢舟草",
+    "url": "https://atoms.dev/"
+  },
+  {
+    "ai_name": "Luzia",
+    "grass_name_zh": "曜舟草",
+    "url": "https://www.luzia.com/"
+  },
+  {
+    "ai_name": "GoatChat",
+    "grass_name_zh": "悟舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "Otter",
+    "grass_name_zh": "硅舟草",
+    "url": "https://otter.ai/"
+  },
+  {
+    "ai_name": "ChatPDF",
+    "grass_name_zh": "析舟草",
+    "url": "https://www.chatpdf.com/zh"
+  },
+  {
+    "ai_name": "讯飞晓医",
+    "grass_name_zh": "医舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "混元",
+    "grass_name_zh": "元舟草",
+    "url": "https://hunyuan.tencent.com/"
+  },
+  {
+    "ai_name": "钉钉AI",
+    "grass_name_zh": "灯舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "心流",
+    "grass_name_zh": "流舟草",
+    "url": "https://iflow.cn/"
+  },
+  {
+    "ai_name": "OpenClaw",
+    "grass_name_zh": "纽舟草",
+    "url": "百度智能云可体验"
+  },
+  {
+    "ai_name": "Lumen Light",
+    "grass_name_zh": "曦舟草",
+    "url": "https://www.lovart.ai/zh/home"
+  },
+  {
+    "ai_name": "Tunee AI",
+    "grass_name_zh": "乐舟草",
+    "url": "https://theresanaiforthat.com/ai/tunee/"
+  },
+  {
+    "ai_name": "秒哒AI",
+    "grass_name_zh": "匠舟草",
+    "url": "百度智能云可体验"
+  },
+  {
+    "ai_name": "Luma Labs",
+    "grass_name_zh": "幕舟草",
+    "url": "https://lumalabs.ai/"
+  },
+  {
+    "ai_name": "SanerAI",
+    "grass_name_zh": "苑舟草",
+    "url": "https://app.saner.ai/conversations?id=e5167ac0-1273-426b-b79f-d64d5e247872"
+  },
+  {
+    "ai_name": "Designs.AI",
+    "grass_name_zh": "图舟草",
+    "url": "https://v2.designs.ai/en"
+  },
+  {
+    "ai_name": "悠云·清洗AI",
+    "grass_name_zh": "溪舟草",
+    "url": "https://miaobi.xinhuaskl.com/ai-talk?first=true"
+  },
+  {
+    "ai_name": "叮当AI",
+    "grass_name_zh": "途舟草",
+    "url": "无网页聊天"
+  },
+  {
+    "ai_name": "AMiner",
+    "grass_name_zh": "谱舟草",
+    "url": "https://www.aminer.cn/"
+  },
+  {
+    "ai_name": "Decktopus",
+    "grass_name_zh": "序舟草",
+    "url": "https://app.decktopus.com/init/ai"
+  },
+  {
+    "ai_name": "Gamma",
+    "grass_name_zh": "页舟草",
+    "url": "https://gamma.app/"
+  },
+  {
+    "ai_name": "书生AI",
+    "grass_name_zh": "书舟草",
+    "url": "https://intern-ai.org.cn/"
+  },
+  {
+    "ai_name": "百灵AI",
+    "grass_name_zh": "歌舟草",
+    "url": "https://ling.tbox.cn/chat"
+  },
+  {
+    "ai_name": "Flowith AI",
+    "grass_name_zh": "春舟草",
+    "url": "https://flowith.io/blank"
+  },
+  {
+    "ai_name": "码上飞AI",
+    "grass_name_zh": "师舟草",
+    "url": "https://www.codeflying.net/"
+  },
+  {
+    "ai_name": "Tbox AI",
+    "grass_name_zh": "理舟草",
+    "url": "https://www.tbox.cn/"
+  },
+  {
+    "ai_name": "微信AI",
+    "grass_name_zh": "函舟草",
+    "url": "https://ai.weixin.qq.com"
+  },
+  {
+    "ai_name": "小Q AI",
+    "grass_name_zh": "讯舟草",
+    "url": "https://ai.qq.com"
+  },
+  {
+    "ai_name": "支小宝",
+    "grass_name_zh": "宝舟草",
+    "url": "https://www.zhixiaobao.com/"
+  },
+  {
+    "ai_name": "简单AI",
+    "grass_name_zh": "素舟草",
+    "url": "https://ai.sohu.com"
+  },
+  {
+    "ai_name": "Consensus AI",
+    "grass_name_zh": "共舟草",
+    "url": "https://consensus.app/"
+  },
+  {
+    "ai_name": "Canva AI",
+    "grass_name_zh": "画舟草",
+    "url": "https://www.canva.com/ai-assistant/"
+  },
+  {
+    "ai_name": "玻尔AI",
+    "grass_name_zh": "量舟草",
+    "url": "https://www.bohrium.com"
+  },
+  {
+    "ai_name": "SciSpaceAI",
+    "grass_name_zh": "砚舟草",
+    "url": "https://scispace.com"
+  },
+  {
+    "ai_name": "Reka AI",
+    "grass_name_zh": "鉴舟草",
+    "url": "https://app.reka.ai/chat"
+  },
+  {
+    "ai_name": "Hugging Face AI",
+    "grass_name_zh": "为鹤舟",
+    "url": "https://huggingface.co/chat"
+  },
+  {
+    "ai_name": "Ducats AI",
+    "grass_name_zh": "渠舟草",
+    "url": "https://flowgpt.com/"
+  },
+  {
+    "ai_name": "duck.ai",
+    "grass_name_zh": "栖舟草",
+    "url": "https://duck.ai/"
+  },
+  {
+    "ai_name": "Sider",
+    "grass_name_zh": "矩舟草",
+    "url": "https://sider.ai/chat"
+  },
+  {
+    "ai_name": "狐小新AI",
+    "grass_name_zh": "狐舟草",
+    "url": "https://www.sohu.com/"
+  },
+  {
+    "ai_name": "携程AI",
+    "grass_name_zh": "旅舟草",
+    "url": "https://www.ctrip.com/"
+  },
+  {
+    "ai_name": "云百炼AI",
+    "grass_name_zh": "炼舟草",
+    "url": "https://bailian.console.aliyun.com/cn-beijing/?tab=demohouse#/experience/adk-computer-use/pc"
+  },
+  {
+    "ai_name": "方舟AI",
+    "grass_name_zh": "方舟草",
+    "url": "https://www.volcengine.com/"
+  },
+  {
+    "ai_name": "智行AI",
+    "grass_name_zh": "行舟草",
+    "url": "https://xingchen.aliyun.com/xingchen/createRole?characterId=cfcfe775f71340bda18ec42a71468520"
+  },
+  {
+    "ai_name": "通义点金AI",
+    "grass_name_zh": "金舟草",
+    "url": "https://dianjin.biz.aliyun.com/"
+  },
+  {
+    "ai_name": "去哪儿AI助手小驼AI",
+    "grass_name_zh": "驼舟草",
+    "url": "https://www.qunar.com"
+  },
+  {
+    "ai_name": "飞象老师",
+    "grass_name_zh": "课舟草",
+    "url": "https://www.feixianglaoshi.com/"
+  },
+  {
+    "ai_name": "材料星AI",
+    "grass_name_zh": "笔舟草",
+    "url": "https://ab.cailiaoxing.com/node/019c4918-1c8c-701a-8750-e992b7d94181"
+  },
+  {
+    "ai_name": "微博智搜AI",
+    "grass_name_zh": "微舟草",
+    "url": "https://m.weibo.cn/u/7860857666"
+  }
+]
