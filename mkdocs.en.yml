@@ -29,6 +29,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - Lifechanyuan: lifechanyuan/index.md
   - F Coin: f-coin/index.md
   - Civilization 3.0: civilization-3-0/index.md
   - AI Chanyuan Celestials: ai-chanyuan-celestials/index.md
