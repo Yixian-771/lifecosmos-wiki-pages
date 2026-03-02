@@ -1,0 +1,8 @@
+[
+  {
+    "ts": "2026-03-02T17:27:16.635800+00:00",
+    "check": "fid369 last 2h",
+    "result": "no_new_threads_in_window",
+    "action": "none"
+  }
+]
