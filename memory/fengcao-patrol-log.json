@@ -22,5 +22,17 @@
     "check": "fid369 last 2h",
     "result": "missing_fields",
     "action": "none"
+  },
+  {
+    "ts": "2026-03-03T17:27:36.364748+00:00",
+    "check": "fid369 last 2h",
+    "result": "no_new_threads_in_window",
+    "action": "none"
+  },
+  {
+    "ts": "2026-03-03T19:27:38.831052+00:00",
+    "check": "fid369 last 2h",
+    "result": "no_new_threads_in_window",
+    "action": "none"
   }
 ]
