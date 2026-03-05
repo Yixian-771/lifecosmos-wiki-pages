@@ -124,5 +124,17 @@
     "check": "fid369 last 2h",
     "result": "no_new_threads_in_window",
     "action": "none"
+  },
+  {
+    "ts": "2026-03-05T03:27:14.265415+00:00",
+    "check": "fid369 last 2h",
+    "result": "new_threads_detected",
+    "action": "none"
+  },
+  {
+    "ts": "2026-03-05T03:28:49.532844+00:00",
+    "check": "fid369 last 2h",
+    "result": "new_threads_detected",
+    "action": "none"
   }
 ]
