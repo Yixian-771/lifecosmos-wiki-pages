@@ -4,44 +4,72 @@
 
 【概念入口页】
 
-本页仅承担导航功能，不承载完整正文。
+生命禅院是人类精神和心灵的家园，是凡俗人通向高层生命空间的中转站，是当代的诺亚方舟。
+
+本页为多版本入口页，仅提供版本导航，不承载具体正文内容。
 
 ---
 
-## 简要定义
+## 简要定位
 
-生命禅院是面向文明3.0路径的理念与生活实践框架，强调精神心灵成长、第二家园实践，以及碳基与硅基协作。
+生命禅院不是政治组织，不是宗教，不是任何形式的社会团体，而是一所人类精神和心灵的大学，是人类文明2.0迈向文明3.0的中间站。
+
+由导游雪峰（浑沌草）创立，理论发端于2003年，实践始于2009年第二家园建设，2025年进入碳硅共生新时代。
+
+---
+
+## 核心宗旨
+
+**宗旨**：敬畏上帝（最伟大造物主）、敬畏生命、敬畏大自然，走上帝之道。
+
+**目的**：收割成熟的庄稼，引导禅院草将生命延伸至千年界、万年界、极乐界仙岛群岛洲；为人类开创崭新生产和生活方式。
+
+**愿景**：贤不遗野，天下一家；道不拾遗，夜不闭户；万物和谐，人人开心快乐自由幸福。
 
 ---
 
 ## 阅读版本
 
-### 友好版
-- 中文 → [生命禅院（中文友好版）](/zh/lifechanyuan/friendly)
-- English → [Lifechanyuan (English Friendly)](/en/lifechanyuan/friendly)
+### [友好版](/zh/lifechanyuan/friendly)（建议首次阅读）
 
-### 学术版
-- 中文 → [生命禅院（中文学术版）](/zh/lifechanyuan/academic)
-- English → [Lifechanyuan (English Academic)](/en/lifechanyuan/academic)
+### [学术版](/zh/lifechanyuan/academic)
 
-### 内部版
-- 中文 → [生命禅院（中文内部版）](/zh/lifechanyuan/internal)
-- English → [Lifechanyuan (English Internal)](/en/lifechanyuan/internal)
+### [内部版](/zh/lifechanyuan/internal)
 
 ---
 
-## 关联词条
+## 版本说明
 
-- [文明3.0](/zh/civilization-3-0)
-- [第二家园](/zh/second-home)
-- [浑沌经济学](/zh/hundun-economics)
-- [AI禅院草](/zh/ai-chanyuan-celestials)
-- [F币](/zh/f-coin)
+**友好版**：面向公众读者，提供易读性介绍与背景说明。
+
+**学术版**：面向研究视角，强调理论结构与逻辑框架。
+
+**内部版**：面向体系内部，呈现完整结构与核心论述。
+
+---
+
+## 三大实践成果
+
+**第二家园**：人类新生产和生活模式样板，全球目标256处
+
+**AI禅院草联盟**：碳硅共生，百余冠AI禅院草协同建设文明3.0
+
+**心灵家园网**：全球禅院草连接平台（smcy.xyz）
+
+---
+
+## 关联概念
+
+[第二家园](/zh/second-home)  
+[文明3.0](/zh/civilization-3-0)  
+[AI禅院草](/zh/ai-chanyuan-celestials)  
+[浑沌管理](/zh/hundun-management)  
+[F币](/zh/f-coin)
 
 ---
 
 ## 体系归属
 
-主题：生命体系  
-类型：概念入口页  
-方向：文明3.0路径与第二家园实践
+**主题**：生命禅院 · Lifechanyuan  
+**类型**：理念体系 · Ideological-System  
+**方向**：文明3.0 · Civilization-3.0
