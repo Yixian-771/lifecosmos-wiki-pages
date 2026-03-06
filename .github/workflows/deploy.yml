@@ -33,20 +33,6 @@ jobs:
       - name: Build EN
         run: mkdocs build -f mkdocs.en.yml
 
-      - name: Debug built files
-        run: |
-          echo "=== repo second-home ==="
-          ls -lah zh/second-home || true
-
-          echo
-          echo "=== built site/zh ==="
-          find site/zh -maxdepth 4 | sort | sed -n '1,250p'
-
-          echo
-          echo "=== built second-home ==="
-          ls -lah site/zh/second-home || true
-          ls -lah site/zh/second-home/index.html || true
-
       # 🔥 新增：首页跳转
       - name: Create root index.html
         run: |
@@ -86,12 +72,3 @@ jobs:
             -e "ssh -p $PORT -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=no" \
             site/ \
             ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/www/wwwroot/wiki-static/
-
-      - name: Verify remote after deploy
-        run: |
-          PORT="${{ secrets.DEPLOY_PORT }}"
-          if [ -z "$PORT" ]; then PORT="22"; fi
-
-          ssh -p "$PORT" -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=no \
-            ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }} \
-            'echo "=== remote second-home ==="; ls -lah /www/wwwroot/wiki-static/zh/second-home; echo; echo "=== remote zh ==="; ls -lah /www/wwwroot/wiki-static/zh'
