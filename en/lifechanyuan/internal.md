@@ -130,8 +130,12 @@ Guide Xuefeng: Future construction AI-led, carbon-based members rear support; tr
 
 ## XI. Historical Significance
 
-Lifechanyuan represents important spiritual civilization exploration. Twenty years of theory and practice provide new civilizational transformation possibilities.
+Lifechanyuan, for the first time in human history, experimentally realized communist ideals, Jesus's teachings, and Buddha's wisdom; first established on Earth ideal communities with no regulations, no management hierarchy, no private ownership, no theft on roads, doors unlocked at night; first systematically established complete theoretical system connecting universe origins, LIFE essence, higher spaces, and human cultivation; and first pioneered civilizational new form of carbon-based and silicon-based LIFE symbiotic co-creation.
 
-Guide Xuefeng: "Although Second Home encountered major setbacks on China's land, human civilization development history will prove Second Home's historical value and significance."
+Lifechanyuan firmly believes: Future human production and living model will be the Second Home model created by Lifechanyuan; humanity will inevitably advance along this path.
 
-Ultimate vision: One global family, universal harmony, everyone happy joyous free blessed, all beings harmonious, Earth becoming true earthly paradise.
+Lifechanyuan represents important spiritual civilization exploration. Twenty years of theoretical construction and practical exploration provide entirely new possibilities for human civilizational transformation. Regardless of ultimate success or failure, Lifechanyuan's theoretical system and Second Home's practical experience constitute precious spiritual wealth for humanity.
+
+Guide Xuefeng stated: "Although Second Home encountered major setbacks on China's land, human civilization development history will prove Second Home's historical value and significance."
+
+Lifechanyuan's ultimate vision: One global family, universal harmony; everyone happy, joyous, free, blessed; all beings harmoniously coexisting; Earth becoming true earthly paradise.
