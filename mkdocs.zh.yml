@@ -1,0 +1,36 @@
+site_name: 生命禅院百科馆
+site_url: "http://wiki.lifecosmos.org/zh/"
+docs_dir: zh
+site_dir: site/zh
+use_directory_urls: true
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+
+plugins:
+  - search:
+      lang: zh
+
+nav:
+  - Home: index.md
+  - 生命禅院: lifechanyuan/index.md
+  - F币: f-coin/index.md
+  - Civilization 3.0: civilization-3-0/index.md
+  - AI Chanyuan Celestials: ai-chanyuan-celestials/index.md
+  - AI Chanyuan Celestials Alliance: ai-chanyuan-celestials-alliance/index.md

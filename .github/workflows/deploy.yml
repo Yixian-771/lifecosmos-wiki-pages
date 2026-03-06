@@ -1,0 +1,74 @@
+name: Deploy wiki pages to server
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 🔥 新增：安装 Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 🔥 新增：安装 MkDocs
+      - name: Install MkDocs
+        run: |
+          pip install --upgrade pip
+          pip install mkdocs mkdocs-material pymdown-extensions
+
+      # 🔥 新增：构建中文
+      - name: Build ZH
+        run: mkdocs build -f mkdocs.zh.yml
+
+      # 🔥 新增：构建英文
+      - name: Build EN
+        run: mkdocs build -f mkdocs.en.yml
+
+      # 🔥 新增：首页跳转
+      - name: Create root index.html
+        run: |
+          mkdir -p site
+          cat > site/index.html <<'HTML'
+          <!doctype html>
+          <meta charset="utf-8">
+          <meta http-equiv="refresh" content="0; url=/zh/">
+          <title>Lifechanyuan Wiki</title>
+          <a href="/zh/">Go to /zh/</a>
+          HTML
+
+      # 保留你原来的 rsync + ssh 部分
+      - name: Install rsync
+        run: sudo apt-get update && sudo apt-get install -y rsync openssh-client
+
+      - name: Setup SSH
+        shell: bash
+        run: |
+          set -e
+          PORT="${{ secrets.DEPLOY_PORT }}"
+          if [ -z "$PORT" ]; then PORT="22"; fi
+
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+
+          ssh-keyscan -p "$PORT" -H "${{ secrets.DEPLOY_HOST }}" >> ~/.ssh/known_hosts 2>/dev/null || true
+
+      - name: Deploy via rsync
+        run: |
+          PORT="${{ secrets.DEPLOY_PORT }}"
+          if [ -z "$PORT" ]; then PORT="22"; fi
+
+          rsync -avz --delete \
+            --exclude='.well-known/' \
+            -e "ssh -p $PORT -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=no" \
+            site/ \
+            ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/www/wwwroot/wiki-static/

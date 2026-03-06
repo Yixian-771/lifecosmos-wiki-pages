@@ -1,0 +1,20 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# logs / temp
+*.log
+tmp/
+temp/
+
+# secrets
+.env
+*.key
+*.pem
+
+# just in case
+node_modules/
+__pycache__/
+*.pyc
