@@ -1,3 +1,5 @@
+-e <!-- id: LC-SH-0001-FRI theme: 生命体系 type: 友好版 direction: 通俗导读 lang: zh slug: second-home version: friendly -->
+
 # 第二家园，一句话讲清楚（友好版）
 
 > **给普通读者的快速介绍**  

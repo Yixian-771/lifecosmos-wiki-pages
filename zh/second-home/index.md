@@ -1,3 +1,5 @@
+-e <!-- id: LC-SH-0001 theme: 生命体系 type: 概念入口 direction: 词条导航 lang: zh slug: second-home version: index -->
+
 # 第二家园
 
 > **别名**：生命绿洲（Life Oasis）  

@@ -1,3 +1,5 @@
+-e <!-- id: LC-SH-0001-INT theme: 生命体系 type: 内部版 direction: 执行文档 lang: zh slug: second-home version: internal -->
+
 # 第二家园（内部版）
 
 > **定位**：生命禅院成员与执行者参考文档  

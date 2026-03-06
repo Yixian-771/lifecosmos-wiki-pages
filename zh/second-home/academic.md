@@ -1,3 +1,5 @@
+-e <!-- id: LC-SH-0001-ACA theme: 生命体系 type: 学术版 direction: 研究文档 lang: zh slug: second-home version: academic -->
+
 # 第二家园：一种文明3.0社区模型的制度化实践（学术版）
 
 > **研究定位**：社会实验与共同体研究  
