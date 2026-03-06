@@ -1,4 +1,4 @@
--e <!-- id: LC-SH-0001-INT theme: 生命体系 type: 内部版 direction: 执行文档 lang: en slug: second-home version: internal -->
+<!-- id: LC-SH-0001-INT theme: 生命体系 type: 内部版 direction: 执行文档 lang: en slug: second-home version: internal -->
 
 # Second Home (Internal Version)
 

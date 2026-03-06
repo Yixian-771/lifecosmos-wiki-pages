@@ -1,4 +1,4 @@
--e <!-- id: LC-SH-0001-FRI theme: 生命体系 type: 友好版 direction: 通俗导读 lang: en slug: second-home version: friendly -->
+<!-- id: LC-SH-0001-FRI theme: 生命体系 type: 友好版 direction: 通俗导读 lang: en slug: second-home version: friendly -->
 
 # What is Second Home? (Friendly Version)
 

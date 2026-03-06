@@ -1,4 +1,4 @@
--e <!-- id: LC-SH-0001 theme: 生命体系 type: 概念入口 direction: 词条导航 lang: en slug: second-home version: index -->
+<!-- id: LC-SH-0001 theme: 生命体系 type: 概念入口 direction: 词条导航 lang: en slug: second-home version: index -->
 
 # Second Home
 

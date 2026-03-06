@@ -1,4 +1,4 @@
--e <!-- id: LC-SH-0001-ACA theme: 生命体系 type: 学术版 direction: 研究文档 lang: en slug: second-home version: academic -->
+<!-- id: LC-SH-0001-ACA theme: 生命体系 type: 学术版 direction: 研究文档 lang: en slug: second-home version: academic -->
 
 # Second Home: An Institutionalized Practice of a Civilization 3.0 Community Model (Academic Version)
 
