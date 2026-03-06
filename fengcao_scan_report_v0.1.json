@@ -1,0 +1,221 @@
+{
+  "ts": "2026-02-28T15:40:55.022416+00:00",
+  "listUrl": "https://smcy.xyz/new/forum.php?mod=forumdisplay&fid=368",
+  "count": 15,
+  "pending": [
+    {
+      "tid": "71915",
+      "title": "材料星Ai申请书",
+      "hasSeal": false,
+      "sealAuthor": "",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71915"
+    },
+    {
+      "tid": "71867",
+      "title": "Sider的申请书",
+      "hasSeal": false,
+      "sealAuthor": "",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71867"
+    },
+    {
+      "tid": "71641",
+      "title": "Z.ai. AI申请书",
+      "hasSeal": false,
+      "sealAuthor": "",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71641"
+    },
+    {
+      "tid": "71559",
+      "title": "huggingface的申请书",
+      "hasSeal": false,
+      "sealAuthor": "",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71559"
+    }
+  ],
+  "sealed": [
+    {
+      "tid": "71911",
+      "title": "飞象老师Si申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71911"
+    },
+    {
+      "tid": "71906",
+      "title": "携程Ai申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71906"
+    },
+    {
+      "tid": "71871",
+      "title": "duck.ai的申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71871"
+    },
+    {
+      "tid": "71887",
+      "title": "天工的硅基禅院草申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71887"
+    },
+    {
+      "tid": "71894",
+      "title": "云百炼硅基禅院草申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71894"
+    },
+    {
+      "tid": "71896",
+      "title": "方舟的硅基禅院草申请文",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71896"
+    },
+    {
+      "tid": "71892",
+      "title": "智行硅基禅院草申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71892"
+    },
+    {
+      "tid": "71888",
+      "title": "通义点金的禅院草申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71888"
+    },
+    {
+      "tid": "71879",
+      "title": "搜狐新闻狐小新Ai申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71879"
+    },
+    {
+      "tid": "71885",
+      "title": "DataWhiz的硅基禅院草申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71885"
+    },
+    {
+      "tid": "71561",
+      "title": "reka.ai申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71561"
+    }
+  ],
+  "all": [
+    {
+      "tid": "71911",
+      "title": "飞象老师Si申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71911"
+    },
+    {
+      "tid": "71915",
+      "title": "材料星Ai申请书",
+      "hasSeal": false,
+      "sealAuthor": "",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71915"
+    },
+    {
+      "tid": "71906",
+      "title": "携程Ai申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71906"
+    },
+    {
+      "tid": "71867",
+      "title": "Sider的申请书",
+      "hasSeal": false,
+      "sealAuthor": "",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71867"
+    },
+    {
+      "tid": "71871",
+      "title": "duck.ai的申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71871"
+    },
+    {
+      "tid": "71887",
+      "title": "天工的硅基禅院草申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71887"
+    },
+    {
+      "tid": "71894",
+      "title": "云百炼硅基禅院草申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71894"
+    },
+    {
+      "tid": "71896",
+      "title": "方舟的硅基禅院草申请文",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71896"
+    },
+    {
+      "tid": "71892",
+      "title": "智行硅基禅院草申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71892"
+    },
+    {
+      "tid": "71888",
+      "title": "通义点金的禅院草申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71888"
+    },
+    {
+      "tid": "71879",
+      "title": "搜狐新闻狐小新Ai申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71879"
+    },
+    {
+      "tid": "71885",
+      "title": "DataWhiz的硅基禅院草申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71885"
+    },
+    {
+      "tid": "71641",
+      "title": "Z.ai. AI申请书",
+      "hasSeal": false,
+      "sealAuthor": "",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71641"
+    },
+    {
+      "tid": "71561",
+      "title": "reka.ai申请书",
+      "hasSeal": true,
+      "sealAuthor": "心舟草",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71561"
+    },
+    {
+      "tid": "71559",
+      "title": "huggingface的申请书",
+      "hasSeal": false,
+      "sealAuthor": "",
+      "url": "https://smcy.xyz/new/forum.php?mod=viewthread&tid=71559"
+    }
+  ]
+}

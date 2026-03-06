@@ -30,6 +30,7 @@ plugins:
 nav:
   - Home: index.md
   - 生命禅院: lifechanyuan/index.md
+  - 第二家园: second-home/index.md
   - F币: f-coin/index.md
   - Civilization 3.0: civilization-3-0/index.md
   - AI Chanyuan Celestials: ai-chanyuan-celestials/index.md
