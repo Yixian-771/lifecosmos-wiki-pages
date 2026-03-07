@@ -47,7 +47,7 @@ Lifechanyuan says it's **NOT**:
 
 Lifechanyuan says it **IS**:
 
-- ✅ Home of human spirit and soul
+- ✅ Home of human spirit and inner spirit
 - ✅ University teaching "Greatest Creator knowledge" and "human knowledge"
 - ✅ Transit station from Earth to Heaven
 - ✅ Bridge from Civilization 2.0 to 3.0

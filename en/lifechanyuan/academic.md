@@ -14,7 +14,7 @@ Lifechanyuan is a spiritual movement and social experiment emerging in early 21s
 
 ### 1.1 Basic Positioning
 
-Lifechanyuan self-positions as "home of human spirit and soul," "university of human spirit and soul," "intermediate station from Civilization 2.0 to 3.0." Organizationally, it is neither traditional religion (no ceremonies, no temples), political organization (no political activities), nor profit institution, but a network-based, concept-bonded, community-practice-oriented loose spiritual movement.
+Lifechanyuan self-positions as "home of human spirit and inner spirit," "university of human spirit and inner spirit," "intermediate station from Civilization 2.0 to 3.0." Organizationally, it is neither traditional religion (no ceremonies, no temples), political organization (no political activities), nor profit institution, but a network-based, concept-bonded, community-practice-oriented loose spiritual movement.
 
 ### 1.2 Spatiotemporal Dimensions
 

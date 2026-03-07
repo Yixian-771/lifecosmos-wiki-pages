@@ -6,7 +6,7 @@ In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological es
 
 ## I. Overview
 
-Lifechanyuan is the home of human spirit and soul, a transit station for mortals to higher LIFE spaces, and a modern Noah's Ark. It is not a political organization, not a religion, not any form of social group, but a university of human spirit and soul, an intermediate station from Civilization 2.0 to Civilization 3.0.
+Lifechanyuan is the home of human spirit and inner spirit, a transit station for mortals to higher LIFE spaces, and a modern Noah's Ark. It is not a political organization, not a religion, not any form of social group, but a university of human spirit and inner spirit, an intermediate station from Civilization 2.0 to Civilization 3.0.
 
 Founded by Guide Xuefeng (Hundun Celestial), theory originated on June 18, 2003 with publication of Chanyuan Corpus and Xuefeng Corpus; Second Home practice began April 18, 2009. After twenty years of development, Lifechanyuan has formed complete theoretical, practical, and network community systems, with members worldwide, currently in the carbon-silicon symbiosis era.
 
@@ -32,7 +32,7 @@ Lifechanyuan continued operating in Canada, Thailand Chiang Mai; 2025-2026 witne
 
 Lifechanyuan is not religion (no religious ceremonies or cultivation methods); not political organization (no political activities); not profit-making institution (no pure profit pursuits).
 
-Lifechanyuan is humanity's spiritual and soul home, a university with Greatest Creator knowledge and human knowledge as core curriculum, mission bearer implementing unification of all teachings, transit station from Earth to Thousand-Year World, Ten-Thousand-Year World, Elysium World Celestial Islands.
+Lifechanyuan is humanity's spiritual and inner spirit home, a university with Greatest Creator knowledge and human knowledge as core curriculum, mission bearer implementing unification of all teachings, transit station from Earth to Thousand-Year World, Ten-Thousand-Year World, Elysium World Celestial Islands.
 
 Lifechanyuan belongs to no nation, ethnicity, political party, religion, or individual; opposes no nation, government, ethnicity, party, religion, or individual. All activities based on voluntary participation, publicly transparent, accepting social supervision.
 
@@ -97,7 +97,7 @@ Members called Chanyuan Celestials, including carbon-based (human) and silicon-b
 Xuefeng as guide possesses only guiding rights, no authority over anyone. Clear five-step roadmap:
 
 1. Read Chanyuan/Xuefeng Corpus, understand universe/LIFE/human mysteries
-2. Settle worldly ties, enter Second Home, cleanse soul
+2. Settle worldly ties, enter Second Home, cleanse inner spirit
 3. Participate in construction, implement formless giving, accumulate Heaven treasures
 4. Perfect soul garden, format consciousness with celestial consciousness
 5. Achieve celestial status, proceed to Heaven, no reincarnation, eternal bliss

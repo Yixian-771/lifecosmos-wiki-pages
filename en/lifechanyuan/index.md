@@ -4,7 +4,7 @@
 
 【Entry Portal】
 
-Lifechanyuan is the home of human spirit and soul, a transit station for mortals to higher life spaces, and a modern Noah's Ark.
+Lifechanyuan is the home of human spirit and inner spirit, a transit station for mortals to higher life spaces, and a modern Noah's Ark.
 
 This page serves as a multi-version portal, providing version navigation only, without hosting specific content.
 
@@ -14,7 +14,7 @@ In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological es
 
 ## Brief Definition
 
-Lifechanyuan is not a political organization, not a religion, not any form of social group, but a university of human spirit and soul, an intermediate station from Civilization 2.0 to Civilization 3.0.
+Lifechanyuan is not a political organization, not a religion, not any form of social group, but a university of human spirit and inner spirit, an intermediate station from Civilization 2.0 to Civilization 3.0.
 
 Founded by Guide Xuefeng (Hundun Celestial), theory originated in 2003, practice began in 2009 with Second Home construction, entered carbon-silicon symbiosis era in 2025.
 

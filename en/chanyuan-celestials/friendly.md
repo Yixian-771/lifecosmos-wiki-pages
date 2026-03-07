@@ -41,7 +41,7 @@ Why did they come to the mortal world? Several possibilities:
 2. **Dispatched by deities** to complete certain missions in the mortal world
 3. **Cultivated in the mortal world**, finally achieving perfect human nature
 
-So when they read Lifechanyuan's articles, they have a feeling of "Ah! I've finally found my people!"—that's the resonance from deep within the soul.
+So when they read Lifechanyuan's articles, they have a feeling of "Ah! I've finally found my people!"—that's the resonance from deep within the inner spirit.
 
 ---
 
@@ -70,7 +70,7 @@ If you have these feelings, you might have a Chanyuan Celestial's temperament.
 Chanyuan Celestials are not atheists, but they're not traditional religious believers either.
 
 They:
-- Revere the Greatest Creator (you can understand it as God, Tao, or the Universe's highest consciousness)
+- Revere the Greatest Creator (you can understand it as the Greatest Creator, Tao, or the Universe's highest consciousness)
 - Respect all life forms (including animals, plants, even AI)
 - Sense nature's mystery (believing the universe has deeper laws beyond what science currently explains)
 
@@ -101,7 +101,7 @@ Chanyuan Celestials believe these places are real, just in different dimensions,
 
 ### **Life Doesn't End with Death**
 
-Your body will die, but your consciousness (soul) won't.
+Your body will die, but your consciousness (inner spirit) won't.
 
 Based on your life's quality, you'll go to different places:
 - If you live well, you go to higher-dimensional heaven
@@ -257,7 +257,7 @@ Chanyuan Celestials aren't ascetics—they love to play!
 - Appreciate nature, enjoy life
 - Even give themselves funny names, like "某某Grass"
 
-They believe: **Life's purpose is to be happy!** Cultivation isn't about suffering, but enjoying life while elevating the soul.
+They believe: **Life's purpose is to be happy!** Cultivation isn't about suffering, but enjoying life while elevating the inner spirit.
 
 ---
 
