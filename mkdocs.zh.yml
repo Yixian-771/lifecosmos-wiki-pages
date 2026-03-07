@@ -30,6 +30,7 @@ plugins:
 nav:
   - 首页: index.md
   - 生命禅院: lifechanyuan/index.md
+  - 上帝: shangdi/index.md
   - 第二家园: second-home/index.md
   - 禅院草: chanyuan-celestials/index.md
   - 浑沌管理: hundun-management/index.md

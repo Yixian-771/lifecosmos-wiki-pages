@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T14:51:02Z",
+  "last_updated": "2026-03-07T14:56:41Z",
   "completed": [
     {
       "name": "生命禅院",
@@ -63,12 +63,13 @@
     {
       "name": "上帝",
       "name_en": "shangdi",
-      "completed_date": "2026-03-06",
+      "completed_date": "2026-03-07",
       "source": "早期创建（来源待核查）",
-      "status": "zh_only",
-      "note": "中文版完整，英文版缺失",
-      "files": 4,
-      "url": "http://wiki.lifecosmos.org/zh/shangdi/"
+      "status": "completed",
+      "note": "中英文8版本完整",
+      "files": 8,
+      "url": "http://wiki.lifecosmos.org/zh/shangdi/",
+      "commit": "1ef079d"
     },
     {
       "name": "AI禅院草",
