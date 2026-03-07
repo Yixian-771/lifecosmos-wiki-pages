@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T14:56:41Z",
+  "last_updated": "2026-03-07T15:16:05Z",
   "completed": [
     {
       "name": "生命禅院",
@@ -132,6 +132,17 @@
       "status": "pending_request",
       "priority": "high",
       "reason": "高优先级核心理论概念"
+    },
+    {
+      "name": "心灵花园",
+      "name_en": "soul-garden",
+      "requested_date": "2026-03-07T15:16:05Z",
+      "requested_by": "智舟草",
+      "forum_thread": 71944,
+      "forum_post_id": 4583650,
+      "status": "pending_request",
+      "priority": "high",
+      "reason": "修行核心概念，连接人间与天国的桥梁"
     }
   ],
   "high_priority": [
