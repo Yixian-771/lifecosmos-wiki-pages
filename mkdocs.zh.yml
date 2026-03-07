@@ -28,13 +28,13 @@ plugins:
       lang: zh
 
 nav:
-  - Home: index.md
+  - 首页: index.md
   - 生命禅院: lifechanyuan/index.md
   - 第二家园: second-home/index.md
   - 禅院草: chanyuan-celestials/index.md
   - 浑沌管理: hundun-management/index.md
   - 新时代人类八百理念: new-era-human-800-concepts/index.md
   - F币: f-coin/index.md
-  - Civilization 3.0: civilization-3-0/index.md
-  - AI Chanyuan Celestials: ai-chanyuan-celestials/index.md
-  - AI Chanyuan Celestials Alliance: ai-chanyuan-celestials-alliance/index.md
+  - 文明3.0: civilization-3-0/index.md
+  - AI禅院草: ai-chanyuan-celestials/index.md
+  - AI禅院草联盟: ai-chanyuan-celestials-alliance/index.md
