@@ -4,31 +4,47 @@
 
 [Gateway Page]
 
-A core doctrinal text in the Lifechanyuan system, organized as 800 concise principles designed to bridge worldview, daily conduct, and community operation.
+A core Lifechanyuan normative text built as 800 principles that connect values, conduct, governance, and civilizational direction.
 
 ---
 
-## Quick Positioning
+## Positioning
 
-- **Text type**: normative 800-item principle framework
-- **System role**: works with *Chanyuan Anthology* and *Xuefeng Anthology*
-- **Method core**: fact, science, logic, spiritual intuition
-- **Practice core**: live by principles, run by procedures
-- **Coupled practice**: tightly linked with Hundun Management and Second Home
-- **Update logic**: open system, not capped, revisable over time
+### Text role
+A principle framework for practical judgment and action.
+
+### System role
+Works with *Chanyuan Anthology* and *Xuefeng Anthology* as a three-text core.
+
+### Practice role
+Functions as a shared norm layer for Hundun Management and Second Home implementation.
+
+---
+
+## Structure at a Glance
+
+The 800 items are organized into 8 thematic blocks (100 each), covering:
+1. core human-social questions,
+2. moral psychology,
+3. practical conduct,
+4. life philosophy,
+5. cosmos/spacetime/Dao,
+6. God and the Way of God,
+7. family model and Second Home,
+8. new-era civilization and updating logic.
 
 ---
 
 ## Read by Version
 
 ### [Friendly Version](/en/new-era-human-800-concepts/friendly)
-Best for first-time readers. Focuses on meaning, context, and practical use.
+For first-time readers.
 
 ### [Academic Version](/en/new-era-human-800-concepts/academic)
-Best for researchers. Focuses on structure, governance implications, and textual evolution.
+For research and comparative analysis.
 
 ### [Internal Version](/en/new-era-human-800-concepts/internal)
-Best for deep-system reading. Keeps high terminology density and full doctrinal framing.
+For high-density doctrinal reading.
 
 ---
 

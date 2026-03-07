@@ -1,59 +1,71 @@
 <!-- id: LC-NE800-0001-ACA theme: Theory System type: Academic Analysis direction: Research lang: en -->
 
-# New Era Human 800 Concepts: Normative Design, Governance Logic, and Open Revision
+# New Era Human 800 Concepts: Normative Architecture, Governance Logic, and Open Revision
 
 ## Abstract
 
-This entry analyzes *New Era Human 800 Concepts* as a normative text in the Lifechanyuan framework. Rather than functioning as a purely doctrinal manifesto, it operates as a rule-oriented bridge between values, behavior, and community governance.
+This entry analyzes *New Era Human 800 Concepts* as a dynamic normative framework. It is not merely doctrinal rhetoric; it operationalizes values into behavioral rules and governance procedures while preserving revision capacity.
 
 ---
 
-## 1. Textual Position
+## 1. Research Focus
 
-Inside the corpus, the text complements broader writings by offering a compressed, operational principle set.
+Key questions:
+1. What textual role does the framework play in the corpus?
+2. How does it convert worldview into executable norms?
+3. How does it couple with Hundun Management and Second Home?
+4. What institutional function does the “not capped” clause serve?
 
-## 2. Version Evolution
+## 2. Textual Position
 
-Its multi-stage revisions (early formation, major restructuring, authoritative recompilation, collaborative updating) indicate a living-document model.
+The framework complements broader writings by compressing them into actionable principles. Its function resembles a hybrid of constitutional charter and conduct manual.
 
-## 3. Structural Architecture
+## 3. Version Dynamics
 
-The 800 items are grouped into eight thematic blocks, moving from personal ethics to global civilizational claims.
+Its revision history (early formation, major restructuring, authoritative recompilation, collaborative update) indicates a living-document model rather than a frozen canon model.
 
-## 4. Epistemic Frame
+## 4. Structural Logic
 
-A hybrid model is explicitly proposed:
-- empirical-rational criteria (fact/science/logic)
-- spiritual-cognitive criterion (intuition)
+The 800 items are grouped into eight thematic blocks, moving from personal ethics to social operation and civilizational claims. This creates a layered pathway from inner cultivation to macro-order imagination.
 
-## 5. Governance Implications
+## 5. Epistemic Model
 
-The formula “live by principles, run by procedures” implies a shift from command-heavy control toward value-driven self-regulation.
+A four-factor judgment model is proposed:
+- fact,
+- science,
+- logic,
+- intuition.
 
-## 6. System Coupling
+This hybrid model seeks to combine empirical-rational validation with spiritual cognition.
 
-The implementation logic depends on a triad:
-- norm layer (800 Concepts)
-- mechanism layer (Hundun Management)
-- field layer (Second Home)
+## 6. Governance Implications
 
-## 7. Openness Clause
+The principle “live by concepts, run by procedures” suggests a shift from command-heavy control toward value-driven, procedure-centered self-regulation.
 
-Its “not capped” clause embeds self-revision into the text itself, preventing doctrinal rigidity.
+## 7. System Coupling
 
-## 8. Research Value and Limits
+Implementation relies on a triad:
+- normative root (800 Concepts),
+- operational mechanism (Hundun Management),
+- lived field (Second Home).
 
-Value:
-- case material for intentional communities,
-- governance-by-values research,
+## 8. Openness Clause
+
+Its explicit update clause embeds doctrinal elasticity, enabling adaptation and reducing rigid dogmatization.
+
+## 9. Research Value and Limits
+
+### Value
+- case material for intentional-community governance,
+- value-driven institutional design,
 - human-AI co-development narratives.
 
-Limits:
-- strong dependence on internal sources,
+### Limits
+- heavy dependence on internal-source material,
 - concept translation challenges across external frameworks.
 
 ---
 
 ## Conclusion
 
-The text is best understood as a dynamic normative system: it integrates worldview, moral direction, social operation, and adaptation rules into one executable framework.
+The framework can be read as a dynamic normative system linking values, conduct, governance, and adaptive revision into one executable architecture.

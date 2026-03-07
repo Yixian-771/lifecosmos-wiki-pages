@@ -1,68 +1,48 @@
 <!-- id: LC-NE800-0001-FRI theme: Theory System type: Public Intro direction: Easy Reading lang: en -->
 
-# New Era Human 800 Concepts: 800 Principles for Everyday Practice
+# New Era Human 800 Concepts: 800 Ways to Turn Ideals into Daily Practice
 
-## What is this, in plain words?
+## What is it?
 
-Think of this text as a practical handbook, not just a philosophical essay.
-It tries to answer:
+In plain terms, this is a practical principles handbook.
+
+It tries to answer everyday questions:
 - How do we judge right and wrong?
-- How do we reduce conflict in real communities?
-- How do we turn ideals into repeatable daily behavior?
+- How do we reduce conflict?
+- How do we align personal growth with community wellbeing?
 
-Within Lifechanyuan, it works together with *Chanyuan Anthology* and *Xuefeng Anthology*:
-- those two explain in depth,
-- this one compresses into actionable principles.
+## Why 800 principles?
 
----
-
-## Why “800” principles?
-
-Because the framework aims to cover a full spectrum:
-- personal mindset,
-- moral psychology,
+Because the framework aims for full coverage:
+- inner mindset,
+- moral conduct,
 - social cooperation,
-- cosmology and civilization direction.
+- worldview and long-term direction.
 
-So it is not random advice. It is a structured system.
+So it is not random advice; it is structured design.
 
----
+## Four anchors to remember
 
-## Four key anchors
+1. **Judgment criteria**: fact, science, logic, intuition.
+2. **Life aims**: joy, freedom, wellbeing.
+3. **Operating method**: live by principles, run by procedures.
+4. **Update logic**: open system, not capped.
 
-### 1) Four criteria for judgment
-**fact, science, logic, intuition**
+## How to use it in real life
 
-### 2) Four practical aims
-joy, freedom, wellbeing, meaningful life experience
+1. Understand the intent, not just slogans.
+2. Reflect on repeating inner patterns.
+3. Turn principles into small daily actions.
+4. Review and refine continuously.
 
-### 3) One operating method
-“live by principles, run by procedures”
-
-### 4) One update attitude
-the system is open and can be revised over time
-
----
-
-## How to actually use it
-
-1. Read slowly for intent, not slogans.
-2. Reflect on recurring inner patterns.
-3. Convert principles into small daily actions.
-4. Revisit and refine continuously.
-
----
-
-## How it connects to other core concepts
+## How it connects to other core ideas
 
 - 800 Concepts = value root
 - Hundun Management = operating mechanism
-- Second Home = lived implementation field
+- Second Home = implementation field
 
-Together, they form one integrated logic.
+Together, they form one integrated practice logic.
 
----
+## One-line takeaway
 
-## One-line summary
-
-This text is meant to be practiced, tested, and refined in real life — not merely admired at a distance.
+This text is meant to be lived, tested, and refined — not merely quoted.

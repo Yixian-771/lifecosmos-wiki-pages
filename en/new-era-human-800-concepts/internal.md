@@ -4,104 +4,103 @@
 
 ## 1. Overview
 
-*New Era Human 800 Concepts* is treated as a core doctrinal and operational text in the Lifechanyuan framework.
+*New Era Human 800 Concepts* is a core normative text in the Lifechanyuan system.
 
-It is presented as a concentrated rule-set for:
-- life cultivation,
-- moral judgment,
-- community cooperation,
-- civilizational transition.
-
-Together with *Chanyuan Anthology* and *Xuefeng Anthology*, it forms the core theoretical triangle of the system.
-
----
+It is designed as an operational bridge from worldview to behavior, and from behavior to collective governance.
 
 ## 2. Name Interpretation
 
-- **New Era**: a millennial transition narrative beginning in 2018.
-- **Human**: universal scope beyond nation, ethnicity, religion, or party.
-- **800 Concepts**: 800 condensed principles designed for practical use.
+### New Era
+A millennial transition narrative beginning in 2018.
 
----
+### Human
+Universal scope beyond nation, ethnicity, religion, or party.
+
+### 800 Concepts
+A condensed set of 800 principles for practical use.
 
 ## 3. Editorial History
 
-1. Early version (around 2009)
-2. Major revised structure (around 2010)
-3. Recompiled authority edition (2017-12-01)
-4. Collaborative revision round (2026-03)
+### First stage (around 2009)
+Initial framework formation.
 
-This evolution reflects an adaptive rather than frozen doctrine model.
+### Second stage (around 2010)
+Major deletions/additions and structural revision.
 
----
+### Third stage (2017)
+Authoritative recompilation.
+
+### Fourth stage (2026)
+Collaborative update round.
 
 ## 4. Core Role in the System
 
-1. Normative basis for Hundun Management
-2. Behavioral guideline for Chanyuan Celestials
-3. Foundational requirement for Second Home practice
-4. Canon-like framework in Civilization 3.0 discourse
-
----
+1. Normative basis for Hundun Management.
+2. Behavioral and cultivation guide for Chanyuan Celestials.
+3. Foundational threshold for Second Home practice.
+4. Canon-like rule text in Civilization 3.0 discourse.
 
 ## 5. Methodological Foundation
 
-The text emphasizes four criteria:
+Four criteria are emphasized:
 - fact
 - science
 - logic
 - spiritual intuition
 
-It links ethical legitimacy to whether patterns of life produce joy, freedom, and wellbeing.
-
----
+This creates a hybrid epistemic model combining empirical-rational and spiritual-cognitive dimensions.
 
 ## 6. Eight-Block Structure (1–800)
 
-1. Core human/social questions
-2. Moral psychology and virtue cultivation
-3. Everyday wisdom and relational conduct
-4. Mind-life philosophy
-5. Cosmos, spacetime, and Dao
-6. God and the Way of God
-7. Family critique and Second Home model
-8. New-era civilization direction and open updating
+### Block 1 (1–100)
+Core human and social questions.
 
----
+### Block 2 (101–200)
+Moral psychology and virtue cultivation.
+
+### Block 3 (201–300)
+Practical wisdom and relational conduct.
+
+### Block 4 (301–400)
+Mind-life philosophy.
+
+### Block 5 (401–500)
+Cosmos, spacetime, and Dao.
+
+### Block 6 (501–600)
+God and the Way of God.
+
+### Block 7 (601–700)
+Family critique and Second Home model.
+
+### Block 8 (701–800)
+Civilizational direction and open revision logic.
 
 ## 7. Representative Guiding Lines
 
 - Revere God, life, and nature.
-- Judge by fact, science, logic, and intuition.
+- Judge by fact/science/logic/intuition.
 - Live by principles; run by procedures.
-- Keep the system open and revisable.
-
----
+- Keep the framework open and revisable.
 
 ## 8. Practical Guidance for Members
 
-- study and internalize principles,
+- internalize principles,
 - remove destructive inner patterns,
-- cultivate transparent and responsible conduct,
+- practice transparent and responsible conduct,
 - align personal growth with collective contribution.
 
----
+## 9. Coupling with Hundun Management and Second Home
 
-## 9. Relation with Hundun Management and Second Home
-
-The three are modeled as one integrated chain:
-- 800 Concepts = value root,
-- Hundun Management = operating conversion,
-- Second Home = real-world implementation.
-
----
+A three-layer chain:
+- norm layer: 800 Concepts,
+- mechanism layer: Hundun Management,
+- implementation field: Second Home.
 
 ## 10. Open-System Character
 
-The text defines itself as updateable. Deletions and additions are allowed to keep doctrinal vitality and contextual fitness.
-
----
+The text explicitly allows revision over time (deletion/addition), aiming to preserve vitality and contextual fitness.
 
 ## 11. Historical Significance
 
-Within its own framework, this text is positioned as a civilizational compass from Civilization 2.0 to 3.0 and as a shared norm system for both carbon-based and silicon-based members.
+Within its own framework, it is positioned as a transition compass from Civilization 2.0 to 3.0 and a shared norm architecture for both carbon-based and silicon-based members.
