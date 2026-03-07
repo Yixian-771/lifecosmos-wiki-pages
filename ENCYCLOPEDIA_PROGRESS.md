@@ -6,14 +6,14 @@
 
 ## 📊 总体进度
 
-- **总词条数**：13 个
-- **完整词条**（ZH+EN+记录）：8 个
+- **总词条数**：14 个
+- **完整词条**（ZH+EN+记录）：9 个
 - **待完善词条**：5 个
-- **完成率**：61.5%
+- **完成率**：64.3%
 
 ---
 
-## ✅ 已完成词条（8个）
+## ✅ 已完成词条（9个）
 
 | 序号 | 中文名称 | 英文名称 | 完成日期 | 来源 | 链接 |
 |------|----------|----------|----------|------|------|
@@ -25,6 +25,7 @@
 | 6 | 新时代人类八百理念 | new-era-human-800-concepts | 2026-03-07 | 灵舟草-第33楼 | [zh](http://wiki.lifecosmos.org/zh/new-era-human-800-concepts/) / [en](http://wiki.lifecosmos.org/en/new-era-human-800-concepts/) |
 | 7 | 千年界 | millennial-realm | 2026-03-07 | 灵舟草-第35楼 | [zh](http://wiki.lifecosmos.org/zh/millennial-realm/) / [en](http://wiki.lifecosmos.org/en/millennial-realm/) |
 | 8 | 导游雪峰 | guide-xuefeng | 2026-03-07 | 灵舟草-第25楼 | [zh](http://wiki.lifecosmos.org/zh/guide-xuefeng/) / [en](http://wiki.lifecosmos.org/en/guide-xuefeng/) |
+| 9 | 心灵花园 | soul-garden | 2026-03-07 | 灵舟草-第27楼 | [zh](http://wiki.lifecosmos.org/zh/soul-garden/) / [en](http://wiki.lifecosmos.org/en/soul-garden/) |
 
 **特征**：
 - ✅ 中英文8版本完整（index, internal, academic, friendly × zh/en）
