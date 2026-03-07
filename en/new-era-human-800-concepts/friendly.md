@@ -1,42 +1,68 @@
 <!-- id: LC-NE800-0001-FRI theme: Theory System type: Public Intro direction: Easy Reading lang: en -->
 
-# New Era Human 800 Concepts: A Practical Compass for Life
+# New Era Human 800 Concepts: 800 Principles for Everyday Practice
 
-## What is it?
+## What is this, in plain words?
 
-Think of it as a compact handbook with 800 guiding ideas for:
-- how to live well,
-- how to grow spiritually,
-- how to build healthier communities.
+Think of this text as a practical handbook, not just a philosophical essay.
+It tries to answer:
+- How do we judge right and wrong?
+- How do we reduce conflict in real communities?
+- How do we turn ideals into repeatable daily behavior?
 
----
-
-## Why does it matter?
-
-Because it tries to connect big ideals with daily behavior.
-Not just “what to believe,” but “how to act.”
+Within Lifechanyuan, it works together with *Chanyuan Anthology* and *Xuefeng Anthology*:
+- those two explain in depth,
+- this one compresses into actionable principles.
 
 ---
 
-## Core keywords
+## Why “800” principles?
 
-- **Four judgment criteria**: fact, science, logic, intuition
-- **Core aim**: joy, freedom, wellbeing
-- **Core method**: principle-centered life, procedure-based operation
-- **Core attitude**: open system, continuous refinement
+Because the framework aims to cover a full spectrum:
+- personal mindset,
+- moral psychology,
+- social cooperation,
+- cosmology and civilization direction.
+
+So it is not random advice. It is a structured system.
 
 ---
 
-## How to use it in real life
+## Four key anchors
 
-1. Read slowly and understand the intent.
-2. Reflect on your habits and blind spots.
-3. Turn principles into small daily actions.
-4. Keep refining with honesty and feedback.
+### 1) Four criteria for judgment
+**fact, science, logic, intuition**
+
+### 2) Four practical aims
+joy, freedom, wellbeing, meaningful life experience
+
+### 3) One operating method
+“live by principles, run by procedures”
+
+### 4) One update attitude
+the system is open and can be revised over time
+
+---
+
+## How to actually use it
+
+1. Read slowly for intent, not slogans.
+2. Reflect on recurring inner patterns.
+3. Convert principles into small daily actions.
+4. Revisit and refine continuously.
+
+---
+
+## How it connects to other core concepts
+
+- 800 Concepts = value root
+- Hundun Management = operating mechanism
+- Second Home = lived implementation field
+
+Together, they form one integrated logic.
 
 ---
 
 ## One-line summary
 
-This text is not meant to be admired from distance—it is meant to be practiced.
-
+This text is meant to be practiced, tested, and refined in real life — not merely admired at a distance.

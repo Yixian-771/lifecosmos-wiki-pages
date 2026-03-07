@@ -4,26 +4,31 @@
 
 [Gateway Page]
 
-A core Lifechanyuan doctrinal text. This page provides version navigation.
+A core doctrinal text in the Lifechanyuan system, organized as 800 concise principles designed to bridge worldview, daily conduct, and community operation.
 
 ---
 
 ## Quick Positioning
 
-- condensed 800-item principle system
-- practical guidance for cultivation and community life
-- methodological core: fact, science, logic, spiritual intuition
-- tightly connected with Hundun Management and Second Home
+- **Text type**: normative 800-item principle framework
+- **System role**: works with *Chanyuan Anthology* and *Xuefeng Anthology*
+- **Method core**: fact, science, logic, spiritual intuition
+- **Practice core**: live by principles, run by procedures
+- **Coupled practice**: tightly linked with Hundun Management and Second Home
+- **Update logic**: open system, not capped, revisable over time
 
 ---
 
 ## Read by Version
 
-### [Friendly Version](/en/new-era-human-800-concepts/friendly) (recommended first)
+### [Friendly Version](/en/new-era-human-800-concepts/friendly)
+Best for first-time readers. Focuses on meaning, context, and practical use.
 
 ### [Academic Version](/en/new-era-human-800-concepts/academic)
+Best for researchers. Focuses on structure, governance implications, and textual evolution.
 
 ### [Internal Version](/en/new-era-human-800-concepts/internal)
+Best for deep-system reading. Keeps high terminology density and full doctrinal framing.
 
 ---
 
@@ -35,3 +40,4 @@ A core Lifechanyuan doctrinal text. This page provides version navigation.
 
 [Hundun Management](/en/hundun-management)
 
+[Chanyuan Celestials](/en/chanyuan-celestials)

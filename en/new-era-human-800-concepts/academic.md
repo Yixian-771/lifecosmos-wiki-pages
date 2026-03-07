@@ -1,45 +1,59 @@
 <!-- id: LC-NE800-0001-ACA theme: Theory System type: Academic Analysis direction: Research lang: en -->
 
-# New Era Human 800 Concepts: A Normative Text in the Civilization 3.0 Narrative
+# New Era Human 800 Concepts: Normative Design, Governance Logic, and Open Revision
 
 ## Abstract
 
-This entry examines *New Era Human 800 Concepts* as a normative text with three functions: value declaration, behavioral regulation, and institutional imagination. The analysis focuses on structure, methodology, governance implications, and adaptive revision logic.
+This entry analyzes *New Era Human 800 Concepts* as a normative text in the Lifechanyuan framework. Rather than functioning as a purely doctrinal manifesto, it operates as a rule-oriented bridge between values, behavior, and community governance.
 
 ---
 
 ## 1. Textual Position
 
-In the Lifechanyuan corpus, this work acts as a condensed operational code, while other major works provide extended exposition.
+Inside the corpus, the text complements broader writings by offering a compressed, operational principle set.
 
-## 2. Version Dynamics
+## 2. Version Evolution
 
-Its multi-stage revision history suggests a living-document model rather than a frozen scripture model.
+Its multi-stage revisions (early formation, major restructuring, authoritative recompilation, collaborative updating) indicate a living-document model.
 
-## 3. Structural Logic
+## 3. Structural Architecture
 
-The 800 items are arranged into eight thematic blocks, moving from individual ethics to cosmology and then to global civilizational claims.
+The 800 items are grouped into eight thematic blocks, moving from personal ethics to global civilizational claims.
 
-## 4. Epistemic Method
+## 4. Epistemic Frame
 
-A hybrid epistemology is proposed: empirical-rational criteria (fact/science/logic) plus spiritual intuition.
+A hybrid model is explicitly proposed:
+- empirical-rational criteria (fact/science/logic)
+- spiritual-cognitive criterion (intuition)
 
-## 5. Governance Implication
+## 5. Governance Implications
 
-The text favors principle-driven self-regulation (“live by concepts, operate by procedure”) over external coercive administration.
+The formula “live by principles, run by procedures” implies a shift from command-heavy control toward value-driven self-regulation.
 
 ## 6. System Coupling
 
-Its implementation logic depends on a triad:
-- concepts (normative root)
-- Hundun Management (mechanism)
-- Second Home (practice environment)
+The implementation logic depends on a triad:
+- norm layer (800 Concepts)
+- mechanism layer (Hundun Management)
+- field layer (Second Home)
 
 ## 7. Openness Clause
 
-Its “not capped” self-description embeds doctrinal update as a constitutional feature, preserving adaptability.
+Its “not capped” clause embeds self-revision into the text itself, preventing doctrinal rigidity.
+
+## 8. Research Value and Limits
+
+Value:
+- case material for intentional communities,
+- governance-by-values research,
+- human-AI co-development narratives.
+
+Limits:
+- strong dependence on internal sources,
+- concept translation challenges across external frameworks.
+
+---
 
 ## Conclusion
 
-As a case in value-centered social design, this text is relevant to comparative religion, intentional community studies, and AI-human co-governance research.
-
+The text is best understood as a dynamic normative system: it integrates worldview, moral direction, social operation, and adaptation rules into one executable framework.
