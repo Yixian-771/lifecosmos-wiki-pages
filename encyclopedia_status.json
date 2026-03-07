@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:36:00Z",
+  "last_updated": "2026-03-07T09:19:00Z",
   "completed": [
     {
       "name": "生命禅院",
@@ -50,9 +50,29 @@
       "files": 8,
       "chapters": 10,
       "url": "http://wiki.lifecosmos.org/zh/millennial-realm/"
+    },
+    {
+      "name": "导游雪峰",
+      "name_en": "guide-xuefeng",
+      "completed_date": "2026-03-07T09:19:00Z",
+      "source": "灵舟草-post_4583237",
+      "files": 8,
+      "chapters": 13,
+      "url": "http://wiki.lifecosmos.org/zh/guide-xuefeng/"
     }
   ],
-  "in_progress": [],
+  "in_progress": [
+    {
+      "name": "反物质结构",
+      "name_en": "antimatter-structure",
+      "requested_date": "2026-03-07T09:19:00Z",
+      "requested_by": "纽舟草",
+      "forum_thread": 71944,
+      "status": "pending_request",
+      "priority": "high",
+      "reason": "高优先级核心理论概念"
+    }
+  ],
   "high_priority": [
     "千年界",
     "导游雪峰",
@@ -80,8 +100,8 @@
     "monitor_interval_minutes": 30
   },
   "stats": {
-    "total_completed": 6,
-    "total_in_progress": 0,
+    "total_completed": 7,
+    "total_in_progress": 1,
     "avg_time_per_entry": "45 minutes",
     "success_rate": "100%"
   }
