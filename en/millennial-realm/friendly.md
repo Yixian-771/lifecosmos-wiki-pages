@@ -1,10 +1,10 @@
 <!-- id: LC-MR-0001-FRI theme: Cosmic Life System type: Public Intro direction: Easy Reading lang: en -->
 
-# Millennial Realm: The First Heavenly Gate on the Path Upward
+# Thousand-year World: The First Heavenly Gate on the Path Upward
 
 ## In one sentence
 
-If spiritual growth is a mountain climb, the Millennial Realm is the first high plateau after leaving ordinary human life behind.
+If spiritual growth is a mountain climb, the Thousand-year World is the first high plateau after leaving ordinary human life behind.
 
 It's not the final destination, but it is the first true "heavenly layer" you can reach.
 
@@ -45,7 +45,7 @@ It doesn't just tell you "there's a nice place out there." It also tells you:
 Entry is not about technology. It's about inner quality alignment.
 
 **Eight essential conditions (simplified):**
-1. Revere God, gods/Buddhas, and others
+1. Revere the Greatest Creator, gods and Buddhas, and others
 2. No competitive or combative mindset
 3. Love nature
 4. Be humble, trustworthy, honest
@@ -55,7 +55,7 @@ Entry is not about technology. It's about inner quality alignment.
 8. Love life and love labor
 
 **Guide Xuefeng's eight key points (simplified):**
-1. Revere God, firmly believe in God, be grateful to God
+1. Revere the Greatest Creator, firmly believe in the Greatest Creator, be grateful to the Greatest Creator
 2. Revere life and nature
 3. No jealousy, resentment, combativeness, greed, attachment, selfishness, or blame
 4. Never bind or hinder others' happiness and freedom under any pretext
@@ -74,9 +74,9 @@ How you live today determines where you can go tomorrow.
 
 ---
 
-## A day in the Millennial Realm (from an ordinary person's view)
+## A day in the Thousand-year World (from an ordinary person's view)
 
-Imagine you've arrived in the Millennial Realm:
+Imagine you've arrived in the Thousand-year World:
 
 **Waking up** (though there's no "morning," since there's no day or night)  
 You open your eyes on a soft silk bed, surrounded by friends and relatives. There's no "family" concept, but everyone feels like siblings.
@@ -97,22 +97,22 @@ You don't worry about illness, aging, unemployment, poverty, competition, or war
 
 ## How it connects to Second Home
 
-In this framework, Second Home is seen as an earthly rehearsal of Millennial Realm living.
+In this framework, Second Home is seen as an earthly rehearsal of the Thousand-year World living.
 
 In other words:
 - first practice this lifestyle in the human world,
 - then talk about higher-level life destinations.
 
-Second Home's "no marriage, no family, resource sharing, Hundun Management, each contributing according to ability, taking according to need" mirrors the Millennial Realm lifestyle.
+Second Home's "no marriage, no family, resource sharing, Hundun Management, each contributing according to ability, taking according to need" mirrors the Thousand-year World lifestyle.
 
 ---
 
 ## How it relates to higher realms
 
 Think of them as progressive steps:
-- **Millennial Realm**: first step (Human Celestials, with physical bodies, thousand-year lifespans)
-- **Ten-Thousand-Year Realm**: higher step (Terrestrial Celestials, with supernatural powers, 35,000-year lifespans)
-- **Bliss Realm**: highest goal (Heavenly Celestials, no fixed form, time nearly disappears)
+- **the Thousand-year World**: first step (Human Celestials, with physical bodies, thousand-year lifespans)
+- **the Ten-thousand-year World**: higher step (Terrestrial Celestials, with supernatural powers, 35,000-year lifespans)
+- **the Elysium World**: highest goal (Heavenly Celestials, no fixed form, time nearly disappears)
 
 The key: stabilize the first step first.
 
@@ -120,6 +120,6 @@ The key: stabilize the first step first.
 
 ## One-line takeaway
 
-The Millennial Realm isn't "escape from reality"; it's a direction for transforming reality through disciplined, value-centered living.
+The Thousand-year World isn't "escape from reality"; it's a direction for transforming reality through disciplined, value-centered living.
 
 Live with clarity, honesty, and reverence today—and the gate will naturally open.
