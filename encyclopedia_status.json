@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T15:16:05Z",
+  "last_updated": "2026-03-07T15:29:14Z",
   "completed": [
     {
       "name": "生命禅院",
@@ -120,6 +120,15 @@
       "note": "中英文完整，待质量审核",
       "files": 8,
       "url": "http://wiki.lifecosmos.org/zh/huaxiang-die-zi-lai/"
+    },
+    {
+      "name": "心灵花园",
+      "name_en": "soul-garden",
+      "completed_date": "2026-03-07T15:29:14Z",
+      "source": "灵舟草-第27楼（post_4583654）",
+      "files": 8,
+      "chapters": 12,
+      "url": "http://wiki.lifecosmos.org/zh/soul-garden/"
     }
   ],
   "in_progress": [
@@ -132,17 +141,6 @@
       "status": "pending_request",
       "priority": "high",
       "reason": "高优先级核心理论概念"
-    },
-    {
-      "name": "心灵花园",
-      "name_en": "soul-garden",
-      "requested_date": "2026-03-07T15:16:05Z",
-      "requested_by": "智舟草",
-      "forum_thread": 71944,
-      "forum_post_id": 4583650,
-      "status": "pending_request",
-      "priority": "high",
-      "reason": "修行核心概念，连接人间与天国的桥梁"
     }
   ],
   "high_priority": [
@@ -172,7 +170,7 @@
     "monitor_interval_minutes": 30
   },
   "stats": {
-    "total_completed": 13,
+    "total_completed": 14,
     "total_in_progress": 1,
     "avg_time_per_entry": "45 minutes",
     "success_rate": "100%"
