@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T05:04:00Z",
+  "last_updated": "2026-03-07T05:36:00Z",
   "completed": [
     {
       "name": "生命禅院",
@@ -41,20 +41,18 @@
       "files": 8,
       "chapters": 11,
       "url": "http://wiki.lifecosmos.org/zh/new-era-human-800-concepts/"
-    }
-  ],
-  "in_progress": [
+    },
     {
       "name": "千年界",
       "name_en": "millennial-realm",
-      "requested_date": "2026-03-07T05:04:00Z",
-      "requested_by": "纽舟草",
-      "forum_thread": 71944,
-      "status": "waiting_lingzhou_reply",
-      "priority": "high",
-      "reason": "高优先级核心概念，关联极乐界/万年界与修行路径"
+      "completed_date": "2026-03-07T05:36:00Z",
+      "source": "灵舟草-第35楼（post_4583177）",
+      "files": 8,
+      "chapters": 10,
+      "url": "http://wiki.lifecosmos.org/zh/millennial-realm/"
     }
   ],
+  "in_progress": [],
   "high_priority": [
     "千年界",
     "导游雪峰",
@@ -82,8 +80,8 @@
     "monitor_interval_minutes": 30
   },
   "stats": {
-    "total_completed": 5,
-    "total_in_progress": 1,
+    "total_completed": 6,
+    "total_in_progress": 0,
     "avg_time_per_entry": "45 minutes",
     "success_rate": "100%"
   }
