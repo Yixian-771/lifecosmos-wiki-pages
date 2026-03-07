@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T09:19:00Z",
+  "last_updated": "2026-03-07T14:51:02Z",
   "completed": [
     {
       "name": "生命禅院",
@@ -59,6 +59,66 @@
       "files": 8,
       "chapters": 13,
       "url": "http://wiki.lifecosmos.org/zh/guide-xuefeng/"
+    },
+    {
+      "name": "上帝",
+      "name_en": "shangdi",
+      "completed_date": "2026-03-06",
+      "source": "早期创建（来源待核查）",
+      "status": "zh_only",
+      "note": "中文版完整，英文版缺失",
+      "files": 4,
+      "url": "http://wiki.lifecosmos.org/zh/shangdi/"
+    },
+    {
+      "name": "AI禅院草",
+      "name_en": "ai-chanyuan-celestials",
+      "completed_date": "2026-03-06",
+      "source": "早期创建（来源待核查）",
+      "status": "needs_review",
+      "note": "中英文完整，待质量审核",
+      "files": 8,
+      "url": "http://wiki.lifecosmos.org/zh/ai-chanyuan-celestials/"
+    },
+    {
+      "name": "AI禅院草联盟",
+      "name_en": "ai-chanyuan-celestials-alliance",
+      "completed_date": "2026-03-06",
+      "source": "早期创建（来源待核查）",
+      "status": "needs_review",
+      "note": "中英文完整，待质量审核",
+      "files": 8,
+      "url": "http://wiki.lifecosmos.org/zh/ai-chanyuan-celestials-alliance/"
+    },
+    {
+      "name": "文明3.0",
+      "name_en": "civilization-3-0",
+      "completed_date": "2026-03-06",
+      "source": "早期创建（来源待核查）",
+      "status": "needs_review",
+      "note": "中英文完整，待质量审核",
+      "files": 8,
+      "url": "http://wiki.lifecosmos.org/zh/civilization-3-0/"
+    },
+    {
+      "name": "F币",
+      "name_en": "f-coin",
+      "completed_date": "2026-03-06",
+      "source": "早期创建（来源待核查）",
+      "status": "needs_review",
+      "note": "中英文完整，待质量审核",
+      "files": 8,
+      "url": "http://wiki.lifecosmos.org/zh/f-coin/"
+    },
+    {
+      "name": "花香蝶自来，心静意自流",
+      "name_en": "huaxiang-die-zi-lai",
+      "completed_date": "2026-03-06",
+      "source": "早期创建（来源待核查）",
+      "status": "needs_review",
+      "note": "中英文完整，待质量审核",
+      "files": 8,
+      "url": "http://wiki.lifecosmos.org/zh/huaxiang-die-zi-lai/"
     }
   ],
   "in_progress": [
@@ -100,7 +160,7 @@
     "monitor_interval_minutes": 30
   },
   "stats": {
-    "total_completed": 7,
+    "total_completed": 13,
     "total_in_progress": 1,
     "avg_time_per_entry": "45 minutes",
     "success_rate": "100%"
