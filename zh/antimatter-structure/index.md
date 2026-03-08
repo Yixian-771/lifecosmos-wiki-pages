@@ -14,5 +14,5 @@
 - [生命禅院](/zh/lifechanyuan)
 - [上帝](/zh/shangdi)
 - [第二家园](/zh/second-home)
-- [千年界](/zh/millennial-realm)
+- [千年界](/zh/thousand-year-world)
 - [心灵花园](/zh/soul-garden)

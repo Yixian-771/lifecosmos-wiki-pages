@@ -53,17 +53,17 @@
 
 ## 四、阅读版本导航
 
-### [友好版](/zh/millennial-realm/friendly) 
+### [友好版](/zh/thousand-year-world/friendly) 
 **适合首次阅读**  
 有画面感，有具体场景，快速建立全局理解。  
 推荐起点：了解"千年界长什么样""普通人视角的一天"。
 
-### [学术版](/zh/millennial-realm/academic)
+### [学术版](/zh/thousand-year-world/academic)
 **适合研究视角**  
 强调概念结构、方法论、治理逻辑与说服力评估。  
 推荐用途：比较研究、跨语境分析、学术引用。
 
-### [内部版](/zh/millennial-realm/internal)
+### [内部版](/zh/thousand-year-world/internal)
 **适合体系深读**  
 完整呈现母版细节（地理、社会、价值观、进入条件等）并清晰编排。  
 推荐用途：全面了解、深度学习、修行参照。
@@ -86,5 +86,5 @@
 
 ## 语言对照
 
-- English: [/en/millennial-realm](/en/millennial-realm)
+- English: [/en/thousand-year-world](/en/thousand-year-world)
 

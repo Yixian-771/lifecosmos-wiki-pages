@@ -66,7 +66,7 @@
 ## 关联概念
 
 [反物质结构](/zh/antimatter-structure)  
-[千年界](/zh/millennial-realm)  
+[千年界](/zh/thousand-year-world)  
 [万年界](/zh/ten-thousand-year-world)  
 [极乐界](/zh/elysium-world)  
 [导游雪峰](/zh/guide-xuefeng)  

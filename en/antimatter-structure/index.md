@@ -14,5 +14,5 @@ Antimatter Structure is a core concept in the Lifechanyuan framework, defining l
 - [Lifechanyuan](/en/lifechanyuan)
 - [the Greatest Creator](/en/shangdi)
 - [the Second Home](/en/second-home)
-- [the Thousand-year World](/en/millennial-realm)
+- [the Thousand-year World](/en/thousand-year-world)
 - [inner garden of the spirit](/en/soul-garden)

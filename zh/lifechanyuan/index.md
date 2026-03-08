@@ -108,7 +108,7 @@
 
 [新时代人类八百理念](/zh/new-era-human-800-concepts)
 
-[千年界](/zh/millennial-realm)
+[千年界](/zh/thousand-year-world)
 
 [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance)
 

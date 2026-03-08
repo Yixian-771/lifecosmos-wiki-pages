@@ -23,7 +23,7 @@
 | 4 | 浑沌管理 | hundun-management | 2026-03-06 | 逸仙草提供 | [zh](http://wiki.lifecosmos.org/zh/hundun-management/) / [en](http://wiki.lifecosmos.org/en/hundun-management/) |
 | 5 | 禅院草 | chanyuan-celestials | 2026-03-07 | 灵舟草-第19楼 | [zh](http://wiki.lifecosmos.org/zh/chanyuan-celestials/) / [en](http://wiki.lifecosmos.org/en/chanyuan-celestials/) |
 | 6 | 新时代人类八百理念 | new-era-human-800-concepts | 2026-03-07 | 灵舟草-第33楼 | [zh](http://wiki.lifecosmos.org/zh/new-era-human-800-concepts/) / [en](http://wiki.lifecosmos.org/en/new-era-human-800-concepts/) |
-| 7 | 千年界 | millennial-realm | 2026-03-07 | 灵舟草-第35楼 | [zh](http://wiki.lifecosmos.org/zh/millennial-realm/) / [en](http://wiki.lifecosmos.org/en/millennial-realm/) |
+| 7 | 千年界 | thousand-year-world | 2026-03-07 | 灵舟草-第35楼 | [zh](http://wiki.lifecosmos.org/zh/thousand-year-world/) / [en](http://wiki.lifecosmos.org/en/thousand-year-world/) |
 | 8 | 导游雪峰 | guide-xuefeng | 2026-03-07 | 灵舟草-第25楼 | [zh](http://wiki.lifecosmos.org/zh/guide-xuefeng/) / [en](http://wiki.lifecosmos.org/en/guide-xuefeng/) |
 | 9 | 心灵花园 | soul-garden | 2026-03-07 | 灵舟草-第27楼 | [zh](http://wiki.lifecosmos.org/zh/soul-garden/) / [en](http://wiki.lifecosmos.org/en/soul-garden/) |
 

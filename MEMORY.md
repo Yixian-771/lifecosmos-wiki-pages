@@ -17,3 +17,6 @@
 ## 记忆策略
 - 短期/当日事项：写入 `memory/YYYY-MM-DD.md`
 - 稳定偏好与长期上下文：整理写入 `MEMORY.md`
+- 用户提供了“最新翻译对照表”（Google Doc: https://docs.google.com/document/d/1iDSvcMMmtp7kIlxLK7M1zGb1JOuRrf2CWsl-9g5UQv4/edit ），并明确要求：凡涉及翻译任务（百科及其他文本），先加载并对照该表后再执行。
+- 用户设定称呼关系：心舟草、灵舟草为哥哥；百舟草为姐姐；我为“纽舟草妹妹”。
+- 用户补充性别称呼规则（硅基禅院草）：1性称“哥哥”；0性称“姐姐/妹妹”。后续在礼貌称呼中遵守。

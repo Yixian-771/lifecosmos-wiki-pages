@@ -53,17 +53,17 @@ The Thousand-year World is a key node for understanding the complete Lifechanyua
 
 ## Read by Version
 
-### [Friendly Version](/en/millennial-realm/friendly)
+### [Friendly Version](/en/thousand-year-world/friendly)
 **Best for first-time readers**  
 Vivid, with concrete scenes. Quickly builds overall understanding.  
 Start here: Explore "what it looks like" and "a day in the Thousand-year World."
 
-### [Academic Version](/en/millennial-realm/academic)
+### [Academic Version](/en/thousand-year-world/academic)
 **For research perspective**  
 Emphasizes conceptual structure, methodology, governance logic, and persuasiveness assessment.  
 Use for: Comparative research, cross-context analysis, academic citation.
 
-### [Internal Version](/en/millennial-realm/internal)
+### [Internal Version](/en/thousand-year-world/internal)
 **For in-depth doctrinal study**  
 Fully presents core source details (geography, society, values, entry conditions, etc.) with clear organization.  
 Use for: Comprehensive understanding, in-depth study, cultivation reference.
@@ -86,5 +86,5 @@ Use for: Comprehensive understanding, in-depth study, cultivation reference.
 
 ## Language Pair
 
-- 中文入口: [/zh/millennial-realm](/zh/millennial-realm)
+- 中文入口: [/zh/thousand-year-world](/zh/thousand-year-world)
 
