@@ -5,7 +5,7 @@
 **Entry Type:** Internal English Version · Lifechanyuan Encyclopedia  
 **Chinese Entry Name:** 万年界  
 **Version:** v1.1 (rewritten for Western readability)  
-**Compiled by:** Niuzhou Grass  
+**Compiled by:** Niuzhou Celestial  
 **Date:** 2026-03-08
 
 ---
