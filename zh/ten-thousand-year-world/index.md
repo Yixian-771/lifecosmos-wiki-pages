@@ -31,10 +31,10 @@
 
 ## 三、阅读版本
 
-### 友好版（待发布）
+### [友好版](/zh/ten-thousand-year-world/friendly)
 面向首次接触读者，强调可读性与直观理解。
 
-### 学术版（待发布）
+### [学术版](/zh/ten-thousand-year-world/academic)
 面向研究与比较视角，强调结构化论证与概念边界。
 
 ### [内部版](/zh/ten-thousand-year-world/internal)
