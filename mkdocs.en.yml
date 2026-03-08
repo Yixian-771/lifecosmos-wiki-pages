@@ -29,6 +29,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - Ten-thousand-year World: ten-thousand-year-world/index.md
   - Antimatter Structure: antimatter-structure/index.md
   - Lifechanyuan: lifechanyuan/index.md
   - The Greatest Creator: shangdi/index.md

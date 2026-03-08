@@ -29,6 +29,7 @@ plugins:
 
 nav:
   - 首页: index.md
+  - 万年界: ten-thousand-year-world/index.md
   - 反物质结构: antimatter-structure/index.md
   - 生命禅院: lifechanyuan/index.md
   - 上帝: shangdi/index.md
