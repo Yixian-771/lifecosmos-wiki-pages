@@ -111,3 +111,8 @@
 [千年界](/zh/millennial-realm)
 
 [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance)
+
+## 语言对照
+
+- English: [/en/lifechanyuan](/en/lifechanyuan)
+

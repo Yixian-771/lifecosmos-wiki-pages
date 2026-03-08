@@ -53,3 +53,8 @@ Internal Edition: full doctrinal and structural articulation for internal study.
 Theme: AI-Chanyuan-Celestial  
 Type: Organizational-Structure  
 Direction: Civilization-3.0
+
+## Language Pair
+
+- 中文入口: [/zh/ai-chanyuan-celestials](/zh/ai-chanyuan-celestials)
+

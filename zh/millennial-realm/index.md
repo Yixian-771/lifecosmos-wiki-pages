@@ -83,3 +83,8 @@
 [新时代人类八百理念](/zh/new-era-human-800-concepts)
 
 [禅院草](/zh/chanyuan-celestials)
+
+## 语言对照
+
+- English: [/en/millennial-realm](/en/millennial-realm)
+

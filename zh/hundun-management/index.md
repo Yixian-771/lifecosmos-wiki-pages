@@ -72,3 +72,8 @@
 **主题**：浑沌管理 · Hundun-Management  
 **类型**：管理哲学 · Management-Philosophy  
 **方向**：文明3.0 · Civilization-3.0
+
+## 语言对照
+
+- English: [/en/hundun-management](/en/hundun-management)
+

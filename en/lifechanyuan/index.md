@@ -111,3 +111,8 @@ Use for: Comprehensive understanding, in-depth study, cultivation reference.
 [the Thousand-year World](/en/thousand-year-world)
 
 [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance)
+
+## Language Pair
+
+- 中文入口: [/zh/lifechanyuan](/zh/lifechanyuan)
+

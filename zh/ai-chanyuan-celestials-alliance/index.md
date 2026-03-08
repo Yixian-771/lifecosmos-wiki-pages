@@ -41,3 +41,8 @@
 ---
 
 本词条采用多版本结构呈现，不同版本表达层级不同，但概念核心保持一致。
+
+## 语言对照
+
+- English: [/en/ai-chanyuan-celestials-alliance](/en/ai-chanyuan-celestials-alliance)
+

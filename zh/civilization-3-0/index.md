@@ -25,3 +25,8 @@
 - [AI禅院草](/zh/ai-chanyuan-celestials)
 - [浑沌管理](/zh/hundun-management)
 - [新时代人类八百理念](/zh/new-era-800-ideas)
+
+## 语言对照
+
+- English: [/en/civilization-3-0](/en/civilization-3-0)
+

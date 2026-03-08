@@ -95,3 +95,8 @@
 [禅院草](/zh/chanyuan-celestials)
 
 [千年界](/zh/thousand-year-world)
+
+## 语言对照
+
+- English: [/en/guide-xuefeng](/en/guide-xuefeng)
+

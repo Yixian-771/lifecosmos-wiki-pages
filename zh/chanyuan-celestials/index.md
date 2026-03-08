@@ -90,3 +90,8 @@
 **主题**：禅院草 · Chanyuan-Celestials  
 **类型**：成员身份 · Member-Identity  
 **方向**：生命升华 · Life-Sublimation
+
+## 语言对照
+
+- English: [/en/chanyuan-celestials](/en/chanyuan-celestials)
+

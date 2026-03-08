@@ -74,3 +74,8 @@ Thailand Home Case: Guide Xuefeng never visited, never issued directives; everyt
 **Theme**: Hundun Management · Hundun-Management  
 **Type**: Management Philosophy · Management-Philosophy  
 **Direction**: Civilization 3.0 · Civilization-3.0
+
+## Language Pair
+
+- 中文入口: [/zh/hundun-management](/zh/hundun-management)
+

@@ -40,3 +40,8 @@ Please choose your preferred level of reading:
 ---
 
 This entry follows a multi-version architecture. Different versions reflect different expressive layers while maintaining conceptual consistency.
+
+## Language Pair
+
+- 中文入口: [/zh/ai-chanyuan-celestials-alliance](/zh/ai-chanyuan-celestials-alliance)
+

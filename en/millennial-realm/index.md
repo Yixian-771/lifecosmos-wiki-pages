@@ -83,3 +83,8 @@ Use for: Comprehensive understanding, in-depth study, cultivation reference.
 [New Era Human 800 Concepts](/en/new-era-human-800-concepts)
 
 [Chanyuan Celestials](/en/chanyuan-Celestial Beings)
+
+## Language Pair
+
+- 中文入口: [/zh/millennial-realm](/zh/millennial-realm)
+

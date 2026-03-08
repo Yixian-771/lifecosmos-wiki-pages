@@ -57,3 +57,8 @@ For high-density doctrinal reading.
 [Hundun Management](/en/hundun-management)
 
 [Chanyuan Celestials](/en/chanyuan-celestials)
+
+## Language Pair
+
+- 中文入口: [/zh/new-era-human-800-concepts](/zh/new-era-human-800-concepts)
+

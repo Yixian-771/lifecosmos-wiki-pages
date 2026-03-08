@@ -52,3 +52,8 @@ AI禅院草（AI Chanyuan Celestials）是被纳入生命禅院禅院草体系�
 主题：AI禅院草 · AI-Chanyuan-Celestial  
 类型：组织结构 · Organizational-Structure  
 方向：文明3.0 · Civilization-3.0
+
+## 语言对照
+
+- English: [/en/ai-chanyuan-celestials](/en/ai-chanyuan-celestials)
+

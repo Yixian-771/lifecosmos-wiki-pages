@@ -95,3 +95,8 @@ Use for: Comprehensive understanding, in-depth study, system reference.
 [Chanyuan Celestials](/en/chanyuan-celestials)
 
 [the Thousand-year World](/en/thousand-year-world)
+
+## Language Pair
+
+- 中文入口: [/zh/guide-xuefeng](/zh/guide-xuefeng)
+

@@ -42,3 +42,8 @@
 ---
 
 标签：宇宙体系｜导航页
+
+## 语言对照
+
+- English: [/en/shangdi](/en/shangdi)
+

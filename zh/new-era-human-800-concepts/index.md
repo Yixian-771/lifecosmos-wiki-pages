@@ -70,3 +70,8 @@
 [禅院草](/zh/chanyuan-celestials)
 
 [导游雪峰](/zh/guide-xuefeng)
+
+## 语言对照
+
+- English: [/en/new-era-human-800-concepts](/en/new-era-human-800-concepts)
+

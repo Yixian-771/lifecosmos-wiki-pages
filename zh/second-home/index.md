@@ -75,3 +75,8 @@
 **主题**：第二家园 · Second-Home  
 **类型**：社区模式 · Community-Model  
 **方向**：文明3.0 · Civilization-3.0
+
+## 语言对照
+
+- English: [/en/second-home](/en/second-home)
+

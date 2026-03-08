@@ -73,3 +73,8 @@ This page serves as a multi-version portal, providing only version navigation wi
 **Theme**: Chanyuan-Celestials · 禅院草  
 **Type**: Life-System · 生命体系  
 **Direction**: Path-to-Heaven · 天国之路
+
+## Language Pair
+
+- 中文入口: [/zh/chanyuan-celestials](/zh/chanyuan-celestials)
+

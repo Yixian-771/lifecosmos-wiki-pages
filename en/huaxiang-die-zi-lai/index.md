@@ -40,3 +40,8 @@ This entry provides three reading levels.
 Theme: Life-System  
 Type: Terminology  
 Direction: Cultivation-Methods
+
+## Language Pair
+
+- 中文入口: [/zh/huaxiang-die-zi-lai](/zh/huaxiang-die-zi-lai)
+

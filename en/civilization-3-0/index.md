@@ -34,3 +34,8 @@ Within this framework, Civilization 3.0 corresponds to the “New Heaven and New
 - [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance)
 - [Hundun Management](/en/hundun-management)
 - [800 Values for the New Era Human Being](/en/new-era-800-ideas)
+
+## Language Pair
+
+- 中文入口: [/zh/civilization-3-0](/zh/civilization-3-0)
+

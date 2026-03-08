@@ -42,3 +42,8 @@ Intended for Chanyuan Celestials and in-depth learners, fully presenting system 
 ---
 
 Tags: Universe System | Navigation Page
+
+## Language Pair
+
+- 中文入口: [/zh/shangdi](/zh/shangdi)
+

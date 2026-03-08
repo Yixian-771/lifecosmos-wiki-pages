@@ -38,3 +38,8 @@
 主题：生命体系  
 类型：术语  
 方向：修行修炼
+
+## 语言对照
+
+- English: [/en/huaxiang-die-zi-lai](/en/huaxiang-die-zi-lai)
+

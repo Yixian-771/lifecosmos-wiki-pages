@@ -1,10 +1,10 @@
 <!-- id: LC-SH-0001 theme: 生命体系 type: 概念入口 direction: 词条导航 lang: en -->
 
-# Second Home
+# The Second Home
 
 【Entry Portal】
 
-Second Home is a prototype of new production and living model created by Lifechanyuan.
+The Second Home is a prototype of new production and living model created by Lifechanyuan.
 
 This page serves as a multi-version portal, providing version navigation only, without hosting specific content.
 
@@ -77,3 +77,8 @@ VIII. Flexible adaptability, infinite transformation
 **Theme**: Second Home · Second-Home  
 **Type**: Community Model · Community-Model  
 **Direction**: Civilization 3.0 · Civilization-3.0
+
+## Language Pair
+
+- 中文入口: [/zh/second-home](/zh/second-home)
+
