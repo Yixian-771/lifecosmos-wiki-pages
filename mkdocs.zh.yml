@@ -29,6 +29,8 @@ plugins:
 
 nav:
   - 首页: index.md
+  - 天国天堂（最新）: kingdom-of-heaven/index.md
+  - 心灵花园: soul-garden/index.md
   - 极乐界: elysium-world/index.md
   - 万年界: ten-thousand-year-world/index.md
   - 反物质结构: antimatter-structure/index.md
