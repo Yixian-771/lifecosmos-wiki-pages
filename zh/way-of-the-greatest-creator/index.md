@@ -45,9 +45,9 @@
 
 ## 阅读版本
 
-### [友好版](/zh/way-of-the-greatest-creator/friendly)（待发布）
+### [友好版](/zh/way-of-the-greatest-creator/friendly)
 
-### [学术版](/zh/way-of-the-greatest-creator/academic)（待发布）
+### [学术版](/zh/way-of-the-greatest-creator/academic)
 
 ### [内部版](/zh/way-of-the-greatest-creator/internal)
 
