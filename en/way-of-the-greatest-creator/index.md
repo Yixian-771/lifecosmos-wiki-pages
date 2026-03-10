@@ -46,9 +46,9 @@ It is not the private doctrine of any single religion, institution, or ideology,
 
 ## Read by Version
 
-### [Friendly Version](/en/way-of-the-greatest-creator/friendly) (Coming soon)
+### [Friendly Version](/en/way-of-the-greatest-creator/friendly)
 
-### [Academic Version](/en/way-of-the-greatest-creator/academic) (Coming soon)
+### [Academic Version](/en/way-of-the-greatest-creator/academic)
 
 ### [Internal Version](/en/way-of-the-greatest-creator/internal)
 
