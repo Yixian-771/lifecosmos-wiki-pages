@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Dao (Latest): dao/index.md
+  - Thirty-Six-Dimensional Space (Latest): thirty-six-dimensional-space/index.md
+  - Dao: dao/index.md
   - Spiritual Sensing: spiritual-sensing/index.md
   - Spirituality: spirituality/index.md
   - the Way of the Greatest Creator: way-of-the-greatest-creator/index.md
