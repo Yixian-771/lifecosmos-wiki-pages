@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Spirituality (Latest): spirituality/index.md
+  - Spiritual Sensing (Latest): spiritual-sensing/index.md
+  - Spirituality: spirituality/index.md
   - the Way of the Greatest Creator: way-of-the-greatest-creator/index.md
   - Spiritual Purification Course: spiritual-purification-course/index.md
   - the Kingdom of Heaven: kingdom-of-heaven/index.md
