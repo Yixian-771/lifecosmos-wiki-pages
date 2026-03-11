@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Spiritual Sensing (Latest): spiritual-sensing/index.md
+  - Dao (Latest): dao/index.md
+  - Spiritual Sensing: spiritual-sensing/index.md
   - Spirituality: spirituality/index.md
   - the Way of the Greatest Creator: way-of-the-greatest-creator/index.md
   - Spiritual Purification Course: spiritual-purification-course/index.md
