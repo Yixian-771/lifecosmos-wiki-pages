@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - 首页: index.md
-  - 灵性（最新）: spirituality/index.md
+  - 灵觉（最新）: spiritual-sensing/index.md
+  - 灵性: spirituality/index.md
   - 上帝之道: way-of-the-greatest-creator/index.md
   - 心灵净化课: spiritual-purification-course/index.md
   - 天国天堂: kingdom-of-heaven/index.md
