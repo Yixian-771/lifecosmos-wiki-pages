@@ -26,11 +26,11 @@
 
 ## 阅读版本
 
-### [内部版](/zh/wuji/internal)
-
 ### [友好版](/zh/wuji/friendly)
 
 ### [学术版](/zh/wuji/academic)
+
+### [内部版](/zh/wuji/internal)
 
 ---
 
