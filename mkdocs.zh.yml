@@ -29,6 +29,7 @@ plugins:
 
 nav:
   - 首页: index.md
+  - 无极（最新）: wuji/index.md
   - 仙岛群岛洲（最新）: celestial-islands-continent/index.md
   - 生命起源: life-origin/index.md
   - 宇宙起源: universe-origin/index.md
