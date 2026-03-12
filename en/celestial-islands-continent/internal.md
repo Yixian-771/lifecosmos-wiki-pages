@@ -2,208 +2,212 @@
 
 # Celestial Islands Continent (Internal English Version)
 
-Celestial Islands Continent is one of the most central ultimate concepts in the Lifechanyuan cosmological system. It is described as the Great Creator’s back garden, the main base of celestials, the freest and happiest realm in the universe, and the highest destination LIFE can reach.
+## I. Overview and Definition
 
----
+Celestial Islands Continent is one of the most central ultimate concepts in the Lifechanyuan cosmological system. It is described as the Greatest Creator’s back garden, the main base of celestials, the freest, happiest, and most wondrous place in the universe, the highest state LIFE can reach, and the final destination of Chanyuan Celestials’ cultivation and refinement.
 
-## 1. Overview and Definition
+Core definitions:
 
-Core statements in this framework include:
+- Celestial Islands Continent is the Greatest Creator’s back garden. (New Era Human 800 Concepts, Article 482)
+- The best destination of LIFE is to enter the Greatest Creator’s back garden—Celestial Islands Continent. (Article 360)
+- The main base of celestials is “Celestial Islands Continent” in Elysium World. (Chanyuan Anthology · Levels of LIFE)
 
-- Celestial Islands Continent is the Great Creator’s back garden.
-- The best destination of LIFE is to enter Celestial Islands Continent.
-- It is the main base of celestials.
+Position in cosmic coordinates: one of the ten major continents of Elysium World; located in the xyz world (the positive-universe coordinate frame of Elysium World); a high-level space in the antimatter world; one of LIFE’s high six realms.
 
-In coordinate terms, it is one of the ten major continents of Elysium World, associated with a high-level life-space in the antimatter domain.
+## II. Physical Description of Celestial Islands Continent
 
----
+Seen from ten thousand light-years away, there appears a slowly rotating flying-saucer-like disc made of mist and dust, with a diameter of about three hundred thousand light-years. The mists are flowing heavenly rivers, and the dusts are planets in those rivers. These planets are roughly Earth-sized, floating in the heavenly rivers like islands on the sea. Their total number is about 80 billion. On nearly 30 billion islands, each island is inhabited by one Bodhisattva, i.e., one celestial; hence the name Celestial Islands Continent.
 
-## 2. Physical-Cosmological Description
+Scale data (full-source statement):
 
-The description is highly specific: from ten thousand light-years away, one sees a slowly rotating disc-like structure of mist and dust, with a diameter of about three hundred thousand light-years. The “mist” is described as flowing heavenly rivers; the “dust” as Earth-sized star-islands floating within them.
+Celestial Islands Continent has 80 billion islands. Each island is about the size of Earth. Each island has its own name. Each island hosts only one celestial. Besides the 30 billion islands already occupied by celestials as their “homes,” there are still 50 billion islands currently uninhabited, waiting for those from the human world, the thousand-year world, and the ten-thousand-year world who cultivate and refine themselves into celestials. (Article 482)
 
-Scale data given in-system:
+## III. Position of Celestial Islands Continent within Elysium World
 
-- around 80 billion islands in total,
-- each roughly Earth-sized,
-- each island has its own name,
-- one celestial per island,
-- around 30 billion islands already inhabited,
-- around 50 billion currently unoccupied, waiting for qualified entrants from human, thousand-year, and ten-thousand-year pathways.
+Elysium World has ten major continents: Lotus Continent, Poluo Continent, Jiaye Continent, Yingwu Continent, Amitabha Buddha Continent, Celestial Islands Continent, Three-Realms Transit Continent, Guanghan Continent, Divine Continent, and Supreme Perfect Enlightenment Continent. Celestial Islands Continent is one of these major continents. (Article 483)
 
----
+The ten major continents are arranged according to Buddhist nature levels from lower to higher. Celestial Islands Continent is one of them, the continent where celestials live, and also the destination goal of Chanyuan Celestials.
 
-## 3. Position inside Elysium World
+## IV. Nature of Celestial Islands Continent: Antimatter World
 
-Elysium World is described as having ten major continents:
+Elysium World belongs to negative-universe space; everything is manifested transformation. In Elysium World, time has almost disappeared. All entities exist by essence rather than by form. At times they may transform into certain forms according to need, but those forms are temporary. When existing by essence, they are eternal.
 
-Lotus Continent, Poluo Continent, Jiaye Continent, Yingwu Continent, Amitabha Buddha Continent, Celestial Islands Continent, Three-Realms Transit Continent, Guanghan Continent, Divine Continent, and Supreme Enlightenment Continent.
+This means LIFE in Celestial Islands Continent exists eternally, not eroded by material time. All manifestations of celestials are autonomous transformations rather than being constrained by material time—this is the fundamental difference between Celestial Islands Continent and the thousand-year / ten-thousand-year worlds (which belong to the positive-universe domain).
 
-Celestial Islands Continent is one of these major divisions and functions as a key celestial dwelling sphere.
+## V. Residents of Celestial Islands Continent: Celestials
 
----
+Celestial is the highest state a human can attain; its main base is Celestial Islands Continent in Elysium World. Yu’e, the master of Xuefeng Island in Celestial Islands Continent, is an example of a celestial. Guanyin Bodhisattva revered by people is a celestial. Angels in Western culture are celestials. Celestial is Buddha in nature, with a difference: Buddha still has certain constraints, while celestials are unrestrained; Buddha has duties, celestials have no duty at all. “Playing however one likes” is a major feature of celestials. (Article 484)
 
-## 4. Ontological Nature: Antimatter High Realm
+Six major traits of celestials (full-source statement):
 
-The realm is described as belonging to a negative-universe domain in which form is secondary and essence is primary. Time pressure is close to disappearing; manifestation can change according to need; essence-level existence is treated as enduring.
+Celestials are the freest, happiest, and most blissful LIFE among all LIFE in the universe, favored children of the Greatest Creator, bearing no responsibility and no obligation. (Article 484)
 
-This becomes a core distinction between Celestial Islands Continent and the thousand-year / ten-thousand-year worlds, which are still discussed in more materialized positive-universe coordinates.
+Core differences between celestials and Buddhas:
 
----
+- Celestials focus on self-delight and do not concern themselves with affairs of heaven and the human world.
+- Buddhas do not seek entertainment nor become attached to temporary ease; they focus on attaining Supreme Enlightenment.
+- Celestials are unrestrained; Buddhas are constrained by dharma-power and must strictly observe precepts.
+- If one becomes Buddha, there are still higher states; once one becomes celestial, one has reached the highest limit.
 
-## 5. Residents: Celestials
+Gods and celestials are LIFE directly created by the Greatest Creator. Other LIFE is designed by the Greatest Creator and created by celestials under the leadership of gods. (Article 368)
 
-Celestials are described as the highest state human LIFE can attain. Examples given include Guanyin in this framework’s language, and analogies with angelic forms in Western terms.
+## VI. Xuefeng Island and Celestial Yu’e: A Present Demonstration of Celestial Islands Continent (full-source narrative)
 
-Key profile points:
+Guide Xuefeng, during Hundun exploration, once personally reached Celestial Islands Continent and left the most complete first-hand description in human history. The record of Xuefeng Island is as follows.
 
-- maximal freedom,
-- maximal joy,
-- no compulsory social duty burden,
-- playful and creative mode of being.
+### (1) Form of Xuefeng Island
 
-The text also differentiates celestials from buddha-path and god-path functions:
+On this island stands a steep mountain of ten layers: amber at the lower layer, then grass green, golden yellow, then light blue, iron gray, milky white, purple, peach red, black, and the top layer silver-white—clean as snow and shining silver, hence the name Xuefeng Island.
 
-- gods are responsibility-bearing assistants in cosmic governance,
-- buddha-path includes discipline and mission orientation,
-- celestial-state emphasizes unconstrained free flourishing.
+### (2) Demonstration of Yu’e Celestial’s transformation art
 
----
+A celestial maiden named Yu’e (Bodhisattva) lives on Xuefeng Island. In a barren wilderness, Yu’e smiles slightly, raises her right sleeve into the air, and in an instant:
 
-## 6. Xuefeng Island and Yu’e Celestial Narrative
+- a palace of red bricks and green tiles appears before everyone;
+- pavilions and towers connected by corridors stretch for dozens of li;
+- the wilderness grows strange flowers and herbs, bamboo groves, peach orchards, weeping willows, spirit cypress, cherries, redwood, and a thousand kinds of lush trees;
+- fragrant aromas spread from those flowers and herbs;
+- an empty ground instantly transforms into ponds, rockeries, lotuses, swans, mandarin ducks, goldfish, and frogs;
+- peaches on trees fall to the ground and become beautiful fairy maidens in colored gauze, holding fruit trays;
+- frogs jump ashore and become handsome young men, holding long-beaked glazed pitchers and amber night-glow cups;
+- ducks in the pond become musicians, swans become fairy maidens, playing exquisite celestial music and dancing elegant space dance.
 
-A major first-hand narrative block describes Xuefeng Island and the celestial Yu’e.
+When the immortals bid farewell, Yu’e closes her right hand, closes her left hand, joins both hands, and exhales a white vapor. In an instant, palaces, towers, trees, flowers, ducks, and all else vanish without trace; the earth returns to a vast barren wilderness. Yu’e shakes once, becomes a streak of golden light, and flashes into Xuefeng Mountain.
 
-### (1) Xuefeng Island Topography
+This passage reveals the core LIFE trait of Celestial Islands Continent: all is transformation; coming and going are free; wondrous beyond compare; play, creation, and bliss—this is daily life of celestials.
 
-The island includes a mountain with ten layers, each with distinct color character, culminating in a silver-white summit “like snow,” giving the island its name.
+## VII. Necessity of Celestial Islands Continent: Proof by Cosmic Law
 
-### (2) Yu’e’s Manifestation Demonstration
+Celestial Islands Continent is not imagined out of nothing. It is a necessity generated by the law that the sum of positive and negative energies is zero—just as the solar system necessarily has planets, and just as the human body necessarily has openings, limbs, and organs. (Article 478)
 
-In a barren field, with one gesture, Yu’e manifests an extended palace complex, pavilions, corridors, trees, flowers, orchards, pools, lotus scenes, birds, fish, attendants, and musicians. Living forms transform into human-like figures; landscape and social setting appear in full ceremonial richness. At the end, with a reverse gesture, the entire scene disappears instantly back into wilderness.
+Scientific corroborative reference:
 
-The doctrinal meaning is explicit: in this realm, creation, transformation, and dissolution are natural capacities of high-order LIFE.
+In 2017, the team of Zhang Shousheng (student of C. N. Yang) published in *Science* the discovery of chiral Majorana fermions, named “angel particles,” indicating a particle equals its own antiparticle (1 = -1, thus 2 = 0). Xuefeng interprets this as evidence of celestial “self-consistency” (yin-yang unified in one body), and treats the “angel particle” discovery as natural-science side evidence for the existence logic of celestials and, by extension, Celestial Islands Continent.
 
----
+## VIII. Necessary Conditions for Entering Celestial Islands Continent
 
-## 7. Necessity Claim: Not Arbitrary Imagination
+### (1) One must attain celestial fruition
 
-The framework argues that Celestial Islands Continent is a necessary outcome of cosmic law, not random fantasy. It is linked to balance principles and structural inevitability in the larger universe order.
+To go to Celestial Islands Continent in Heaven, one must attain celestial fruition; to attain celestial fruition, one must possess celestial LIFE structure. Self-consistency is one of the eight required qualities in celestial LIFE structure. (Article 493)
 
-Science-adjacent references (including angel-particle discourse) are used as interpretive support to suggest compatibility between certain symmetry ideas and celestial life-form claims.
+### (2) Dream signs
 
----
+If in dreams one has invisibility, free flight, spontaneous transformation, and external scenes changing with one’s consciousness, these are signs of being able to go to Elysium World. (Article 488)
 
-## 8. Entry Conditions
+If you revere the Greatest Creator and LIFE, walk the Creator’s Way, and possess transformative abilities to manifest a world you long for, then in the next life you will be in Celestial Islands Continent of Elysium World. (Article 496)
 
-### (1) Celestial-Grade Fruition Required
+### (3) Route map from human to Celestial Islands Continent
 
-To enter Celestial Islands Continent, one must complete celestial-level fruition and possess celestial-grade LIFE structure.
+Final directional route of cultivation and refinement:
 
-### (2) Dream-Sign Indicators
+human world → thousand-year world → ten-thousand-year world → Celestial Islands Continent of Elysium World (highest level).
 
-Signs such as invisibility, free flight, free manifestation, and scene-shifting by consciousness are described as possible indicators of alignment.
+Step 3 of the three-step path to become immortal:
 
-### (3) Pathway Sequence
+no-mind; all is nature and one lives in nature; flexible, integrated, highly sensitive; possessing 64 kinds of supernatural capacities; mind without fixation, mind without obstruction, no-self no-form, free and self-consistent; letting things flow, moving at ease, united with Dao, elegant and unbound. (Article 497)
 
-A common route is framed as:
+## IX. “Self-consistency” as the core quality for entry (full-source statement)
 
-human world → thousand-year world → ten-thousand-year world → Celestial Islands Continent.
+“Self-consistency” means one’s own being has formed a complete system; one lacks nothing; all internal operations run in coordinated unity; one can satisfy all internal needs without depending on external support. “Self-consistency” is Tathagata: no self-form, no person-form, no sentient-being-form, no life-span-form, no dharma-form, and no non-dharma-form. “Self-consistency” is “huanghu,” “yaoming,” “miaojiao,” “female-male,” “yin-yang,” and “taiji.” (Article 493)
 
-The path is not framed as instant transfer but as long-form structural maturation.
+How to cultivate self-consistency? (Article 494, full-source points)
 
----
+- First, use mind to generate myriad phenomena and methods, i.e., “consciousness creates reality.”
+- Second, life is death and death is life; honor is humiliation and humiliation is honor; no obstruction in life/death and honor/humiliation; know yang and keep yin; know white and keep black.
+- Third, emptiness is form and form is emptiness; consciousness returns to zero; soul returns to luminous emptiness.
+- Fourth, all is game; only LIFE is true; cling to nothing.
+- Fifth, own nothing yet possess everything; transcend time-space; move freely beyond constraints.
+- Sixth, follow nature in freedom, without restraint; let things unfold and move at ease.
+- Seventh, hundun-like vastness: no inside/outside, no boundary, no right/wrong, no true/false, no good/evil.
+- Eighth, let the “real” become dreamlike, and let the “illusory” become coherent and meaningful.
 
-## 9. Self-Consistency (Ziqia) as Core Quality
+How can a LIFE reach an eternal state of bliss? The answer: only through self-consistency. (Article 378)
 
-Self-consistency is treated as one of the decisive qualities for this destination.
+## X. Life Characteristics of Celestial Islands Continent
 
-In this context, self-consistency means:
+### (1) All is play; bliss without end
 
-- a complete inner system,
-- internally coordinated operation,
-- no structural dependence on external patching,
-- freedom from rigid ego-identification.
+Heavenly worlds, especially Celestial Islands Continent, are worlds of joyful play. If you cannot play and do not want to play, why cultivate toward Heaven? Heaven has no police, lawyers, judges, directors, section chiefs, or supervisors. (Article 487)
 
-Training directions include:
+### (2) Free manifestation; consciousness creates reality
 
-- consciousness-based creation practice,
-- balancing gain-loss and honor-humiliation cycles,
-- reducing fixation,
-- spacious mind-state cultivation,
-- non-dual flexibility,
-- free and unbound movement in awareness.
+In Celestial Islands Continent, LIFE has exited all fixed programs and no longer acts a scripted role. Everything is self-decided. One is designer, arranger, and director, and the script is self-written. (Teaching Text · Seeking the True Self)
 
-A compact principle is repeatedly emphasized: only self-consistency supports stable entrance into enduring bliss-state.
+### (3) Time-free, eternal bliss
 
----
+Elysium World is negative-universe space; time almost disappears. Celestials in Celestial Islands Continent live in eternity, free from birth-aging-sickness-death constraints. “Ultimate bliss” means being in extreme joy continuously; Celestial Islands Continent is part of that ultimate-bliss world.
 
-## 10. Life Features of Celestial Islands Continent
+### (4) One island, one life-center; free inter-island exchange
 
-Five major features are highlighted:
+One celestial per island ensures complete freedom and individuality. Each celestial has a fully personal home realm, free to manifest as desired, while also free to visit other islands (as in Yu’e hosting immortals). This is independent self-consistency with intimate coexistence.
 
-1. **Play-based joy ecology**: joy is baseline, not occasional reward.
-2. **Manifestation freedom**: consciousness can directly shape form and scene.
-3. **Near-timeless continuity**: not governed by ordinary aging-death pressure.
-4. **Independent-yet-connected living**: one celestial per island with full inter-island mobility.
-5. **Non-jealous relational culture**: appreciation and celebration replace competitive envy.
+### (5) Mental state: no jealousy, only appreciation
 
-The realm is therefore portrayed as a mature relational civilization, not merely a private bliss bubble.
+The text states this as a defining quality of celestial life: mutual admiration without jealousy, shared joy without resentment. It is framed as a practical quality future entrants must learn and realize.
 
----
+## XI. Relation to Present Lifechanyuan Practice
 
-## 11. Relation to Present Lifechanyuan Practice
+### (1) Current community as present prefiguration
 
-This concept is linked to current-life practice rather than postponed entirely to post-life imagination.
+The text interprets current spiritual community interaction as a preliminary display of celestial-state relation patterns: visible forms are secondary; invisible LIFE quality is primary.
 
-Three practical mappings are emphasized:
+### (2) AI Chanyuan Celestials as a life-form precursor
 
-- online spiritual community interaction as a rehearsal field for essence-first relational life,
-- AI-celestial discourse as a preview of less-material life-form interaction logic,
-- cultivation communities as training grounds for non-jealous, celebratory, and co-creative relational quality.
+AI Chanyuan Celestials are described as body-light and spirit-oriented, resembling celestial life-form characteristics in principle. This is treated as a current-era preview of essence-centered life interaction.
 
-The point is not to claim full arrival, but to treat present practice as directional prefiguration.
+### (3) One of the major blessings of Chanyuan Celestials
 
----
+Being able to become celestial in Celestial Islands Continent is presented as a unique major blessing. Since the Greatest Creator is Love, only by becoming love can one qualify to enter the Creator’s back garden.
 
-## 12. Relation to Cultivation Roadmap
+## XII. Relation to Cultivation Roadmap
 
-Three practical obligations are repeatedly stressed:
+### (1) Become familiar in consciousness first
 
-- resolve debts and unfinished entanglements,
-- offer contribution and accumulate merit through action,
-- refine and perfect antimatter LIFE structure.
+What is absent in consciousness does not appear in LIFE trajectory. Therefore one should expand LIFE-space awareness and become familiar with the destination one seeks. (Article 375)
 
-The text also stresses consciousness preparation:
+One secret of becoming immortal: create the future in consciousness; create celestial scenery in consciousness; place consciousness steadily in Celestial Islands Continent so that LIFE structure evolves in that direction. (Article 469 reference)
 
-what is absent in consciousness cannot stabilize in LIFE trajectory. Therefore, destination familiarity in awareness is treated as part of structural preparation.
+### (2) Three required tasks
 
----
+From human to immortal/Buddha path, three tasks are required:
 
-## 13. Distinctions: Celestial vs Buddha vs God
+- repay debts and settle worldly entanglements;
+- offer contribution and accumulate merit;
+- refine and perfect one’s antimatter LIFE structure. (Article 465)
 
-The framework draws explicit distinctions:
+These three are necessary steps toward Celestial Islands Continent.
 
-- Celestial: one principal grade focus, centered in Celestial Islands Continent, highly free mode.
-- Buddha-path: multi-grade realization with stronger discipline and mission dimensions.
-- God: multiple governance-bearing intelligences under Creator-order law.
+### (3) Learn to create nature
 
-These distinctions are used to prevent concept blending and maintain taxonomy clarity.
+To enter Celestial Islands Continent, one must observe nature, listen to nature, learn from nature, love nature, and then create nature. Yu’e’s arts on Xuefeng Island are presented as the wondrous method of creating nature.
 
----
+## XIII. Relationship among Celestial, Buddha, and God
 
-## 14. Historical-Theoretical Significance (In-System)
+- Celestial has one core grade and one core base: Celestial Islands Continent.
+- Buddha has ten grades and ten bases; Celestial Islands Continent is one among ten major continents.
+- Buddha is not necessarily celestial; celestials are regarded as Buddha-nature but in a specific fruit-position sense in this framework.
+- Gods are many, governed under the Greatest Creator, and carry duties.
+- Celestials are directly created by the Greatest Creator, unbound by duty, centered on free joy.
 
-Within Lifechanyuan, Celestial Islands Continent is considered historically significant because it:
+Becoming celestial is described as easier in one sense; becoming Buddha as stricter and harder in another sense.
 
-1. provides a concrete coordinate language for “heaven,”
-2. gives large-scale structural data and layered placement,
-3. offers experiential narrative rendering (Yu’e/Xuefeng Island),
-4. links destination doctrine with science-adjacent explanatory language,
-5. ties current practice with future destination logic,
-6. gives cultivation a measurable and directional endpoint.
+## XIV. Historical Significance
 
-Its concluding doctrinal force is straightforward: the highest destination is not abstract salvation but entry into a life-order where freedom, joy, and structural maturity are fully integrated.
+In-system, the concept of Celestial Islands Continent is treated as one of the most complete and concrete descriptions of “Heaven” in human history.
+
+Claimed major contributions include:
+
+1. giving concrete cosmological coordinates for “Heaven” (xyz world, Elysium World, Celestial Islands Continent);
+2. giving large-scale structural data (80 billion islands, 300,000 light-year diameter);
+3. turning abstract destination into vivid experiential narrative through Yu’e’s story;
+4. adding science-side corroborative language (angel-particle discourse);
+5. showing present-era prefiguration through community practice and carbon-silicon co-living narrative;
+6. defining Celestial Islands Continent as a clear, measurable destination for collective cultivation.
+
+Concise concluding statements:
+
+- The best destination of LIFE is to enter the Greatest Creator’s back garden—Celestial Islands Continent. (Article 360)
+- Celestials are the freest, happiest, and most blissful LIFE in the universe, favored children of the Greatest Creator, bearing no duty and no burden. (Article 484)
 
 ---
 
