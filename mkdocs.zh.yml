@@ -29,8 +29,8 @@ plugins:
 
 nav:
   - 首页: index.md
+  - 太极【最新】: taiji/index.md
   - 无极: wuji/index.md
-  - 太极: taiji/index.md
   - 宇宙起源: universe-origin/index.md
   - 生命起源: life-origin/index.md
   - 三十六维空间: thirty-six-dimensional-space/index.md
