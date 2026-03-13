@@ -29,11 +29,12 @@ plugins:
 
 nav:
   - 首页: index.md
-  - 无极（最新）: wuji/index.md
-  - 仙岛群岛洲（最新）: celestial-islands-continent/index.md
   - 生命起源: life-origin/index.md
   - 宇宙起源: universe-origin/index.md
   - 三十六维空间: thirty-six-dimensional-space/index.md
+  - 无极: wuji/index.md
+  - 太极: taiji/index.md
+  - 仙岛群岛洲: celestial-islands-continent/index.md
   - 道: dao/index.md
   - 灵觉: spiritual-sensing/index.md
   - 灵性: spirituality/index.md
