@@ -29,6 +29,9 @@ plugins:
 
 nav:
   - Home: index.md
+  - Cosmic Origin (Latest): universe-origin/index.md
+  - Origin of LIFE (Latest): life-origin/index.md
+  - Celestial Islands Continent (Latest): celestial-islands-continent/index.md
   - Thirty-Six-Dimensional Space (Latest): thirty-six-dimensional-space/index.md
   - Dao: dao/index.md
   - Spiritual Sensing: spiritual-sensing/index.md
@@ -40,6 +43,7 @@ nav:
   - Elysium World: elysium-world/index.md
   - Ten-thousand-year World: ten-thousand-year-world/index.md
   - Antimatter Structure: antimatter-structure/index.md
+  - Nonmaterial World: antimatter-world/index.md
   - Lifechanyuan: lifechanyuan/index.md
   - The Greatest Creator: shangdi/index.md
   - Second Home: second-home/index.md
