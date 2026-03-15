@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Structure [NEW]: structure/index.md
+  - Energy [NEW]: energy/index.md
+  - Structure: structure/index.md
   - Consciousness: consciousness/index.md
   - Tour Guide Route Map: tour-guide-route-map/index.md
   - Negative Universe: negative-universe/index.md
