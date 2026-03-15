@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - 首页: index.md
-  - 导游路线图【最新】: tour-guide-route-map/index.md
+  - 意识【最新】: consciousness/index.md
+  - 导游路线图: tour-guide-route-map/index.md
   - 负宇宙: negative-universe/index.md
   - 反物质世界: antimatter-world/index.md
   - 太极: taiji/index.md
