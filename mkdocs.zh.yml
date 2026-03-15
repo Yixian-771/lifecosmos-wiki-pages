@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - 首页: index.md
-  - 结构【最新】: structure/index.md
+  - 能量【最新】: energy/index.md
+  - 结构: structure/index.md
   - 意识: consciousness/index.md
   - 导游路线图: tour-guide-route-map/index.md
   - 负宇宙: negative-universe/index.md
