@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Tour Guide Route Map [NEW]: tour-guide-route-map/index.md
+  - Consciousness [NEW]: consciousness/index.md
+  - Tour Guide Route Map: tour-guide-route-map/index.md
   - Negative Universe: negative-universe/index.md
   - Nonmaterial World: antimatter-world/index.md
   - Taiji: taiji/index.md
