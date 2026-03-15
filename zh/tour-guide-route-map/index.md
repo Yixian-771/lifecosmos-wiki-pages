@@ -16,11 +16,11 @@
 
 ## 阅读版本
 
-### [内部版](/zh/tour-guide-route-map/internal)
-
 ### [友好版](/zh/tour-guide-route-map/friendly)
 
 ### [学术版](/zh/tour-guide-route-map/academic)
+
+### [内部版](/zh/tour-guide-route-map/internal)
 
 ---
 
