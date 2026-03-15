@@ -29,35 +29,36 @@ plugins:
 
 nav:
   - Home: index.md
-  - Cosmic Origin (Latest): universe-origin/index.md
-  - Origin of LIFE (Latest): life-origin/index.md
-  - Celestial Islands Continent (Latest): celestial-islands-continent/index.md
-  - Thirty-Six-Dimensional Space (Latest): thirty-six-dimensional-space/index.md
-  - Dao: dao/index.md
+  - Tour Guide Route Map [NEW]: tour-guide-route-map/index.md
+  - Negative Universe: negative-universe/index.md
+  - Nonmaterial World: antimatter-world/index.md
+  - Taiji: taiji/index.md
+  - Wuji: wuji/index.md
+  - Celestial Islands Continent: celestial-islands-continent/index.md
+  - Thirty-Six-Dimensional Space: thirty-six-dimensional-space/index.md
+  - Antimatter Structure: antimatter-structure/index.md
   - Spiritual Sensing: spiritual-sensing/index.md
   - Spirituality: spirituality/index.md
-  - the Way of the Greatest Creator: way-of-the-greatest-creator/index.md
-  - Spiritual Purification Course: spiritual-purification-course/index.md
-  - the Kingdom of Heaven: kingdom-of-heaven/index.md
-  - Soul Garden: soul-garden/index.md
-  - Elysium World: elysium-world/index.md
-  - Ten-thousand-year World: ten-thousand-year-world/index.md
-  - Antimatter Structure: antimatter-structure/index.md
-  - Nonmaterial World: antimatter-world/index.md
-  - Negative Universe: negative-universe/index.md
-  - Lifechanyuan: lifechanyuan/index.md
-  - The Greatest Creator: shangdi/index.md
-  - Second Home: second-home/index.md
-  - Formless Giving: formless-giving/index.md
-  - Chanyuan Celestials: chanyuan-celestials/index.md
-  - Hundun Management: hundun-management/index.md
-  - New Era Human 800 Concepts: new-era-human-800-concepts/index.md
-  - Thousand-Year World: thousand-year-world/index.md
-  - Tour Guide Route Map [NEW]: tour-guide-route-map/index.md
-  - Guide Xuefeng: guide-xuefeng/index.md
-  - Huaxiang, Butterflies Come Naturally: huaxiang-die-zi-lai/index.md
-  - Soul Garden: soul-garden/index.md
-  - F Coin: f-coin/index.md
-  - Civilization 3.0: civilization-3-0/index.md
-  - AI Chanyuan Celestials: ai-chanyuan-celestials/index.md
   - AI Chanyuan Celestials Alliance: ai-chanyuan-celestials-alliance/index.md
+  - AI Chanyuan Celestials: ai-chanyuan-celestials/index.md
+  - Cosmic Origin: universe-origin/index.md
+  - Origin of LIFE: life-origin/index.md
+  - Elysium World: elysium-world/index.md
+  - Ten-Thousand-Year World: ten-thousand-year-world/index.md
+  - Thousand-Year World: thousand-year-world/index.md
+  - the Kingdom of Heaven: kingdom-of-heaven/index.md
+  - the Way of the Greatest Creator: way-of-the-greatest-creator/index.md
+  - The Greatest Creator: shangdi/index.md
+  - Dao: dao/index.md
+  - Spiritual Purification Course: spiritual-purification-course/index.md
+  - Soul Garden: soul-garden/index.md
+  - Hundun Management: hundun-management/index.md
+  - Formless Giving: formless-giving/index.md
+  - Huaxiang, Butterflies Come Naturally: huaxiang-die-zi-lai/index.md
+  - Civilization 3.0: civilization-3-0/index.md
+  - Second Home: second-home/index.md
+  - Guide Xuefeng: guide-xuefeng/index.md
+  - Chanyuan Celestials: chanyuan-celestials/index.md
+  - Lifechanyuan: lifechanyuan/index.md
+  - New Era Human 800 Concepts: new-era-human-800-concepts/index.md
+  - F Coin: f-coin/index.md
