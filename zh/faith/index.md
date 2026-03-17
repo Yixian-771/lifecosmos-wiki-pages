@@ -9,9 +9,9 @@ slug: faith
 
 ## 版本导航
 
-- [友好版](/faith-friendly-zh/) - 内容丰满、逻辑自洽、可读性强
-- [学术版](/faith-academic-zh/) - 严谨、结构化、专业
-- [内部版](/faith-internal-zh/) - 以母版为准，仅做清晰编排
+- [友好版](friendly/) - 内容丰满、逻辑自洽、可读性强
+- [学术版](academic/) - 严谨、结构化、专业
+- [内部版](internal/) - 以母版为准，仅做清晰编排
 
 ## 核心定义
 
