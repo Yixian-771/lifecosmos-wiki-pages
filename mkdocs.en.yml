@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Energy [NEW]: energy/index.md
+  - Faith [NEW]: faith/index.md
+  - Energy: energy/index.md
   - Structure: structure/index.md
   - Consciousness: consciousness/index.md
   - Tour Guide Route Map: tour-guide-route-map/index.md
