@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Love [NEW]: love/index.md
+  - Nature [NEW]: nature/index.md
+  - Love: love/index.md
   - Faith: faith/index.md
   - Energy: energy/index.md
   - Structure: structure/index.md
