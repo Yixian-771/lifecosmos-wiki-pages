@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Faith [NEW]: faith/index.md
+  - Love [NEW]: love/index.md
+  - Faith: faith/index.md
   - Energy: energy/index.md
   - Structure: structure/index.md
   - Consciousness: consciousness/index.md
