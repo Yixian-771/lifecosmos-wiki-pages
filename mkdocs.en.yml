@@ -29,6 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
+  - Truth: truth/index.md
+  - Goodness: goodness/index.md
   - Nature [NEW]: nature/index.md
   - Love: love/index.md
   - Faith: faith/index.md
