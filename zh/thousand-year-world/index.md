@@ -72,9 +72,9 @@
 
 ## 五、关联概念
 
-[万年界](/zh/ten-thousand-year-realm)
+[万年界](/zh/ten-thousand-year-world/)
 
-[极乐界](/zh/bliss-realm)
+[极乐界](/zh/elysium-world/)
 
 [第二家园](/zh/second-home)
 

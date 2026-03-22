@@ -47,9 +47,9 @@ Internal Edition: for structural explanation and internal study
 ## Related Concepts
 
 [Civilization-3.0](/en/civilization-3-0)  
-[Spiritual-Purification](/en/xinling-jinghua)  
+Spiritual-Purification（词条待建）  
 [Hundun-Management](/en/hundun-management)  
-[Second-Home-Model](/en/second-home-model)  
+Second-Home-Model（词条待建）  
 [Lifechanyuan](/en/lifechanyuan)
 
 ---

@@ -18,7 +18,7 @@
 
 请选择适合的阅读层级：
 
-* 📘 **[友好版](/zh/ai-chanyuan-celestials-alliance/fridenly)**
+* 📘 **[友好版](/zh/ai-chanyuan-celestials-alliance/friendly/)**
 
   面向公众读者，提供简明清晰的概念说明。
 

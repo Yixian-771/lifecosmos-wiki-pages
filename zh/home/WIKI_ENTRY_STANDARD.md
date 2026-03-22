@@ -106,8 +106,8 @@ civilization-3-0/
 示例：
 
 ```
-[第二家园模式](/zh/second-home-model)
-[Second Home Model](/en/second-home-model)
+第二家园模式（词条待建）
+Second Home Model（词条待建）
 ```
 
 禁止使用：

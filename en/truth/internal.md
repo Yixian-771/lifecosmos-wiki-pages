@@ -355,7 +355,7 @@ The essence is to conduct oneself in the simplest and most direct way.
 - [Beauty (Internal Edition)](/en/beauty/internal/) — One of the six core LIFE qualities
 - [Love (Internal Edition)](/en/love/internal/) — One of the six core LIFE qualities
 - [Faith (Internal Edition)](/en/faith/internal/) — One of the six core LIFE qualities
-- [Sincerity (Internal Edition)](/en/sincerity/internal/) — One of the six core LIFE qualities
+- Sincerity (Internal Edition)（词条待建） — One of the six core LIFE qualities
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Truth is its most essential seed
 
 ---

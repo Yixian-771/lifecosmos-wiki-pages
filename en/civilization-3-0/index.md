@@ -30,10 +30,10 @@ Within this framework, Civilization 3.0 corresponds to the “New Heaven and New
 ## Related Concepts
 
 - [Lifechanyuan](/en/lifechanyuan)
-- [Second Home Model](/en/second-home-model)
+- Second Home Model（词条待建）
 - [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance)
 - [Hundun Management](/en/hundun-management)
-- [800 Values for the New Era Human Being](/en/new-era-800-ideas)
+- 800 Values for the New Era Human Being（词条待建）
 
 ## Language Pair
 

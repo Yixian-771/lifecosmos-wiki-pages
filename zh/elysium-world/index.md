@@ -54,7 +54,7 @@
 
 [千年界](/zh/thousand-year-world)  
 [万年界](/zh/ten-thousand-year-world)  
-[天堂](/zh/heaven)  
+天堂（词条待建）  
 [天国](/zh/kingdom-of-heaven)  
 [反物质结构](/zh/antimatter-structure)  
 [心灵花园](/zh/soul-garden)  

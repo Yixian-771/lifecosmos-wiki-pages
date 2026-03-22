@@ -51,7 +51,7 @@ For in-system deep reading; full chaptered internal source-aligned content.
 [the Celestial Islands Continent of the Elysium World](/en/celestial-islands-continent)  
 [Antimatter Structure](/en/antimatter-structure)  
 [inner garden of the spirit](/en/soul-garden)  
-[practice and cultivation](/en/practice-cultivation)
+[practice and cultivation](/en/spiritual-purification-course/)
 
 ---
 

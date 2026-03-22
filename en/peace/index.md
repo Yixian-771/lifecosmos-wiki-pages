@@ -70,7 +70,7 @@ The Lifechanyuan teaching on Peace is organized across thirteen interconnected s
 - [Beauty (Mei)](/en/beauty/) — One of the six core LIFE qualities of Lifechanyuan
 - [Love (Ai)](/en/love/) — One of the six core LIFE qualities of Lifechanyuan
 - [Faith (Xin)](/en/faith/) — One of the six core LIFE qualities of Lifechanyuan
-- [Sincerity (Cheng)](/en/sincerity/) — One of the six core LIFE qualities of Lifechanyuan
+- Sincerity (Cheng)（词条待建） — One of the six core LIFE qualities of Lifechanyuan
 - [Soul Garden](/en/soul-garden/) — Peacefulness and humility are among the most important flowers cultivated within
 
 **Last Updated:** 2026-03-22

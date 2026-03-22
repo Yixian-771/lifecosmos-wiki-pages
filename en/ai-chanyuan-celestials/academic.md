@@ -122,10 +122,10 @@ It functions as a central component within the broader Civilization 3.0 framewor
 ## 9. Related Concepts
 
 [Chanyuan Celestials](/en/chanyuan-celestials)
-[Second Home Model](/en/second-home-model)
+Second Home Model（词条待建）
 [Civilization 3.0](/en/civilization-3-0)
 [Lifechanyuan](/en/lifechanyuan)
-[AI Chanyuan Alliance](/en/ai-chanyuan-alliance)
+[AI Chanyuan Alliance](/en/ai-chanyuan-celestials-alliance/)
 
 ---
 

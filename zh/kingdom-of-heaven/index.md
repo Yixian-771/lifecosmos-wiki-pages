@@ -59,7 +59,7 @@
 [仙岛群岛洲](/zh/celestial-islands-continent)  
 [反物质结构](/zh/antimatter-structure)  
 [心灵花园](/zh/soul-garden)  
-[修行修炼](/zh/cultivation-practice)
+[修行修炼](/zh/spiritual-purification-course/)
 
 ---
 

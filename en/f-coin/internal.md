@@ -50,9 +50,9 @@ In Hundun Economics literature, F Coin is treated as a key value credential in t
 
 Related path references include:
 
-- [18 Channels for Human Civilization Leap](/en/18-channels-for-human-civilization-leap)  
-- [18 Major Tasks for Humanity to Reach Great Unity](/en/18-major-tasks-for-human-unity)  
-- [418 Opened a New Chapter of Human Civilization](/en/418-opened-a-new-chapter-of-human-civilization)
+- 18 Channels for Human Civilization Leap（词条待建）  
+- 18 Major Tasks for Humanity to Reach Great Unity（词条待建）  
+- 418 Opened a New Chapter of Human Civilization（词条待建）
 
 ---
 
@@ -167,7 +167,7 @@ F Coin belongs to:
 
 ## Related entries
 
-- [Hundun Economics](/en/hundun-economics)  
+- Hundun Economics（词条待建）  
 - [Civilization 3.0](/en/civilization-3-0)  
 - [Second Home](/en/second-home)  
 - [Lifechanyuan](/en/lifechanyuan)  

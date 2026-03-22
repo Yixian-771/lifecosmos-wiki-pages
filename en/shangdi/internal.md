@@ -200,15 +200,15 @@ The orderly operation of the solar system, the distance between Earth and the Su
 
 [Wuji](/en/wuji)  
 [Taiji](/en/taiji)  
-[Tao (the Way)](/en/tao)  
+[Tao (the Way)](/en/dao/)  
 [Consciousness](/en/consciousness)  
-[Supreme Pure Land](/en/supreme-pure-land)  
-[Celestial Beings](/en/celestial-beings)  
-[Jesus](/en/jesus)  
-[Satan](/en/satan)  
-[The Way of the Greatest Creator](/en/way-of-greatest-creator)  
-[Revering the Greatest Creator](/en/revering-greatest-creator)  
-[36-Dimensional Space](/en/36-dimensional-space)
+Supreme Pure Land（词条待建）  
+Celestial Beings（词条待建）  
+Jesus（词条待建）  
+Satan（词条待建）  
+[The Way of the Greatest Creator](/en/way-of-the-greatest-creator/)  
+Revering the Greatest Creator（词条待建）  
+[36-Dimensional Space](/en/thirty-six-dimensional-space/)
 
 ---
 

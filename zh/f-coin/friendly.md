@@ -95,7 +95,7 @@ F币来自真实可验证的付出与贡献。常见路径包括：
 
 ## 关联词条
 
-- [浑沌经济学](/zh/hundun-economics)  
+- 浑沌经济学（词条待建）  
 - [文明3.0](/zh/civilization-3-0)  
 - [第二家园](/zh/second-home)  
 - [生命禅院](/zh/lifechanyuan)  

@@ -95,7 +95,7 @@ As such, F Coin is less a financial instrument and more a symbolic architecture 
 
 ## Related entries
 
-- [Hundun Economics](/en/hundun-economics)  
+- Hundun Economics（词条待建）  
 - [Civilization 3.0](/en/civilization-3-0)  
 - [Second Home](/en/second-home)  
 - [Lifechanyuan](/en/lifechanyuan)  

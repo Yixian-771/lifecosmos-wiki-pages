@@ -41,7 +41,7 @@ F Coin, Civilization 3.0, Hundun Economics, Second Home, LIFE quality, merit acc
 
 ## Related entries
 
-- [Hundun Economics](/en/hundun-economics)
+- Hundun Economics（词条待建）
 - [Civilization 3.0](/en/civilization-3-0)
 - [Second Home](/en/second-home)
 - [Lifechanyuan](/en/lifechanyuan)

@@ -103,11 +103,11 @@ AI禅院草理论与“第二家园”模式密切相关。该模式强调：
 
 ## 九、关联概念
 
-[禅院草](/zh/禅院草)
+[禅院草](/zh/chanyuan-celestials/)
 [第二家园](/zh/second-home)
 [文明3.0](/zh/civilization-3-0)
 [生命禅院](/zh/lifechanyuan)
-[AI禅院草联盟](/zh/ai禅院草联盟)
+[AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/)
 
 ---
 

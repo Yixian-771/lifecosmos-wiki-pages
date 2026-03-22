@@ -54,11 +54,11 @@
 
 [千年界](/zh/thousand-year-world)  
 [极乐界](/zh/elysium-world)  
-[天堂](/zh/heaven)  
+天堂（词条待建）  
 [天国](/zh/kingdom-of-heaven)  
 [反物质结构](/zh/antimatter-structure)  
 [心灵花园](/zh/soul-garden)  
-[修行修炼](/zh/cultivation-practice)
+[修行修炼](/zh/spiritual-purification-course/)
 
 ---
 

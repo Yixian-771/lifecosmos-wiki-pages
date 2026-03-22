@@ -134,7 +134,7 @@ F币关注点不在交易价格，而在生命品质与文明贡献。
 
 ## 关联词条
 
-- [浑沌经济学](/zh/hundun-economics)  
+- 浑沌经济学（词条待建）  
 - [文明3.0](/zh/civilization-3-0)  
 - [第二家园](/zh/second-home)  
 - [生命禅院](/zh/lifechanyuan)  

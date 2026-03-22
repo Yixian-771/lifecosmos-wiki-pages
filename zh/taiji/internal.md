@@ -254,4 +254,4 @@
 - [道（内部版）](/zh/dao/internal)
 - [上帝之道（内部版）](/zh/way-of-the-greatest-creator/internal)
 - [三十六维空间（内部版）](/zh/thirty-six-dimensional-space/internal)
-- [自洽（内部版）](/zh/self-consistency/internal)
+- 自洽（内部版）（词条待建）

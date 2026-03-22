@@ -300,7 +300,7 @@ These theoretical contributions position Lifechanyuan's concept of Peace as a di
 - [Beauty (Academic Edition)](/en/beauty/academic/) — One of the six core LIFE qualities of Lifechanyuan
 - [Love (Academic Edition)](/en/love/academic/) — One of the six core LIFE qualities of Lifechanyuan
 - [Faith (Academic Edition)](/en/faith/academic/) — One of the six core LIFE qualities of Lifechanyuan
-- [Sincerity (Academic Edition)](/en/sincerity/academic/) — One of the six core LIFE qualities of Lifechanyuan
+- Sincerity (Academic Edition)（词条待建） — One of the six core LIFE qualities of Lifechanyuan
 - [Soul Garden (Academic Edition)](/en/soul-garden/academic/) — The cultivation space in which Peace is grown and protected
 
 **Last Updated:** 2026-03-22  

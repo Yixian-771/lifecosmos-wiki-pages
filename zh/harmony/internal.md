@@ -249,7 +249,7 @@ parent: 和
 - [美（内部版）](/zh/beauty/internal/) - 生命禅院六大核心生命品质之一
 - [爱（内部版）](/zh/love/internal/) - 生命禅院六大核心生命品质之一
 - [信（内部版）](/zh/faith/internal/) - 生命禅院六大核心生命品质之一
-- [诚（内部版）](/zh/sincerity/internal/) - 生命禅院六大核心生命品质之一
+- 诚（内部版）（词条待建） - 生命禅院六大核心生命品质之一
 - [心灵花园（内部版）](/zh/soul-garden/internal/) - 和在其中作为重要花卉之一
 
 ---

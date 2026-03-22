@@ -315,7 +315,7 @@ Xuefeng's most refined summary: **Beauty lies in symmetrical proportion, and bea
 - [Goodness (Internal Edition)](/en/goodness/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Love (Internal Edition)](/en/love/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Faith (Internal Edition)](/en/faith/internal/) — One of the six core LIFE qualities of Lifechanyuan
-- [Sincerity (Internal Edition)](/en/sincerity/internal/) — One of the six core LIFE qualities of Lifechanyuan
+- Sincerity (Internal Edition)（词条待建） — One of the six core LIFE qualities of Lifechanyuan
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Beauty is one of the most important flowers cultivated within
 
 ---

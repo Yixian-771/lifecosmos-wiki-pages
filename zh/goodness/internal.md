@@ -257,5 +257,5 @@ parent: 善
 **相关词条：**
 - [善（友好版）](friendly/)
 - [善（学术版）](academic/)
-- [真](/zh/truth/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) | [诚](/zh/sincerity/)
+- [真](/zh/truth/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) | 诚（词条待建）
 - [心灵花园](/zh/soul-garden/)

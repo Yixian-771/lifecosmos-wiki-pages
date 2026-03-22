@@ -72,9 +72,9 @@ Use for: Comprehensive understanding, in-depth study, cultivation reference.
 
 ## Related Concepts
 
-[the Ten-thousand-year World](/en/ten-thousand-year-realm)
+[the Ten-thousand-year World](/en/ten-thousand-year-world/)
 
-[the Elysium World](/en/bliss-realm)
+[the Elysium World](/en/elysium-world/)
 
 [Second Home](/en/second-home)
 
@@ -82,7 +82,7 @@ Use for: Comprehensive understanding, in-depth study, cultivation reference.
 
 [New Era Human 800 Concepts](/en/new-era-human-800-concepts)
 
-[Chanyuan Celestials](/en/chanyuan-Celestial Beings)
+Chanyuan Celestials（词条待建）
 
 ## Language Pair
 

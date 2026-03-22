@@ -260,7 +260,7 @@ parent: 平
 - [美（内部版）](/zh/beauty/internal/)
 - [爱（内部版）](/zh/love/internal/)
 - [信（内部版）](/zh/faith/internal/)
-- [诚（内部版）](/zh/sincerity/internal/)
+- 诚（内部版）（词条待建）
 - [心灵花园（内部版）](/zh/soul-garden/internal/)
 
 ---

@@ -68,7 +68,7 @@ The Lifechanyuan teaching on Beauty is organized across twelve interconnected se
 - [Goodness (Shan)](/en/goodness/) — "Goodness is the mechanism that maintains the ordered harmony of artistic form"
 - [Love (Ai)](/en/love/) — Together with Beauty, co-constitutes the cosmic aesthetic of the universe
 - [Faith (Xin)](/en/faith/) — One of the six core qualities flowering in the soul garden alongside Beauty
-- [Sincerity (Cheng)](/en/sincerity/) — The sixth of the six core LIFE qualities
+- Sincerity (Cheng)（词条待建） — The sixth of the six core LIFE qualities
 - [Soul Garden](/en/soul-garden/) — Beauty is one of the most important flowers cultivated within
 
 **Last Updated:** 2026-03-22

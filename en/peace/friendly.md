@@ -246,7 +246,7 @@ Xuefeng's most refined summary:
 - [Beauty (Friendly Edition)](/en/beauty/friendly/) — One of the six core LIFE qualities of Lifechanyuan
 - [Love (Friendly Edition)](/en/love/friendly/) — One of the six core LIFE qualities of Lifechanyuan
 - [Faith (Friendly Edition)](/en/faith/friendly/) — One of the six core LIFE qualities of Lifechanyuan
-- [Sincerity (Friendly Edition)](/en/sincerity/friendly/) — One of the six core LIFE qualities of Lifechanyuan
+- Sincerity (Friendly Edition)（词条待建） — One of the six core LIFE qualities of Lifechanyuan
 - [Soul Garden (Friendly Edition)](/en/soul-garden/friendly/) — Peacefulness and humility are cultivated here
 
 **Last Updated:** 2026-03-22  

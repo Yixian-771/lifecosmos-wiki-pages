@@ -262,7 +262,7 @@ Xuefeng's most refined summary: **Health, peacefulness, joy, contentment, and tr
 - [Beauty (Internal Edition)](/en/beauty/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Love (Internal Edition)](/en/love/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Faith (Internal Edition)](/en/faith/internal/) — One of the six core LIFE qualities of Lifechanyuan
-- [Sincerity (Internal Edition)](/en/sincerity/internal/) — One of the six core LIFE qualities of Lifechanyuan
+- Sincerity (Internal Edition)（词条待建） — One of the six core LIFE qualities of Lifechanyuan
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Peacefulness and humility are among the most important flowers cultivated within
 
 ---

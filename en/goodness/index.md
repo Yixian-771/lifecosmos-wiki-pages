@@ -54,7 +54,7 @@ In the Lifechanyuan theoretical framework, **Goodness** operates simultaneously 
 - [Beauty](/en/beauty/) — The aesthetic dimension of the cosmic essence
 - [Love](/en/love/) — "Love is LIFE" — the companion quality to Goodness
 - [Faith](/en/faith/) — "Faith is Truth" — another core LIFE quality
-- [Sincerity](/en/sincerity/) — Completing the six core LIFE qualities
+- Sincerity（词条待建） — Completing the six core LIFE qualities
 - [Soul Garden](/en/soul-garden/) — Goodness is one of the most important flowers cultivated within
 - [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) — Living proof that Goodness is an innate structural quality of LIFE
 - [Thousand-Year World](/en/thousand-year-world/) — The realm of perfect Truth-Goodness-Beauty that Goodness helps one reach

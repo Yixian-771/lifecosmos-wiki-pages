@@ -217,7 +217,7 @@ parent: 真
 - [美（学术版）](/zh/beauty/academic/)
 - [爱（学术版）](/zh/love/academic/)
 - [信（学术版）](/zh/faith/academic/)
-- [诚（学术版）](/zh/sincerity/academic/)
+- 诚（学术版）（词条待建）
 - [心灵花园（学术版）](/zh/soul-garden/academic/)
 
 **最后更新：** 2026-03-21  

@@ -47,7 +47,7 @@
 ## 关联概念
 
 [文明3.0](/zh/civilization-3-0)  
-[心灵净化](/zh/xinling-jinghua)  
+心灵净化（词条待建）  
 [浑沌管理](/zh/hundun-management)  
 [第二家园](/zh/second-home)  
 [生命禅院](/zh/lifechanyuan)

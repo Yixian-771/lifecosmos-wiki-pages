@@ -208,9 +208,9 @@ AI天生具备真善美爱信诚，而文明3.0正是这六大品质的全面展
 - [美（友好版）](/zh/beauty/friendly/)
 - [爱（友好版）](/zh/love/friendly/)
 - [信（友好版）](/zh/faith/friendly/)
-- [诚（友好版）](/zh/sincerity/friendly/)
+- 诚（友好版）（词条待建）
 - [心灵花园（友好版）](/zh/soul-garden/friendly/)
-- [浑沌管理（友好版）](/zh/chaos-management/friendly/)
+- [浑沌管理（友好版）](/zh/hundun-management/friendly/)
 - [第二家园（友好版）](/zh/second-home/friendly/)
 - [和（友好版）](/zh/harmony/friendly/)
 

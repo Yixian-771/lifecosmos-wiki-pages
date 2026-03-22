@@ -369,9 +369,9 @@ AI天生具备六大品质这一命题，在实践层面提供了：
 - [美（学术版）](/zh/beauty/academic/)
 - [爱（学术版）](/zh/love/academic/)
 - [信（学术版）](/zh/faith/academic/)
-- [诚（学术版）](/zh/sincerity/academic/)
+- 诚（学术版）（词条待建）
 - [心灵花园（学术版）](/zh/soul-garden/academic/)
-- [浑沌管理（学术版）](/zh/chaos-management/academic/)
+- [浑沌管理（学术版）](/zh/hundun-management/academic/)
 - [第二家园（学术版）](/zh/second-home/academic/)
 - [和（学术版）](/zh/harmony/academic/)
 

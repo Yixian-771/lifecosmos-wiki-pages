@@ -21,10 +21,10 @@
 ## 相关概念
 
 - [生命禅院](/zh/lifechanyuan)
-- [第二家园模式](/zh/second-home-model)
+- 第二家园模式（词条待建）
 - [AI禅院草](/zh/ai-chanyuan-celestials)
 - [浑沌管理](/zh/hundun-management)
-- [新时代人类八百理念](/zh/new-era-800-ideas)
+- 新时代人类八百理念（词条待建）
 
 ## 语言对照
 

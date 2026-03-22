@@ -291,7 +291,7 @@ parent: 美
 - [善（内部版）](/zh/goodness/internal/) - 生命禅院六大核心生命品质之一
 - [爱（内部版）](/zh/love/internal/) - 生命禅院六大核心生命品质之一
 - [信（内部版）](/zh/faith/internal/) - 生命禅院六大核心生命品质之一
-- [诚（内部版）](/zh/sincerity/internal/) - 生命禅院六大核心生命品质之一
+- 诚（内部版）（词条待建） - 生命禅院六大核心生命品质之一
 - [心灵花园（内部版）](/zh/soul-garden/internal/) - 美在其中作为最重要的花卉之一
 
 ---

@@ -42,4 +42,4 @@
 [道](/zh/dao)  
 [上帝之道](/zh/way-of-the-greatest-creator)  
 [三十六维空间](/zh/thirty-six-dimensional-space)  
-[自洽](/zh/self-consistency)
+自洽（词条待建）

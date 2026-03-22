@@ -47,7 +47,7 @@ For in-system deep reading; complete internal text with full chapter structure.
 
 [the Thousand-year World](/en/thousand-year-world)  
 [the Ten-thousand-year World](/en/ten-thousand-year-world)  
-[Heaven](/en/heaven)  
+Heaven（词条待建）  
 [the Kingdom of Heaven](/en/kingdom-of-heaven)  
 [Antimatter Structure](/en/antimatter-structure)  
 [inner garden of the spirit](/en/soul-garden)  

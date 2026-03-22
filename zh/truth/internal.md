@@ -284,7 +284,7 @@ parent: 真
 - [美（内部版）](/zh/beauty/internal/) - 六大核心生命品质之一
 - [爱（内部版）](/zh/love/internal/) - 六大核心生命品质之一
 - [信（内部版）](/zh/faith/internal/) - 六大核心生命品质之一
-- [诚（内部版）](/zh/sincerity/internal/) - 六大核心生命品质之一
+- 诚（内部版）（词条待建） - 六大核心生命品质之一
 - [心灵花园（内部版）](/zh/soul-garden/internal/) - 真是其中最核心的种子
 
 ---

@@ -64,7 +64,7 @@ At the level of conduct, Truth means "say yes when it is yes, say no when it is 
 - [Beauty](/en/beauty/) — One of the six core LIFE qualities
 - [Love](/en/love/) — One of the six core LIFE qualities
 - [Faith](/en/faith/) — One of the six core LIFE qualities
-- [Sincerity](/en/sincerity/) — One of the six core LIFE qualities
+- Sincerity（词条待建） — One of the six core LIFE qualities
 - [Soul Garden](/en/soul-garden/) — Truth is its most essential seed
 - [Greatest Creator](/en/shangdi/) — The only Truth in the universe
 

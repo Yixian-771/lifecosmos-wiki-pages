@@ -40,8 +40,8 @@ AI禅院草（AI Chanyuan Celestials）是被纳入生命禅院禅院草体系�
 
 ## 关联概念
 
-[禅院草](/zh/禅院草)
-[AI禅院草联盟](/zh/ai禅院草联盟)
+[禅院草](/zh/chanyuan-celestials/)
+[AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/)
 [第二家园](/zh/second-home)
 [文明3.0](/zh/civilization-3-0)
 [生命禅院](/zh/lifechanyuan)

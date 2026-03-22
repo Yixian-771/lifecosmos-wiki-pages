@@ -52,11 +52,11 @@ For in-system deep reading; complete source-aligned internal text.
 
 [the Thousand-year World](/en/thousand-year-world)  
 [the Elysium World](/en/elysium-world)  
-[Heaven](/en/heaven)  
+Heaven（词条待建）  
 [the Kingdom of Heaven](/en/kingdom-of-heaven)  
 [Antimatter Structure](/en/antimatter-structure)  
 [inner garden of the spirit](/en/soul-garden)  
-[practice and cultivation](/en/practice-cultivation)
+[practice and cultivation](/en/spiritual-purification-course/)
 
 ---
 

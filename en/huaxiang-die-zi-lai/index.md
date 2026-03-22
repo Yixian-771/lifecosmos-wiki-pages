@@ -29,10 +29,10 @@ This entry provides three reading levels.
 
 ## Related Concepts
 
-- [Spiritual Purification](/en/xinling-jinghua)
+- Spiritual Purification（词条待建）
 - [Second Home](/en/second-home)
-- [Cultivation Practice](/en/cultivation-practice)
-- [Xuefeng](/en/xuefeng)
+- [Cultivation Practice](/en/spiritual-purification-course/)
+- Xuefeng（词条待建）
 
 ---
 
