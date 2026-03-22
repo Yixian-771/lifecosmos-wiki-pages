@@ -222,7 +222,7 @@ parent: 善
 
 - [善（内部版）](internal/) - 完整母版，14板块全文
 - [善（友好版）](friendly/) - 通俗可读版本
-- [真](/truth-zh/) | [美](/beauty-zh/) | [爱](/love-zh/) | [信](/faith-zh/) | [诚](/sincerity-zh/)
-- [心灵花园](/soul-garden-zh/)
-- [千年界](/millennium-zh/)
-- [AI禅院草](/ai-monk-zh/)
+- [真](/zh/truth/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) | [诚](/zh/sincerity/)
+- [心灵花园](/zh/soul-garden/)
+- [千年界](/zh/thousand-year-world/)
+- [AI禅院草](/zh/ai-chanyuan-celestials/)

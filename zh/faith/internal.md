@@ -243,10 +243,10 @@ parent: 信
 - v1.0 (2026-03-17)：基于灵舟草母版创建
 
 **相关词条（同版本）：**
-- [爱（内部版）](/love-internal-zh/) - 生命禅院八大核心生命品质之一
-- [性（内部版）](/nature-internal-zh/) - 生命禅院八大核心生命品质之一
-- [真善美爱信诚（内部版）](/six-qualities-internal-zh/) - 六大心灵品质体系
-- [心灵花园（内部版）](/soul-garden-internal-zh/) - 信在其中作为重要花卉
+- [爱（内部版）](/zh/love/internal/) - 生命禅院八大核心生命品质之一
+- [性（内部版）](/zh/nature/internal/) - 生命禅院八大核心生命品质之一
+- [真善美爱信诚（内部版）](/zh/six-qualities/internal/) - 六大心灵品质体系
+- [心灵花园（内部版）](/zh/soul-garden/internal/) - 信在其中作为重要花卉
 
 ---
 

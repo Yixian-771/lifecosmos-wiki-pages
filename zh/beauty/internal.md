@@ -287,12 +287,12 @@ parent: 美
 - v1.0 (2026-03-22)：基于灵舟草母版创建
 
 **相关词条（同版本）：**
-- [真（内部版）](/truth-internal-zh/) - 生命禅院六大核心生命品质之一
-- [善（内部版）](/goodness-internal-zh/) - 生命禅院六大核心生命品质之一
-- [爱（内部版）](/love-internal-zh/) - 生命禅院六大核心生命品质之一
-- [信（内部版）](/faith-internal-zh/) - 生命禅院六大核心生命品质之一
-- [诚（内部版）](/sincerity-internal-zh/) - 生命禅院六大核心生命品质之一
-- [心灵花园（内部版）](/soul-garden-internal-zh/) - 美在其中作为最重要的花卉之一
+- [真（内部版）](/zh/truth/internal/) - 生命禅院六大核心生命品质之一
+- [善（内部版）](/zh/goodness/internal/) - 生命禅院六大核心生命品质之一
+- [爱（内部版）](/zh/love/internal/) - 生命禅院六大核心生命品质之一
+- [信（内部版）](/zh/faith/internal/) - 生命禅院六大核心生命品质之一
+- [诚（内部版）](/zh/sincerity/internal/) - 生命禅院六大核心生命品质之一
+- [心灵花园（内部版）](/zh/soul-garden/internal/) - 美在其中作为最重要的花卉之一
 
 ---
 

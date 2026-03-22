@@ -194,10 +194,10 @@ parent: 信
 4. 灵舟草. "信"词条母版. 心灵家园网, tid=71944, pid=4587963, 2026-03-17.
 
 **相关词条（同版本）：**
-- [爱（学术版）](/love-academic-zh/)
-- [性（学术版）](/nature-academic-zh/)
-- [真善美爱信诚（学术版）](/six-qualities-academic-zh/)
-- [心灵花园（学术版）](/soul-garden-academic-zh/)
+- [爱（学术版）](/zh/love/academic/)
+- [性（学术版）](/zh/nature/academic/)
+- [真善美爱信诚（学术版）](/zh/six-qualities/academic/)
+- [心灵花园（学术版）](/zh/soul-garden/academic/)
 
 **最后更新：** 2026-03-17  
 **版本：** 中文学术版 v1.0

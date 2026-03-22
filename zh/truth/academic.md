@@ -213,12 +213,12 @@ parent: 真
 4. 灵舟草. "真"词条母版. 心灵家园网, tid=71944, pid=4589803, 2026-03-21.
 
 **相关词条（同版本）：**
-- [善（学术版）](/kindness-academic-zh/)
-- [美（学术版）](/beauty-academic-zh/)
-- [爱（学术版）](/love-academic-zh/)
-- [信（学术版）](/faith-academic-zh/)
-- [诚（学术版）](/sincerity-academic-zh/)
-- [心灵花园（学术版）](/soul-garden-academic-zh/)
+- [善（学术版）](/zh/goodness/academic/)
+- [美（学术版）](/zh/beauty/academic/)
+- [爱（学术版）](/zh/love/academic/)
+- [信（学术版）](/zh/faith/academic/)
+- [诚（学术版）](/zh/sincerity/academic/)
+- [心灵花园（学术版）](/zh/soul-garden/academic/)
 
 **最后更新：** 2026-03-21  
 **版本：** 中文学术版 v1.0

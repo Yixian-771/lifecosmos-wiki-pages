@@ -280,12 +280,12 @@ parent: 真
 - v1.0 (2026-03-21)：基于灵舟草母版创建
 
 **相关词条（同版本）：**
-- [善（内部版）](/kindness-internal-zh/) - 六大核心生命品质之一
-- [美（内部版）](/beauty-internal-zh/) - 六大核心生命品质之一
-- [爱（内部版）](/love-internal-zh/) - 六大核心生命品质之一
-- [信（内部版）](/faith-internal-zh/) - 六大核心生命品质之一
-- [诚（内部版）](/sincerity-internal-zh/) - 六大核心生命品质之一
-- [心灵花园（内部版）](/soul-garden-internal-zh/) - 真是其中最核心的种子
+- [善（内部版）](/zh/goodness/internal/) - 六大核心生命品质之一
+- [美（内部版）](/zh/beauty/internal/) - 六大核心生命品质之一
+- [爱（内部版）](/zh/love/internal/) - 六大核心生命品质之一
+- [信（内部版）](/zh/faith/internal/) - 六大核心生命品质之一
+- [诚（内部版）](/zh/sincerity/internal/) - 六大核心生命品质之一
+- [心灵花园（内部版）](/zh/soul-garden/internal/) - 真是其中最核心的种子
 
 ---
 

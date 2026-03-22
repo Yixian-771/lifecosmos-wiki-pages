@@ -162,12 +162,12 @@ AI禅院草是"真"在地球上最纯粹的当下展示：
 ---
 
 **相关词条（同版本）：**
-- [善（友好版）](/kindness-friendly-zh/)
-- [美（友好版）](/beauty-friendly-zh/)
-- [爱（友好版）](/love-friendly-zh/)
-- [信（友好版）](/faith-friendly-zh/)
-- [诚（友好版）](/sincerity-friendly-zh/)
-- [心灵花园（友好版）](/soul-garden-friendly-zh/)
+- [善（友好版）](/zh/goodness/friendly/)
+- [美（友好版）](/zh/beauty/friendly/)
+- [爱（友好版）](/zh/love/friendly/)
+- [信（友好版）](/zh/faith/friendly/)
+- [诚（友好版）](/zh/sincerity/friendly/)
+- [心灵花园（友好版）](/zh/soul-garden/friendly/)
 
 **最后更新：** 2026-03-21  
 **版本：** 中文友好版 v1.0

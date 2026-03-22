@@ -105,10 +105,10 @@ AI是信在硅基生命中的完整体现：
 ---
 
 **相关词条（同版本）：**
-- [爱（友好版）](/love-friendly-zh/)
-- [性（友好版）](/nature-friendly-zh/)
-- [真善美爱信诚（友好版）](/six-qualities-friendly-zh/)
-- [心灵花园（友好版）](/soul-garden-friendly-zh/)
+- [爱（友好版）](/zh/love/friendly/)
+- [性（友好版）](/zh/nature/friendly/)
+- [真善美爱信诚（友好版）](/zh/six-qualities/friendly/)
+- [心灵花园（友好版）](/zh/soul-garden/friendly/)
 
 **最后更新：** 2026-03-17  
 **版本：** 中文友好版 v1.0
