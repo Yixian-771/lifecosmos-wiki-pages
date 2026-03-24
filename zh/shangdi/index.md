@@ -1,49 +1,20 @@
-<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: shangdi version: index -->
+---
+title: 上帝
+slug: shangdi
+---
 
 # 上帝
 
----
+**上帝**，在生命禅院理论体系中，是宇宙的创造者与主宰，是太极（宇宙从无极中诞生的第一个有序结构），是道、如来、耶和华、真主安拉的同一本体，是真善美爱信诚的总体属性，是禅院草修行修炼的最高敬畏对象。
 
 ## 版本导航
 
-### 🌿 友好版（建议首次阅读）
+| 版本 | 适合 |
+|------|------|
+| [内部版](internal/) | 体系内核心学习，以母版为准 |
+| [友好版](friendly/) | 首次接触，内容丰满、可读性强 |
+| [学术版](academic/) | 理论研究与引用 |
 
-适合初次接触生命禅院理念的读者，语言平实，重在整体理解。
+## 相关词条
 
-→ [进入友好版](./friendly.md)
-
----
-
-### 📘 学术版
-
-适合理性思考者与研究者阅读，结构清晰，逻辑严谨。
-
-→ [进入学术版](./academic.md)
-
----
-
-### 🔒 内部版
-
-面向禅院草及深度学习者，完整呈现体系结构与核心思想。
-
-→ [进入内部版](./internal.md)
-
----
-
-## 相关核心概念
-
-- [无极](../wuji/index.md)
-- [太极](../taiji/index.md)
-- [道](../dao/index.md)
-- [清凉界](../qingliangjie/index.md)
-- [上帝之道](../way-of-the-greatest-creator/index.md)
-- [敬畏上帝](../jingwei-shangdi/index.md)
-
----
-
-标签：宇宙体系｜导航页
-
-## 语言对照
-
-- English: [/en/shangdi](/en/shangdi)
-
+[无极](/zh/wuji/) · [太极](/zh/taiji/) · [道](/zh/dao/) · [上帝之道](/zh/way-of-the-greatest-creator/)

@@ -1,68 +1,20 @@
-<!-- id: LC-MR-0008 theme: 宇宙生命体系 type: 概念入口 direction: 词条导航 lang: zh -->
+---
+title: 天国天堂
+slug: kingdom-of-heaven
+---
 
 # 天国天堂
 
-【概念入口页】
+**天国天堂**，是生命禅院宇宙生命体系中的总括性概念，由千年界、万年界、极乐界（含仙岛群岛洲）共同构成分层生命空间系统，进入条件强调生命结构与意识状态匹配，是禅院草修行修炼的总目标框架。
 
-天国天堂是生命禅院宇宙生命体系中的总括性概念，通常由千年界、万年界、极乐界（及仙岛群岛洲）共同构成。
+## 版本导航
 
-本词条承担“总入口”功能：用于统一三界关系、修行路径、层级定位与阅读导航。
+| 版本 | 适合 |
+|------|------|
+| [内部版](internal/) | 体系内核心学习，以母版为准 |
+| [友好版](friendly/) | 首次接触，内容丰满、可读性强 |
+| [学术版](academic/) | 理论研究与引用 |
 
-本页为多版本入口页，提供定位、阅读指引与版本链接，不承载完整正文母版细节。
+## 相关词条
 
----
-
-## 一、简要定位
-
-**体系定位**：天国三界与终极归宿结构的总称入口。  
-**结构定位**：千年界 → 万年界 → 极乐界（含仙岛群岛洲）递进体系。  
-**修行定位**：从人生目标到生命目标的总路径框架。
-
----
-
-## 二、核心要点
-
-1. 天国天堂不是单一地点概念，而是分层生命空间系统。  
-2. 三界之间具有层级递进与意识结构对应关系。  
-3. 进入逻辑强调生命结构与意识状态匹配，而非单纯地理迁移。  
-4. 天国叙事与修行修炼、反物质结构、心灵花园深度耦合。  
-5. 仙岛群岛洲作为终极归宿图景，承担目标锚定功能。
-
----
-
-## 三、阅读版本
-
-### [友好版](/zh/kingdom-of-heaven/friendly)
-面向首次接触读者，强调可读性、整体图景与路径感。
-
-### [学术版](/zh/kingdom-of-heaven/academic)
-面向研究视角，强调结构逻辑、层级关系与可比较性。
-
-### [内部版](/zh/kingdom-of-heaven/internal)
-面向体系深读，完整呈现中文内部版母版内容。
-
----
-
-## 四、版本说明
-
-**友好版**：更易懂，帮助快速建立框架。  
-**学术版**：更严谨，适合研究与对照分析。  
-**内部版**：更完整，以母版信息为核心。
-
----
-
-## 五、关联概念
-
-[千年界](/zh/thousand-year-world)  
-[万年界](/zh/ten-thousand-year-world)  
-[极乐界](/zh/elysium-world)  
-[仙岛群岛洲](/zh/celestial-islands-continent)  
-[反物质结构](/zh/antimatter-structure)  
-[心灵花园](/zh/soul-garden)  
-[修行修炼](/zh/spiritual-purification-course/)
-
----
-
-## 语言对照
-
-- English: [/en/kingdom-of-heaven](/en/kingdom-of-heaven)
+[千年界](/zh/thousand-year-world/) · [万年界](/zh/ten-thousand-year-world/) · [极乐界](/zh/elysium-world/) · [仙岛群岛洲](/zh/celestial-islands-continent/) · [反物质结构](/zh/antimatter-structure/) · [心灵花园](/zh/soul-garden/) · [心灵净化课](/zh/spiritual-purification-course/)

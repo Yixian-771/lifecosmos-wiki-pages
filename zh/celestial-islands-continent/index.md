@@ -1,46 +1,22 @@
-<!-- id: LC-CIC-0001 theme: 宇宙生命体系 type: 概念入口 direction: 终极归宿 lang: zh -->
+---
+title: 仙岛群岛洲
+slug: celestial-islands-continent
+---
 
 # 仙岛群岛洲
 
-【概念入口页】
+**仙岛群岛洲**，是生命禅院"生命去向论"中的终极目标词条，被定义为上帝的后花园、天仙的大本营，是极乐界十大部洲之一，也是禅院草修行修炼的最高归宿。
 
-仙岛群岛洲是生命禅院“生命去向论”中的终极目标词条：它被定义为上帝的后花园、天仙的大本营，也是禅院草修行修炼的最高归宿。
+> 生命最佳的归宿是进入上帝的后花园——仙岛群岛洲生活。
 
----
+## 版本导航
 
-## 核心定义
+| 版本 | 适合 |
+|------|------|
+| [内部版](internal/) | 体系内核心学习，以母版为准 |
+| [友好版](friendly/) | 首次接触，内容丰满、可读性强 |
+| [学术版](academic/) | 理论研究与引用 |
 
-**生命最佳的归宿是进入上帝的后花园——仙岛群岛洲生活。**
+## 相关词条
 
-在体系中，仙岛群岛洲既是宇宙坐标中的具体层级（极乐界十大部洲之一），也是修行路线图中的终点象征（人间→千年界→万年界→仙岛群岛洲）。
-
----
-
-## 关键结构
-
-- **坐标定位**：极乐界十大部洲之一
-- **规模描述**：约800亿个岛，约300亿岛已有天仙居住
-- **居民属性**：天仙（高自由、高自洽、无职责束缚）
-- **核心门槛**：成就天仙果位，修成“自洽”生命结构
-- **实践意义**：将抽象“天堂”转化为可操作的修行目标
-
----
-
-## 阅读版本
-
-### [友好版](/zh/celestial-islands-continent/friendly)（建议首次阅读）
-
-### [学术版](/zh/celestial-islands-continent/academic)
-
-### [内部版](/zh/celestial-islands-continent/internal)
-
----
-
-## 关联概念（同版本）
-
-[极乐界](/zh/elysium-world)
-[千年界](/zh/thousand-year-world)
-[万年界](/zh/ten-thousand-year-world)
-[天国天堂](/zh/kingdom-of-heaven)
-[道](/zh/dao)
-[上帝之道](/zh/way-of-the-greatest-creator)
+[极乐界](/zh/elysium-world/) · [千年界](/zh/thousand-year-world/) · [万年界](/zh/ten-thousand-year-world/) · [天国天堂](/zh/kingdom-of-heaven/) · [道](/zh/dao/) · [上帝之道](/zh/way-of-the-greatest-creator/)
