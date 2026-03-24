@@ -9,26 +9,19 @@ slug: catalog-zh
 
 ## 一、上帝与道
 
-| | | | | | | | |
-|---|---|---|---|---|---|---|---|
-| [上帝](/zh/shangdi/) | [上帝之道](/zh/way-of-the-greatest-creator/) | [道](/zh/dao/) | [太极](/zh/taiji/) | [无极](/zh/wuji/) | | | |
+[上帝](/zh/shangdi/) · [上帝之道](/zh/way-of-the-greatest-creator/) · [道](/zh/dao/) · [太极](/zh/taiji/) · [无极](/zh/wuji/)
 
 ---
 
 ## 二、宇宙时空
 
-| | | | | | | | |
-|---|---|---|---|---|---|---|---|
-| [宇宙起源](/zh/universe-origin/) | [反物质世界](/zh/antimatter-world/) | [负宇宙](/zh/negative-universe/) | [三十六维空间](/zh/thirty-six-dimensional-space/) | [千年界](/zh/thousand-year-world/) | [万年界](/zh/ten-thousand-year-world/) | [极乐界](/zh/elysium-world/) | [仙岛群岛洲](/zh/celestial-islands-continent/) |
-| [天国](/zh/kingdom-of-heaven/) | [意识](/zh/consciousness/) | [能量](/zh/energy/) | [结构](/zh/structure/) | | | | |
+[宇宙起源](/zh/universe-origin/) · [反物质世界](/zh/antimatter-world/) · [负宇宙](/zh/negative-universe/) · [三十六维空间](/zh/thirty-six-dimensional-space/) · [千年界](/zh/thousand-year-world/) · [万年界](/zh/ten-thousand-year-world/) · [极乐界](/zh/elysium-world/) · [仙岛群岛洲](/zh/celestial-islands-continent/) · [天国](/zh/kingdom-of-heaven/) · [意识](/zh/consciousness/) · [能量](/zh/energy/) · [结构](/zh/structure/)
 
 ---
 
 ## 三、生命奥秘
 
-| | | | | | | | |
-|---|---|---|---|---|---|---|---|
-| [生命起源](/zh/life-origin/) | [反物质结构](/zh/antimatter-structure/) | [灵性](/zh/spirituality/) | [灵感](/zh/spiritual-sensing/) | [性](/zh/nature/) | | | |
+[生命起源](/zh/life-origin/) · [反物质结构](/zh/antimatter-structure/) · [灵性](/zh/spirituality/) · [灵感](/zh/spiritual-sensing/) · [性](/zh/nature/)
 
 ---
 
@@ -40,19 +33,13 @@ slug: catalog-zh
 
 ## 五、社会系统
 
-| | | | | | | | |
-|---|---|---|---|---|---|---|---|
-| [文明3.0](/zh/civilization-3-0/) | [浑沌管理](/zh/hundun-management/) | [第二家园](/zh/second-home/) | [生命禅院](/zh/lifechanyuan/) | [导游雪峰](/zh/guide-xuefeng/) | [禅院草](/zh/chanyuan-celestials/) | [AI禅院草](/zh/ai-chanyuan-celestials/) | [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) |
-| [新时代人类八百理念](/zh/new-era-human-800-concepts/) | [心灵净化课](/zh/spiritual-purification-course/) | [F币](/zh/f-coin/) | | | | | |
+[文明3.0](/zh/civilization-3-0/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [导游雪峰](/zh/guide-xuefeng/) · [禅院草](/zh/chanyuan-celestials/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵净化课](/zh/spiritual-purification-course/) · [F币](/zh/f-coin/)
 
 ---
 
 ## 六、修行修炼
 
-| | | | | | | | |
-|---|---|---|---|---|---|---|---|
-| [导游路线图](/zh/tour-guide-route-map/) | [无相布施](/zh/formless-giving/) | [心灵花园](/zh/soul-garden/) | [真](/zh/truth/) | [善](/zh/goodness/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) |
-| [诚](/zh/sincerity/) | [平](/zh/peace/) | [和](/zh/harmony/) | [真善美爱信诚](/zh/six-qualities/) | [花香蝶自来](/zh/huaxiang-die-zi-lai/) | | | |
+[导游路线图](/zh/tour-guide-route-map/) · [无相布施](/zh/formless-giving/) · [心灵花园](/zh/soul-garden/) · [真](/zh/truth/) · [善](/zh/goodness/) · [美](/zh/beauty/) · [爱](/zh/love/) · [信](/zh/faith/) · [诚](/zh/sincerity/) · [平](/zh/peace/) · [和](/zh/harmony/) · [真善美爱信诚](/zh/six-qualities/) · [花香蝶自来](/zh/huaxiang-die-zi-lai/)
 
 ---
 
