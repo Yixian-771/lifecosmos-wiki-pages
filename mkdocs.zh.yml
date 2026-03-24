@@ -30,14 +30,17 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
-  - 真: truth/index.md
-  - 善: goodness/index.md
-  - 美: beauty/index.md
-  - 平: peace/index.md
-  - 和: harmony/index.md
-  - 真善美爱信诚: six-qualities/index.md
   - 诚: sincerity/index.md
-  - 能量【最新】: energy/index.md
+  - 真善美爱信诚: six-qualities/index.md
+  - 和: harmony/index.md
+  - 平: peace/index.md
+  - 信: faith/index.md
+  - 爱: love/index.md
+  - 性: nature/index.md
+  - 美: beauty/index.md
+  - 善: goodness/index.md
+  - 真: truth/index.md
+  - 能量: energy/index.md
   - 结构: structure/index.md
   - 意识: consciousness/index.md
   - 导游路线图: tour-guide-route-map/index.md
@@ -73,6 +76,3 @@ nav:
   - 生命禅院: lifechanyuan/index.md
   - 新时代人类八百理念: new-era-human-800-concepts/index.md
   - F币: f-coin/index.md
-  - 性【最新】: nature/index.md
-  - 爱: love/index.md
-  - 信: faith/index.md
