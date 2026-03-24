@@ -46,15 +46,8 @@
 
 ## 关联概念
 
-[文明3.0](/zh/civilization-3-0)  
-心灵净化（词条待建）  
-[浑沌管理](/zh/hundun-management)  
-[第二家园](/zh/second-home)  
-[生命禅院](/zh/lifechanyuan)
-
----
-
-## 体系归属
-主题：结构模型 · Structural-Model  
-类型：体系纲要 · System-Outlines  
-方向：文明3.0 · Civilization-3.0
+[文明3.0](/zh/civilization-3-0/)  
+[心灵净化课](/zh/spiritual-purification-course/)  
+[浑沌管理](/zh/hundun-management/)  
+[第二家园](/zh/second-home/)  
+[生命禅院](/zh/lifechanyuan/)
