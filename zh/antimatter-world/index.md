@@ -48,3 +48,10 @@
 [宇宙起源](/zh/universe-origin)
 [上帝](/zh/shangdi)
 [生命禅院](/zh/lifechanyuan)
+
+## 词条位置
+
+- **所属分类：** 宇宙时空
+- **上位概念：** [三十六维空间](/zh/thirty-six-dimensional-space/)
+- **同级概念：** [负宇宙](/zh/negative-universe/)
+- **下位概念：** [反物质结构](/zh/antimatter-structure/)

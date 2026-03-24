@@ -18,6 +18,13 @@
 - 学术版：[文明3.0·学术版](/zh/civilization-3-0/academic)
 - 内部版：[文明3.0·内部版](/zh/civilization-3-0/internal)
 
+## 词条位置
+
+- **所属分类：** 社会系统
+- **上位概念：** [上帝之道](/zh/way-of-the-greatest-creator/)
+- **同级概念：** 无
+- **下位概念：** [第二家园](/zh/second-home/) · [浑沌管理](/zh/hundun-management/)
+
 ## 相关概念
 
 - [生命禅院](/zh/lifechanyuan)

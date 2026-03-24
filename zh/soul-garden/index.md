@@ -80,3 +80,10 @@
 **主题**：心灵花园 · Soul-Garden  
 **类型**：修行核心 · Cultivation-Core  
 **方向**：心灵净化 · Spiritual-Purification
+
+## 词条位置
+
+- **所属分类：** 修行修炼
+- **上位概念：** 修行修炼（分类）
+- **同级概念：** [心灵净化课](/zh/spiritual-purification-course/)
+- **下位概念：** [真](/zh/truth/) · [善](/zh/goodness/) · [美](/zh/beauty/) · [爱](/zh/love/) · [信](/zh/faith/) · [诚](/zh/sincerity/) · [平](/zh/peace/) · [和](/zh/harmony/)

@@ -100,3 +100,10 @@
 
 - English: [/en/guide-xuefeng](/en/guide-xuefeng)
 
+
+## 词条位置
+
+- **所属分类：** 社会系统
+- **上位概念：** [生命禅院](/zh/lifechanyuan/)
+- **同级概念：** [禅院草](/zh/chanyuan-celestials/)
+- **下位概念：** 无

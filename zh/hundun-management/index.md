@@ -77,3 +77,10 @@
 
 - English: [/en/hundun-management](/en/hundun-management)
 
+
+## 词条位置
+
+- **所属分类：** 社会系统
+- **上位概念：** [文明3.0](/zh/civilization-3-0/)
+- **同级概念：** [第二家园](/zh/second-home/)
+- **下位概念：** 无

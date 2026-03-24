@@ -80,3 +80,10 @@
 
 - English: [/en/second-home](/en/second-home)
 
+
+## 词条位置
+
+- **所属分类：** 社会系统
+- **上位概念：** [文明3.0](/zh/civilization-3-0/)
+- **同级概念：** [浑沌管理](/zh/hundun-management/)
+- **下位概念：** 无

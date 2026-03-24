@@ -75,3 +75,10 @@
 
 - English: [/en/new-era-human-800-concepts](/en/new-era-human-800-concepts)
 
+
+## 词条位置
+
+- **所属分类：** 社会系统
+- **上位概念：** [生命禅院](/zh/lifechanyuan/)
+- **同级概念：** 无
+- **下位概念：** 无

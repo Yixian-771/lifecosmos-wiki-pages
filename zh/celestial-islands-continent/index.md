@@ -44,3 +44,10 @@
 [天国天堂](/zh/kingdom-of-heaven)
 [道](/zh/dao)
 [上帝之道](/zh/way-of-the-greatest-creator)
+
+## 词条位置
+
+- **所属分类：** 宇宙时空
+- **上位概念：** [千年界](/zh/thousand-year-world/)
+- **同级概念：** 无
+- **下位概念：** 无

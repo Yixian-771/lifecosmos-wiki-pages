@@ -50,3 +50,10 @@
 [太极](/zh/taiji)
 [上帝](/zh/shangdi)
 [生命禅院](/zh/lifechanyuan)
+
+## 词条位置
+
+- **所属分类：** 宇宙时空
+- **上位概念：** [三十六维空间](/zh/thirty-six-dimensional-space/)
+- **同级概念：** [反物质世界](/zh/antimatter-world/)
+- **下位概念：** 无

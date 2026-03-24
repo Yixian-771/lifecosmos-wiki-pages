@@ -37,3 +37,10 @@
 - [仙岛群岛洲](/zh/celestial-islands-continent)
 - [无相布施](/zh/formless-giving)
 - [反物质结构](/zh/antimatter-structure)
+
+## 词条位置
+
+- **所属分类：** 修行修炼
+- **上位概念：** 修行修炼（分类）
+- **同级概念：** 无
+- **下位概念：** 无

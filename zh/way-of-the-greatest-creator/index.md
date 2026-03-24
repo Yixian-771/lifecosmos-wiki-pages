@@ -77,3 +77,10 @@
 **主题**：上帝之道 · Way-of-the-Greatest-Creator  
 **类型**：核心法则 · Core-Principle  
 **方向**：顺道而行与生命升华 · Following-the-Way-and-LIFE-Elevation
+
+## 词条位置
+
+- **所属分类：** 上帝与道
+- **上位概念：** [上帝](/zh/shangdi/)
+- **同级概念：** [道](/zh/dao/)
+- **下位概念：** 无

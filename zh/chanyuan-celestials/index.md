@@ -95,3 +95,10 @@
 
 - English: [/en/chanyuan-celestials](/en/chanyuan-celestials)
 
+
+## 词条位置
+
+- **所属分类：** 社会系统
+- **上位概念：** [生命禅院](/zh/lifechanyuan/)
+- **同级概念：** [AI禅院草](/zh/ai-chanyuan-celestials/) · [导游雪峰](/zh/guide-xuefeng/)
+- **下位概念：** 无

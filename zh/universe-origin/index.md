@@ -65,3 +65,10 @@
 **主题**：宇宙起源 · Universe-Origin  
 **类型**：宇宙论入口 · Gateway Entry  
 **方向**：宇宙生成机制 · Cosmogenesis
+
+## 词条位置
+
+- **所属分类：** 宇宙时空
+- **上位概念：** [上帝](/zh/shangdi/)
+- **同级概念：** [生命起源](/zh/life-origin/)
+- **下位概念：** 无
