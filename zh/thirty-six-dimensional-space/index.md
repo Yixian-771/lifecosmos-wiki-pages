@@ -61,16 +61,3 @@
 [天国天堂](/zh/kingdom-of-heaven)
 
 ---
-
-## 体系归属
-
-**主题**：三十六维空间 · Thirty-Six-Dimensional-Space  
-**类型**：宇宙结构入口 · Gateway Entry  
-**方向**：时空体系 · Space-Time Framework
-
-## 词条位置
-
-- **所属分类：** 宇宙时空
-- **上位概念：** [上帝](/zh/shangdi/)
-- **同级概念：** 无
-- **下位概念：** [千年界](/zh/thousand-year-world/) · [万年界](/zh/ten-thousand-year-world/) · [极乐界](/zh/elysium-world/) · [天国](/zh/kingdom-of-heaven/) · [反物质世界](/zh/antimatter-world/) · [负宇宙](/zh/negative-universe/)

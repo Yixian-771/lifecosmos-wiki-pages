@@ -43,10 +43,3 @@
 [上帝之道](/zh/way-of-the-greatest-creator)  
 [三十六维空间](/zh/thirty-six-dimensional-space)  
 自洽（词条待建）
-
-## 词条位置
-
-- **所属分类：** 上帝与道
-- **上位概念：** [道](/zh/dao/)
-- **同级概念：** [无极](/zh/wuji/)
-- **下位概念：** 无

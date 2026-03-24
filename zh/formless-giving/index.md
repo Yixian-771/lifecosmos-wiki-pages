@@ -89,16 +89,3 @@
 [天国天堂](/zh/kingdom-of-heaven)
 
 ---
-
-## 体系归属
-
-**主题**：无相布施 · Formless-Giving  
-**类型**：实践法门 · Practice-Method  
-**方向**：修行实践 · Cultivation-Practice
-
-## 词条位置
-
-- **所属分类：** 修行修炼
-- **上位概念：** 修行修炼（分类）
-- **同级概念：** 无
-- **下位概念：** 无

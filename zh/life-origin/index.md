@@ -46,10 +46,3 @@
 [上帝之道](/zh/way-of-the-greatest-creator)
 [反物质结构](/zh/antimatter-structure)
 [三十六维空间](/zh/thirty-six-dimensional-space)
-
-## 词条位置
-
-- **所属分类：** 生命奥秘
-- **上位概念：** [上帝](/zh/shangdi/)
-- **同级概念：** [宇宙起源](/zh/universe-origin/)
-- **下位概念：** 无

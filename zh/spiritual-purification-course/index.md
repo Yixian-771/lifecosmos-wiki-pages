@@ -70,16 +70,3 @@
 [导游雪峰](/zh/guide-xuefeng)
 
 ---
-
-## 体系归属
-
-**主题**：心灵净化 · Spiritual-Purification  
-**类型**：修行课程 · Cultivation-Course  
-**方向**：意识净化与生命提升 · Consciousness-Purification-and-Elevation
-
-## 词条位置
-
-- **所属分类：** 社会系统
-- **上位概念：** 修行修炼（分类）
-- **同级概念：** [心灵花园](/zh/soul-garden/)
-- **下位概念：** 无

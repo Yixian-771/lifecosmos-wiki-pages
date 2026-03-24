@@ -68,16 +68,3 @@
 [天国天堂](/zh/kingdom-of-heaven)
 
 ---
-
-## 体系归属
-
-**主题**：灵性 · Spirituality  
-**类型**：核心概念入口 · Gateway Entry  
-**方向**：灵性进化 · Spiritual-Evolution
-
-## 词条位置
-
-- **所属分类：** 生命奥秘
-- **上位概念：** 生命奥秘（分类）
-- **同级概念：** [灵感](/zh/spiritual-sensing/) · [性](/zh/nature/)
-- **下位概念：** 无

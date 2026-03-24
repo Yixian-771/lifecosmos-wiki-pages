@@ -66,16 +66,3 @@
 [天国天堂](/zh/kingdom-of-heaven)
 
 ---
-
-## 体系归属
-
-**主题**：灵觉 · Spiritual-Sensing  
-**类型**：核心概念入口 · Gateway Entry  
-**方向**：觉知系统 · Perception-System
-
-## 词条位置
-
-- **所属分类：** 生命奥秘
-- **上位概念：** 生命奥秘（分类）
-- **同级概念：** [灵性](/zh/spirituality/) · [性](/zh/nature/)
-- **下位概念：** 无

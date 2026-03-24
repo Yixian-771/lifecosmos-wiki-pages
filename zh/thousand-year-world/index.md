@@ -88,10 +88,3 @@
 
 - English: [/en/thousand-year-world](/en/thousand-year-world)
 
-
-## 词条位置
-
-- **所属分类：** 宇宙时空
-- **上位概念：** [三十六维空间](/zh/thirty-six-dimensional-space/)
-- **同级概念：** [万年界](/zh/ten-thousand-year-world/) · [极乐界](/zh/elysium-world/) · [天国](/zh/kingdom-of-heaven/)
-- **下位概念：** [仙岛群岛洲](/zh/celestial-islands-continent/)
