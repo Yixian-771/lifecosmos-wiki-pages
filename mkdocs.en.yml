@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Eight Thinking Ladders [NEW]: eight-thinking-ladders/index.md
+  - Material Thinking [NEW]: material-thinking/index.md
+  - Eight Thinking Ladders: eight-thinking-ladders/index.md
   - Truth: truth/index.md
   - Goodness: goodness/index.md
   - Beauty: beauty/index.md
