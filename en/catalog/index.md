@@ -24,7 +24,7 @@
 
 ## IV. The Mystery of Thinking
 
-[Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/)
+[Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Imagery Thinking](/en/imagery-thinking/)
 
 *(More entries in preparation)*
 

@@ -30,6 +30,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Imagery Thinking: imagery-thinking/index.md
   - Material Thinking: material-thinking/index.md
   - Eight Thinking Ladders: eight-thinking-ladders/index.md
   - Truth: truth/index.md
