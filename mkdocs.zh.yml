@@ -30,6 +30,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 形象思维: imagery-thinking/index.md
   - 物质思维: material-thinking/index.md
   - 八大思维阶梯: eight-thinking-ladders/index.md
   - 诚: sincerity/index.md

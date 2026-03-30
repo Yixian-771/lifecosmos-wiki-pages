@@ -27,7 +27,7 @@ slug: catalog-zh
 
 ## 四、思维奥秘
 
-（词条待建）
+[八大思维阶梯](/zh/eight-thinking-ladders/) · [物质思维](/zh/material-thinking/) · [形象思维](/zh/imagery-thinking/)
 
 ---
 
