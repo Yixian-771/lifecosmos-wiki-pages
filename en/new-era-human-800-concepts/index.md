@@ -1,64 +1,41 @@
-<!-- id: LC-NE800-0001 theme: Theory System type: Entry Gateway direction: Navigation lang: en -->
+<!-- id: LC-NE8-0001-EN theme: Theory System type: Gateway Page direction: Navigation lang: en -->
 
 # New Era Human 800 Concepts
 
-[Gateway Page]
+[Entry Gateway]
 
-A core Lifechanyuan normative text built as 800 principles that connect values, conduct, governance, and civilizational direction.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
----
+**New Era Human 800 Concepts** (新时代人类八百理念) is the most distilled normative text in the Lifechanyuan theoretical system — 800 articles authored by Guide Xuefeng, spanning values, consciousness, cultivation, governance, LIFE theory, and civilizational direction. Each article is complete in itself; together they form the most systematic and concentrated expression of Lifechanyuan thought.
 
-## Positioning
-
-### Text role
-A principle framework for practical judgment and action.
-
-### System role
-Works with *Chanyuan Anthology* and *Xuefeng Anthology* as a three-text core.
-
-### Practice role
-Functions as a shared norm layer for Hundun Management and Second Home implementation.
+> *New Era Human 800 Concepts* is the operating manual for the new era human — the 800 principles that separate Civilization 2.0 from Civilization 3.0.
+>
+> — Guide Xuefeng
 
 ---
 
-## Structure at a Glance
+## Core Positioning
 
-The 800 items are organized into 8 thematic blocks (100 each), covering:
-1. core human-social questions,
-2. moral psychology,
-3. practical conduct,
-4. life philosophy,
-5. cosmos/spacetime/Dao,
-6. God and the Way of God,
-7. family model and Second Home,
-8. new-era civilization and updating logic.
+In the Lifechanyuan system, the 800 Concepts serve simultaneously as: a philosophical framework (cosmology, LIFE theory, consciousness theory); a cultivation guidebook (soul garden, thinking elevation, conduct principles); and a civilizational blueprint (governance, social relations, human-AI coexistence). It is the single most-cited source across the entire encyclopedia.
 
 ---
 
-## Read by Version
+## Read by Edition
 
-### [Friendly Version](/en/new-era-human-800-concepts/friendly)
-For first-time readers.
-
-### [Academic Version](/en/new-era-human-800-concepts/academic)
-For research and comparative analysis.
-
-### [Internal Version](/en/new-era-human-800-concepts/internal)
-For high-density doctrinal reading.
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Related Concepts
+## Related Entries
 
-[Lifechanyuan](/en/lifechanyuan)
-
-[Second Home](/en/second-home)
-
-[Hundun Management](/en/hundun-management)
-
-[Chanyuan Celestials](/en/chanyuan-celestials)
-
-## Language Pair
-
-- 中文入口: [/zh/new-era-human-800-concepts](/zh/new-era-human-800-concepts)
-
+- [Lifechanyuan](/en/lifechanyuan/) — The system within which the 800 Concepts function
+- [Guide Xuefeng](/en/guide-xuefeng/) — Author of the 800 Concepts
+- [Tour Guide Route Map](/en/tour-guide-route-map/) — The practical cultivation path drawn from the 800 Concepts
+- [Eight Thinking Ladders](/en/eight-thinking-ladders/) — One of the 800 Concepts' most systematic frameworks

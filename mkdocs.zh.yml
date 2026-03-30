@@ -29,9 +29,9 @@ plugins:
 
 nav:
   - 首页: index.md
-  - 物质思维【最新】: material-thinking/index.md
-  - 八大思维阶梯: eight-thinking-ladders/index.md
   - 📚 词条分类目录: catalog/index.md
+  - 物质思维: material-thinking/index.md
+  - 八大思维阶梯: eight-thinking-ladders/index.md
   - 诚: sincerity/index.md
   - 真善美爱信诚: six-qualities/index.md
   - 和: harmony/index.md

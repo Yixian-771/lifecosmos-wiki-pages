@@ -1,73 +1,42 @@
-<!-- id: LC-36D-0001 theme: Universe-LIFE System type: Gateway Entry direction: Cosmic Structure lang: en -->
+<!-- id: LC-36D-0001-EN theme: Universe-LIFE System type: Gateway Page direction: Cosmic Structure lang: en -->
 
 # Thirty-Six-Dimensional Space
 
-[Gateway Page]
+[Entry Gateway]
 
-Thirty-Six-Dimensional Space is a core structural model in the Lifechanyuan space-time framework. It describes layered cosmic domains corresponding to different LIFE quality-energy states and their trajectory relations.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-The model is built on three methodological principles: symmetry, scientific coherence, and mathematical-logical consistency.
+**Thirty-Six-Dimensional Space** (三十六维空间) is the core structural model of the Lifechanyuan space-time framework. The universe is not three-dimensional — it consists of thirty-six dimensional layers, each corresponding to a different level of LIFE quality, consciousness frequency, and antimatter structure refinement. The human world occupies the third dimension; higher spaces ascend through the celestial realms to the realm of the Greatest Creator.
 
----
-
-## Core Definition
-
-**According to the level of material and antimatter LIFE quality-energy, there are thirty-six dimensional spaces of existence.**
-
-In this framework, the model is used to explain:
-
-1. layered space architecture,
-2. LIFE-level differentiation,
-3. destination pathway logic.
+> Human thinking is three-dimensional; celestial thinking operates above the fourth dimension; gods and Buddhas move through all thirty-six dimensions; the Greatest Creator lives in hundun.
+>
+> — Guide Xuefeng
 
 ---
 
-## Key Points
+## Core Positioning
 
-### Structural Position
-- A central map in Lifechanyuan cosmology
-- Closely coupled with Dao, causal-return law, and LIFE elevation
-- Provides coordinate background for the Thousand-year World, Ten-thousand-year World, and Elysium World
-
-### Division Principles
-1. symmetry principle
-2. scientific-fact principle
-3. mathematical-logical principle
-
-### Functional Meaning
-- explains why LIFE destinations differ
-- explains why spaces are stratified
-- provides directional coordinates for cultivation
-
-### Practical Value
-- from abstract cosmology to operational navigation
-- from “belief-only” to structure-aware cultivation orientation
+In the Lifechanyuan system, the Thirty-Six-Dimensional Space model provides the spatial architecture for understanding LIFE's post-death trajectory: each LIFE form's dimensional destination is determined by the quality of its antimatter structure and the level of its thinking. Cultivation is the process of raising one's dimensional frequency.
 
 ---
 
-## Read by Version
+## Read by Edition
 
-### [Friendly Version](/en/thirty-six-dimensional-space/friendly)
-
-### [Academic Version](/en/thirty-six-dimensional-space/academic)
-
-### [Internal Version](/en/thirty-six-dimensional-space/internal)
-
----
-
-## Related Concepts (same version)
-
-[Dao](/en/dao)
-[the Greatest Creator](/en/shangdi)
-[the Way of the Greatest Creator](/en/way-of-the-greatest-creator)
-[Antimatter Structure](/en/antimatter-structure)
-[the Thousand-year World](/en/thousand-year-world)
-[the Kingdom of Heaven](/en/kingdom-of-heaven)
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Classification
+## Related Entries
 
-**Theme**: Thirty-Six-Dimensional Space · Cosmic-Structure  
-**Type**: Gateway Entry · Structure Node  
-**Direction**: Space-Time Framework · LIFE Trajectory Map
+- [Antimatter World](/en/antimatter-world/) — The Thirty-Six-Dimensional Space exists within the Antimatter World
+- [Eight Thinking Ladders](/en/eight-thinking-ladders/) — Thinking level corresponds to dimensional access
+- [Celestial Islands Continent](/en/celestial-islands-continent/) — One of the highest destinations in the dimensional model
+- [Elysium World](/en/elysium-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Thousand-Year World](/en/thousand-year-world/) — Specific dimensional layers and destinations
+- [Kingdom of Heaven](/en/kingdom-of-heaven/) — The collective term for high-dimensional heavenly realms

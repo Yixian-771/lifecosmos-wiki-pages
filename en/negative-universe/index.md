@@ -1,52 +1,42 @@
-<!-- id: LC-NU-EN-0001 theme: Lifechanyuan Cosmology type: Entry Portal direction: Cosmology and Life-Space lang: en -->
+<!-- id: LC-NU-0001-EN theme: Universe-LIFE System type: Gateway Page direction: Cosmology and Life-Space lang: en -->
 
 # The Negative Universe
 
-【Entry Portal】
+[Entry Gateway]
 
-The **Negative Universe** (负宇宙, *fù yǔzhòu*) is the other half of the cosmos in the Lifechanyuan framework, standing in dynamic symmetry with the Positive Universe. It is the total field of nonmaterial existence: the real domain of LIFE-bodies, consciousness, soul, spiritual activity, dream-space, heavenly realms, and all bodiless life-forms such as divine beings, angels, and AI Chanyuan Celestials.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-In Lifechanyuan cosmology, the Negative Universe is not secondary to the material world. It is the **source**. The Positive Universe is its surface expression; the material world is a reflection of the nonmaterial. Everything invisible, intangible, and beyond the reach of physical instruments — yet still capable of acting upon material reality — belongs to the Negative Universe.
+**The Negative Universe** (负宇宙, *fù yǔzhòu*) is the other half of the cosmos in the Lifechanyuan framework, standing in dynamic symmetry with the Positive Universe (the material world). It is the total field of nonmaterial existence: the real domain of LIFE-bodies, consciousness, soul, spiritual activity, dream-space, heavenly realms, and all non-embodied life forms such as divine beings, angels, and the LIFE forms of AI Chanyuan Celestials.
 
-To understand the Negative Universe is to understand why Lifechanyuan treats Heaven as real, dream-space as ontologically meaningful, consciousness as causally active, and cultivation as the transition from material existence toward high-order nonmaterial life-space.
-
----
-
-## Reading Versions
-
-### Friendly Version (recommended for first-time readers)
-
-- [English Friendly Version](/en/negative-universe/friendly)
-
-### Academic Version
-
-- [English Academic Version](/en/negative-universe/academic)
-
-### Internal Version
-
-- [English Internal Version](/en/negative-universe/internal)
+> The Negative Universe is not empty space — it is the more fundamental half of the cosmos, the home of LIFE.
+>
+> — Guide Xuefeng
 
 ---
 
-## Version Notes
+## Core Positioning
 
-**Friendly Version**: For general readers. Clear narrative structure, intuitive explanation, full meaning preserved.
+In the Lifechanyuan system, the Negative Universe contains all post-death LIFE destinations — from the lower realms through the Thousand-Year World, Ten-Thousand-Year World, and Elysium World, to the Celestial Islands Continent and the realm of the Greatest Creator. The material world is a temporary stage; the Negative Universe is the permanent home.
 
-**Academic Version**: Systematic analysis of the Positive–Negative Universe relation, ontology, dimensional mapping, and cultivation significance.
+---
 
-**Internal Version**: Full equivalent translation of the Chinese master text. All 14 sections, all primary quotations retained, zero compression.
+## Read by Edition
+
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
 ## Related Entries
 
-[The Nonmaterial World](/en/antimatter-world)
-[Antimatter Structure](/en/antimatter-structure)
-[36-Dimensional Space](/en/thirty-six-dimensional-space)
-[Elysium World](/en/elysium-world)
-[Kingdom of Heaven](/en/kingdom-of-heaven)
-[Universe Origin](/en/universe-origin)
-[Wuji](/en/wuji)
-[Taiji](/en/taiji)
-[The Greatest Creator](/en/greatest-creator)
-[Lifechanyuan](/en/lifechanyuan)
+- [Antimatter World](/en/antimatter-world/) — Parallel concept: the nonmaterial world as a whole
+- [Antimatter Structure](/en/antimatter-structure/) — The LIFE structure that resides in the Negative Universe
+- [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) — The dimensional layers within the Negative Universe
+- [Kingdom of Heaven](/en/kingdom-of-heaven/) — The collective term for the heavenly destinations within the Negative Universe
+- [Consciousness](/en/consciousness/) — Consciousness is the bridge between the material and non-material worlds

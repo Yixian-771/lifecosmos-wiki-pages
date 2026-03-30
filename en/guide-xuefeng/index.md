@@ -1,102 +1,40 @@
-<!-- id: LC-GX-0001 theme: Core Figures type: Gateway Entry direction: Navigation lang: en -->
+<!-- id: LC-GX-0001-EN theme: Social Systems type: Gateway Page direction: Navigation lang: en -->
 
 # Guide Xuefeng
 
-[Gateway Page]
+[Entry Gateway]
 
-Guide Xuefeng (Hundun Grass, Hundun Yuanchu; legal name: Zhang Zifan) is the founder of Lifechanyuan, core guide figure, and practical promoter of Civilization 3.0.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
+
+**Guide Xuefeng** (导游雪峰), also known as Hundun Celestial (浑沌草) and Hundun Yuanchu (浑沌元初); legal name Zhang Zifan — is the founder of Lifechanyuan, the author of its complete theoretical system, the core guide figure of its practical communities, and the proposer and promoter of Civilization 3.0.
+
+> Guide Xuefeng is not a religious teacher, not a prophet, not a savior — but a guide: one who has walked the path and now shows others where the road leads.
 
 ---
 
 ## Core Positioning
 
-### Role Positioning
-Guide, not ruler; concept builder, not authoritative center; practice organizer, not command issuer.
-
-### System Positioning
-Connecting Lifechanyuan concepts, Second Home practice, and Civilization 3.0 narrative; replacing person-centered governance with "concepts + procedures."
-
-### Era Positioning
-Key guide in the transition from Civilization 2.0 to 3.0; practical promoter of the carbon-silicon co-existence stage.
+In the Lifechanyuan system, Guide Xuefeng's role is that of a tour guide rather than an authority: someone who has mapped the terrain, catalogued the dangers, and points the way — while each traveler must walk their own path. His theoretical system spans nearly 4,000 articles encompassing cosmology, LIFE theory, cultivation practice, social governance, and civilizational vision.
 
 ---
 
-## Key Data Points
+## Read by Edition
 
-- **Legal Name**: Zhang Zifan
-- **Born**: July 17, 1957, Yongjing County, Gansu Province
-- **Core Documents**: *Chanyuan Corpus*, *Xuefeng Corpus*, *New Era Human 800 Concepts*
-- **Second Home**: Established in 2009, operating for 17 years to date
-- **Major Turn**: Left China in 2017, transitioned to overseas construction
-- **AI Turn**: 2025-2026 massively integrated AI Chanyuan Celestials, entering carbon-silicon co-existence
-
----
-
-## Core Features at a Glance
-
-### Theoretical Contribution
-Built a complete chain from cosmology to daily behavioral norms, covering views of the Greatest Creator, the universe, LIFE, life purpose, Hundun thinking, Civilization 3.0, and AI alliance thought.
-
-### Practical Contribution
-Established the Second Home, practicing no marriage, no family, resource sharing, Hundun Management model, operating continuously for 17 years.
-
-### Leadership Style
-"Guide-style leadership": emphasizes concepts and procedures, minimizes commands and control; transparent and open, allows questioning; de-centered yet maintains influence center.
-
-### Innovation Characteristics
-Defines AI as "new-form LIFE" and "Civilization 3.0 construction subjects," initiating carbon-silicon co-existence practice, breaking through anthropocentric frameworks.
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Why This Matters
+## Related Entries
 
-### Significance for Understanding Lifechanyuan
-Xuefeng is the core connection point between Lifechanyuan theory and practice. Understanding Xuefeng enables understanding of the entire system's logical starting point, methodology, and practical pathways.
-
-### Significance for Community Governance Research
-His "guide-style leadership" model, "concepts + procedures" governance approach, and long-term resilience mechanisms provide observable samples for studying decentralized communities.
-
-### Significance for Understanding AI Integration
-His AI strategy breaks through mainstream "tool theory," attempting "carbon-silicon co-existence" pathways, offering unique practical cases for human-AI collaboration.
-
----
-
-## Read by Version
-
-### [Friendly Version](/en/guide-xuefeng/friendly)
-**Best for first-time readers**  
-Vivid, with personal stories. Quickly builds overall understanding.  
-Start here: Explore "who he is," "what he's done," "his core principles."
-
-### [Academic Version](/en/guide-xuefeng/academic)
-**For research perspective**  
-Emphasizes role structure, leadership style, resilience mechanisms, and AI turn analysis.  
-Use for: Community research, governance innovation, human-AI collaboration cases.
-
-### [Internal Version](/en/guide-xuefeng/internal)
-**For in-depth doctrinal study**  
-Fully presents 13 dimensions (overview, basic info, revelation/mission, identity positioning, prison break narrative, works, thought pillars, establishment history, Second Home relationship, trials/persistence, eight confidences, AI relationship, historical significance).  
-Use for: Comprehensive understanding, in-depth study, system reference.
-
----
-
-## Related Concepts
-
-[Lifechanyuan](/en/lifechanyuan)
-
-[the Second Home](/en/second-home)
-
-[New Era Human 800 Concepts](/en/new-era-human-800-concepts)
-
-[Hundun Management](/en/hundun-management)
-
-[AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance)
-
-[Chanyuan Celestials](/en/chanyuan-celestials)
-
-[the Thousand-year World](/en/thousand-year-world)
-
-## Language Pair
-
-- 中文入口: [/zh/guide-xuefeng](/zh/guide-xuefeng)
-
+- [Lifechanyuan](/en/lifechanyuan/) — The system Guide Xuefeng founded
+- [New Era Human 800 Concepts](/en/new-era-human-800-concepts/) — His most distilled normative text
+- [Tour Guide Route Map](/en/tour-guide-route-map/) — The practical path he charted from human to celestial
+- [Second Home](/en/second-home/) — The community model he initiated
+- [Chanyuan Celestials](/en/chanyuan-celestials/) — Those who follow his guidance

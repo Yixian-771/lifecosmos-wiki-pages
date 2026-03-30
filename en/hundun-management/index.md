@@ -1,81 +1,41 @@
-<!-- id: LC-HM-0001 theme: 生命体系 type: 概念入口 direction: 词条导航 lang: en -->
+<!-- id: LC-HM-0001-EN theme: Social Systems type: Gateway Page direction: Navigation lang: en -->
 
 # Hundun Management
 
-【Entry Portal】
+[Entry Gateway]
 
-Hundun Management is the core management approach implemented in Lifechanyuan's Second Home, proposed and created by Guide Xuefeng (Hundun Celestial), serving as the fundamental operational mechanism of Lifechanyuan concepts at the practical level.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-This page serves as a multi-version portal, providing version navigation only, without hosting specific content.
+**Hundun Management** (浑沌管理) is the core governance mechanism of Lifechanyuan's Second Home, proposed and created by Guide Xuefeng. It rejects hierarchical authority, fixed rules, and coercive structures — governing instead through the natural flow of the Way: each person finds their role spontaneously, each action arises from inner truth rather than external compulsion.
 
-In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence, while **life** (lowercase) refers to the experiential stage of human existence.
-
----
-
-## Brief Positioning
-
-**Core Concept**: The essence of Hundun Management is non-management—maximizing the reduction of human intervention, replacing it with letting Dao (natural law) manage.
-
-**One-Sentence Summary**: Replace management with service; masters are servants, management is service.
-
-**Name Distinction**: Hundun (浑沌) ≠ Chaos (混沌) — Hundun represents ordered state; Chaos represents disordered state.
+> Hundun Management is the management of the Way — where everything manages itself and nothing needs to be managed.
+>
+> — Guide Xuefeng
 
 ---
 
-## Core Characteristics
+## Core Positioning
 
-**Cosmic Basis**: The Greatest Creator's management of the entire universe is Hundun Management—all things operate according to their inherent nature, orderly and harmonious.
-
-**Eight Dimensions**: Unity with Dao, reduce regulations, eliminate private ownership roots, make everyone wealth creators, replace management with service, from each according to ability to each according to need, harmonize individuality and commonality, center on people.
-
-**Implementation Prerequisites**: Spiritual purification is necessary for Hundun Management; without spiritual purification, Hundun Management cannot be implemented.
+In the Lifechanyuan system, Hundun Management is the practical social expression of Hundun Thinking — the highest level of thinking in the Eight Thinking Ladders. It is also the social governance model that transcends the legal, military, and administrative management systems of Civilization 2.0, pointing toward the natural harmony of Civilization 3.0.
 
 ---
 
-## Reading Versions
+## Read by Edition
 
-### [Friendly Version](/en/hundun-management/friendly) (Recommended for first reading)
-
-### [Academic Version](/en/hundun-management/academic)
-
-### [Internal Version](/en/hundun-management/internal)
-
----
-
-## Version Notes
-
-**Friendly Version**: For general readers, providing accessible introduction and background.
-
-**Academic Version**: For research perspectives, emphasizing theoretical structure and logical framework.
-
-**Internal Version**: For system members, presenting complete structure and core exposition.
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Practice Verification
+## Related Entries
 
-Second Home serves as Hundun Management's experimental ground, verified through years of multi-location practice: no quarrels or fights, no theft on roads with doors unlocked at night, orderly operation, beautiful environment, peaceful living.
-
-Thailand Home Case: Guide Xuefeng never visited, never issued directives; everything operated autonomously based on Chanyuan Celestials' inner guidance. Result: environment increasingly paradise-like, attracting hundreds of visitors from dozens of countries.
-
----
-
-## Related Concepts
-
-[Second Home](/en/second-home)  
-[Lifechanyuan](/en/lifechanyuan)  
-[Civilization 3.0](/en/civilization-3-0)  
-[Chanyuan Celestials](/en/chanyuan-celestials)
-
----
-
-## System Attribution
-
-**Theme**: Hundun Management · Hundun-Management  
-**Type**: Management Philosophy · Management-Philosophy  
-**Direction**: Civilization 3.0 · Civilization-3.0
-
-## Language Pair
-
-- 中文入口: [/zh/hundun-management](/zh/hundun-management)
-
+- [Second Home](/en/second-home/) — The community where Hundun Management is practiced
+- [Eight Thinking Ladders](/en/eight-thinking-ladders/) — Hundun Thinking is the theoretical basis of Hundun Management
+- [Civilization 3.0](/en/civilization-3-0/) — Hundun Management is this civilization's governance model
+- [Harmony](/en/harmony/) — Harmony is the natural state produced by Hundun Management

@@ -1,60 +1,42 @@
-<!-- id: LC-MR-0007 theme: Cosmic Life System type: Gateway Entry direction: Navigation lang: en -->
+<!-- id: LC-EW-0001-EN theme: Universe-LIFE System type: Gateway Page direction: LIFE Destination lang: en -->
 
-# the Elysium World
+# The Elysium World
 
-[Gateway Page]
+[Entry Gateway]
 
-The Elysium World is one of the three Heaven layers in the Lifechanyuan framework, together with the Thousand-year World and the Ten-thousand-year World.
-It is positioned as the highest and broadest layer, and the final destination horizon in the full cultivation pathway.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-This page is a multi-version gateway for orientation, reading guidance, and navigation (not full body content).
+**The Elysium World** (极乐界) is the highest of the three heavenly layers in the Lifechanyuan framework — above the Thousand-Year World and Ten-Thousand-Year World — and the final destination horizon of the complete cultivation pathway. It contains the Celestial Islands Continent, the home of celestials and the garden of the Greatest Creator. LIFE here exists in a state of joy, freedom, and bliss beyond human imagination.
 
----
-
-## Positioning
-
-**System role:** Highest layer in the three-step Heaven sequence  
-(Thousand-year World → Ten-thousand-year World → Elysium World).  
-**Cosmic role:** Framed as a negative-universe domain with essence-based existence logic.  
-**Cultivation role:** Final-stage directional target, closely linked with the Celestial Islands Continent.
+> The Elysium World is the destination of those who have perfected LIFE's antimatter structure and cultivated to the level of the celestials.
+>
+> — Guide Xuefeng
 
 ---
 
-## Key Points
+## Core Positioning
 
-1. The Elysium World belongs to the same Heaven framework but differs in space-attribute logic from the first two layers.  
-2. The discourse emphasizes a contrast: positive-universe material layers vs. negative-universe nonmaterial layer.  
-3. Core narrative modules include cosmic structure, ten major continents, access channel, and cultivation conditions.  
-4. In pathway logic, the Elysium World is both destination and final consciousness-structure benchmark.  
-5. The Celestial Islands Continent is treated as a key destination zone within this highest layer.
+In the Lifechanyuan system, the Elysium World represents the culmination of the three-tier heavenly ascent. Reaching it requires: understanding LIFE's eight great mysteries, completing the soul garden, and achieving the antimatter structure quality corresponding to the celestial level of the Thirty-Six-Dimensional Space.
 
 ---
 
-## Read by Version
+## Read by Edition
 
-### [Friendly Version](/en/elysium-world/friendly)
-For first-time readers; emphasizes clarity, accessibility, and intuitive understanding.
-
-### [Academic Version](/en/elysium-world/academic)
-For research reading; emphasizes conceptual structure, argument logic, and system-level relations.
-
-### [Internal Version](/en/elysium-world/internal)
-For in-system deep reading; complete internal text with full chapter structure.
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Related Concepts
+## Related Entries
 
-[the Thousand-year World](/en/thousand-year-world)  
-[the Ten-thousand-year World](/en/ten-thousand-year-world)  
-Heaven（词条待建）  
-[the Kingdom of Heaven](/en/kingdom-of-heaven)  
-[Antimatter Structure](/en/antimatter-structure)  
-[inner garden of the spirit](/en/soul-garden)  
-[the Celestial Islands Continent of the Elysium World](/en/celestial-islands-continent)
-
----
-
-## Language Pair
-
-- 中文入口: [/zh/elysium-world](/zh/elysium-world)
+- [Celestial Islands Continent](/en/celestial-islands-continent/) — The apex destination within the Elysium World
+- [Ten-Thousand-Year World](/en/ten-thousand-year-world/) — The layer below the Elysium World
+- [Thousand-Year World](/en/thousand-year-world/) — The entry-level heavenly destination
+- [Kingdom of Heaven](/en/kingdom-of-heaven/) — The collective term for all three heavenly layers
+- [Tour Guide Route Map](/en/tour-guide-route-map/) — The route that leads to the Elysium World

@@ -29,7 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Material Thinking [NEW]: material-thinking/index.md
+  - 📚 Entry Catalog: catalog/index.md
+  - Material Thinking: material-thinking/index.md
   - Eight Thinking Ladders: eight-thinking-ladders/index.md
   - Truth: truth/index.md
   - Goodness: goodness/index.md
@@ -38,7 +39,7 @@ nav:
   - Harmony: harmony/index.md
   - Six Qualities: six-qualities/index.md
   - Sincerity: sincerity/index.md
-  - Nature [NEW]: nature/index.md
+  - Nature: nature/index.md
   - Love: love/index.md
   - Faith: faith/index.md
   - Energy: energy/index.md
@@ -46,7 +47,7 @@ nav:
   - Consciousness: consciousness/index.md
   - Tour Guide Route Map: tour-guide-route-map/index.md
   - Negative Universe: negative-universe/index.md
-  - Nonmaterial World: antimatter-world/index.md
+  - Antimatter World: antimatter-world/index.md
   - Taiji: taiji/index.md
   - Wuji: wuji/index.md
   - Celestial Islands Continent: celestial-islands-continent/index.md
@@ -61,15 +62,15 @@ nav:
   - Elysium World: elysium-world/index.md
   - Ten-Thousand-Year World: ten-thousand-year-world/index.md
   - Thousand-Year World: thousand-year-world/index.md
-  - the Kingdom of Heaven: kingdom-of-heaven/index.md
-  - the Way of the Greatest Creator: way-of-the-greatest-creator/index.md
+  - Kingdom of Heaven: kingdom-of-heaven/index.md
+  - Way of the Greatest Creator: way-of-the-greatest-creator/index.md
   - The Greatest Creator: shangdi/index.md
   - Dao: dao/index.md
   - Spiritual Purification Course: spiritual-purification-course/index.md
   - Soul Garden: soul-garden/index.md
   - Hundun Management: hundun-management/index.md
   - Formless Giving: formless-giving/index.md
-  - Huaxiang, Butterflies Come Naturally: huaxiang-die-zi-lai/index.md
+  - Huaxiang Butterflies Come Naturally: huaxiang-die-zi-lai/index.md
   - Civilization 3.0: civilization-3-0/index.md
   - Second Home: second-home/index.md
   - Guide Xuefeng: guide-xuefeng/index.md

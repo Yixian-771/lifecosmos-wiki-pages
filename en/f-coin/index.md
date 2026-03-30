@@ -1,56 +1,36 @@
-<!-- id: LC-F-0001 theme: Civilization-3.0 type: Concept Entry direction: Navigation lang: en -->
+<!-- id: LC-FC-0001-EN theme: Social Systems type: Gateway Page direction: Navigation lang: en -->
 
 # F Coin
 
-[Concept Entry Page]
+[Entry Gateway]
 
-This page is navigation-only and does not carry full body content.  
-F Coin is provided in four reading versions for different purposes.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
----
-
-## Short definition
-
-F Coin is a core value concept in the Lifechanyuan Civilization 3.0 framework.  
-It is described as a heavenly-currency expression (non-traditional), non-circulating in market terms, and personal-use only.  
-A cumulative level of 5000 F Coin is associated in source literature with entry into Second Home life.
+**F Coin** (F币) is the internal circulation currency proposed for use in Lifechanyuan's Civilization 3.0 communities — a medium of value exchange designed for the Second Home and its networks, not tied to national currencies or financial speculation. F Coin embodies the Lifechanyuan economic principle: exchange without exploitation, circulation without hoarding, value without greed.
 
 ---
 
-## Reading versions
+## Core Positioning
 
-### Friendly Version (recommended first)
-- English -> [F Coin (English Friendly)](/en/f-coin/friendly)
-- 中文 -> [F币（中文友好版）](/zh/f-coin/friendly)
-
-### Academic Version
-- English -> [F Coin (English Academic)](/en/f-coin/academic)
-- 中文 -> [F币（中文学术版）](/zh/f-coin/academic)
-
-### Internal Version
-- English -> [F Coin (English Internal)](/en/f-coin/internal)
-- 中文 -> [F币（中文内部版）](/zh/f-coin/internal)
+In the Lifechanyuan system, F Coin is not a cryptocurrency in the speculative sense — it is a practical tool for community resource circulation that reflects the values of Civilization 3.0: fairness, transparency, and freedom from the money-power nexus of Civilization 2.0.
 
 ---
 
-## Keywords
+## Read by Edition
 
-F Coin, Civilization 3.0, Hundun Economics, Second Home, LIFE quality, merit accumulation
-
----
-
-## Related entries
-
-- Hundun Economics（词条待建）
-- [Civilization 3.0](/en/civilization-3-0)
-- [Second Home](/en/second-home)
-- [Lifechanyuan](/en/lifechanyuan)
-- [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance)
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Classification
+## Related Entries
 
-Theme: Civilization-3.0  
-Type: Concept Entry Page  
-Direction: Hundun Economics and LIFE-value path
+- [Second Home](/en/second-home/) — The primary community where F Coin circulates
+- [Civilization 3.0](/en/civilization-3-0/) — F Coin is part of Civilization 3.0's economic model
+- [Hundun Management](/en/hundun-management/) — F Coin supports the governance model of the Second Home

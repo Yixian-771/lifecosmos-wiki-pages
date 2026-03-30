@@ -1,79 +1,42 @@
-<!-- id: LC-LO-0001 theme: Universe-LIFE System type: Gateway Entry direction: LIFE Genesis lang: en -->
+<!-- id: LC-LO-0001-EN theme: Universe-LIFE System type: Gateway Page direction: LIFE Genesis lang: en -->
 
 # Origin of LIFE
 
-[Gateway Page]
+[Entry Gateway]
 
-Origin of LIFE is a foundational entry in the Lifechanyuan framework. It addresses three primary questions:
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-1. What is LIFE in its essence?
-2. How does LIFE come into being?
-3. Why does LIFE develop in different levels and destinations?
+**The Origin of LIFE** (生命起源) is a foundational entry in the Lifechanyuan framework. LIFE is not a purely material, accidental process — LIFE is a **spiritual antimatter structure** deliberately created by the Greatest Creator. Each LIFE form is individualized, with its own nature and trajectory; LIFE does not end with the death of the body but continues across incarnations in accordance with the quality of its consciousness and structure.
 
-In this framework, LIFE origin is not explained as a purely material, accidental process. It is framed as a structured genesis model centered on spirit, structure, and conscious design.
-
----
-
-## Core Definition
-
-**LIFE is a spiritual antimatter structure.**
-
-This definition is the entry key. In Lifechanyuan discourse, biological form alone does not equal LIFE; LIFE requires both structural carrier and spiritual activation.
+> LIFE is a spiritual antimatter structure.
+>
+> — Guide Xuefeng
 
 ---
 
-## Core Model (Condensed)
+## Core Positioning
 
-### A. Ontological premise
-- LIFE must be defined before LIFE origin can be discussed.
-- Without definition, origin debates remain at the surface level.
-
-### B. Formation logic
-- structure formation,
-- spirit/consciousness integration,
-- stable LIFE expression.
-
-### C. Creation chain (system narrative)
-- the Greatest Creator designs,
-- gods coordinate,
-- angels/celestials execute,
-- layered LIFE systems unfold.
+In the Lifechanyuan system, the origin of LIFE addresses three questions: What is LIFE in its essence? How does LIFE come into being? Why does LIFE develop in different levels and destinations? The answers point toward a structured-genesis model: LIFE originated through the Greatest Creator's conscious design, differentiated into levels by the quality of antimatter structure, and is destined for different spaces accordingly.
 
 ---
 
-## Why This Entry Matters
+## Read by Edition
 
-Origin of LIFE is not an isolated doctrine page. It is a pivot connecting:
-
-- cosmology (where LIFE comes from),
-- anthropology (what a human being is),
-- cultivation (how LIFE can elevate).
-
----
-
-## Read by Version
-
-### [Friendly Version](/en/life-origin/friendly)
-
-### [Academic Version](/en/life-origin/academic)
-
-### [Internal Version](/en/life-origin/internal)
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Related Entries (same version)
+## Related Entries
 
-[Cosmic Origin](/en/universe-origin)  
-[Dao](/en/dao)  
-[the Greatest Creator](/en/shangdi)  
-[the Way of the Greatest Creator](/en/way-of-the-greatest-creator)  
-[Antimatter Structure](/en/antimatter-structure)  
-[Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space)
-
----
-
-## Classification
-
-**Theme**: Origin of LIFE · LIFE Genesis  
-**Type**: Gateway Entry · Foundational Node  
-**Direction**: Origin-Structure-Elevation Continuum
+- [Structure](/en/structure/) — LIFE's antimatter structure determines its level and destination
+- [Consciousness](/en/consciousness/) — The essence of LIFE is the soul; the essence of the soul is consciousness
+- [Antimatter Structure](/en/antimatter-structure/) — The non-material form that constitutes LIFE
+- [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) — The layered spaces where different LIFE levels reside
+- [The Greatest Creator](/en/shangdi/) — The creator of all LIFE forms

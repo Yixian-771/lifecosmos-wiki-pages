@@ -1,74 +1,41 @@
-<!-- id: LC-SS-0001 theme: Cultivation System type: Gateway Entry direction: Perception System lang: en -->
+<!-- id: LC-SS-0001-EN theme: Universe-LIFE System type: Gateway Page direction: Perception System lang: en -->
 
 # Spiritual Sensing
 
-[Gateway Page]
+[Entry Gateway]
 
-In the Lifechanyuan framework, **Spiritual Sensing** is a core concept in the perception system. It is defined as one of the six human awareness channels and as a key pathway through which the spirit-body senses antimatter-domain information.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-Within this system, Spiritual Sensing is tightly coupled with Spirituality, wisdom formation, cultivation effectiveness, and LIFE trajectory.
+**Spiritual Sensing** (灵觉, *língjué*) is defined in the Lifechanyuan framework as one of the six human awareness channels — and the only one capable of perceiving the nonmaterial domain directly. While the other five senses (sight, hearing, smell, taste, touch) are limited to the material world, Spiritual Sensing allows the spirit-body to receive information from the antimatter domain: the inspiration of the Greatest Creator, the messages of higher LIFE forms, and the signals of the Way itself.
 
----
-
-## Core Definition
-
-**Spiritual Sensing is the deep awareness capacity in consciousness through which the spirit-body detects, identifies, and responds to information changes beyond ordinary material perception.**
-
-Its foundational meanings can be summarized in four layers:
-
-1. Spiritual Sensing is one of the six awareness channels (with vision, hearing, smell, taste, touch);
-2. It is a consciousness-level sensing function and an important mode of Spirituality perception;
-3. Intuition is treated as its lowest expression layer;
-4. It is the key sensing interface for antimatter-domain information.
+> Spiritual Sensing is the channel through which the Greatest Creator communicates with you.
+>
+> — Guide Xuefeng
 
 ---
 
-## Key Points
+## Core Positioning
 
-### Position in the Six-Sense System
-- The first five senses mainly perceive the material domain;
-- Spiritual Sensing mainly perceives the antimatter domain;
-- Its sensitivity is linked with spirit-body vitality and destination orientation.
-
-### Relation to Rational Analysis
-- Rational analysis depends on existing knowledge and experience, with clear boundaries;
-- Spiritual Sensing supports trend recognition, deeper discernment, and direction calibration;
-- In this framework, it is treated as more reliable than purely rational analysis in certain uncertain contexts.
-
-### Relation to Judgment Standards
-Spiritual Sensing is one of the four judgment elements:
-**facts, science, logic, and Spiritual Sensing.**
-
-### Relation to Cultivation Path
-1. Opening Spiritual Sensing is a core cultivation target;
-2. Improvement depends on heart-mind refinement, concentration, de-obstruction, text study, and reading the “book without words”;
-3. The clearer Spiritual Sensing is, the closer LIFE aligns with higher-frequency destination requirements.
+In the Lifechanyuan system, Spiritual Sensing is the perceptual mechanism through which cultivation becomes a two-way process — not only the practitioner reaching upward, but higher LIFE forms and the Greatest Creator reaching downward. Its development is inseparable from the purification of the soul garden and the elevation of thinking.
 
 ---
 
-## Read by Version
+## Read by Edition
 
-### [Friendly Version](/en/spiritual-sensing/friendly)
-
-### [Academic Version](/en/spiritual-sensing/academic)
-
-### [Internal Version](/en/spiritual-sensing/internal)
-
----
-
-## Related Concepts (same version)
-
-[Spirituality](/en/spirituality)  
-[Spiritual Purification Course](/en/spiritual-purification-course)  
-[Soul Garden](/en/soul-garden)  
-[the Way of the Greatest Creator](/en/way-of-the-greatest-creator)  
-[Antimatter Structure](/en/antimatter-structure)  
-[the Kingdom of Heaven](/en/kingdom-of-heaven)
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Classification
+## Related Entries
 
-**Theme**: Spiritual Sensing · Perception System  
-**Type**: Gateway Entry · Core Concept Node  
-**Direction**: Consciousness Perception · LIFE Calibration
+- [Spirituality](/en/spirituality/) — Spiritual Sensing is the perceptual expression of Spirituality
+- [Antimatter World](/en/antimatter-world/) — The domain that Spiritual Sensing perceives
+- [Soul Garden](/en/soul-garden/) — Soul garden purification opens and sharpens Spiritual Sensing
+- [Consciousness](/en/consciousness/) — Consciousness is the broader framework; Spiritual Sensing is its most refined channel

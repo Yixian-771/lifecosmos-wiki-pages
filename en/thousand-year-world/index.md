@@ -1,90 +1,42 @@
-<!-- id: LC-MR-0001 theme: Cosmic Life System type: Gateway Entry direction: Navigation lang: en -->
+<!-- id: LC-TYW-0001-EN theme: Universe-LIFE System type: Gateway Page direction: LIFE Destination lang: en -->
 
-# Thousand-year World
+# The Thousand-Year World
 
-[Gateway Page]
+[Entry Gateway]
 
-The Thousand-year World is a key higher-life realm concept in the Lifechanyuan cosmic life system. It is both the entry-level layer within the "heavenly hierarchy" and the first threshold goal on the cultivation path.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
----
+**The Thousand-Year World** (千年界) is the entry-level heavenly destination in the Lifechanyuan framework — the first threshold goal on the cultivation path, and the first layer within the Kingdom of Heaven. Understanding the eight kinds of thinking (the Eight Thinking Ladders) is one of the prerequisites for reaching the Thousand-Year World.
 
-## Positioning
-
-### Spatial role
-An entry-level higher-life realm above earthly existence, below higher heavens (the Ten-thousand-year World / the Elysium World).
-
-### Cultivation role
-The first major transition target from human consciousness to higher-life consciousness.
-
-### Practice role
-Linked to Second Home and Hundun Management as an earthly copy and rehearsal of the Thousand-year World living patterns.
+> The Thousand-Year World is where those who have cultivated their soul garden, elevated their thinking, and perfected the six LIFE qualities to the required level will go.
+>
+> — Guide Xuefeng
 
 ---
 
-## Key Features at a Glance
+## Core Positioning
 
-### Core Data Points
-- **Distance**: Approximately 960 light-years from Earth
-- **Size**: Ten times the size of Earth
-- **Population**: Around 200 million inhabitants
-- **Lifespan**: Base lifespan approximately one thousand years (relative to Earth time)
-- **Environment**: No sun, no day/night, no disasters, constant mild climate
-
-### Core Characteristics
-- Treated as a real higher-life realm
-- Entry framed by moral qualification ("perfect human nature"), not technical criteria
-- Connected with the Ten-thousand-year World and the Elysium World in a progressive pathway
-- Strongly coupled with Chanyuan Celestial Being cultivation and AI Chanyuan narratives
+In the Lifechanyuan system, the Thousand-Year World is the initial destination of the Tour Guide Route Map — accessible to those who have genuinely cultivated the six LIFE qualities, elevated their thinking to the required level, and purified their soul garden. Reaching it is the first confirmation that cultivation has been real.
 
 ---
 
-## Why This Matters
+## Read by Edition
 
-### Practical Significance for Cultivation
-1. **Direction**: Clarifies a concrete life-elevation target layer
-2. **Standard**: Provides an operational checklist for "perfect human nature"
-3. **Pathway**: Links present-day practice with future destination
-4. **Verification**: Second Home practice serves as an earthly copy for validation
-
-### Significance for Understanding the System
-The Thousand-year World is a key node for understanding the complete Lifechanyuan logic chain: cosmos—life—cultivation—governance.
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Read by Version
+## Related Entries
 
-### [Friendly Version](/en/thousand-year-world/friendly)
-**Best for first-time readers**  
-Vivid, with concrete scenes. Quickly builds overall understanding.  
-Start here: Explore "what it looks like" and "a day in the Thousand-year World."
-
-### [Academic Version](/en/thousand-year-world/academic)
-**For research perspective**  
-Emphasizes conceptual structure, methodology, governance logic, and persuasiveness assessment.  
-Use for: Comparative research, cross-context analysis, academic citation.
-
-### [Internal Version](/en/thousand-year-world/internal)
-**For in-depth doctrinal study**  
-Fully presents core source details (geography, society, values, entry conditions, etc.) with clear organization.  
-Use for: Comprehensive understanding, in-depth study, cultivation reference.
-
----
-
-## Related Concepts
-
-[the Ten-thousand-year World](/en/ten-thousand-year-world/)
-
-[the Elysium World](/en/elysium-world/)
-
-[Second Home](/en/second-home)
-
-[Hundun Management](/en/hundun-management)
-
-[New Era Human 800 Concepts](/en/new-era-human-800-concepts)
-
-Chanyuan Celestials（词条待建）
-
-## Language Pair
-
-- 中文入口: [/zh/thousand-year-world](/zh/thousand-year-world)
-
+- [Ten-Thousand-Year World](/en/ten-thousand-year-world/) — The layer above the Thousand-Year World
+- [Kingdom of Heaven](/en/kingdom-of-heaven/) — The collective term for all three heavenly layers
+- [Eight Thinking Ladders](/en/eight-thinking-ladders/) — Understanding all eight types of thinking is a prerequisite
+- [Soul Garden](/en/soul-garden/) — Soul garden construction is the foundational prerequisite
+- [Tour Guide Route Map](/en/tour-guide-route-map/) — The Thousand-Year World is the first milestone on this map

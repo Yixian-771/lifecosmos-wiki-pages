@@ -1,49 +1,42 @@
-<!-- id: LC-WUJI-0001 theme: Universe-LIFE System type: Gateway Entry direction: Ontological Origin lang: en -->
+<!-- id: LC-WUJI-0001-EN theme: The Greatest Creator and the Tao type: Gateway Page direction: Ontological Origin lang: en -->
 
 # Wuji
 
-[Gateway Page]
+[Entry Gateway]
 
-Wuji is the foundational starting-point concept in the Lifechanyuan cosmology. It addresses a root question that appears before all others: **what was the state before the universe was born?**
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-In this framework, Wuji is not “nothingness” in the ordinary sense. It is a pre-structured state: no formed time-space-material order, yet with unformed energy movement that makes later emergence possible.
+**Wuji** (无极) is the foundational starting-point concept in Lifechanyuan cosmology — the primordial pre-universe state before the Greatest Creator was born, before structured time-space-material order existed. Wuji is not "nothingness" in the ordinary sense; it is a pre-structured state with unformed energy movement that makes later emergence possible. From Wuji came Taiji; from Taiji, the Greatest Creator and the universe.
 
----
-
-## Core Definition
-
-Wuji is the primordial pre-universe state. The transition from Wuji to Taiji marks the decisive shift from unordered potential to ordered emergence.
-
-Understanding Wuji is necessary for understanding:
-
-- “Wuji gives rise to Taiji,”
-- “chaos transforms into hundun order,”
-- and the cosmological logic behind later concepts such as Dao and universe unfolding.
+> Wuji gives rise to Taiji; Taiji is the Greatest Creator.
+>
+> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 503
 
 ---
 
-## Key Reading Focus
+## Core Positioning
 
-- what Wuji “lacks” (formed structures) versus what it “contains” (potential movement),
-- why Wuji is not equivalent to absolute void,
-- how Wuji relates to Taiji, consciousness emergence, and cosmic order.
+In the Lifechanyuan system, understanding Wuji is necessary for understanding the entire cosmological logic: the transition from Wuji to Taiji marks the decisive shift from unordered potential to ordered emergence — the moment consciousness arose from structure, and the universe began.
 
 ---
 
-## Read by version
+## Read by Edition
 
-### [Friendly Version](/en/wuji/friendly)
-
-### [Academic Version](/en/wuji/academic)
-
-### [Internal Version](/en/wuji/internal)
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Related Entries (same version)
+## Related Entries
 
-[Cosmic Origin](/en/universe-origin)  
-[Taiji](/en/taiji)  
-[Dao](/en/dao)  
-[the Greatest Creator](/en/shangdi)  
-[the Way of the Greatest Creator](/en/way-of-the-greatest-creator)
+- [Taiji](/en/taiji/) — Wuji gives rise to Taiji; the first form of ordered existence
+- [Cosmic Origin](/en/universe-origin/) — The full cosmological sequence from Wuji onward
+- [Dao](/en/dao/) — Dao as the operating principle emerging from the Wuji-Taiji transition
+- [The Greatest Creator](/en/shangdi/) — The Greatest Creator emerged with Taiji from Wuji
+- [Consciousness](/en/consciousness/) — The emergence of consciousness from structure is the Wuji-to-Taiji transition

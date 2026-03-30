@@ -1,49 +1,42 @@
-<!-- id: LC-TBD theme: LIFE System type: Entry direction: System Knowledge lang: en slug: shangdi version: index -->
+<!-- id: LC-GC-0002-EN theme: The Greatest Creator and the Tao type: Gateway Page direction: Ontological Origin lang: en -->
 
-# The Greatest Creator
+# The Greatest Creator (上帝 Shàngdì)
 
----
+[Entry Gateway]
 
-## Version Navigation
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-### 🌿 Friendly Version (Recommended for First Reading)
+**The Greatest Creator** (上帝 / 造物主, *Shàngdì* / *Zuìgāo Chuàngzào Zhě*) is the supreme entity of the Lifechanyuan universe — the source of all existence, the creator of the universe, the only Truth, the personification of Love-Truth-Goodness-Beauty-Faith-Sincerity. The Greatest Creator is not an anthropomorphic deity who rewards and punishes — the Greatest Creator is the fundamental law, the primordial consciousness, the force from which all things arise and to which all things return.
 
-Suitable for readers new to Lifechanyuan concepts, using accessible language with a focus on overall understanding.
-
-→ [Enter Friendly Version](./friendly.md)
-
----
-
-### 📘 Academic Version
-
-Suitable for rational thinkers and researchers, with clear structure and rigorous logic.
-
-→ [Enter Academic Version](./academic.md)
+> Revere the Greatest Creator, revere LIFE, revere Nature — these three form the core orientation of Lifechanyuan.
+>
+> — Guide Xuefeng
 
 ---
 
-### 🔒 Internal Version
+## Core Positioning
 
-Intended for Chanyuan Celestials and in-depth learners, fully presenting system structure and core thought.
-
-→ [Enter Internal Version](./internal.md)
+In the Lifechanyuan system, the Greatest Creator is simultaneously: the creator of the thirty-six-dimensional universe; the source of all LIFE forms and their trajectories; the definition of Truth ("there is only one Truth in the universe: the Greatest Creator"); and the ultimate destination of all cultivation — to approach the attributes of the Greatest Creator is to approach the highest form of LIFE.
 
 ---
 
-## Related Core Concepts
+## Read by Edition
 
-- [Wuji](../wuji/index.md)
-- [Taiji](../taiji/index.md)
-- [Tao (the Way)](../dao/index.md)
-- [Supreme Pure Land](../qingliangjie/index.md)
-- [The Way of the Greatest Creator](../way-of-the-greatest-creator/index.md)
-- [Revering the Greatest Creator](../jingwei-shangdi/index.md)
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-Tags: Universe System | Navigation Page
+## Related Entries
 
-## Language Pair
-
-- 中文入口: [/zh/shangdi](/zh/shangdi)
-
+- [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) — The practical path of walking in alignment with the Greatest Creator
+- [Dao](/en/dao/) — The Way as a cosmological principle; the consciousness of the Greatest Creator
+- [Taiji](/en/taiji/) — The first form of existence after the Greatest Creator was born
+- [Six Qualities](/en/six-qualities/) — The attributes of the Greatest Creator that all LIFE can cultivate
+- [Consciousness](/en/consciousness/) — The mechanism by which the Greatest Creator came into being

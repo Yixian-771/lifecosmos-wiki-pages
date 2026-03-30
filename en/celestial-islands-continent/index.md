@@ -1,62 +1,42 @@
-<!-- id: LC-CIC-0001 theme: Universe-LIFE System type: Gateway Entry direction: Ultimate Destination lang: en -->
+<!-- id: LC-CIC-0001-EN theme: Universe-LIFE System type: Gateway Page direction: Ultimate Destination lang: en -->
 
 # Celestial Islands Continent
 
-[Gateway Page]
+[Entry Gateway]
 
-Celestial Islands Continent is one of the most important destination concepts in the Lifechanyuan framework.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-It is described as the Great Creator’s garden, the home sphere of celestials, and a high-order destination for LIFE after sustained spiritual refinement.
+**Celestial Islands Continent** (仙岛群岛洲, also called **Elysium–Celestial Islands Continent**) is one of the highest LIFE destination concepts in the Lifechanyuan framework — the Greatest Creator's garden, the home of celestials, the ultimate horizon of the cultivation path. Reaching the Celestial Islands Continent requires not only thinking elevation but the understanding of LIFE's eight great mysteries and the perfection of the antimatter structure.
 
-In practical terms, this entry answers one central question: **if cultivation is real, where is it leading?**
-
----
-
-## Core Definition
-
-Within this framework, Celestial Islands Continent is not treated as a poetic metaphor. It is treated as a structured destination:
-
-- positioned within the Elysium-world architecture,
-- associated with celestial-level LIFE,
-- connected to cultivation pathways through clear quality requirements.
+> The Celestial Islands Continent is where the Greatest Creator resides — the home of LIFE in its highest form.
+>
+> — Guide Xuefeng
 
 ---
 
-## Why this entry matters
+## Core Positioning
 
-This page is a key bridge between three domains:
-
-1. **Cosmology** — where this destination sits in the larger universe map.
-2. **LIFE hierarchy** — what kind of LIFE state is required to enter it.
-3. **Cultivation practice** — how present-life transformation relates to future destination.
-
-Without this entry, the path language of the system remains abstract.
+In the Lifechanyuan system, the Celestial Islands Continent sits at the apex of the three heavenly layers (Thousand-Year World → Ten-Thousand-Year World → Elysium World / Celestial Islands Continent). It is the terminal destination of the Tour Guide Route Map, reached by those who understand LIFE's eight great mysteries and perfect the six LIFE qualities and the antimatter structure.
 
 ---
 
-## Read by version
+## Read by Edition
 
-### [Internal Version](/en/celestial-islands-continent/internal)
-
-### [Friendly Version](/en/celestial-islands-continent/friendly)
-
-### [Academic Version](/en/celestial-islands-continent/academic)
-
----
-
-## Related entries (same version)
-
-[Elysium World](/en/elysium-world)  
-[Kingdom of Heaven](/en/kingdom-of-heaven)  
-[Thousand-Year World](/en/thousand-year-world)  
-[Ten-Thousand-Year World](/en/ten-thousand-year-world)  
-[Dao](/en/dao)  
-[the Way of the Greatest Creator](/en/way-of-the-greatest-creator)
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Classification
+## Related Entries
 
-**Theme**: Ultimate LIFE Destination  
-**Type**: Gateway Entry  
-**Direction**: Destination-Path Integration
+- [Elysium World](/en/elysium-world/) — The highest of the three heavenly layers, of which the Celestial Islands Continent is the apex
+- [Ten-Thousand-Year World](/en/ten-thousand-year-world/) — The middle layer on the path to the Celestial Islands Continent
+- [Thousand-Year World](/en/thousand-year-world/) — The entry-level heavenly destination; the first milestone
+- [Tour Guide Route Map](/en/tour-guide-route-map/) — The Celestial Islands Continent is the highest destination on this map
+- [Eight Thinking Ladders](/en/eight-thinking-ladders/) — Thinking elevation is a prerequisite for this destination

@@ -1,60 +1,42 @@
-<!-- id: LC-MR-0008 theme: Cosmic Life System type: Gateway Entry direction: Navigation lang: en -->
+<!-- id: LC-KH-0001-EN theme: Universe-LIFE System type: Gateway Page direction: LIFE Destination lang: en -->
 
-# the Kingdom of Heaven
+# The Kingdom of Heaven
 
-[Gateway Page]
+[Entry Gateway]
 
-In the Lifechanyuan framework, the Kingdom of Heaven (also referred to as Heaven/Paradise) is an umbrella concept covering the full three-layer ascent system:
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-the Thousand-year World → the Ten-thousand-year World → the Elysium World (including the Celestial Islands Continent).
+**The Kingdom of Heaven** (天国天堂) is the umbrella concept in the Lifechanyuan framework for the full three-tier heavenly ascent system: **Thousand-Year World → Ten-Thousand-Year World → Elysium World** (including the Celestial Islands Continent). It is not a metaphor or a distant aspiration — it is the real, structured, post-death destination for LIFE that has cultivated its antimatter structure to the corresponding level.
 
-This entry functions as the master gateway for structure, pathway orientation, and version navigation.
-
----
-
-## Positioning
-
-**System role:** umbrella entry for the full Heaven architecture.  
-**Structure role:** progressive three-layer pathway with increasing consciousness/structure requirements.  
-**Cultivation role:** master map linking life-goal, entry conditions, and destination logic.
+> The Kingdom of Heaven is real. It is structured. It has levels. And it is the destination every Chanyuan Celestial is working toward.
+>
+> — Guide Xuefeng
 
 ---
 
-## Key Points
+## Core Positioning
 
-1. The Kingdom of Heaven is not a single-location idea but a layered life-space system.
-2. The three layers are progressive and state-matched, not randomly assigned.
-3. Entry logic is framed by LIFE structure and consciousness quality rather than geography alone.
-4. The framework is tightly coupled with Antimatter Structure, inner garden of the spirit, and practice/cultivation pathways.
-5. The Celestial Islands Continent serves as a key final-destination image within the highest layer.
+In the Lifechanyuan system, the Kingdom of Heaven is the terminal framework of the Tour Guide Route Map. Each of its three tiers has specific cultivation prerequisites. The entire cultivation system — soul garden, six LIFE qualities, eight thinking ladders, antimatter structure — is oriented toward reaching one of these tiers.
 
 ---
 
-## Read by Version
+## Read by Edition
 
-### [Friendly Version](/en/kingdom-of-heaven/friendly)
-For first-time readers; emphasizes accessibility, pathway clarity, and big-picture understanding.
-
-### [Academic Version](/en/kingdom-of-heaven/academic)
-For research reading; emphasizes structure, argument logic, and comparative clarity.
-
-### [Internal Version](/en/kingdom-of-heaven/internal)
-For in-system deep reading; full chaptered internal source-aligned content.
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Related Concepts
+## Related Entries
 
-[the Thousand-year World](/en/thousand-year-world)  
-[the Ten-thousand-year World](/en/ten-thousand-year-world)  
-[the Elysium World](/en/elysium-world)  
-[the Celestial Islands Continent of the Elysium World](/en/celestial-islands-continent)  
-[Antimatter Structure](/en/antimatter-structure)  
-[inner garden of the spirit](/en/soul-garden)  
-[practice and cultivation](/en/spiritual-purification-course/)
-
----
-
-## Language Pair
-
-- 中文入口: [/zh/kingdom-of-heaven](/zh/kingdom-of-heaven)
+- [Thousand-Year World](/en/thousand-year-world/) — The entry-level tier of the Kingdom of Heaven
+- [Ten-Thousand-Year World](/en/ten-thousand-year-world/) — The middle tier
+- [Elysium World](/en/elysium-world/) — The highest tier; contains the Celestial Islands Continent
+- [Celestial Islands Continent](/en/celestial-islands-continent/) — The apex destination within the Kingdom of Heaven
+- [Tour Guide Route Map](/en/tour-guide-route-map/) — The complete path leading to the Kingdom of Heaven

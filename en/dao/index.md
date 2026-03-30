@@ -1,78 +1,42 @@
-<!-- id: LC-DAO-0001 theme: Universe-LIFE System type: Gateway Entry direction: Dao Core lang: en -->
+<!-- id: LC-DAO-0001-EN theme: The Greatest Creator and the Tao type: Gateway Page direction: Dao Core lang: en -->
 
 # Dao
 
-[Gateway Page]
+[Entry Gateway]
 
-In the Lifechanyuan framework, **Dao** is one of the most foundational control concepts. It is defined as the consciousness of the Greatest Creator, the blood of the universe, and the total operating program of all things.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological
+> essence of existence — the soul/antimatter structure that persists across
+> incarnations — while **life** (lowercase) refers to the experiential stage
+> of human existence in this world.
 
-In this system, Dao is not only a philosophical term but also a practical law framework that can be applied, tested, and continuously lived.
+**Dao** (道) is one of the most foundational concepts in the Lifechanyuan framework — defined as the consciousness of the Greatest Creator, the blood of the universe, and the total operating program of all things. Dao is not merely a philosophical term; it is a practical law that can be applied, tested, and lived daily.
 
----
-
-## Core Definition
-
-**Dao is the consciousness-expression of the Greatest Creator and the total program governing universal operation and transformation.**
-
-Its core meanings can be summarized as:
-
-1. Dao as the operational expression of the Spirit of the Greatest Creator;
-2. Dao as the integrated body of law, order, and pattern;
-3. Dao as the consciousness dimension in the triad of nature-love-Dao;
-4. Dao as naturalness itself (Dao = nature);
-5. Dao as deeply coupled with karmic return, cultivation path, and LIFE trajectory.
+> The universal commonality is Dao; the core of Dao is the Greatest Creator.
+>
+> — Guide Xuefeng
 
 ---
 
-## Key Points
+## Core Positioning
 
-### Ontological Position
-- The universal commonality is Dao; the core of Dao is the Greatest Creator
-- Dao is in all things; all things are in Dao
-- Dao is the total-order and total-program layer of existence
-
-### Mechanism Features
-- Dao has systemic characteristics such as hundun nature, lasting reliability, and instant responsive variability
-- Dao is not static doctrine but dynamic operation (constancy-with-change)
-- Dao runs reward/correction logic: alignment is rewarded, deviation is corrected
-
-### Cultivation Path
-1. Realize Dao
-2. Seek Dao
-3. Verify Dao
-4. Attain Dao
-5. Guard Dao
-
-### Civilizational Meaning
-- Dao is the root logic of Hundun Management
-- Dao is the core of Civilization 3.0 Dao-oriented governance
-- Dao unifies personal cultivation, community order, and civilization transition
+In the Lifechanyuan system, Dao simultaneously operates as: the ontological ground of all existence (Dao is in all things; all things are in Dao); the consciousness dimension of the Greatest Creator's three essential qualities (Nature-Love-Dao); the root logic of Hundun Management and Civilization 3.0 governance; and the individual cultivation path (realize Dao → seek Dao → attain Dao → guard Dao).
 
 ---
 
-## Read by Version
+## Read by Edition
 
-### [Friendly Version](/en/dao/friendly)
-
-### [Academic Version](/en/dao/academic)
-
-### [Internal Version](/en/dao/internal)
-
----
-
-## Related Concepts (same version)
-
-[the Way of the Greatest Creator](/en/way-of-the-greatest-creator)  
-[the Greatest Creator](/en/shangdi)  
-[Spirituality](/en/spirituality)  
-[Hundun Management](/en/hundun-management)  
-[the Second Home](/en/second-home)  
-[Civilization 3.0](/en/civilization-3-0)
+| Edition | Intended Reader | Link |
+|---------|----------------|-------|
+| **Friendly Edition** | Readers new to Lifechanyuan concepts | [Read Friendly Edition](./friendly) |
+| **Academic Edition** | Researchers with philosophical/religious studies background | [Read Academic Edition](./academic) |
+| **Internal Edition** | Chanyuan Celestials and deep practitioners | [Read Internal Edition](./internal) |
 
 ---
 
-## Classification
+## Related Entries
 
-**Theme**: Dao · Cosmic-Dao Framework  
-**Type**: Gateway Entry · Core Control Concept  
-**Direction**: Universe Program · LIFE Governance
+- [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) — Dao as a lived practical path
+- [The Greatest Creator](/en/shangdi/) — The source of Dao
+- [Nature (Xìng)](/en/nature/) — Nature is the characteristic of Structure; Love is of Energy; Dao is of Consciousness
+- [Hundun Management](/en/hundun-management/) — Dao as the root logic of Civilization 3.0 governance
+- [Consciousness](/en/consciousness/) — Consciousness is the Three Cosmic Elements dimension corresponding to Dao
