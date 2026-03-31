@@ -14,13 +14,7 @@ theme:
     - toc.follow
     - search.suggest
     - search.highlight
-  alternate:
-    - name: 中文
-      link: /zh/
-      lang: zh
-    - name: English
-      link: /en/
-      lang: en
+
 
 markdown_extensions:
   - toc:
@@ -87,3 +81,12 @@ nav:
   - Lifechanyuan: lifechanyuan/index.md
   - New Era Human 800 Concepts: new-era-human-800-concepts/index.md
   - F Coin: f-coin/index.md
+
+extra:
+  alternate:
+    - name: 中文
+      link: http://wiki.lifecosmos.org/zh/
+      lang: zh
+    - name: English
+      link: http://wiki.lifecosmos.org/en/
+      lang: en

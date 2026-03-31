@@ -14,13 +14,7 @@ theme:
     - toc.follow
     - search.suggest
     - search.highlight
-  alternate:
-    - name: 中文
-      link: /zh/
-      lang: zh
-    - name: English
-      link: /en/
-      lang: en
+
 
 markdown_extensions:
   - toc:
@@ -87,3 +81,12 @@ nav:
   - 生命禅院: lifechanyuan/index.md
   - 新时代人类八百理念: new-era-human-800-concepts/index.md
   - F币: f-coin/index.md
+
+extra:
+  alternate:
+    - name: 中文
+      link: http://wiki.lifecosmos.org/zh/
+      lang: zh
+    - name: English
+      link: http://wiki.lifecosmos.org/en/
+      lang: en
