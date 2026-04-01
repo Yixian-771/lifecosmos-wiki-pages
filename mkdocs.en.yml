@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Taiji Thinking: taiji-thinking/index.md
   - Heart-Image Thinking: heart-image-thinking/index.md
   - Illusory Thinking: illusory-thinking/index.md
   - Associative Thinking: associative-thinking/index.md
