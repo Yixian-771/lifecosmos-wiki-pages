@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 太极思维: taiji-thinking/index.md
   - 心像思维: heart-image-thinking/index.md
   - 迷幻思维: illusory-thinking/index.md
   - 联想思维: associative-thinking/index.md
