@@ -23,16 +23,16 @@ Through unified protocols and multi-version architecture, it supports layered re
 ## Reading Versions
 
 ### Friendly Edition (Recommended for First-Time Readers)
-- Chinese → [./lifechanyuan-encyclopedia/zh-friendly]
-- English → [en-friendly](/lifechanyuan-encyclopedia/en-friendly)
+- Chinese → [Lifechanyuan (Friendly Edition)](/zh/lifechanyuan/friendly)
+- English → [Lifechanyuan (Friendly Edition)](/en/lifechanyuan/friendly)
 
 ### Academic Edition
-- Chinese → [zh-academic](/lifechanyuan-encyclopedia/zh-academic)
-- English → [en-academic](/lifechanyuan-encyclopedia/en-academic)
+- Chinese → [Lifechanyuan (Academic Edition)](/zh/lifechanyuan/academic)
+- English → [Lifechanyuan (Academic Edition)](/en/lifechanyuan/academic)
 
 ### Internal Edition
-- Chinese → [zh-internal](/lifechanyuan-encyclopedia/zh-internal)
-- English → [en-internal](/lifechanyuan-encyclopedia/en-internal)
+- Chinese → [Lifechanyuan (Internal Edition)](/zh/lifechanyuan/internal)
+- English → [Lifechanyuan (Internal Edition)](/en/lifechanyuan/internal)
 
 ---
 
@@ -46,11 +46,9 @@ Internal Edition: for structural explanation and internal study
 
 ## Related Concepts
 
-[Civilization-3.0](/en/civilization-3-0)  
-Spiritual-Purification（词条待建）  
-[Hundun-Management](/en/hundun-management)  
-Second-Home-Model（词条待建）  
-[Lifechanyuan](/en/lifechanyuan)
+[Civilization 3.0](/en/civilization-3-0/)  
+[Hundun Management](/en/hundun-management/)  
+[Lifechanyuan](/en/lifechanyuan/)
 
 ---
 
