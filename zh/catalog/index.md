@@ -27,7 +27,7 @@ slug: catalog-zh
 
 ## 四、思维奥秘
 
-[八大思维阶梯](/zh/eight-thinking-ladders/) · [物质思维](/zh/material-thinking/) · [形象思维](/zh/imagery-thinking/) · [联想思维](/zh/associative-thinking/) · [迷幻思维](/zh/illusory-thinking/) · [心像思维](/zh/heart-image-thinking/) · [太极思维](/zh/taiji-thinking/) · [无相思维](/zh/non-form-thinking/) · [浑沌思维](/zh/hundun-thinking/)
+[八大思维阶梯](/zh/eight-thinking-ladders/) · [物质思维](/zh/material-thinking/) · [形象思维](/zh/imagery-thinking/) · [联想思维](/zh/associative-thinking/) · [迷幻思维](/zh/illusory-thinking/) · [心像思维](/zh/heart-image-thinking/) · [太极思维](/zh/taiji-thinking/) · [无相思维](/zh/non-form-thinking/) · [浑沌思维](/zh/hundun-thinking/) · [理性思维](/zh/rational-thinking/)
 
 ---
 

@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 理性思维: rational-thinking/index.md
   - 浑沌思维: hundun-thinking/index.md
   - 无相思维: non-form-thinking/index.md
   - 太极思维: taiji-thinking/index.md
