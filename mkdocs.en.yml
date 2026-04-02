@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Spiritual Thinking: spiritual-thinking/index.md
   - Rational Thinking: rational-thinking/index.md
   - Hundun Thinking: hundun-thinking/index.md
   - Non-Form Thinking: non-form-thinking/index.md
