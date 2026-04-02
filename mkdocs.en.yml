@@ -92,8 +92,8 @@ nav:
 extra:
   alternate:
     - name: 中文
-      link: http://wiki.lifecosmos.org/zh/
+      link: /zh/
       lang: zh
     - name: English
-      link: http://wiki.lifecosmos.org/en/
+      link: /en/
       lang: en
