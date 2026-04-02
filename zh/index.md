@@ -23,16 +23,16 @@
 ## 阅读版本
 
 ### 友好版（建议首次阅读）
-- 中文 → [zh-friendly](/lifechanyuan-encyclopedia/zh-friendly)
-- English → [en-friendly](/lifechanyuan-encyclopedia/en-friendly)
+- 中文 → [生命禅院（友好版）](/zh/lifechanyuan/friendly)
+- English → [Lifechanyuan (Friendly Edition)](/en/lifechanyuan/friendly)
 
 ### 学术版
-- 中文 → [zh-academic](/lifechanyuan-encyclopedia/zh-academic)
-- English → [en-academic](/lifechanyuan-encyclopedia/en-academic)
+- 中文 → [生命禅院（学术版）](/zh/lifechanyuan/academic)
+- English → [Lifechanyuan (Academic Edition)](/en/lifechanyuan/academic)
 
 ### 内部版
-- 中文 → [zh-internal](/lifechanyuan-encyclopedia/zh-internal)
-- English → [en-internal](/lifechanyuan-encyclopedia/en-internal)
+- 中文 → [生命禅院（内部版）](/zh/lifechanyuan/internal)
+- English → [Lifechanyuan (Internal Edition)](/en/lifechanyuan/internal)
 
 ---
 
