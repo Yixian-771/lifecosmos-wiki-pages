@@ -24,7 +24,7 @@
 
 ## IV. The Mystery of Thinking
 
-[Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Illusory Thinking](/en/illusory-thinking/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Taiji Thinking](/en/taiji-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Imagery Thinking](/en/imagery-thinking/) · [Associative Thinking](/en/associative-thinking/)
+[Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Illusory Thinking](/en/illusory-thinking/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Taiji Thinking](/en/taiji-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Hundun Thinking](/en/hundun-thinking/) · [Imagery Thinking](/en/imagery-thinking/) · [Associative Thinking](/en/associative-thinking/)
 
 *(More entries in preparation)*
 

@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Hundun Thinking: hundun-thinking/index.md
   - Non-Form Thinking: non-form-thinking/index.md
   - Taiji Thinking: taiji-thinking/index.md
   - Heart-Image Thinking: heart-image-thinking/index.md
