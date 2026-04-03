@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - 1+1 Thinking: one-plus-one-thinking/index.md
   - Inverted Thinking: inverted-thinking/index.md
   - Spiritual Thinking: spiritual-thinking/index.md
   - Rational Thinking: rational-thinking/index.md
