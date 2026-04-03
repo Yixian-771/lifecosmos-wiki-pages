@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 颠倒思维: inverted-thinking/index.md
   - 灵性思维: spiritual-thinking/index.md
   - 理性思维: rational-thinking/index.md
   - 浑沌思维: hundun-thinking/index.md
