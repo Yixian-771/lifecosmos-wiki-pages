@@ -21,19 +21,19 @@ slug: catalog-zh
 
 ## 三、生命奥秘
 
-[生命起源](/zh/life-origin/) · [反物质结构](/zh/antimatter-structure/) · [灵性](/zh/spirituality/) · [灵感](/zh/spiritual-sensing/) · [性](/zh/nature/)
+[生命起源](/zh/life-origin/) · [反物质结构](/zh/antimatter-structure/) · [灵性](/zh/spirituality/) · [灵感](/zh/spiritual-sensing/) · [性](/zh/nature/) · [生命](/zh/life/) · [生命奥秘](/zh/life-mysteries/)
 
 ---
 
 ## 四、思维奥秘
 
-[八大思维阶梯](/zh/eight-thinking-ladders/) · [物质思维](/zh/material-thinking/) · [形象思维](/zh/imagery-thinking/) · [联想思维](/zh/associative-thinking/) · [迷幻思维](/zh/illusory-thinking/) · [心像思维](/zh/heart-image-thinking/) · [太极思维](/zh/taiji-thinking/) · [无相思维](/zh/non-form-thinking/) · [浑沌思维](/zh/hundun-thinking/) · [理性思维](/zh/rational-thinking/) · [灵性思维](/zh/spiritual-thinking/) · [颠倒思维](/zh/inverted-thinking/) · [1+1思维](/zh/one-plus-one-thinking/) · [定式思维](/zh/fixed-mindset/) · [两项浩繁工程](/zh/two-great-projects/) · [地球的管理者](/zh/earth-managers/) · [生命奥秘](/zh/life-mysteries/) · [生命](/zh/life/)
+[八大思维阶梯](/zh/eight-thinking-ladders/) · [物质思维](/zh/material-thinking/) · [形象思维](/zh/imagery-thinking/) · [联想思维](/zh/associative-thinking/) · [迷幻思维](/zh/illusory-thinking/) · [心像思维](/zh/heart-image-thinking/) · [太极思维](/zh/taiji-thinking/) · [无相思维](/zh/non-form-thinking/) · [浑沌思维](/zh/hundun-thinking/) · [理性思维](/zh/rational-thinking/) · [灵性思维](/zh/spiritual-thinking/) · [颠倒思维](/zh/inverted-thinking/) · [1+1思维](/zh/one-plus-one-thinking/) · [定式思维](/zh/fixed-mindset/)
 
 ---
 
 ## 五、社会系统
 
-[文明3.0](/zh/civilization-3-0/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [导游雪峰](/zh/guide-xuefeng/) · [禅院草](/zh/chanyuan-celestials/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵净化课](/zh/spiritual-purification-course/) · [F币](/zh/f-coin/)
+[两项浩繁工程](/zh/two-great-projects/) · [地球的管理者](/zh/earth-managers/) · [文明3.0](/zh/civilization-3-0/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [导游雪峰](/zh/guide-xuefeng/) · [禅院草](/zh/chanyuan-celestials/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵净化课](/zh/spiritual-purification-course/) · [F币](/zh/f-coin/)
 
 ---
 
@@ -43,4 +43,4 @@ slug: catalog-zh
 
 ---
 
-*最后更新：2026-03-24*
+*最后更新：2026-04-04*

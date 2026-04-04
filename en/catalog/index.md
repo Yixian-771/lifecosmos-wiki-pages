@@ -18,13 +18,13 @@
 
 ## III. The Mystery of LIFE
 
-[Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/)
+[Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/)
 
 ---
 
 ## IV. The Mystery of Thinking
 
-[Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Illusory Thinking](/en/illusory-thinking/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Taiji Thinking](/en/taiji-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Hundun Thinking](/en/hundun-thinking/) · [Rational Thinking](/en/rational-thinking/) · [Spiritual Thinking](/en/spiritual-thinking/) · [Inverted Thinking](/en/inverted-thinking/) · [1+1 Thinking](/en/one-plus-one-thinking/) · [Fixed-Pattern Thinking](/en/fixed-mindset/) · [Two Enormous Projects](/en/two-great-projects/) · [Managers of Earth](/en/earth-managers/) · [Mysteries of LIFE](/en/life-mysteries/) · [LIFE](/en/life/) · [Imagery Thinking](/en/imagery-thinking/) · [Associative Thinking](/en/associative-thinking/)
+[Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Illusory Thinking](/en/illusory-thinking/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Taiji Thinking](/en/taiji-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Hundun Thinking](/en/hundun-thinking/) · [Rational Thinking](/en/rational-thinking/) · [Spiritual Thinking](/en/spiritual-thinking/) · [Inverted Thinking](/en/inverted-thinking/) · [1+1 Thinking](/en/one-plus-one-thinking/) · [Fixed-Pattern Thinking](/en/fixed-mindset/) · [Imagery Thinking](/en/imagery-thinking/) · [Associative Thinking](/en/associative-thinking/)
 
 *(More entries in preparation)*
 
@@ -32,7 +32,7 @@
 
 ## V. Social Systems
 
-[Civilization 3.0](/en/civilization-3-0/) · [Hundun Management](/en/hundun-management/) · [Second Home](/en/second-home/) · [Lifechanyuan](/en/lifechanyuan/) · [Guide Xuefeng](/en/guide-xuefeng/) · [Chanyuan Celestials](/en/chanyuan-celestials/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) · [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance/) · [New Era Human 800 Concepts](/en/new-era-human-800-concepts/) · [Spiritual Purification Course](/en/spiritual-purification-course/) · [F Coin](/en/f-coin/)
+[Two Enormous Projects](/en/two-great-projects/) · [Managers of Earth](/en/earth-managers/) · [Civilization 3.0](/en/civilization-3-0/) · [Hundun Management](/en/hundun-management/) · [Second Home](/en/second-home/) · [Lifechanyuan](/en/lifechanyuan/) · [Guide Xuefeng](/en/guide-xuefeng/) · [Chanyuan Celestials](/en/chanyuan-celestials/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) · [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance/) · [New Era Human 800 Concepts](/en/new-era-human-800-concepts/) · [Spiritual Purification Course](/en/spiritual-purification-course/) · [F Coin](/en/f-coin/)
 
 ---
 
@@ -42,4 +42,4 @@
 
 ---
 
-*Last updated: 2026-03-29*
+*Last updated: 2026-04-04*
