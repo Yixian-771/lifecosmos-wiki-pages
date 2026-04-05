@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - 🆕 Retained Information Space: retained-info-realm/index.md
   - 1+1 Thinking: one-plus-one-thinking/index.md
   - Two Enormous Projects: two-great-projects/index.md
   - Higher LIFE Spaces: high-life-spaces/index.md
