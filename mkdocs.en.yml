@@ -31,10 +31,12 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
-  - 🆕 Free Will: free-will/index.md
+  - 🆕 Everything Is Destined: everything-is-destined/index.md
+  - Free Will: free-will/index.md
   - Retained Information Space: retained-info-realm/index.md
   - 1+1 Thinking: one-plus-one-thinking/index.md
   - Two Enormous Projects: two-great-projects/index.md
+  - Everything Is Destined: everything-is-destined/index.md
   - Free Will: free-will/index.md
   - Higher LIFE Spaces: high-life-spaces/index.md
   - Managers of Earth: earth-managers/index.md
