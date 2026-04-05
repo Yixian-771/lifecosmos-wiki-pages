@@ -31,7 +31,8 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
-  - 🆕 滞留信息间: retained-info-realm/index.md
+  - 🆕 自由意志: free-will/index.md
+  - 滞留信息间: retained-info-realm/index.md
   - 两项浩繁工程: two-great-projects/index.md
   - 地球的管理者: earth-managers/index.md
   - 生命奥秘: life-mysteries/index.md
@@ -68,6 +69,7 @@ nav:
   - 反物质世界: antimatter-world/index.md
   - 太极: taiji/index.md
   - 无极: wuji/index.md
+  - 自由意志: free-will/index.md
   - 高层生命空间: high-life-spaces/index.md
   - 仙岛群岛洲: celestial-islands-continent/index.md
   - 滞留信息间: retained-info-realm/index.md
