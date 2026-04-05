@@ -7,7 +7,7 @@
 > incarnations — while **life** (lowercase) refers to the experiential stage
 > of human existence in this world.
 
-**The Script of Human Life** is the core concept in Lifechanyuan's (生命禅院) cosmology that focuses on the nature of each individual's LIFE trajectory. The entire universe, and the entire development of humanity, was written long ago into a vast script. A person's life is the performance of their assigned role in this cosmic script. The meaning of human life is: **to experience, perceive, and ascend — serving the Greatest Creator. The essence of life is to perform according to the requirements of the cosmic script.**
+**The Script of Human Life** is the core concept in Lifechanyuan's cosmology that focuses on the nature of each individual's LIFE trajectory. The entire universe, and the entire development of humanity, was written long ago into a vast script. A person's life is the performance of their assigned role in this cosmic script. The meaning of human life is: **to experience, perceive, and ascend — serving the Greatest Creator. The essence of life is to perform according to the requirements of the cosmic script.**
 
 > "The process of LIFE traveling through the human world is called life. The meaning of life is to experience, perceive, and ascend — serving the Greatest Creator. The essence of life is to perform according to the requirements of the cosmic script."
 > — Xuefeng, *Answering Yinyin's Questions on Behalf of the Extinct Celestial*
