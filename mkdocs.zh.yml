@@ -31,7 +31,8 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
-  - 🆕 人生剧本: life-script/index.md
+  - 🆕 潜意识: subconscious/index.md
+  - 人生剧本: life-script/index.md
   - 宇宙大剧本: cosmic-script/index.md
   - 最后的课程: last-course/index.md
   - 一切都是注定的: everything-is-destined/index.md
