@@ -31,7 +31,7 @@ In the Lifechanyuan system, the **subconscious** is not merely a region of "unno
 |---------|----------|------|
 | Friendly | Readers new to Lifechanyuan's view of mind and dreams | [Friendly Edition](/en/subconscious/friendly/) |
 | Academic | Comparative study in psychology, religious studies, philosophy of mind | [Academic Edition](/en/subconscious/academic/) |
-| Internal | Full source-text compilation and system-level analysis | [Internal Edition](/en/subconscious/internal/) |
+| Internal | Full source text and system-level doctrinal structure | [Internal Edition](/en/subconscious/internal/) |
 
 ---
 
