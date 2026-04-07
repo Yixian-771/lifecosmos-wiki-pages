@@ -24,6 +24,7 @@
 
 | Version | Suitable for | Link |
 |--------|--------------|------|
+| Friendly Edition | First reading, readability-focused | [Friendly Edition](/en/dream-state/friendly/) |
 | Internal Edition | Full-translation documentary edition | [Internal Edition](/en/dream-state/internal/) |
 
 ---
