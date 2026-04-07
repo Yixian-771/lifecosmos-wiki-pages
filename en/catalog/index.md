@@ -18,7 +18,7 @@
 
 ## III. The Mystery of LIFE
 
-[Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/)
+[Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Dreams](/en/dream-state/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/)
 
 ---
 
@@ -42,4 +42,4 @@
 
 ---
 
-*Last updated: 2026-04-04*
+*Last updated: 2026-04-07*

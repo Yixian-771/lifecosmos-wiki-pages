@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - 🆕 Dreams: dream-state/index.md
   - 🆕 The Script of Human Life: life-script/index.md
   - The Cosmic Script: cosmic-script/index.md
   - The Last Course: last-course/index.md
