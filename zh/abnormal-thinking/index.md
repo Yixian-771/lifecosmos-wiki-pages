@@ -25,6 +25,7 @@
 | 版本 | 适合读者 | 链接 |
 |------|----------|------|
 | 友好版 | 初次了解，追求可读性 | [友好版](/zh/abnormal-thinking/friendly/) |
+| 学术版 | 深度研究，理论比较 | [学术版](/zh/abnormal-thinking/academic/) |
 | 内部版 | 原文照录，按主题整理 | [内部版](/zh/abnormal-thinking/internal/) |
 
 ---
