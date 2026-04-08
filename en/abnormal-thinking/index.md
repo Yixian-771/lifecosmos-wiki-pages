@@ -9,6 +9,7 @@ Abnormal Thinking is one of the foundational methods in the Lifechanyuan system.
 | Version | Intended readers | Link |
 |---------|------------------|------|
 | Friendly Edition | General readers, readability first | [Friendly Edition](/en/abnormal-thinking/friendly/) |
+| Academic Edition | Research-oriented, theory comparison | [Academic Edition](/en/abnormal-thinking/academic/) |
 | Internal Edition | Full-translation internal reference | [Internal Edition](/en/abnormal-thinking/internal/) |
 
 ## Related Entries
