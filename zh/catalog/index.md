@@ -39,7 +39,7 @@ slug: catalog-zh
 
 ## 六、修行修炼
 
-[导游路线图](/zh/tour-guide-route-map/) · [无相布施](/zh/formless-giving/) · [心灵花园](/zh/soul-garden/) · [真](/zh/truth/) · [善](/zh/goodness/) · [美](/zh/beauty/) · [爱](/zh/love/) · [信](/zh/faith/) · [诚](/zh/sincerity/) · [平](/zh/peace/) · [和](/zh/harmony/) · [真善美爱信诚](/zh/six-qualities/) · [花香蝶自来](/zh/huaxiang-die-zi-lai/)
+[导游路线图](/zh/tour-guide-route-map/) · [归零](/zh/return-to-zero/) · [无相布施](/zh/formless-giving/) · [心灵花园](/zh/soul-garden/) · [真](/zh/truth/) · [善](/zh/goodness/) · [美](/zh/beauty/) · [爱](/zh/love/) · [信](/zh/faith/) · [诚](/zh/sincerity/) · [平](/zh/peace/) · [和](/zh/harmony/) · [真善美爱信诚](/zh/six-qualities/) · [花香蝶自来](/zh/huaxiang-die-zi-lai/)
 
 ---
 
