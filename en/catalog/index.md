@@ -12,21 +12,19 @@
 
 ## II. Universe and Space-Time
 
-[Cosmic Origin](/en/universe-origin/) · [Antimatter World](/en/antimatter-world/) · [Negative Universe](/en/negative-universe/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Retained Information Space](/en/retained-info-realm/) · [The Cosmic Script](/en/cosmic-script/) · [The Script of Human Life](/en/life-script/) · [The Last Course](/en/last-course/) · [Everything Is Destined](/en/everything-is-destined/) · [Free Will](/en/free-will/) · [Higher LIFE Spaces](/en/high-life-spaces/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Celestial Islands Continent](/en/celestial-islands-continent/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Dreams](/en/dream-state/) · [Consciousness](/en/consciousness/) · [Energy](/en/energy/) · [Structure](/en/structure/)
+[Cosmic Origin](/en/universe-origin/) · [Antimatter World](/en/antimatter-world/) · [Negative Universe](/en/negative-universe/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Retained Information Space](/en/retained-info-realm/) · [The Cosmic Script](/en/cosmic-script/) · [The Script of Human Life](/en/life-script/) · [Life Trajectory](/en/life-trajectory/) · [The Last Course](/en/last-course/) · [Everything Is Destined](/en/everything-is-destined/) · [Free Will](/en/free-will/) · [Higher LIFE Spaces](/en/high-life-spaces/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Celestial Islands Continent](/en/celestial-islands-continent/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Dreams](/en/dream-state/) · [Consciousness](/en/consciousness/) · [Energy](/en/energy/) · [Structure](/en/structure/)
 
 ---
 
 ## III. The Mystery of LIFE
 
-[Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/)
+[Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Subconscious](/en/subconscious/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/)
 
 ---
 
 ## IV. The Mystery of Thinking
 
-[Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Illusory Thinking](/en/illusory-thinking/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Taiji Thinking](/en/taiji-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Hundun Thinking](/en/hundun-thinking/) · [Rational Thinking](/en/rational-thinking/) · [Spiritual Thinking](/en/spiritual-thinking/) · [Abnormal Thinking](/en/abnormal-thinking/) · [Inverted Thinking](/en/inverted-thinking/) · [1+1 Thinking](/en/one-plus-one-thinking/) · [Fixed-Pattern Thinking](/en/fixed-mindset/) · [Imagery Thinking](/en/imagery-thinking/) · [Associative Thinking](/en/associative-thinking/)
-
-*(More entries in preparation)*
+[Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Imagery Thinking](/en/imagery-thinking/) · [Associative Thinking](/en/associative-thinking/) · [Illusory Thinking](/en/illusory-thinking/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Taiji Thinking](/en/taiji-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Hundun Thinking](/en/hundun-thinking/) · [Rational Thinking](/en/rational-thinking/) · [Spiritual Thinking](/en/spiritual-thinking/) · [Inverted Thinking](/en/inverted-thinking/) · [Abnormal Thinking](/en/abnormal-thinking/) · [1+1 Thinking](/en/one-plus-one-thinking/) · [Fixed-Pattern Thinking](/en/fixed-mindset/)
 
 ---
 
@@ -42,4 +40,4 @@
 
 ---
 
-*Last updated: 2026-04-07*
+*Last updated: 2026-04-13*

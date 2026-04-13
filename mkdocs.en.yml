@@ -31,8 +31,10 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
-  - 🆕 Dreams: dream-state/index.md
-  - 🆕 The Script of Human Life: life-script/index.md
+  - Abnormal Thinking: abnormal-thinking/index.md
+  - Dreams: dream-state/index.md
+  - Life Trajectory: life-trajectory/index.md
+  - The Script of Human Life: life-script/index.md
   - The Cosmic Script: cosmic-script/index.md
   - The Last Course: last-course/index.md
   - Everything Is Destined: everything-is-destined/index.md
@@ -40,16 +42,11 @@ nav:
   - Retained Information Space: retained-info-realm/index.md
   - 1+1 Thinking: one-plus-one-thinking/index.md
   - Two Enormous Projects: two-great-projects/index.md
-  - The Cosmic Script: cosmic-script/index.md
-  - The Last Course: last-course/index.md
-  - Everything Is Destined: everything-is-destined/index.md
-  - Free Will: free-will/index.md
   - Higher LIFE Spaces: high-life-spaces/index.md
   - Managers of Earth: earth-managers/index.md
   - Mysteries of LIFE: life-mysteries/index.md
   - LIFE: life/index.md
   - Fixed-Pattern Thinking: fixed-mindset/index.md
-  - Abnormal Thinking: abnormal-thinking/index.md
   - Inverted Thinking: inverted-thinking/index.md
   - Spiritual Thinking: spiritual-thinking/index.md
   - Rational Thinking: rational-thinking/index.md
@@ -81,7 +78,6 @@ nav:
   - Taiji: taiji/index.md
   - Wuji: wuji/index.md
   - Celestial Islands Continent: celestial-islands-continent/index.md
-  - Retained Information Space: retained-info-realm/index.md
   - Thirty-Six-Dimensional Space: thirty-six-dimensional-space/index.md
   - Antimatter Structure: antimatter-structure/index.md
   - Spiritual Sensing: spiritual-sensing/index.md
@@ -101,7 +97,7 @@ nav:
   - Soul Garden: soul-garden/index.md
   - Hundun Management: hundun-management/index.md
   - Formless Giving: formless-giving/index.md
-  - Huaxiang Butterflies Come Naturally: huaxiang-die-zi-lai/index.md
+  - Huaxiang, Butterflies Come Naturally: huaxiang-die-zi-lai/index.md
   - Civilization 3.0: civilization-3-0/index.md
   - Second Home: second-home/index.md
   - Guide Xuefeng: guide-xuefeng/index.md
