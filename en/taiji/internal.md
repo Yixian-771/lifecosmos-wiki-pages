@@ -254,6 +254,6 @@ Xuefeng's most concise summary: Wuji gives rise to Taiji; Taiji is the Greatest 
 - [Wuji (Internal)](/en/wuji/internal)
 - [Cosmic Origin (Internal)](/en/universe-origin/internal)
 - [Dao (Internal)](/en/dao/internal)
-- [the Greatest Creator (Internal)](/en/shangdi/internal)
+- [the Greatest Creator (Internal)](/en/greatest-creator/internal)
 - [the Way of the Greatest Creator (Internal)](/en/way-of-the-greatest-creator/internal)
 - [Thirty-Six-Dimensional Space (Internal)](/en/thirty-six-dimensional-space/internal)

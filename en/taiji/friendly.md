@@ -175,7 +175,7 @@ With these three in hand, the other entries in this encyclopedia — Wuji, Dao, 
 - [Wuji (Friendly)](/en/wuji/friendly)
 - [Cosmic Origin (Friendly)](/en/universe-origin/friendly)
 - [Dao (Friendly)](/en/dao/friendly)
-- [the Greatest Creator (Friendly)](/en/shangdi/friendly)
+- [the Greatest Creator (Friendly)](/en/greatest-creator/friendly)
 - [the Way of the Greatest Creator (Friendly)](/en/way-of-the-greatest-creator/friendly)
 - [Thirty-Six-Dimensional Space (Friendly)](/en/thirty-six-dimensional-space/friendly)
 - [Celestial Islands Continent (Friendly)](/en/celestial-islands-continent/friendly)

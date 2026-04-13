@@ -39,4 +39,4 @@ In the Lifechanyuan system, cosmic origin is not a Big Bang event but a consciou
 - [Taiji](/en/taiji/) — Wuji gives rise to Taiji; the emergence of the Greatest Creator
 - [Consciousness](/en/consciousness/) — Consciousness is the first of the Three Cosmic Elements; the mechanism of cosmic creation
 - [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) — The structural model of the universe that emerged
-- [The Greatest Creator](/en/shangdi/) — The creator of the universe whose consciousness generated all existence
+- [The Greatest Creator](/en/greatest-creator/) — The creator of the universe whose consciousness generated all existence

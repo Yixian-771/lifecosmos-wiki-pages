@@ -193,7 +193,7 @@
 ## 相关词条（学术版延伸阅读）
 
 - [上帝之道（学术版）](/zh/way-of-the-greatest-creator/academic)
-- [上帝（学术版）](/zh/shangdi/academic)
+- [上帝（学术版）](/zh/greatest-creator/academic)
 - [浑沌管理（学术版）](/zh/hundun-management/academic)
 - [第二家园（学术版）](/zh/second-home/academic)
 - [文明3.0（学术版）](/zh/civilization-3-0/academic)

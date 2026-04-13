@@ -106,7 +106,7 @@
 - [反物质结构（学术版）](/zh/antimatter-structure/academic)
 - [生命禅院](/zh/lifechanyuan)
 - [千年界](/zh/thousand-year-world)
-- [上帝](/zh/shangdi)
+- [上帝](/zh/greatest-creator/)
 
 ## 语言对照
 - English Friendly: [/en/antimatter-structure/friendly](/en/antimatter-structure/friendly)

@@ -19,4 +19,4 @@ slug: thirty-six-dimensional-space
 
 ## 相关词条
 
-[道](/zh/dao/) · [上帝](/zh/shangdi/) · [上帝之道](/zh/way-of-the-greatest-creator/) · [反物质结构](/zh/antimatter-structure/) · [千年界](/zh/thousand-year-world/) · [天国天堂](/zh/kingdom-of-heaven/)
+[道](/zh/dao/) · [上帝](/zh/greatest-creator/) · [上帝之道](/zh/way-of-the-greatest-creator/) · [反物质结构](/zh/antimatter-structure/) · [千年界](/zh/thousand-year-world/) · [天国天堂](/zh/kingdom-of-heaven/)

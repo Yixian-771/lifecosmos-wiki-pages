@@ -382,4 +382,4 @@
 [宇宙起源 · 学术版](/zh/universe-origin/academic)
 [无极 · 学术版](/zh/wuji/academic)
 [太极 · 学术版](/zh/taiji/academic)
-[上帝 · 学术版](/zh/shangdi/academic)
+[上帝 · 学术版](/zh/greatest-creator/academic)

@@ -197,7 +197,7 @@ A concise summary statement: following Dao is attaining Dao; integrating oneself
 ## Related Entries (Internal Version)
 
 - [the Way of the Greatest Creator (Internal)](/en/way-of-the-greatest-creator/internal)
-- [the Greatest Creator (Internal)](/en/shangdi/internal)
+- [the Greatest Creator (Internal)](/en/greatest-creator/internal)
 - [Hundun Management (Internal)](/en/hundun-management/internal)
 - [the Second Home (Internal)](/en/second-home/internal)
 - [Civilization 3.0 (Internal)](/en/civilization-3-0/internal)

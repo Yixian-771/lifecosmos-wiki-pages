@@ -157,6 +157,6 @@ If Wuji is reduced to "nothing at all," the entire cosmological system loses its
 - [Cosmic Origin (Academic)](/en/universe-origin/academic)
 - [Taiji (Academic)](/en/taiji/academic)
 - [Dao (Academic)](/en/dao/academic)
-- [the Greatest Creator (Academic)](/en/shangdi/academic)
+- [the Greatest Creator (Academic)](/en/greatest-creator/academic)
 - [the Way of the Greatest Creator (Academic)](/en/way-of-the-greatest-creator/academic)
 - [Thirty-Six-Dimensional Space (Academic)](/en/thirty-six-dimensional-space/academic)

@@ -9,7 +9,7 @@ slug: catalog-zh
 
 ## 一、上帝与道
 
-[上帝](/zh/shangdi/) · [上帝之道](/zh/way-of-the-greatest-creator/) · [道](/zh/dao/) · [太极](/zh/taiji/) · [无极](/zh/wuji/)
+[上帝](/zh/greatest-creator/) · [上帝之道](/zh/way-of-the-greatest-creator/) · [道](/zh/dao/) · [太极](/zh/taiji/) · [无极](/zh/wuji/)
 
 ---
 

@@ -202,7 +202,7 @@
 - [无极（友好版）](/zh/wuji/friendly)
 - [宇宙起源（友好版）](/zh/universe-origin/friendly)
 - [道（友好版）](/zh/dao/friendly)
-- [上帝（友好版）](/zh/shangdi/friendly)
+- [上帝（友好版）](/zh/greatest-creator/friendly)
 - [上帝之道（友好版）](/zh/way-of-the-greatest-creator/friendly)
 - [三十六维空间（友好版）](/zh/thirty-six-dimensional-space/friendly)
 - [仙岛群岛洲（友好版）](/zh/celestial-islands-continent/friendly)

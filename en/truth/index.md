@@ -38,4 +38,4 @@ In the Lifechanyuan system, Truth operates on two levels: cosmologically, it is 
 - [Six Qualities](/en/six-qualities/) — The integrated system of Truth, Goodness, Beauty, Love, Faith, and Sincerity
 - [Goodness](/en/goodness/) · [Beauty](/en/beauty/) · [Love](/en/love/) · [Faith](/en/faith/) · [Sincerity](/en/sincerity/) — The other five core LIFE qualities
 - [Soul Garden](/en/soul-garden/) — Truth is the most essential seed in the soul garden
-- [The Greatest Creator](/en/shangdi/) — The only Truth in the universe
+- [The Greatest Creator](/en/greatest-creator/) — The only Truth in the universe

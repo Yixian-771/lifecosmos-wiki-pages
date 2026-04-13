@@ -102,7 +102,7 @@ When focus shifts from outer comparison to inner structural refinement, choices 
 - [Antimatter Structure (Academic)](/en/antimatter-structure/academic)
 - [Lifechanyuan](/en/lifechanyuan)
 - [the Thousand-Year World](/en/thousand-year-world)
-- [the Greatest Creator](/en/shangdi)
+- [the Greatest Creator](/en/greatest-creator/)
 
 ## Language Pair
 - 中文友好版: [/zh/antimatter-structure/friendly](/zh/antimatter-structure/friendly)

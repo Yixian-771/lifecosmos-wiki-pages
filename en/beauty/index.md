@@ -38,4 +38,4 @@ In the Lifechanyuan system, Beauty is the mechanism by which the Greatest Creato
 - [Six Qualities](/en/six-qualities/) — The integrated system of Truth, Goodness, Beauty, Love, Faith, and Sincerity
 - [Truth](/en/truth/) · [Goodness](/en/goodness/) · [Love](/en/love/) · [Faith](/en/faith/) · [Sincerity](/en/sincerity/) — The other five core LIFE qualities
 - [Structure](/en/structure/) — Beauty is the proportional expression of LIFE's antimatter structure
-- [The Greatest Creator](/en/shangdi/) — The source and designer of the universe's Beauty
+- [The Greatest Creator](/en/greatest-creator/) — The source and designer of the universe's Beauty

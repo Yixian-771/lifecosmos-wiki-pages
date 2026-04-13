@@ -17,4 +17,4 @@ slug: antimatter-structure
 
 ## 相关词条
 
-[生命禅院](/zh/lifechanyuan/) · [上帝](/zh/shangdi/) · [千年界](/zh/thousand-year-world/) · [心灵花园](/zh/soul-garden/)
+[生命禅院](/zh/lifechanyuan/) · [上帝](/zh/greatest-creator/) · [千年界](/zh/thousand-year-world/) · [心灵花园](/zh/soul-garden/)

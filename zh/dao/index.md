@@ -19,4 +19,4 @@ slug: dao
 
 ## 相关词条
 
-[上帝之道](/zh/way-of-the-greatest-creator/) · [上帝](/zh/shangdi/) · [灵性](/zh/spirituality/) · [浑沌管理](/zh/hundun-management/) · [文明3.0](/zh/civilization-3-0/)
+[上帝之道](/zh/way-of-the-greatest-creator/) · [上帝](/zh/greatest-creator/) · [灵性](/zh/spirituality/) · [浑沌管理](/zh/hundun-management/) · [文明3.0](/zh/civilization-3-0/)

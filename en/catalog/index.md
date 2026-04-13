@@ -6,7 +6,7 @@
 
 ## I. The Greatest Creator and the Tao
 
-[The Greatest Creator](/en/shangdi/) · [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) · [Dao](/en/dao/) · [Taiji](/en/taiji/) · [Wuji](/en/wuji/)
+[The Greatest Creator](/en/greatest-creator/) · [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) · [Dao](/en/dao/) · [Taiji](/en/taiji/) · [Wuji](/en/wuji/)
 
 ---
 

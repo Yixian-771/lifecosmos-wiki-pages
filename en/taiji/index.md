@@ -38,5 +38,5 @@ In the Lifechanyuan system, Taiji is not a diagram or a martial art — it is th
 - [Wuji](/en/wuji/) — Wuji gives rise to Taiji; the state before Taiji
 - [Cosmic Origin](/en/universe-origin/) — The cosmological sequence from Wuji through Taiji
 - [Dao](/en/dao/) — Dao as the consciousness of the Greatest Creator; parallel concept
-- [The Greatest Creator](/en/shangdi/) — Taiji is the Greatest Creator
+- [The Greatest Creator](/en/greatest-creator/) — Taiji is the Greatest Creator
 - [Eight Thinking Ladders](/en/eight-thinking-ladders/) — Taiji Thinking is the sixth rung

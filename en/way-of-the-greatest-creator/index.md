@@ -35,7 +35,7 @@ In the Lifechanyuan system, the Way of the Greatest Creator is the central axis 
 
 ## Related Entries
 
-- [The Greatest Creator](/en/shangdi/) — The source and embodiment of the Way
+- [The Greatest Creator](/en/greatest-creator/) — The source and embodiment of the Way
 - [Dao](/en/dao/) — Dao as cosmological principle; the consciousness of the Greatest Creator
 - [Hundun Management](/en/hundun-management/) — "The Way of the Greatest Creator, Hundun Management" — the governance model
 - [Civilization 3.0](/en/civilization-3-0/) — The civilizational transition built on the Way

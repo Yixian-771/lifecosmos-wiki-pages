@@ -74,7 +74,7 @@ So Cosmic Origin is also a life-orientation entry, not only a universe-theory en
 ## Related Entries (Friendly)
 
 - [Dao (Friendly)](/en/dao/friendly)
-- [the Greatest Creator (Friendly)](/en/shangdi/friendly)
+- [the Greatest Creator (Friendly)](/en/greatest-creator/friendly)
 - [the Way of the Greatest Creator (Friendly)](/en/way-of-the-greatest-creator/friendly)
 - [Thirty-Six-Dimensional Space (Friendly)](/en/thirty-six-dimensional-space/friendly)
 - [Antimatter Structure (Friendly)](/en/antimatter-structure/friendly)

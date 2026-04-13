@@ -44,6 +44,6 @@
 
 - [Soul Garden](/en/soul-garden/) — The six qualities are the most important flowers in the soul garden
 - [Structure](/en/structure/) — The six qualities are the measure of the perfection of LIFE's antimatter structure
-- [The Greatest Creator](/en/shangdi/) — The six qualities are attributes of the Greatest Creator
+- [The Greatest Creator](/en/greatest-creator/) — The six qualities are attributes of the Greatest Creator
 - [Second Home](/en/second-home/) — The six qualities are the inner driving force of Hundun Management
 - [Thousand-Year World](/en/thousand-year-world/) — Perfecting the six qualities is the prerequisite for this destination

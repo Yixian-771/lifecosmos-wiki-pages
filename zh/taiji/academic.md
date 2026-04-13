@@ -201,7 +201,7 @@
 - [无极（学术版）](/zh/wuji/academic)
 - [宇宙起源（学术版）](/zh/universe-origin/academic)
 - [道（学术版）](/zh/dao/academic)
-- [上帝（学术版）](/zh/shangdi/academic)
+- [上帝（学术版）](/zh/greatest-creator/academic)
 - [上帝之道（学术版）](/zh/way-of-the-greatest-creator/academic)
 - [三十六维空间（学术版）](/zh/thirty-six-dimensional-space/academic)
 - [仙岛群岛洲（学术版）](/zh/celestial-islands-continent/academic)

@@ -217,5 +217,5 @@ Xuefeng’s most concise summary: Wuji is unordered chaotic energy; accidental o
 - [Cosmic Origin (Internal)](/en/universe-origin/internal)
 - [Taiji (Internal)](/en/taiji/internal)
 - [Dao (Internal)](/en/dao/internal)
-- [the Greatest Creator (Internal)](/en/shangdi/internal)
+- [the Greatest Creator (Internal)](/en/greatest-creator/internal)
 - [the Way of the Greatest Creator (Internal)](/en/way-of-the-greatest-creator/internal)

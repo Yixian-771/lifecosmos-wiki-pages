@@ -19,4 +19,4 @@ slug: life-origin
 
 ## 相关词条
 
-[宇宙起源](/zh/universe-origin/) · [道](/zh/dao/) · [上帝](/zh/shangdi/) · [上帝之道](/zh/way-of-the-greatest-creator/) · [反物质结构](/zh/antimatter-structure/) · [三十六维空间](/zh/thirty-six-dimensional-space/)
+[宇宙起源](/zh/universe-origin/) · [道](/zh/dao/) · [上帝](/zh/greatest-creator/) · [上帝之道](/zh/way-of-the-greatest-creator/) · [反物质结构](/zh/antimatter-structure/) · [三十六维空间](/zh/thirty-six-dimensional-space/)

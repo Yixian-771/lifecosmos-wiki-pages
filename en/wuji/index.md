@@ -38,5 +38,5 @@ In the Lifechanyuan system, understanding Wuji is necessary for understanding th
 - [Taiji](/en/taiji/) — Wuji gives rise to Taiji; the first form of ordered existence
 - [Cosmic Origin](/en/universe-origin/) — The full cosmological sequence from Wuji onward
 - [Dao](/en/dao/) — Dao as the operating principle emerging from the Wuji-Taiji transition
-- [The Greatest Creator](/en/shangdi/) — The Greatest Creator emerged with Taiji from Wuji
+- [The Greatest Creator](/en/greatest-creator/) — The Greatest Creator emerged with Taiji from Wuji
 - [Consciousness](/en/consciousness/) — The emergence of consciousness from structure is the Wuji-to-Taiji transition

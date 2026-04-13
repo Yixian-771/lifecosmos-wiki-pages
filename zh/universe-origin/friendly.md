@@ -75,7 +75,7 @@
 ## 相关词条（友好版延伸阅读）
 
 - [道（友好版）](/zh/dao/friendly)
-- [上帝（友好版）](/zh/shangdi/friendly)
+- [上帝（友好版）](/zh/greatest-creator/friendly)
 - [上帝之道（友好版）](/zh/way-of-the-greatest-creator/friendly)
 - [三十六维空间（友好版）](/zh/thirty-six-dimensional-space/friendly)
 - [反物质结构（友好版）](/zh/antimatter-structure/friendly)

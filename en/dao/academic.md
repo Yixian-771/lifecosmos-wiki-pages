@@ -196,7 +196,7 @@ This text is a conceptual-structural analysis and does not constitute natural-sc
 ## Related Entries (Academic)
 
 - [the Way of the Greatest Creator (Academic)](/en/way-of-the-greatest-creator/academic)
-- [the Greatest Creator (Academic)](/en/shangdi/academic)
+- [the Greatest Creator (Academic)](/en/greatest-creator/academic)
 - [Hundun Management (Academic)](/en/hundun-management/academic)
 - [the Second Home (Academic)](/en/second-home/academic)
 - [Civilization 3.0 (Academic)](/en/civilization-3-0/academic)

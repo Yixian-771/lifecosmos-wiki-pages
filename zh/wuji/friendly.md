@@ -151,6 +151,6 @@
 - [宇宙起源（友好版）](/zh/universe-origin/friendly)
 - [太极（友好版）](/zh/taiji/friendly)
 - [道（友好版）](/zh/dao/friendly)
-- [上帝（友好版）](/zh/shangdi/friendly)
+- [上帝（友好版）](/zh/greatest-creator/friendly)
 - [上帝之道（友好版）](/zh/way-of-the-greatest-creator/friendly)
 - [三十六维空间（友好版）](/zh/thirty-six-dimensional-space/friendly)

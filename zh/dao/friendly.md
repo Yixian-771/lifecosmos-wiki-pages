@@ -118,7 +118,7 @@
 ## 相关词条（友好版延伸阅读）
 
 - [上帝之道（友好版）](/zh/way-of-the-greatest-creator/friendly)
-- [上帝（友好版）](/zh/shangdi/friendly)
+- [上帝（友好版）](/zh/greatest-creator/friendly)
 - [灵性（友好版）](/zh/spirituality/friendly)
 - [浑沌管理（友好版）](/zh/hundun-management/friendly)
 - [第二家园（友好版）](/zh/second-home/friendly)

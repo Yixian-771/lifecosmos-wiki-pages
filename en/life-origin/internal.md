@@ -198,7 +198,7 @@ For readers outside the Chinese doctrinal context, this entry should be read as 
 
 - [Cosmic Origin (Internal)](/en/universe-origin/internal)
 - [Dao (Internal)](/en/dao/internal)
-- [the Greatest Creator (Internal)](/en/shangdi/internal)
+- [the Greatest Creator (Internal)](/en/greatest-creator/internal)
 - [the Way of the Greatest Creator (Internal)](/en/way-of-the-greatest-creator/internal)
 - [Antimatter Structure (Internal)](/en/antimatter-structure/internal)
 - [Thirty-Six-Dimensional Space (Internal)](/en/thirty-six-dimensional-space/internal)

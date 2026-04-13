@@ -90,7 +90,7 @@ Because this entry is one of the system's central switches.
 
 ## Related Entries (Friendly)
 
-- [the Greatest Creator (Friendly)](/en/shangdi/friendly)
+- [the Greatest Creator (Friendly)](/en/greatest-creator/friendly)
 - [Lifechanyuan (Friendly)](/en/lifechanyuan/friendly)
 - [the Second Home (Friendly)](/en/second-home/friendly)
 - [Hundun Management (Friendly)](/en/hundun-management/friendly)

@@ -144,7 +144,7 @@ Its practical importance is that it reframes cultivation as alignment within a s
 ## Related Entries (Academic)
 
 - [Dao (Academic)](/en/dao/academic)
-- [the Greatest Creator (Academic)](/en/shangdi/academic)
+- [the Greatest Creator (Academic)](/en/greatest-creator/academic)
 - [the Way of the Greatest Creator (Academic)](/en/way-of-the-greatest-creator/academic)
 - [Thirty-Six-Dimensional Space (Academic)](/en/thirty-six-dimensional-space/academic)
 - [Antimatter Structure (Academic)](/en/antimatter-structure/academic)

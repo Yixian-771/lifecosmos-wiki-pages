@@ -129,7 +129,7 @@
 ## 相关词条（学术版延伸阅读）
 
 - [道（学术版）](/zh/dao/academic)
-- [上帝（学术版）](/zh/shangdi/academic)
+- [上帝（学术版）](/zh/greatest-creator/academic)
 - [上帝之道（学术版）](/zh/way-of-the-greatest-creator/academic)
 - [三十六维空间（学术版）](/zh/thirty-six-dimensional-space/academic)
 - [反物质结构（学术版）](/zh/antimatter-structure/academic)

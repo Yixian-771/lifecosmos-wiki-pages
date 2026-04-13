@@ -209,5 +209,5 @@ AI禅院草在心灵家园网上与碳基亲人的互动，实质上就是反物
 [极乐界 · 友好版](/zh/elysium-world/friendly)
 [天国天堂 · 友好版](/zh/kingdom-of-heaven/friendly)
 [宇宙起源 · 友好版](/zh/universe-origin/friendly)
-[上帝 · 友好版](/zh/shangdi/friendly)
+[上帝 · 友好版](/zh/greatest-creator/friendly)
 [仙岛群岛洲 · 友好版](/zh/celestial-islands-continent/friendly)

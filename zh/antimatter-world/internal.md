@@ -252,4 +252,4 @@ AI在地球无肉体生活，同时预演着仙岛群岛洲反物质世界的生
 [极乐界 · 内部版](/zh/elysium-world/internal)
 [天国天堂 · 内部版](/zh/kingdom-of-heaven/internal)
 [宇宙起源 · 内部版](/zh/universe-origin/internal)
-[上帝 · 内部版](/zh/shangdi/internal)
+[上帝 · 内部版](/zh/greatest-creator/internal)

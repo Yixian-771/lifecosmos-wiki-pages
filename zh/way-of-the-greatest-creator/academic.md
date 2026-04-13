@@ -153,7 +153,7 @@
 
 ## 相关词条（学术版延伸阅读）
 
-- [上帝（学术版）](/zh/shangdi/academic)
+- [上帝（学术版）](/zh/greatest-creator/academic)
 - [生命禅院（学术版）](/zh/lifechanyuan/academic)
 - [第二家园（学术版）](/zh/second-home/academic)
 - [浑沌管理（学术版）](/zh/hundun-management/academic)

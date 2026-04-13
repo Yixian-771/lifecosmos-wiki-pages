@@ -1,4 +1,4 @@
-<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: shangdi version: internal -->
+<!-- id: LC-TBD theme: 生命体系 type: 词条 direction: 体系知识 lang: zh slug: greatest-creator version: internal -->
 
 # 上帝
 

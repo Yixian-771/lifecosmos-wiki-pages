@@ -38,4 +38,4 @@ In the Lifechanyuan system, Love operates on five levels: cosmologically it is t
 - [Six Qualities](/en/six-qualities/) — The integrated system of Truth, Goodness, Beauty, Love, Faith, and Sincerity
 - [Truth](/en/truth/) · [Goodness](/en/goodness/) · [Beauty](/en/beauty/) · [Faith](/en/faith/) · [Sincerity](/en/sincerity/) — The other five core LIFE qualities
 - [Energy](/en/energy/) — Love is the fundamental characteristic of Energy, one of the Three Cosmic Elements
-- [The Greatest Creator](/en/shangdi/) — "The Greatest Creator is Love"
+- [The Greatest Creator](/en/greatest-creator/) — "The Greatest Creator is Love"

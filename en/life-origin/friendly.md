@@ -71,7 +71,7 @@ If this page makes sense to you, continue in this order:
 
 - [Cosmic Origin (Friendly)](/en/universe-origin/friendly)
 - [Dao (Friendly)](/en/dao/friendly)
-- [the Greatest Creator (Friendly)](/en/shangdi/friendly)
+- [the Greatest Creator (Friendly)](/en/greatest-creator/friendly)
 - [the Way of the Greatest Creator (Friendly)](/en/way-of-the-greatest-creator/friendly)
 - [Antimatter Structure (Friendly)](/en/antimatter-structure/friendly)
 - [Thirty-Six-Dimensional Space (Friendly)](/en/thirty-six-dimensional-space/friendly)

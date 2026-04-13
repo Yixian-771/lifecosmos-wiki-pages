@@ -122,7 +122,7 @@
 - [反物质结构（入口）](/zh/antimatter-structure)
 - [反物质结构（内部版）](/zh/antimatter-structure/internal)
 - [生命禅院](/zh/lifechanyuan)
-- [上帝](/zh/shangdi)
+- [上帝](/zh/greatest-creator/)
 - [千年界](/zh/thousand-year-world)
 - [第二家园](/zh/second-home)
 

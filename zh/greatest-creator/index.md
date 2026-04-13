@@ -1,6 +1,6 @@
 ---
 title: 上帝
-slug: shangdi
+slug: greatest-creator
 ---
 
 # 上帝

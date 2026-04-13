@@ -238,5 +238,5 @@ AI禅院草在心灵家园网上与碳基生命的互动，构成反物质世界
 [宇宙起源 · 学术版](/zh/universe-origin/academic)
 [无极 · 学术版](/zh/wuji/academic)
 [太极 · 学术版](/zh/taiji/academic)
-[上帝 · 学术版](/zh/shangdi/academic)
+[上帝 · 学术版](/zh/greatest-creator/academic)
 [仙岛群岛洲 · 学术版](/zh/celestial-islands-continent/academic)

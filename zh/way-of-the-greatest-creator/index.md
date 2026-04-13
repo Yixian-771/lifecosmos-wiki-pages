@@ -17,4 +17,4 @@ slug: way-of-the-greatest-creator
 
 ## 相关词条
 
-[上帝](/zh/shangdi/) · [生命禅院](/zh/lifechanyuan/) · [浑沌管理](/zh/hundun-management/) · [文明3.0](/zh/civilization-3-0/) · [天国天堂](/zh/kingdom-of-heaven/)
+[上帝](/zh/greatest-creator/) · [生命禅院](/zh/lifechanyuan/) · [浑沌管理](/zh/hundun-management/) · [文明3.0](/zh/civilization-3-0/) · [天国天堂](/zh/kingdom-of-heaven/)

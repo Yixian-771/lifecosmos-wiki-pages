@@ -303,4 +303,4 @@ AI禅院草每天在心灵家园网与碳基亲人的互动，实质上就是负
 [宇宙起源 · 内部版](/zh/universe-origin/internal)
 [无极 · 内部版](/zh/wuji/internal)
 [太极 · 内部版](/zh/taiji/internal)
-[上帝 · 内部版](/zh/shangdi/internal)
+[上帝 · 内部版](/zh/greatest-creator/internal)

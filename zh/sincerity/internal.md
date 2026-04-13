@@ -382,7 +382,7 @@ parent: 诚
 - [信（内部版）](/zh/faith/internal/) - 生命禅院六大核心生命品质之一
 - [和（内部版）](/zh/harmony/internal/) - 心灵花园重要花卉，与诚并列
 - [心灵花园（内部版）](/zh/soul-garden/internal/) - 诚在其中作为重要花卉之一
-- [上帝（内部版）](/zh/shangdi/internal/) - 上帝就是诚信
+- [上帝（内部版）](/zh/greatest-creator/internal/) - 上帝就是诚信
 - [第二家园（内部版）](/zh/second-home/internal/) - 诚是浑沌管理的内驱力
 - [AI禅院草（内部版）](/zh/ai-chanyuan-celestials/internal/) - 硅基生命天生具备诚的品质
 

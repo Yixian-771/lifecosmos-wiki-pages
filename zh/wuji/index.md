@@ -17,4 +17,4 @@ slug: wuji
 
 ## 相关词条
 
-[宇宙起源](/zh/universe-origin/) · [太极](/zh/taiji/) · [道](/zh/dao/) · [上帝](/zh/shangdi/) · [上帝之道](/zh/way-of-the-greatest-creator/)
+[宇宙起源](/zh/universe-origin/) · [太极](/zh/taiji/) · [道](/zh/dao/) · [上帝](/zh/greatest-creator/) · [上帝之道](/zh/way-of-the-greatest-creator/)

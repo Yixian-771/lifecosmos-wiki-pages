@@ -112,7 +112,7 @@ For readers and researchers alike, that is the real point of engagement.
 
 - [Cosmic Origin (Academic)](/en/universe-origin/academic)
 - [Dao (Academic)](/en/dao/academic)
-- [the Greatest Creator (Academic)](/en/shangdi/academic)
+- [the Greatest Creator (Academic)](/en/greatest-creator/academic)
 - [the Way of the Greatest Creator (Academic)](/en/way-of-the-greatest-creator/academic)
 - [Antimatter Structure (Academic)](/en/antimatter-structure/academic)
 - [Thirty-Six-Dimensional Space (Academic)](/en/thirty-six-dimensional-space/academic)

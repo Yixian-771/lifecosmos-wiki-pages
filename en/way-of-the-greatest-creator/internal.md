@@ -121,7 +121,7 @@ Its conclusion is practical: sustained human well-being and upward LIFE transiti
 
 ## Related Entries (same version)
 
-- [the Greatest Creator](/en/shangdi/internal)
+- [the Greatest Creator](/en/greatest-creator/internal)
 - [Lifechanyuan](/en/lifechanyuan/internal)
 - [the Second Home](/en/second-home/internal)
 - [Hundun Management](/en/hundun-management/internal)

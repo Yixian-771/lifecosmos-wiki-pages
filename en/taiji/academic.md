@@ -202,7 +202,7 @@ Remove any one layer and the concept loses much of its explanatory force. With a
 - [Wuji (Academic)](/en/wuji/academic)
 - [Cosmic Origin (Academic)](/en/universe-origin/academic)
 - [Dao (Academic)](/en/dao/academic)
-- [the Greatest Creator (Academic)](/en/shangdi/academic)
+- [the Greatest Creator (Academic)](/en/greatest-creator/academic)
 - [the Way of the Greatest Creator (Academic)](/en/way-of-the-greatest-creator/academic)
 - [Thirty-Six-Dimensional Space (Academic)](/en/thirty-six-dimensional-space/academic)
 - [Celestial Islands Continent (Academic)](/en/celestial-islands-continent/academic)

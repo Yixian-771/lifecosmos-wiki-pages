@@ -35,7 +35,7 @@ In the Lifechanyuan system, understanding the Greatest Creator is the starting p
 
 ## Related Entries
 
-- [The Greatest Creator (Shangdi)](/en/shangdi/) — The primary dedicated entry for this concept
+- [The Greatest Creator (Shangdi)](/en/greatest-creator/) — The primary dedicated entry for this concept
 - [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) — The practical path of walking in alignment with the Greatest Creator
 - [Dao](/en/dao/) — The Way as a cosmological principle
 - [Six Qualities](/en/six-qualities/) — The attributes of the Greatest Creator that LIFE cultivates

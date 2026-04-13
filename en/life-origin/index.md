@@ -39,4 +39,4 @@ In the Lifechanyuan system, the origin of LIFE addresses three questions: What i
 - [Consciousness](/en/consciousness/) — The essence of LIFE is the soul; the essence of the soul is consciousness
 - [Antimatter Structure](/en/antimatter-structure/) — The non-material form that constitutes LIFE
 - [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) — The layered spaces where different LIFE levels reside
-- [The Greatest Creator](/en/shangdi/) — The creator of all LIFE forms
+- [The Greatest Creator](/en/greatest-creator/) — The creator of all LIFE forms

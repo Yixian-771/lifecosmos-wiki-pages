@@ -147,7 +147,7 @@
 ## 相关词条（学术版）
 
 - [宇宙起源（学术版）](/zh/universe-origin/academic)
-- [上帝（学术版）](/zh/shangdi/academic)
+- [上帝（学术版）](/zh/greatest-creator/academic)
 - [上帝之道（学术版）](/zh/way-of-the-greatest-creator/academic)
 - [道（学术版）](/zh/dao/academic)
 - [反物质结构（学术版）](/zh/antimatter-structure/academic)

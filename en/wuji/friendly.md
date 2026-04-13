@@ -151,6 +151,6 @@ With these three in hand, when you read Taiji, Cosmic Origin, or Dao next, the r
 - [Cosmic Origin (Friendly)](/en/universe-origin/friendly)
 - [Taiji (Friendly)](/en/taiji/friendly)
 - [Dao (Friendly)](/en/dao/friendly)
-- [the Greatest Creator (Friendly)](/en/shangdi/friendly)
+- [the Greatest Creator (Friendly)](/en/greatest-creator/friendly)
 - [the Way of the Greatest Creator (Friendly)](/en/way-of-the-greatest-creator/friendly)
 - [Thirty-Six-Dimensional Space (Friendly)](/en/thirty-six-dimensional-space/friendly)

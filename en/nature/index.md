@@ -38,4 +38,4 @@ In the Lifechanyuan system, Nature (Xìng) simultaneously operates on five level
 - [Structure](/en/structure/) — Nature is the characteristic of Structure, one of the Three Cosmic Elements
 - [Consciousness](/en/consciousness/) — The Way is the characteristic of Consciousness; Nature, Love, and the Way form the essence of the Greatest Creator's Way
 - [Energy](/en/energy/) — Love is the characteristic of Energy; the three characteristics together constitute the Way
-- [The Greatest Creator](/en/shangdi/) — Nature, Love, and the Way are the three essential qualities of the Way of the Greatest Creator
+- [The Greatest Creator](/en/greatest-creator/) — Nature, Love, and the Way are the three essential qualities of the Way of the Greatest Creator

@@ -112,7 +112,7 @@ This is also the operating root of Hundun Management.
 ## Related Entries (Friendly)
 
 - [the Way of the Greatest Creator (Friendly)](/en/way-of-the-greatest-creator/friendly)
-- [the Greatest Creator (Friendly)](/en/shangdi/friendly)
+- [the Greatest Creator (Friendly)](/en/greatest-creator/friendly)
 - [Spirituality (Friendly)](/en/spirituality/friendly)
 - [Hundun Management (Friendly)](/en/hundun-management/friendly)
 - [the Second Home (Friendly)](/en/second-home/friendly)

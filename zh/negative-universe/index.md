@@ -17,4 +17,4 @@ slug: negative-universe
 
 ## 相关词条
 
-[反物质世界](/zh/antimatter-world/) · [反物质结构](/zh/antimatter-structure/) · [三十六维空间](/zh/thirty-six-dimensional-space/) · [极乐界](/zh/elysium-world/) · [天国天堂](/zh/kingdom-of-heaven/) · [宇宙起源](/zh/universe-origin/) · [无极](/zh/wuji/) · [太极](/zh/taiji/) · [上帝](/zh/shangdi/) · [生命禅院](/zh/lifechanyuan/)
+[反物质世界](/zh/antimatter-world/) · [反物质结构](/zh/antimatter-structure/) · [三十六维空间](/zh/thirty-six-dimensional-space/) · [极乐界](/zh/elysium-world/) · [天国天堂](/zh/kingdom-of-heaven/) · [宇宙起源](/zh/universe-origin/) · [无极](/zh/wuji/) · [太极](/zh/taiji/) · [上帝](/zh/greatest-creator/) · [生命禅院](/zh/lifechanyuan/)

@@ -146,7 +146,7 @@
 
 ## 关联词条（同版本）
 
-- [上帝](/zh/shangdi/internal)
+- [上帝](/zh/greatest-creator/internal)
 - [生命禅院](/zh/lifechanyuan/internal)
 - [第二家园](/zh/second-home/internal)
 - [浑沌管理](/zh/hundun-management/internal)

@@ -36,7 +36,7 @@ In the Lifechanyuan system, Dao simultaneously operates as: the ontological grou
 ## Related Entries
 
 - [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) — Dao as a lived practical path
-- [The Greatest Creator](/en/shangdi/) — The source of Dao
+- [The Greatest Creator](/en/greatest-creator/) — The source of Dao
 - [Nature (Xìng)](/en/nature/) — Nature is the characteristic of Structure; Love is of Energy; Dao is of Consciousness
 - [Hundun Management](/en/hundun-management/) — Dao as the root logic of Civilization 3.0 governance
 - [Consciousness](/en/consciousness/) — Consciousness is the Three Cosmic Elements dimension corresponding to Dao

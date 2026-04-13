@@ -126,7 +126,7 @@ Accordingly, life advancement is interpreted as **structural evolution driven by
 - [Antimatter Structure (Friendly)](/en/antimatter-structure/friendly)
 - [Lifechanyuan](/en/lifechanyuan)
 - [the Thousand-Year World](/en/thousand-year-world)
-- [the Greatest Creator](/en/shangdi)
+- [the Greatest Creator](/en/greatest-creator/)
 
 ## Language Pair
 - 中文学术版: [/zh/antimatter-structure/academic](/zh/antimatter-structure/academic)

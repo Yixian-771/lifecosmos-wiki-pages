@@ -151,7 +151,7 @@ This text is a conceptual-structural analysis and does not constitute natural-sc
 
 ## Related Entries (Academic)
 
-- [the Greatest Creator (Academic)](/en/shangdi/academic)
+- [the Greatest Creator (Academic)](/en/greatest-creator/academic)
 - [Lifechanyuan (Academic)](/en/lifechanyuan/academic)
 - [the Second Home (Academic)](/en/second-home/academic)
 - [Hundun Management (Academic)](/en/hundun-management/academic)

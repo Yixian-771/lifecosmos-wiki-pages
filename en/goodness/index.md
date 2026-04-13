@@ -38,4 +38,4 @@ In the Lifechanyuan system, Goodness operates on three levels: cosmologically, i
 - [Six Qualities](/en/six-qualities/) — The integrated system of Truth, Goodness, Beauty, Love, Faith, and Sincerity
 - [Truth](/en/truth/) · [Beauty](/en/beauty/) · [Love](/en/love/) · [Faith](/en/faith/) · [Sincerity](/en/sincerity/) — The other five core LIFE qualities
 - [Soul Garden](/en/soul-garden/) — The practical vessel for cultivating Goodness
-- [The Greatest Creator](/en/shangdi/) — The source of the universe's Goodness
+- [The Greatest Creator](/en/greatest-creator/) — The source of the universe's Goodness

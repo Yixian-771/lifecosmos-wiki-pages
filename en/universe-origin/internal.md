@@ -154,7 +154,7 @@ In this reading, Cosmic Origin is a foundational bridge between cosmology and cu
 ## Related Entries (Internal Version)
 
 - [Dao (Internal)](/en/dao/internal)
-- [the Greatest Creator (Internal)](/en/shangdi/internal)
+- [the Greatest Creator (Internal)](/en/greatest-creator/internal)
 - [the Way of the Greatest Creator (Internal)](/en/way-of-the-greatest-creator/internal)
 - [Thirty-Six-Dimensional Space (Internal)](/en/thirty-six-dimensional-space/internal)
 - [Antimatter Structure (Internal)](/en/antimatter-structure/internal)

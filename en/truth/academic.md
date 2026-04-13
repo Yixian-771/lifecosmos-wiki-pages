@@ -224,7 +224,7 @@ This article presents a descriptive scholarly analysis of the Lifechanyuan syste
 - [Faith (Academic Edition)](/en/faith/academic/) — One of the six core LIFE qualities
 - Sincerity (Academic Edition)（词条待建） — One of the six core LIFE qualities
 - [Soul Garden (Academic Edition)](/en/soul-garden/academic/) — Truth is its most essential seed
-- [Greatest Creator (Academic Edition)](/en/shangdi/academic/) — The universe's sole ontological Truth
+- [Greatest Creator (Academic Edition)](/en/greatest-creator/academic/) — The universe's sole ontological Truth
 
 ---
 
