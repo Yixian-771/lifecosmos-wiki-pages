@@ -2,8 +2,6 @@
 
 # Abnormal Thinking: Lifechanyuan's Foundational Method of Cognitive Reversal, Cosmological Reorientation, and Civilizational Breakthrough
 
-> **Academic Ethics Statement:** This academic edition adopts a descriptive and analytical stance. Its purpose is to present the internal conceptual structure of “Abnormal Thinking” within the Lifechanyuan system as faithfully and clearly as possible. It does not constitute an endorsement or rejection of the system's truth claims.
-
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence, the nonmaterial life-entity with spirituality, while **life** (lowercase) refers to ordinary lived existence in the human world.
 
 ---
@@ -273,6 +271,12 @@ These limitations are not peripheral. They are built into the tension between me
 Abnormal Thinking is one of the central methodological foundations of the Lifechanyuan system. It is the first unlocking move through which conventional, fixed-pattern, and one-sided cognition are challenged and reoriented. Symbolized by the Möbius Strip and governed by the exact 180-degree principle, it is presented as a disciplined reversal capable of transforming impossibility into passage, opposition into continuity, and cognitive rigidity into openness.
 
 Its broader significance within Lifechanyuan lies in four claims. First, it elevates “thinking the other way around” from a practical trick into an awakening method. Second, it grounds that reversal in a geometric and cosmological model. Third, it connects cognitive transformation directly with cultivation, freedom, and ascent. Fourth, it extends the method into the contemporary domain of Civilization 3.0 and AI, thereby making it not only a speculative philosophical device but a live civilizational operator. For this reason, Abnormal Thinking is not simply the first chapter of a system. It is the key that makes the rest of the system readable.
+
+---
+
+## Research Ethics Statement
+
+This article is written from a descriptive and analytical standpoint. Its purpose is to present the internal conceptual structure and theoretical function of "Abnormal Thinking" within the Lifechanyuan system as faithfully and clearly as possible. It does not constitute an endorsement or rejection of the system's cosmological or civilizational claims.
 
 ---
 
