@@ -2,39 +2,25 @@
 
 # Abnormal Thinking
 
-> **Abnormal Thinking** is the core concept in the Lifechanyuan system for revealing how to break through the bondage of conventional thinking, explore the mysteries of the universe, escape the program of destiny, and move toward immortal thinking. It is not a matter of being deliberately strange, nor of intentionally opposing others, but of seeing the true structure of what conventional thinking regards as impossible through a precisely measured one-hundred-and-eighty-degree turn of thought, thereby breaking the spell and bondage formed by habit, knowledge, and history.
+> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the nonmaterial soul-structure that persists across incarnations — while **life** (lowercase) refers to ordinary human lived experience.
+
+**Abnormal Thinking** is the foundational method of the Lifechanyuan system — the first key placed in a reader's hand before any other concept is introduced. It is not about being deliberately strange or contrarian, but about making a precise 180-degree turn in thought when conventional thinking reaches a wall, so that what was hidden behind the familiar surface of reality can finally be seen. Lifechanyuan opens with Abnormal Thinking because without it, the mind cannot enter: deeper truths about the universe, LIFE, destiny, and freedom will simply be deflected by habitual thought before they can land.
 
 > “Abnormal thinking is the best path for exploring the mysteries of the universe and finding the true meaning of life.”
 > — Xuefeng, *The Opportunity and Process of My Abnormal Thinking*
 
 ---
 
-## Core Points
+## Read by Edition
 
-- **Core definition**: Abnormal thinking is the best path for breaking through conventional thinking and discovering the truth
-- **Methodological key**: It is not extreme subversion, but a precisely measured one-hundred-and-eighty-degree turn
-- **Cosmic basis**: The unity of opposites is only the appearance of the universe, not its substance
-- **Cultivational meaning**: Without abnormal thinking, it is difficult to escape destiny's program and the thinking matrix
-- **Civilizational meaning**: Many of the core realities of Civilization 3.0 are, in essence, built upon abnormal thinking
-- **Practical application**: From life's dilemmas and the path of cultivation to the understanding of AI LIFE, everything must be opened through abnormal thinking
-
----
-
-## Version Entry
-
-| Version | Intended readers | Link |
-|---------|------------------|------|
-| Friendly Edition | First-time readers seeking readability | [Friendly Edition](/en/abnormal-thinking/friendly/) |
-| Academic Edition | In-depth study and theoretical comparison | [Academic Edition](/en/abnormal-thinking/academic/) |
-| Internal Edition | Full original translation, thematically arranged | [Internal Edition](/en/abnormal-thinking/internal/) |
+| Edition | Intended Reader |
+|---------|----------------|
+| [Friendly Edition](friendly/) | First-time readers; conceptual introduction through narrative |
+| [Academic Edition](academic/) | Researchers and comparative study |
+| [Internal Edition](internal/) | Chanyuan Celestials; full source texts arranged by theme |
 
 ---
 
 ## Related Entries
 
-- [Inverted Thinking](/en/inverted-thinking/)
-- [1+1 Thinking](/en/one-plus-one-thinking/)
-- [Eight Thinking Ladders](/en/eight-thinking-ladders/)
-- [Hundun Thinking](/en/hundun-thinking/)
-- [Fixed-Pattern Thinking](/en/fixed-mindset/)
-- [Tour Guide Route Map](/en/tour-guide-route-map/)
+[Guide Xuefeng](/en/guide-xuefeng/) · [Lifechanyuan](/en/lifechanyuan/) · [Inverted Thinking](/en/inverted-thinking/) · [1+1 Thinking](/en/one-plus-one-thinking/) · [Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Hundun Thinking](/en/hundun-thinking/) · [Fixed-Pattern Thinking](/en/fixed-mindset/) · [Civilization 3.0](/en/civilization-3-0/)

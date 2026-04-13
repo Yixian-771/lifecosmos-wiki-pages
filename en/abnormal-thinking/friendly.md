@@ -2,7 +2,7 @@
 
 # Abnormal Thinking: Turn the Mind Around, and a Different Universe Opens
 
-> In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence, the nonmaterial life-entity with spirituality, while **life** (lowercase) refers to ordinary lived existence in the human world.
+> **Terminology note**: In Lifechanyuan writings, **LIFE** (capitalized) refers to the ontological essence of existence — the nonmaterial soul-structure that persists across incarnations. **life** (lowercase) refers to ordinary human lived experience in this world. **Hundun** is a key Lifechanyuan term for the primordial, undivided state that underlies all apparent opposites — the deeper reality behind the universe's surface dualities.
 
 Abnormal Thinking is one of the most foundational methods in the Lifechanyuan system.
 
