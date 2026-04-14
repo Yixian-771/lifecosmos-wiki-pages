@@ -112,6 +112,9 @@ nav:
   - 新时代人类八百理念: new-era-human-800-concepts/index.md
   - F币: f-coin/index.md
 
+extra_javascript:
+  - javascripts/lang-switch.js
+
 extra:
   alternate:
     - name: 中文

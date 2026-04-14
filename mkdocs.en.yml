@@ -111,6 +111,9 @@ nav:
   - New Era Human 800 Concepts: new-era-human-800-concepts/index.md
   - F Coin: f-coin/index.md
 
+extra_javascript:
+  - javascripts/lang-switch.js
+
 extra:
   alternate:
     - name: 中文
