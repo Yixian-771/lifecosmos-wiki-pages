@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Self-Coherence: self-coherence/index.md
   - Embrace the One: embrace-the-one/index.md
   - Eight No-Realms: eight-no-realms/index.md
   - Ling (Spirit-Force): ling-spirit/index.md
