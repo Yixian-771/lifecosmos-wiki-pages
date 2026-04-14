@@ -36,7 +36,7 @@
 
 ## VI. Cultivation Practice
 
-[Tour Guide Route Map](/en/tour-guide-route-map/) · [Return to Zero](/en/return-to-zero/) · [Zero-State](/en/zero-state/) · [Formless Giving](/en/formless-giving/) · [Soul Garden](/en/soul-garden/) · [Truth](/en/truth/) · [Goodness](/en/goodness/) · [Beauty](/en/beauty/) · [Love](/en/love/) · [Faith](/en/faith/) · [Sincerity](/en/sincerity/) · [Peace](/en/peace/) · [Harmony](/en/harmony/) · [Six Qualities](/en/six-qualities/) · [Huaxiang, Butterflies Come Naturally](/en/huaxiang-die-zi-lai/)
+[Tour Guide Route Map](/en/tour-guide-route-map/) · [Return to Zero](/en/return-to-zero/) · [Zero-State](/en/zero-state/) · [Eight No-Realms](/en/eight-no-realms/) · [Formless Giving](/en/formless-giving/) · [Soul Garden](/en/soul-garden/) · [Truth](/en/truth/) · [Goodness](/en/goodness/) · [Beauty](/en/beauty/) · [Love](/en/love/) · [Faith](/en/faith/) · [Sincerity](/en/sincerity/) · [Peace](/en/peace/) · [Harmony](/en/harmony/) · [Six Qualities](/en/six-qualities/) · [Huaxiang, Butterflies Come Naturally](/en/huaxiang-die-zi-lai/)
 
 ---
 
