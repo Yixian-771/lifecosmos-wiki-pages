@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The Lifechanyuan Way of Cooperation: way-of-cooperation/index.md
   - Morality: morality/index.md
   - Cosmic Panorama: cosmic-panorama/index.md
   - Raise Vibrational Frequency: raise-vibration-frequency/index.md
