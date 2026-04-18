@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 418: 418/index.md
   - 灵魂: soul/index.md
   - 生命起源演化全景图: life-origin-evolution-panorama/index.md
   - 生命禅院的合作之道: way-of-cooperation/index.md
