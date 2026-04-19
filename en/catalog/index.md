@@ -18,7 +18,7 @@
 
 ## III. The Mystery of LIFE
 
-[Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Subconscious](/en/subconscious/) · [Ling (Spirit-Force)](/en/ling-spirit/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/) · [Panorama of LIFE Origin and Evolution](/en/life-origin-evolution-panorama/) · [Soul](/en/soul/)
+[Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Subconscious](/en/subconscious/) · [Ling (Spirit-Force)](/en/ling-spirit/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/) · [Characteristics of LIFE](/en/life-characteristics/) · [Panorama of LIFE Origin and Evolution](/en/life-origin-evolution-panorama/) · [Soul](/en/soul/)
 
 ---
 
@@ -40,5 +40,5 @@
 
 ---
 
-*Last updated: 2026-04-18 (III)*
+*Last updated: 2026-04-19 (VI)*
 
