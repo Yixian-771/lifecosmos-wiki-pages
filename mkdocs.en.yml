@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Karma, Retribution & Reincarnation: karma-retribution-reincarnation/index.md
   - Characteristics of LIFE: life-characteristics/index.md
   - 418: 418/index.md
   - Soul: soul/index.md
