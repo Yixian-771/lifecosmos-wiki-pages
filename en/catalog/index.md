@@ -24,7 +24,7 @@
 
 ## IV. The Mystery of Thinking
 
-[Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Imagery Thinking](/en/imagery-thinking/) · [Associative Thinking](/en/associative-thinking/) · [Illusory Thinking](/en/illusory-thinking/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Taiji Thinking](/en/taiji-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Hundun Thinking](/en/hundun-thinking/) · [Rational Thinking](/en/rational-thinking/) · [Spiritual Thinking](/en/spiritual-thinking/) · [Inverted Thinking](/en/inverted-thinking/) · [Abnormal Thinking](/en/abnormal-thinking/) · [1+1 Thinking](/en/one-plus-one-thinking/) · [Fixed-Pattern Thinking](/en/fixed-mindset/)
+[Thinking (Overview)](/en/thinking-overview/) · [Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Imagery Thinking](/en/imagery-thinking/) · [Associative Thinking](/en/associative-thinking/) · [Illusory Thinking](/en/illusory-thinking/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Taiji Thinking](/en/taiji-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Hundun Thinking](/en/hundun-thinking/) · [Rational Thinking](/en/rational-thinking/) · [Spiritual Thinking](/en/spiritual-thinking/) · [Inverted Thinking](/en/inverted-thinking/) · [Abnormal Thinking](/en/abnormal-thinking/) · [1+1 Thinking](/en/one-plus-one-thinking/) · [Fixed-Pattern Thinking](/en/fixed-mindset/)
 
 ---
 
