@@ -33,7 +33,7 @@ slug: catalog-zh
 
 ## 五、社会系统
 
-[两项浩繁工程](/zh/two-great-projects/) · [地球的管理者](/zh/earth-managers/) · [文明3.0](/zh/civilization-3-0/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [导游雪峰](/zh/guide-xuefeng/) · [禅院草](/zh/chanyuan-celestials/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵净化课](/zh/spiritual-purification-course/) · [F币](/zh/f-coin/) · [生命禅院的合作之道](/zh/way-of-cooperation/) · [418](/zh/418/)
+[文明（总论）](/zh/civilization-overview/) · [两项浩繁工程](/zh/two-great-projects/) · [地球的管理者](/zh/earth-managers/) · [文明3.0](/zh/civilization-3-0/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [导游雪峰](/zh/guide-xuefeng/) · [禅院草](/zh/chanyuan-celestials/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵净化课](/zh/spiritual-purification-course/) · [F币](/zh/f-coin/) · [生命禅院的合作之道](/zh/way-of-cooperation/) · [418](/zh/418/)
 
 ---
 
@@ -43,7 +43,7 @@ slug: catalog-zh
 
 ---
 
-*最后更新：2026-04-23（四）— 新增：觉悟*
+*最后更新：2026-04-23（四）— 新增：文明（总论）*
 
 
 
