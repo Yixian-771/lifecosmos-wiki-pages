@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Civilization (Overview): civilization-overview/index.md
   - Awakening: awakening/index.md
   - Thinking (Overview): thinking-overview/index.md
   - Karma, Retribution & Reincarnation: karma-retribution-reincarnation/index.md
