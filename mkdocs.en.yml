@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Life and Death: life-and-death/index.md
   - Gratitude: gratitude/index.md
   - Yuan (Karmic Affinity): yuan/index.md
   - Civilization (Overview): civilization-overview/index.md
