@@ -12,9 +12,9 @@ title: 感恩
 
 | 版本 | 适合读者 | 入口 |
 |------|----------|------|
-| 内部版 | 禅院草、深度研究者 | [阅读内部版](/zh/gratitude/internal/) |
-| 学术版 | 学术研究、跨文化比较 | [阅读学术版](/zh/gratitude/academic/) |
 | 友好版 | 初次接触者 | [阅读友好版](/zh/gratitude/friendly/) |
+| 学术版 | 学术研究、跨文化比较 | [阅读学术版](/zh/gratitude/academic/) |
+| 内部版 | 禅院草、深度研究者 | [阅读内部版](/zh/gratitude/internal/) |
 
 ---
 

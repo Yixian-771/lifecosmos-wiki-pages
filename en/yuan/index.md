@@ -12,9 +12,9 @@ title: Yuan (Karmic Affinity)
 
 | Version | Best for | Link |
 |---------|----------|------|
-| Internal | Chanyuan Celestials, deep study | [Read Internal Version](/en/yuan/internal/) |
-| Academic | Scholarly research, cross-cultural comparison | [Read Academic Version](/en/yuan/academic/) |
 | Friendly | First-time readers | [Read Friendly Version](/en/yuan/friendly/) |
+| Academic | Scholarly research, cross-cultural comparison | [Read Academic Version](/en/yuan/academic/) |
+| Internal | Chanyuan Celestials, deep study | [Read Internal Version](/en/yuan/internal/) |
 
 ---
 

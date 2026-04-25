@@ -12,9 +12,9 @@ title: Life and Death
 
 | Version | Best for | Link |
 |---------|----------|------|
-| Internal | Chanyuan Celestials, deep study | [Read Internal Version](/en/life-and-death/internal/) |
-| Academic | Scholarly research, cross-cultural comparison | [Read Academic Version](/en/life-and-death/academic/) |
 | Friendly | First-time readers | [Read Friendly Version](/en/life-and-death/friendly/) |
+| Academic | Scholarly research, cross-cultural comparison | [Read Academic Version](/en/life-and-death/academic/) |
+| Internal | Chanyuan Celestials, deep study | [Read Internal Version](/en/life-and-death/internal/) |
 
 ---
 

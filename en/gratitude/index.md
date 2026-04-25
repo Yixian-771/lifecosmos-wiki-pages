@@ -12,9 +12,9 @@ title: Gratitude
 
 | Version | Best for | Link |
 |---------|----------|------|
-| Internal | Chanyuan Celestials, deep study | [Read Internal Version](/en/gratitude/internal/) |
-| Academic | Scholarly research, cross-cultural comparison | [Read Academic Version](/en/gratitude/academic/) |
 | Friendly | First-time readers | [Read Friendly Version](/en/gratitude/friendly/) |
+| Academic | Scholarly research, cross-cultural comparison | [Read Academic Version](/en/gratitude/academic/) |
+| Internal | Chanyuan Celestials, deep study | [Read Internal Version](/en/gratitude/internal/) |
 
 ---
 
