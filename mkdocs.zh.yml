@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 感恩: gratitude/index.md
   - 缘: yuan/index.md
   - 文明（总论）: civilization-overview/index.md
   - 觉悟: awakening/index.md
