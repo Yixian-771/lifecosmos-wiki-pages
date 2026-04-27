@@ -21,7 +21,7 @@ slug: catalog-zh
 
 ## 三、生命奥秘
 
-[生命起源](/zh/life-origin/) · [反物质结构](/zh/antimatter-structure/) · [潜意识](/zh/subconscious/) · [灵](/zh/ling-spirit/) · [灵性](/zh/spirituality/) · [灵觉](/zh/spiritual-sensing/) · [性](/zh/nature/) · [生命](/zh/life/) · [生命奥秘](/zh/life-mysteries/) · [生命的特征](/zh/life-characteristics/) · [生命起源演化全景图](/zh/life-origin-evolution-panorama/) · [灵魂](/zh/soul/) · [精神（总论）](/zh/spirit-overview/)
+[生命起源](/zh/life-origin/) · [反物质结构](/zh/antimatter-structure/) · [潜意识](/zh/subconscious/) · [灵](/zh/ling-spirit/) · [灵性](/zh/spirituality/) · [灵觉](/zh/spiritual-sensing/) · [性](/zh/nature/) · [生命](/zh/life/) · [生命奥秘](/zh/life-mysteries/) · [生命的特征](/zh/life-characteristics/) · [生命起源演化全景图](/zh/life-origin-evolution-panorama/) · [灵魂](/zh/soul/) · [精神（总论）](/zh/spirit-overview/) · [心灵（总论）](/zh/soul-overview/)
 
 ---
 
