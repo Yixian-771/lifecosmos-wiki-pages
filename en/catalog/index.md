@@ -12,7 +12,7 @@
 
 ## II. Universe and Space-Time
 
-[Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Life and Death](/en/life-and-death/) · [Cosmic Origin](/en/universe-origin/) · [Antimatter World](/en/antimatter-world/) · [Negative Universe](/en/negative-universe/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Retained Information Space](/en/retained-info-realm/) · [The Cosmic Script](/en/cosmic-script/) · [The Script of Human Life](/en/life-script/) · [Life Trajectory](/en/life-trajectory/) · [The Last Course](/en/last-course/) · [Everything Is Destined](/en/everything-is-destined/) · [Free Will](/en/free-will/) · [Higher LIFE Spaces](/en/high-life-spaces/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Celestial Islands Continent](/en/celestial-islands-continent/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Dreams](/en/dream-state/) · [Consciousness](/en/consciousness/) · [Energy](/en/energy/) · [Structure](/en/structure/)
+[Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Space-Time](/en/spacetime/) · [Life and Death](/en/life-and-death/) · [Cosmic Origin](/en/universe-origin/) · [Antimatter World](/en/antimatter-world/) · [Negative Universe](/en/negative-universe/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Retained Information Space](/en/retained-info-realm/) · [The Cosmic Script](/en/cosmic-script/) · [The Script of Human Life](/en/life-script/) · [Life Trajectory](/en/life-trajectory/) · [The Last Course](/en/last-course/) · [Everything Is Destined](/en/everything-is-destined/) · [Free Will](/en/free-will/) · [Higher LIFE Spaces](/en/high-life-spaces/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Celestial Islands Continent](/en/celestial-islands-continent/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Dreams](/en/dream-state/) · [Consciousness](/en/consciousness/) · [Energy](/en/energy/) · [Structure](/en/structure/)
 
 ---
 
@@ -40,5 +40,5 @@
 
 ---
 
-*Last updated: 2026-04-25 (VI) — Added: Life and Death*
+*Last updated: 2026-04-27 (I) — Added: Space-Time*
 
