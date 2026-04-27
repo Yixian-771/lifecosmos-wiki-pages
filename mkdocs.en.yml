@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Spirit (Overview): spirit-overview/index.md
   - The Universe (Overview): universe-overview/index.md
   - Hundun (Ontology): hundun/index.md
   - Space-Time: spacetime/index.md
