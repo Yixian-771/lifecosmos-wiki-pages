@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git push)",
+      "Bash(mkdir -p *)",
+      "Bash(mv *)",
+      "Bash(cd * && git add *)",
+      "Bash(cd * && git commit *)",
+      "Bash(cd * && git add * && git commit *)",
+      "Bash(cd * && git add * && git push *)",
+      "Bash(cd * && git push *)"
+    ]
+  }
+}
