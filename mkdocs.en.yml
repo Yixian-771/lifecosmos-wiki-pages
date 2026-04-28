@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Lifechanyuan Era (New Era): lifechanyuan-new-era/index.md
   - Reincarnation of LIFE: life-reincarnation/index.md
   - Human Nature: human-nature/index.md
   - Qing (Affection): qing-affection/index.md

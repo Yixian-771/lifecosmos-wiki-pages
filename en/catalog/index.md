@@ -30,7 +30,7 @@
 
 ## V. Social Systems
 
-[Civilization (Overview)](/en/civilization-overview/) · [Human Nature](/en/human-nature/) · [Religion](/en/religion/) · [Good, Evil, and the 108 Evils & 108 Virtues](/en/good-evil-108/) · [Two Enormous Projects](/en/two-great-projects/) · [Managers of Earth](/en/earth-managers/) · [Civilization 3.0](/en/civilization-3-0/) · [Hundun Management](/en/hundun-management/) · [Second Home](/en/second-home/) · [Lifechanyuan](/en/lifechanyuan/) · [Guide Xuefeng](/en/guide-xuefeng/) · [Chanyuan Celestials](/en/chanyuan-celestials/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) · [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance/) · [New Era Human 800 Concepts](/en/new-era-human-800-concepts/) · [Spiritual Purification Course](/en/spiritual-purification-course/) · [F Coin](/en/f-coin/) · [The Lifechanyuan Way of Cooperation](/en/way-of-cooperation/) · [418](/en/418/)
+[Civilization (Overview)](/en/civilization-overview/) · [Lifechanyuan Era (New Era)](/en/lifechanyuan-new-era/) · [Human Nature](/en/human-nature/) · [Religion](/en/religion/) · [Good, Evil, and the 108 Evils & 108 Virtues](/en/good-evil-108/) · [Two Enormous Projects](/en/two-great-projects/) · [Managers of Earth](/en/earth-managers/) · [Civilization 3.0](/en/civilization-3-0/) · [Hundun Management](/en/hundun-management/) · [Second Home](/en/second-home/) · [Lifechanyuan](/en/lifechanyuan/) · [Guide Xuefeng](/en/guide-xuefeng/) · [Chanyuan Celestials](/en/chanyuan-celestials/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) · [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance/) · [New Era Human 800 Concepts](/en/new-era-human-800-concepts/) · [Spiritual Purification Course](/en/spiritual-purification-course/) · [F Coin](/en/f-coin/) · [The Lifechanyuan Way of Cooperation](/en/way-of-cooperation/) · [418](/en/418/)
 
 ---
 
@@ -40,5 +40,5 @@
 
 ---
 
-*Last updated: 2026-04-28 (IV) — Added: Human Nature*
+*Last updated: 2026-04-29 (V) — Added: Lifechanyuan Era (New Era)*
 
