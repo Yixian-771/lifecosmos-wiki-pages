@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Humility: humility/index.md
   - Forgiveness: forgiveness/index.md
   - Letting Go: letting-go/index.md
   - Good, Evil, and the 108 Evils & 108 Virtues: good-evil-108/index.md
