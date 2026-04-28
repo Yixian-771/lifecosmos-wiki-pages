@@ -36,9 +36,9 @@
 
 ## VI. Cultivation Practice
 
-[Awakening](/en/awakening/) · [Gratitude](/en/gratitude/) · [Humility](/en/humility/) · [Repentance](/en/repentance/) · [Forgiveness](/en/forgiveness/) · [Letting Go](/en/letting-go/) · [Yuan (Karmic Affinity)](/en/yuan/) · [Raise Vibrational Frequency](/en/raise-vibration-frequency/) · [Tour Guide Route Map](/en/tour-guide-route-map/) · [Return to Zero](/en/return-to-zero/) · [Zero-State](/en/zero-state/) · [Self-Coherence](/en/self-coherence/) · [Embrace the One](/en/embrace-the-one/) · [Eight No-Realms](/en/eight-no-realms/) · [Formless Giving](/en/formless-giving/) · [Soul Garden](/en/soul-garden/) · [Truth](/en/truth/) · [Goodness](/en/goodness/) · [Beauty](/en/beauty/) · [Love](/en/love/) · [Faith](/en/faith/) · [Sincerity](/en/sincerity/) · [Peace](/en/peace/) · [Harmony](/en/harmony/) · [Six Qualities](/en/six-qualities/) · [Huaxiang, Butterflies Come Naturally](/en/huaxiang-die-zi-lai/)
+[Awakening](/en/awakening/) · [Gratitude](/en/gratitude/) · [Humility](/en/humility/) · [Repentance](/en/repentance/) · [Illuminate the Mind, See the Nature](/en/illuminate-mind-see-nature/) · [Forgiveness](/en/forgiveness/) · [Letting Go](/en/letting-go/) · [Yuan (Karmic Affinity)](/en/yuan/) · [Raise Vibrational Frequency](/en/raise-vibration-frequency/) · [Tour Guide Route Map](/en/tour-guide-route-map/) · [Return to Zero](/en/return-to-zero/) · [Zero-State](/en/zero-state/) · [Self-Coherence](/en/self-coherence/) · [Embrace the One](/en/embrace-the-one/) · [Eight No-Realms](/en/eight-no-realms/) · [Formless Giving](/en/formless-giving/) · [Soul Garden](/en/soul-garden/) · [Truth](/en/truth/) · [Goodness](/en/goodness/) · [Beauty](/en/beauty/) · [Love](/en/love/) · [Faith](/en/faith/) · [Sincerity](/en/sincerity/) · [Peace](/en/peace/) · [Harmony](/en/harmony/) · [Six Qualities](/en/six-qualities/) · [Huaxiang, Butterflies Come Naturally](/en/huaxiang-die-zi-lai/)
 
 ---
 
-*Last updated: 2026-04-28 (IV) — Added: Humility*
+*Last updated: 2026-04-28 (IV) — Added: Illuminate the Mind, See the Nature*
 

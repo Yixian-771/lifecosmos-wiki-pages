@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Illuminate the Mind, See the Nature: illuminate-mind-see-nature/index.md
   - Humility: humility/index.md
   - Forgiveness: forgiveness/index.md
   - Letting Go: letting-go/index.md
