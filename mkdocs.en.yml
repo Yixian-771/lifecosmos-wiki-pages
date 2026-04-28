@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Qing (Affection): qing-affection/index.md
   - Heart-Mind: heart-mind/index.md
   - Will and Determination: will-determination/index.md
   - Illuminate the Mind, See the Nature: illuminate-mind-see-nature/index.md
