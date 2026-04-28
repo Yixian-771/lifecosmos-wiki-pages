@@ -6,11 +6,11 @@
 
 ---
 
-| Edition | Description |
-|---------|-------------|
-| [Internal Edition](internal.md) | Primary citations, Guide Xuefeng's original words |
-| [Academic Edition](academic.md) | Conceptual structure, source table, comparative analysis |
-| [Friendly Edition](friendly.md) | Accessible introduction for new readers |
+| Edition | Best for | Link |
+|---------|----------|------|
+| Friendly | First-time readers, everyday language | [Read Friendly Edition](/en/heart-mind/friendly/) |
+| Academic | Researchers, source analysis, systematic study | [Read Academic Edition](/en/heart-mind/academic/) |
+| Internal | Chanyuan Celestials, full primary-source citations | [Read Internal Edition](/en/heart-mind/internal/) |
 
 ---
 
