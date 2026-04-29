@@ -18,7 +18,7 @@
 
 ## III. The Mystery of LIFE
 
-[Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Subconscious](/en/subconscious/) · [Ling (Spirit-Force)](/en/ling-spirit/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/) · [Levels of LIFE](/en/levels-of-life/) · [Characteristics of LIFE](/en/life-characteristics/) · [Panorama of LIFE Origin and Evolution](/en/life-origin-evolution-panorama/) · [Soul](/en/soul/) · [Spirit (Overview)](/en/spirit-overview/) · [Inner Spirit (Overview)](/en/soul-overview/) · [Will and Determination](/en/will-determination/) · [Heart-Mind](/en/heart-mind/) · [Qing (Affection)](/en/qing-affection/)
+[Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Subconscious](/en/subconscious/) · [Ling (Spirit-Force)](/en/ling-spirit/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/) · [Levels of LIFE](/en/levels-of-life/) · [Complete Independent Consciousness](/en/complete-independent-consciousness/) · [Characteristics of LIFE](/en/life-characteristics/) · [Panorama of LIFE Origin and Evolution](/en/life-origin-evolution-panorama/) · [Soul](/en/soul/) · [Spirit (Overview)](/en/spirit-overview/) · [Inner Spirit (Overview)](/en/soul-overview/) · [Will and Determination](/en/will-determination/) · [Heart-Mind](/en/heart-mind/) · [Qing (Affection)](/en/qing-affection/)
 
 ---
 
@@ -40,5 +40,5 @@
 
 ---
 
-*Last updated: 2026-04-29 (V) — Added: Levels of LIFE*
+*Last updated: 2026-04-29 (V) — Added: Complete Independent Consciousness*
 
