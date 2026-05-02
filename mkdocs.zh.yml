@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 无我无相: no-self-no-form/index.md
   - 同频共振: resonance/index.md
   - 无为而无不为: wu-wei/index.md
   - 自性·佛性·如来本性: self-nature/index.md
