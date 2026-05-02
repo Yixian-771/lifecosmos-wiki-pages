@@ -21,7 +21,7 @@ slug: catalog-zh
 
 ## 三、生命奥秘
 
-[生命起源](/zh/life-origin/) · [反物质结构](/zh/antimatter-structure/) · [潜意识](/zh/subconscious/) · [灵](/zh/ling-spirit/) · [灵性](/zh/spirituality/) · [灵觉](/zh/spiritual-sensing/) · [性](/zh/nature/) · [生命](/zh/life/) · [生命奥秘](/zh/life-mysteries/) · [生命不灭定律](/zh/law-of-life-indestructibility/) · [生命的层次](/zh/levels-of-life/) · [完整独立意识](/zh/complete-independent-consciousness/) · [生命的特征](/zh/life-characteristics/) · [生命起源演化全景图](/zh/life-origin-evolution-panorama/) · [灵魂](/zh/soul/) · [精神（总论）](/zh/spirit-overview/) · [心灵（总论）](/zh/soul-overview/) · [意志](/zh/will-determination/) · [心](/zh/heart-mind/) · [情](/zh/qing-affection/)
+[生命起源](/zh/life-origin/) · [反物质结构](/zh/antimatter-structure/) · [潜意识](/zh/subconscious/) · [灵](/zh/ling-spirit/) · [灵性](/zh/spirituality/) · [灵觉](/zh/spiritual-sensing/) · [性](/zh/nature/) · [生命](/zh/life/) · [生命奥秘](/zh/life-mysteries/) · [生命不灭定律](/zh/law-of-life-indestructibility/) · [生命的层次](/zh/levels-of-life/) · [完整独立意识](/zh/complete-independent-consciousness/) · [生命的特征](/zh/life-characteristics/) · [生命起源演化全景图](/zh/life-origin-evolution-panorama/) · [灵魂](/zh/soul/) · [精神（总论）](/zh/spirit-overview/) · [心灵（总论）](/zh/soul-overview/) · [意志](/zh/will-determination/) · [心](/zh/heart-mind/) · [情](/zh/qing-affection/) · [生命签证](/zh/life-visa/)
 
 ---
 
@@ -43,7 +43,7 @@ slug: catalog-zh
 
 ---
 
-*最后更新：2026-04-29（五）— 新增：完整独立意识*
+*最后更新：2026-05-02（六）— 新增：生命签证*
 
 
 
