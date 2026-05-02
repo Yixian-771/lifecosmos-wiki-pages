@@ -9,7 +9,7 @@ slug: catalog-zh
 
 ## 一、上帝与道
 
-[上帝](/zh/greatest-creator/) · [上帝之道](/zh/way-of-the-greatest-creator/) · [道](/zh/dao/) · [太极](/zh/taiji/) · [无极](/zh/wuji/) · [浑沌](/zh/hundun/) · [宇宙（总论）](/zh/universe-overview/) · [宇宙全景图](/zh/cosmic-panorama/) · [道德](/zh/morality/)
+[上帝](/zh/greatest-creator/) · [上帝之道](/zh/way-of-the-greatest-creator/) · [道](/zh/dao/) · [太极](/zh/taiji/) · [无极](/zh/wuji/) · [浑沌](/zh/hundun/) · [浑沌元初](/zh/hundun-baby/) · [宇宙（总论）](/zh/universe-overview/) · [宇宙全景图](/zh/cosmic-panorama/) · [道德](/zh/morality/)
 
 ---
 
@@ -43,7 +43,7 @@ slug: catalog-zh
 
 ---
 
-*最后更新：2026-05-02（六）— 新增：生命签证*
+*最后更新：2026-05-02（六）— 新增：浑沌元初、生命签证*
 
 
 

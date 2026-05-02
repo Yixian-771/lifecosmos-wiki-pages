@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 浑沌元初: hundun-baby/index.md
   - 生命签证: life-visa/index.md
   - 完整独立意识: complete-independent-consciousness/index.md
   - 生命的层次: levels-of-life/index.md
