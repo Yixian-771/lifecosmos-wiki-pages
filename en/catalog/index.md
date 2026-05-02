@@ -6,7 +6,7 @@
 
 ## I. The Greatest Creator and the Tao
 
-[The Greatest Creator](/en/greatest-creator/) · [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) · [Dao](/en/dao/) · [Taiji](/en/taiji/) · [Wuji](/en/wuji/) · [Hundun](/en/hundun/) · [The Universe (Overview)](/en/universe-overview/) · [Cosmic Panorama](/en/cosmic-panorama/) · [Morality](/en/morality/)
+[The Greatest Creator](/en/greatest-creator/) · [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) · [Dao](/en/dao/) · [Taiji](/en/taiji/) · [Wuji](/en/wuji/) · [Hundun](/en/hundun/) · [Hundun Baby](/en/hundun-baby/) · [The Universe (Overview)](/en/universe-overview/) · [Cosmic Panorama](/en/cosmic-panorama/) · [Morality](/en/morality/)
 
 ---
 
@@ -40,5 +40,5 @@
 
 ---
 
-*Last updated: 2026-05-02 (VI) — Added: Life Visa*
+*Last updated: 2026-05-02 (VI) — Added: Hundun Baby, Life Visa*
 
