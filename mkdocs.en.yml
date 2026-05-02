@@ -31,6 +31,9 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Sympathetic Resonance: resonance/index.md
+  - Wu Wei (Non-Action): wu-wei/index.md
+  - Self-Nature (Buddha-Nature): self-nature/index.md
   - Values: values/index.md
   - Hundun Baby: hundun-baby/index.md
   - Life Visa: life-visa/index.md
@@ -58,9 +61,6 @@ nav:
   - Life and Death: life-and-death/index.md
   - Gratitude: gratitude/index.md
   - Yuan (Karmic Affinity): yuan/index.md
-  - Sympathetic Resonance: resonance/index.md
-  - Wu Wei (Non-Action): wu-wei/index.md
-  - Self-Nature (Buddha-Nature): self-nature/index.md
   - Xuefeng Communism: xuefeng-communism/index.md
   - Civilization (Overview): civilization-overview/index.md
   - Awakening: awakening/index.md
