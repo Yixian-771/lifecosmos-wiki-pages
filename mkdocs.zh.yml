@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 天性·秉性·习性: tianxing-bingxing-xixing/index.md
   - 颠倒梦想: diandao-mengxiang/index.md
   - 四随（随遇而安·随缘而化·随性而动·随机而作）: si-sui/index.md
   - 无我无相: no-self-no-form/index.md
