@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Inverted Illusions: diandao-mengxiang/index.md
   - The Four Adaptations: si-sui/index.md
   - No-Self, No-Form: no-self-no-form/index.md
   - Sympathetic Resonance: resonance/index.md
