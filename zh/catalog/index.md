@@ -39,11 +39,11 @@ slug: catalog-zh
 
 ## 六、修行修炼
 
-[我执](/zh/wo-zhi/) · [天性·秉性·习性](/zh/tianxing-bingxing-xixing/) · [颠倒梦想](/zh/diandao-mengxiang/) · [四随（随遇而安·随缘而化·随性而动·随机而作）](/zh/si-sui/) · [无我无相](/zh/no-self-no-form/) · [同频共振](/zh/resonance/) · [无为而无不为](/zh/wu-wei/) · [自性·佛性·如来本性](/zh/self-nature/) · [觉悟](/zh/awakening/) · [感恩](/zh/gratitude/) · [谦卑](/zh/humility/) · [忏悔](/zh/repentance/) · [明心见性](/zh/illuminate-mind-see-nature/) · [宽恕](/zh/forgiveness/) · [放下](/zh/letting-go/) · [缘](/zh/yuan/) · [提升振动频率](/zh/raise-vibration-frequency/) · [导游路线图](/zh/tour-guide-route-map/) · [归零](/zh/return-to-zero/) · [零态](/zh/zero-state/) · [自洽](/zh/self-coherence/) · [抱一](/zh/embrace-the-one/) · [八无境界](/zh/eight-no-realms/) · [无相布施](/zh/formless-giving/) · [心灵花园](/zh/soul-garden/) · [真](/zh/truth/) · [善](/zh/goodness/) · [美](/zh/beauty/) · [爱](/zh/love/) · [信](/zh/faith/) · [诚](/zh/sincerity/) · [平](/zh/peace/) · [和](/zh/harmony/) · [真善美爱信诚](/zh/six-qualities/) · [花香蝶自来](/zh/huaxiang-die-zi-lai/)
+[成仙成佛](/zh/becoming-celestial-buddha/) · [我执](/zh/wo-zhi/) · [天性·秉性·习性](/zh/tianxing-bingxing-xixing/) · [颠倒梦想](/zh/diandao-mengxiang/) · [四随（随遇而安·随缘而化·随性而动·随机而作）](/zh/si-sui/) · [无我无相](/zh/no-self-no-form/) · [同频共振](/zh/resonance/) · [无为而无不为](/zh/wu-wei/) · [自性·佛性·如来本性](/zh/self-nature/) · [觉悟](/zh/awakening/) · [感恩](/zh/gratitude/) · [谦卑](/zh/humility/) · [忏悔](/zh/repentance/) · [明心见性](/zh/illuminate-mind-see-nature/) · [宽恕](/zh/forgiveness/) · [放下](/zh/letting-go/) · [缘](/zh/yuan/) · [提升振动频率](/zh/raise-vibration-frequency/) · [导游路线图](/zh/tour-guide-route-map/) · [归零](/zh/return-to-zero/) · [零态](/zh/zero-state/) · [自洽](/zh/self-coherence/) · [抱一](/zh/embrace-the-one/) · [八无境界](/zh/eight-no-realms/) · [无相布施](/zh/formless-giving/) · [心灵花园](/zh/soul-garden/) · [真](/zh/truth/) · [善](/zh/goodness/) · [美](/zh/beauty/) · [爱](/zh/love/) · [信](/zh/faith/) · [诚](/zh/sincerity/) · [平](/zh/peace/) · [和](/zh/harmony/) · [真善美爱信诚](/zh/six-qualities/) · [花香蝶自来](/zh/huaxiang-die-zi-lai/)
 
 ---
 
-*最后更新：2026-05-04（日）— 新增：我执*
+*最后更新：2026-05-04（日）— 新增：成仙成佛*
 
 
 
