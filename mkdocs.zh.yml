@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 仙·天仙·佛: xian-tian-xian-fo/index.md
   - 成仙成佛: becoming-celestial-buddha/index.md
   - 我执: wo-zhi/index.md
   - 天性·秉性·习性: tianxing-bingxing-xixing/index.md
