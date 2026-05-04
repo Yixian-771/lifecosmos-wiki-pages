@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Super Celestial Beings of the Elysium World: elysium-world-celestials/index.md
   - Celestials of the Ten-Thousand-Year World: ten-thousand-year-world-celestials/index.md
   - Celestials of the Thousand-Year World: thousand-year-world-celestials/index.md
   - Celestial Beings, Heavenly Celestials, and Buddhas: xian-tian-xian-fo/index.md
