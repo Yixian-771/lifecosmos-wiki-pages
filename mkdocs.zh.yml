@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 万年界仙: ten-thousand-year-world-celestials/index.md
   - 千年界仙: thousand-year-world-celestials/index.md
   - 仙·天仙·佛: xian-tian-xian-fo/index.md
   - 成仙成佛: becoming-celestial-buddha/index.md
