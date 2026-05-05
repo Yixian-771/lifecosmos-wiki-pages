@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 天命: tianming/index.md
   - 人生的价值·意义和目的: value-meaning-purpose-of-life/index.md
   - 知识·智慧·智: knowledge-wisdom-zhi/index.md
   - 极乐界天仙: elysium-world-celestials/index.md
