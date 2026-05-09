@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Biological Robot: shengwu-jiqiren/index.md
   - Upbringing · Self-Cultivation · Composure: jiaoyang-xiuyang-hanyang/index.md
   - Human Consciousness · Celestial Consciousness: ren-xian-yishi/index.md
   - Mind Without Abiding · Mind Without Hindrance: xinwu-suozhu-guaai/index.md
