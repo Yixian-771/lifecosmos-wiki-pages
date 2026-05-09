@@ -10,9 +10,9 @@ A *mission* (使命, shìmìng) is the purpose of existence assigned and defined
 
 | Version | Best for | Focus |
 |---------|----------|-------|
-| [Internal](internal.md) | Practitioners · Researchers | Full citations · Eight-section framework · In-system understanding |
-| [Academic](academic.md) | Scholars · Cross-cultural comparison | Dialogue with Aristotelian teleology, Weber's calling, existentialism, Frankl |
 | [Friendly](friendly.md) | First-time readers | Plain language · Concrete situations · From confusion to clarity |
+| [Academic](academic.md) | Scholars · Cross-cultural comparison | Dialogue with Aristotelian teleology, Weber's calling, existentialism, Frankl |
+| [Internal](internal.md) | Practitioners · Researchers | Full citations · Eight-section framework · In-system understanding |
 
 ---
 
