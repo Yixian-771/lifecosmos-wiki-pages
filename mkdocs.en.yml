@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Vanity and Hypocrisy: xurong-xuwei/index.md
   - Selfishness and Selflessness: zisi-wusi/index.md
   - Demonic Nature (Moxing): moxing/index.md
   - Arrogance (Aoman): aoman/index.md
