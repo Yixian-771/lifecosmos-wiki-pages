@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 教养·修养·涵养: jiaoyang-xiuyang-hanyang/index.md
   - 人的意识·仙的意识: ren-xian-yishi/index.md
   - 心无所住·心无挂碍: xinwu-suozhu-guaai/index.md
   - 大乘心愿: dasheng-xinyuan/index.md
