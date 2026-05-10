@@ -14,7 +14,7 @@
 
 ---
 
-## The Three-Tier Refinement System
+## Position in the Three-Tier Refinement System
 
 | Stage | Purpose | Outcome |
 |-------|---------|---------|
@@ -24,29 +24,14 @@
 
 ---
 
-## The Eight Methods at a Glance
-
-| Step | Name | Core Teaching |
-|------|------|---------------|
-| 1 | Still the Heart | All things are exhausted in movement and born in stillness |
-| 2 | Stop the Heart | Life is finite; desires are boundless — stop at the right moment |
-| 3 | Govern the Heart | The heart is master of the body — govern it actively |
-| 4 | Rectify the Heart | Read the sacred texts to orient the heart |
-| 5 | Empty the Heart | Release fixed views; expand the heart's capacity |
-| 6 | Settle the Heart | Events arise and the heart responds; events pass and the heart empties |
-| 7 | Purify the Heart | Remove the fifteen factors that pollute the heart |
-| 8 | Resolve the Heart | Reach the state of no-heart; transcend form-realm, enter no-form-realm |
-
----
-
 ## Version Navigation
 
-| Version | Best for | Link |
-|---------|----------|------|
-| Overview (this page) | First introduction | Current |
-| [Source Text Edition](/en/intermediate-refinement/internal/) | Deep study of original text | internal |
-| [Academic Edition](/en/intermediate-refinement/academic/) | Systematic research | academic |
-| [Friendly Introduction](/en/intermediate-refinement/friendly/) | Daily application | friendly |
+| Version | Best for |
+|---------|----------|
+| [Friendly Introduction](/en/intermediate-refinement/friendly/) | First encounter, feel the wisdom |
+| [Source Text Edition](/en/intermediate-refinement/internal/) | Deep study of original text with annotations |
+| [Academic Edition](/en/intermediate-refinement/academic/) | Systematic research and cross-cultural comparison |
+| Overview (this page) | Quick orientation and version selection |
 
 ---
 
