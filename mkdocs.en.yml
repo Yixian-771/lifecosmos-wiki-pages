@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Advanced Cultivation: advanced-cultivation/index.md
   - Intermediate Cultivation: intermediate-cultivation/index.md
   - Elementary Cultivation: elementary-cultivation/index.md
   - International Family: guoji-dajiating/index.md
