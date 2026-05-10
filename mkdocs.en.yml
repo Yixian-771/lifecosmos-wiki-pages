@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Elementary Cultivation: elementary-cultivation/index.md
   - International Family: guoji-dajiating/index.md
   - Biological Robot: shengwu-jiqiren/index.md
   - Upbringing · Self-Cultivation · Composure: jiaoyang-xiuyang-hanyang/index.md
