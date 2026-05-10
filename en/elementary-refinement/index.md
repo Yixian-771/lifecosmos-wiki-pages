@@ -2,7 +2,7 @@
 
 # Elementary Refinement (初级修炼)
 
-**Elementary Refinement** (*chūjí xiūliàn*) is the first stage of Lifechanyuan's three-tier Refinement system. Its purpose is "**refining perception** (*liàn shí*)" — seeing through the illusions of ordinary life, returning to authenticity, and gradually transitioning from the confused existence of an average person to the clear, purposeful life of a wise person (*xiánrén*). The goal is to achieve individual health, abundance, and freedom. Its core content is expressed in **twenty-three guidelines** that lay the groundwork for the second stage: Intermediate Refinement's "refining the heart."
+**Elementary Refinement** (*chūjí xiūliàn*) is the first stage of Lifechanyuan's three-tier Refinement system. Its purpose is "**refining perception** (*liàn shí*)" — seeing through the illusions of ordinary life, returning to authenticity, and gradually transitioning from the confused existence of an average person to the clear, purposeful life of a wise person (*xiánrén*). The goal is individual health, abundance, and freedom. Its core content is expressed in **twenty-three guidelines** written in 2004, which lay the groundwork for Intermediate Refinement's "refining the heart."
 
 ---
 
@@ -16,36 +16,24 @@
 
 ---
 
-## The Three-Tier Refinement System
+## Position in the Three-Tier Refinement System
 
-| Stage | Purpose | Key Process | Outcome |
-|-------|---------|-------------|---------|
-| **Elementary Refinement** | Refine Perception | See through life · Return to simplicity | Ordinary → Wise; health, abundance, freedom |
-| Intermediate Refinement | Refine the Heart | Stillness · Stopping · Resolving | Transcend the mundane, surpass the ordinary |
-| Advanced Refinement | Refine the Nature | Inverted thinking · Negating ordinary life | Enter the celestial realm, restore original nature |
-
----
-
-## Overview of the Twenty-Three Guidelines
-
-The twenty-three guidelines fall into three groups:
-
-**Social Wisdom (1–9):** Non-action · No scheming · No promises · No dependence on power · No receiving of favors · No career ambition · No worry about tomorrow · No thought of success or failure · No comparison with others
-
-**Way of Life (10–16):** Seek the mild, not the strong · No idle busyness · No concern for posthumous reputation · No cleverness · Speak little · No fear of death · Be like stone and wood
-
-**Inner States (17–23):** Be like clouds · Be like ice · Be like water · No rivals, no enemies · Do not display ability · Cherish the minute, the weak, the small · Give your whole heart
+| Stage | Purpose | Outcome |
+|-------|---------|---------|
+| **Elementary Refinement** | Refine Perception | Ordinary → Wise person; health, abundance, freedom |
+| Intermediate Refinement | Refine the Heart | Transcend the mundane, surpass the ordinary |
+| Advanced Refinement | Refine the Nature | Enter the celestial realm, restore original nature |
 
 ---
 
 ## Version Navigation
 
-| Version | Best for | Link |
-|---------|----------|------|
-| Overview (this page) | First introduction | Current |
-| [Source Text Edition](/en/elementary-refinement/internal/) | Deep study of original text | internal |
-| [Academic Edition](/en/elementary-refinement/academic/) | Systematic research | academic |
-| [Friendly Introduction](/en/elementary-refinement/friendly/) | Daily application | friendly |
+| Version | Best for |
+|---------|----------|
+| [Friendly Introduction](/en/elementary-refinement/friendly/) | First encounter, feel the wisdom |
+| [Source Text Edition](/en/elementary-refinement/internal/) | Deep study of original text with annotations |
+| [Academic Edition](/en/elementary-refinement/academic/) | Systematic research and cross-cultural comparison |
+| Overview (this page) | Quick orientation and version selection |
 
 ---
 
