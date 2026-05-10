@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Intermediate Refinement: intermediate-refinement/index.md
   - Elementary Refinement: elementary-refinement/index.md
   - Advanced Cultivation: advanced-cultivation/index.md
   - Intermediate Cultivation: intermediate-cultivation/index.md
