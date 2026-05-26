@@ -89,7 +89,7 @@ Genuine veneration — of God, of Jesus, of Shakyamuni, of Laozi — opens the i
 
 A practitioner who had been on the path for over twenty years, feeling no results, asked: why has nothing changed?
 
-Xuefeng (as the Buddha) replied:
+Xuefeng, relaying the response on behalf of the Buddha/Greatest Creator, answered:
 
 > "Your twenty-plus years of cultivation are like a small lamb developing in its mother's womb — growing, maturing. As long as it has not yet come out of the womb, confusion is perfectly natural. Once it is born, that is bone-deep transformation — that is achievement. The gestation period is long; the achievement period is short. Trust in the power of the process and the law."
 
