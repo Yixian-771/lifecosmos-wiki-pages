@@ -1,40 +1,21 @@
-<!-- id: LC-156-EN-01 theme: Cultivation Practice type: Entry Overview lang: en -->
+﻿<!-- id: LC-AR-0001 theme: Cultivation Practice type: index direction: Cultivation lang: en -->
 
-# Advanced Refinement (高级修炼)
+# Advanced Refinement
 
-**Advanced Refinement** (*gāojí xiūliàn*) is the highest stage of Lifechanyuan's Three-Tier Refinement system. Its purpose is "**refining the nature**" (*liàn xìng*) — restoring the original celestial nature of LIFE through ten methods, and thereby entering higher-dimensional LIFE spaces. Advanced Refinement begins where Intermediate Refinement ends: at **Resolving the Heart** (*liǎo xīn*), the state in which the heart no longer clings to any form. Only from this ground can the deeper work of nature refinement begin.
-
----
-
-## Core Definition
-
-> Advanced Refinement is the practice undertaken after achieving celestial being status. If your heart still holds concepts of parents, children, family, ethnicity, or nation; if you have not yet tasted all the bitterness and sweetness of human life; if you have not yet read the *Bible*, the *Quran*, the Buddhist Sutras, and the *Tao Te Ching* — you are not yet able to begin. Currently, no one in human society meets these conditions, so there is no need for explanation.
-
-*— Lifechanyuan Corpus · Cultivation Practice · "Advanced Refinement"*
-
----
-
-## Position in the Three-Tier Refinement System
-
-| Stage | Purpose | Outcome |
-|-------|---------|---------|
-| Elementary Refinement | Refine Perception | Ordinary → Wise person; health, abundance, freedom |
-| Intermediate Refinement | Refine the Heart | Transcend mundane; Resolve the Heart, prepare for nature refinement |
-| **Advanced Refinement** | **Refine the Nature** | **Enter the celestial realm; restore original celestial nature** |
+**Advanced Refinement** is the highest tier of Lifechanyuan's three-stage refinement system. Its purpose is *refining one's nature (xing)* — stripping away impurities embedded in human nature to restore the original qualities bestowed by the Greatest Creator, thereby building the life-structure of a celestial being and ascending to higher life spaces. The ten core practices span: ascending through love, mastering spiritual transformation, seeing with closed eyes, concealment, navigating thought paradoxes, playing the Five Elements game, maintaining the Zero State, expressing oneself clearly, building a celestial structure, and dialoguing with the Greatest Creator. Entering Advanced Refinement means beginning to explore life in the antimatter world.
 
 ---
 
 ## Version Navigation
 
-| Version | Best for |
-|---------|----------|
-| [Friendly Introduction](/en/advanced-refinement/friendly/) | First encounter — feel what these ten methods point toward |
-| [Academic Edition](/en/advanced-refinement/academic/) | Systematic research and cross-cultural comparison |
-| [Source Text Edition](/en/advanced-refinement/internal/) | Deep study of original texts with editorial notes |
-| Overview (this page) | Quick orientation and version selection |
+| Version | Best For | Core Content |
+|---------|---------|-------------|
+| [Friendly Version](friendly.md) | First-time readers | What is "refining nature"? The essence of the ten practices |
+| [Academic Version](academic.md) | Researchers | Structural analysis of the ten practices, the subconscious mechanism, nature vs. structure |
+| [Internal Version](internal.md) | In-depth study | Full source quotes, ten practices explained, prerequisites and ultimate destination |
 
 ---
 
 ## Related Entries
 
-[Elementary Refinement](/en/elementary-refinement/) · [Intermediate Refinement](/en/intermediate-refinement/) · [Advanced Cultivation](/en/advanced-cultivation/) · [Zero State](/en/zero-state/) · [Becoming Celestial and Buddha](/en/becoming-celestial-buddha/) · [Xian · Celestial · Buddha](/en/xian-tian-xian-fo/) · [Illuminate Mind See Nature](/en/illuminate-mind-see-nature/)
+[Elementary Refinement](/en/elementary-refinement/) · [Intermediate Refinement](/en/intermediate-refinement/) · [Advanced Cultivation](/en/advanced-cultivation/) · [Becoming a Celestial Being and a Buddha](/en/becoming-celestial-buddha/) · [Zero State](/en/zero-state/) · [Antimatter Structure](/en/antimatter-structure/) · [Resonance](/en/resonance/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Chaotic Thinking](/en/chaotic-thinking/) · [Spiritual Perception](/en/spiritual-perception/)
