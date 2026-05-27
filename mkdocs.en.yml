@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Fluid Adaptability (Línghuó Yuánróng): linghuoyuanrong/index.md
   - Moving with One's Nature (Suíxìng ér Dòng): suixing-er-dong/index.md
   - True Fruition (Zhèngguǒ): true-fruition/index.md
   - Releasing Worldly Bonds: releasing-worldly-bonds/index.md
