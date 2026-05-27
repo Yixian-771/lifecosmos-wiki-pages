@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 随性而动: suixing-er-dong/index.md
   - 正果: true-fruition/index.md
   - 了却尘缘: releasing-worldly-bonds/index.md
   - 偿还债务: debt-repayment/index.md
