@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Releasing Worldly Bonds: releasing-worldly-bonds/index.md
   - Debt Repayment: debt-repayment/index.md
   - Spiritual Life: spiritual-life/index.md
   - Sitting Meditation and the Art of Settled Stillness: settled-stillness/index.md
