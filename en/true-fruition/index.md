@@ -11,6 +11,14 @@ It is the sole purpose for which anyone becomes a Chanyuan Celestial.
 
 ---
 
+| Version | Best for | Focus |
+|---------|----------|-------|
+| [Friendly version](friendly.md) | First-time readers | What does True Fruition feel like? How do I know where I stand? |
+| [Academic version](academic.md) | Researchers | Tripartite structure, cross-traditional convergence, empiricist verification theory |
+| [Internal reference](internal.md) | Deep study | Full source compilation: definition, path, method, verification, Second Home |
+
+---
+
 ## I. Three Levels of True Fruition
 
 True Fruition unfolds in three ascending stages:
