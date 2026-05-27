@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 物质世界·精神世界·心灵世界: three-worlds/index.md
   - 心灵财富·精神财富·物质财富: three-forms-of-wealth/index.md
   - 心灵出实像: spirit-real-manifestation/index.md
   - 灵活圆融: linghuoyuanrong/index.md
