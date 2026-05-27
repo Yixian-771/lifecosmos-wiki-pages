@@ -1,6 +1,6 @@
 # 禅院百科词条编写流程与标准 v2.0
 
-> 本文档是实际操作标准，以此为准，忽略旧版文档。
+> 本文档是实际操作标准，以此为准，忽略旧版文档。v3.0 起新增母版自编辑阶段。
 
 ---
 
@@ -36,15 +36,37 @@ en/[slug]/friendly.md     ← 英文友好版
 ## 三、各版本内容标准
 
 ### index.md（入口页）
-```yaml
----
-title: [中文词条名]
-slug: [slug]
----
+
+> **入口页是导览页，不是内容页。** 绝不在入口页写分节展开内容。
+
+结构固定为三块，除此之外不加任何 `##` 标题：
+
 ```
-- 一句话定义（精炼，直接引用或改写导游原文）
-- 版本导航表（友好版 / 学术版 / 内部版）
-- 相关词条链接（横排，用 `·` 分隔）
+[文件头注释]
+
+# 词条名
+
+[导言：1-2 段，共约 100-150 字]
+  - 第一段：定义三个核心概念及其关系
+  - 第二段：点出核心要素/路径，以一个典型意象/例子收尾
+
+---
+
+## 版本导航
+
+| 版本 | 适合读者 | 核心内容 |
+[三行表格]
+
+---
+
+## 相关词条
+
+[内链横排，· 分隔]
+```
+
+**参考标准**：`zh/yuhuachengxian/index.md`（可随时对照）
+
+**禁止事项**：入口页不写"一、二、三……"分节，不写参考文献，不放引用块，不展开正文内容。所有详细内容放进 internal / academic / friendly 三个版本。
 
 ### internal.md（内部版）
 - 文件头注释：`<!-- id: LC-[缩写]-0001 theme: ... type: 内部版 direction: ... lang: zh -->`
@@ -87,20 +109,34 @@ slug: [slug]
 
 ## 五、执行顺序
 
+**触发词：用户说"做词条 XXX"**
+
+### 第一阶段：编辑母版（需用户确认）
+
 ```
-1. 读母版（词条母版/*.txt）
-2. 确认 slug（查 translation-glossary.csv 或参照已有词条）
-3. 写中文四版（index → internal → academic → friendly）
-4. 更新 mkdocs.zh.yml（在 nav 中加一行）
-5. 更新 zh/catalog/index.md（加入对应分类）
-6. git commit + push
-7. 给用户中文入口链接，等待确认
-8. 写英文四版（index → internal → academic → friendly）
-9. 更新 mkdocs.en.yml
-10. 更新 en/catalog/index.md
-11. git commit + push
-12. 给用户英文入口链接
-13. 将母版文件移入 词条母版/已做词条/
+1. 按《编辑禅院百科词条母版要求.txt》执行三轮检索
+   （路径：词条母版/编辑禅院百科词条母版要求.txt）
+2. 将母版写入 词条母版/[词条名].txt
+3. 告知用户母版已完成，等待确认
+```
+
+> ⚠️ 母版未获用户确认前，不进入第二阶段。
+
+### 第二阶段：编辑八版本并推送（用户确认母版后执行）
+
+```
+4. 确认 slug（查 translation-glossary.csv 或参照已有词条）
+5. 写中文四版（index → internal → academic → friendly）
+6. 更新 mkdocs.zh.yml（在 nav 中加一行，新词条置顶）
+7. 更新 zh/catalog/index.md（加入对应分类）
+8. git commit + push
+9. 给用户中文入口链接
+10. 写英文四版（index → internal → academic → friendly）
+11. 更新 mkdocs.en.yml
+12. 更新 en/catalog/index.md
+13. git commit + push
+14. 给用户英文入口链接
+15. 将母版文件移入 词条母版/已做词条/
 ```
 
 ---
