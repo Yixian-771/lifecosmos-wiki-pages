@@ -31,6 +31,20 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 禅·无字天书·天启: chan-tianqi/index.md
+  - 法眼: fayan/index.md
+  - 灵眼: linyan/index.md
+  - 极乐妙境: jilemiaojing/index.md
+  - 修正身心·内功: neigong/index.md
+  - 净化心灵: jinghuaxinling/index.md
+  - 脱胎换骨的修炼: tuotaihuangu/index.md
+  - 返老还童·青春永驻·长生不老: fanlaohuantong/index.md
+  - 羽化成仙: yuhuachengxian/index.md
+  - 超凡脱俗: chaofantuosu/index.md
+  - 仙风道骨: xianfengdaogu/index.md
+  - 仙性: xianxing/index.md
+  - 成佛: becoming-buddha/index.md
+  - 成仙: becoming-celestial/index.md
   - 高级修炼: advanced-refinement/index.md
   - 中级修炼: intermediate-refinement/index.md
   - 初级修炼: elementary-refinement/index.md
@@ -59,20 +73,6 @@ nav:
   - 千年界仙: thousand-year-world-celestials/index.md
   - 仙·天仙·佛: xian-tian-xian-fo/index.md
   - 成仙成佛: becoming-celestial-buddha/index.md
-  - 成仙: becoming-celestial/index.md
-  - 成佛: becoming-buddha/index.md
-  - 仙性: xianxing/index.md
-  - 仙风道骨: xianfengdaogu/index.md
-  - 超凡脱俗: chaofantuosu/index.md
-  - 羽化成仙: yuhuachengxian/index.md
-  - 返老还童·青春永驻·长生不老: fanlaohuantong/index.md
-  - 脱胎换骨的修炼: tuotaihuangu/index.md
-  - 净化心灵: jinghuaxinling/index.md
-  - 修正身心·内功: neigong/index.md
-  - 极乐妙境: jilemiaojing/index.md
-  - 灵眼: linyan/index.md
-  - 法眼: fayan/index.md
-  - 禅·无字天书·天启: chan-tianqi/index.md
   - 我执: wo-zhi/index.md
   - 天性·秉性·习性: tianxing-bingxing-xixing/index.md
   - 颠倒梦想: diandao-mengxiang/index.md

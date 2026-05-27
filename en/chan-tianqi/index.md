@@ -125,3 +125,19 @@ Cultivating the capacity to receive Tianqi is the same as cultivating spiritual 
 - Xuefeng: *"All Phenomena Give Birth to the Mind; the Mind Transcends All Phenomena"*
 - Xuefeng: *"Tianqi Can Be Received in Daily Life,"* 2020-12-01
 - Xuefeng: *"Respond to Tianqi, Step Out of the Maze"*
+
+---
+
+## Version Navigation
+
+| Version | Audience | Focus |
+|---------|----------|-------|
+| [Friendly Edition](friendly.md) | First-time readers | Three kinds of books, what Tianqi is, what Chan means, how to read the Unwritten Scripture |
+| [Academic Edition](academic.md) | Researchers | Dual-axis epistemological model, Chan lineage history, esoteric writing strategy, Chan and LIFE levels |
+| [Internal Edition](internal.md) | Deep study | Cosmic secrets beneath the surface, the no-form essence of Chan, layered Tianqi reading, cultivation methods for Chanyuan Celestials |
+
+---
+
+## Related Entries
+
+[Spiritual Eye](/en/linyan/) · [Dharma Eye](/en/fayan/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Hundun Thinking](/en/hundun-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Awakening](/en/awakening/) · [Purifying the Mind](/en/jinghuaxinling/)

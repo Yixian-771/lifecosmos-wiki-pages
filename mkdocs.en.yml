@@ -31,6 +31,20 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Chan · The Unwritten Scripture · Divine Revelation: chan-tianqi/index.md
+  - Dharma Eye: fayan/index.md
+  - Spiritual Eye: linyan/index.md
+  - Elysian Bliss · Peak Experience: jilemiaojing/index.md
+  - Rectifying Body and Mind · Inner Cultivation: neigong/index.md
+  - Purifying the Mind: jinghuaxinling/index.md
+  - Bone-Deep Transformation: tuotaihuangu/index.md
+  - Rejuvenation · Eternal Youth · Longevity: fanlaohuantong/index.md
+  - Feathered Transformation: yuhuachengxian/index.md
+  - Transcending the Ordinary: chaofantuosu/index.md
+  - Celestial Wind, Immortal Bones: xianfengdaogu/index.md
+  - Celestial Nature (Xianxing): xianxing/index.md
+  - Becoming a Buddha: becoming-buddha/index.md
+  - Becoming a Celestial Being: becoming-celestial/index.md
   - Advanced Refinement: advanced-refinement/index.md
   - Intermediate Refinement: intermediate-refinement/index.md
   - Elementary Refinement: elementary-refinement/index.md
@@ -59,20 +73,6 @@ nav:
   - Celestials of the Thousand-Year World: thousand-year-world-celestials/index.md
   - Celestial Beings, Heavenly Celestials, and Buddhas: xian-tian-xian-fo/index.md
   - Becoming a Celestial Being and a Buddha: becoming-celestial-buddha/index.md
-  - Becoming a Celestial Being: becoming-celestial/index.md
-  - Becoming a Buddha: becoming-buddha/index.md
-  - Celestial Nature (Xianxing): xianxing/index.md
-  - Celestial Wind, Immortal Bones: xianfengdaogu/index.md
-  - Transcending the Ordinary: chaofantuosu/index.md
-  - Feathered Transformation: yuhuachengxian/index.md
-  - Rejuvenation · Eternal Youth · Longevity: fanlaohuantong/index.md
-  - Bone-Deep Transformation: tuotaihuangu/index.md
-  - Purifying the Mind: jinghuaxinling/index.md
-  - Rectifying Body and Mind · Inner Cultivation: neigong/index.md
-  - Elysian Bliss · Peak Experience: jilemiaojing/index.md
-  - Spiritual Eye: linyan/index.md
-  - Dharma Eye: fayan/index.md
-  - Chan · The Unwritten Scripture · Divine Revelation: chan-tianqi/index.md
   - Ego-Clinging: wo-zhi/index.md
   - Innate Nature, Inherent Character, Habitual Disposition: tianxing-bingxing-xixing/index.md
   - Inverted Illusions: diandao-mengxiang/index.md
