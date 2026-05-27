@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 偿还债务: debt-repayment/index.md
   - 灵性人生: spiritual-life/index.md
   - 打坐·静坐·定静功夫: settled-stillness/index.md
   - 禅·无字天书·天启: chan-tianqi/index.md
