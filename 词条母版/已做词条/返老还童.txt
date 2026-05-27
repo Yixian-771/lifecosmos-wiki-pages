@@ -1,0 +1,40 @@
+词条编号：163
+词条名称：返老还童·青春永驻·长生不老（Rejuvenation · Eternal Youth · Longevity / Fanlaohuantong）
+slug：fanlaohuantong
+完成日期：2026-05-26
+提交信息：feat: 词条#163 返老还童·青春永驻·长生不老 (Rejuvenation / Fanlaohuantong)
+
+【核心内容】
+- 基本立场：不追求肉体长生不死；追求灵体永恒；无病无灾活到120岁，用禅定法从容弃世上彼岸
+- 真正的返老还童：灵体回到婴儿心灵状态，不是肉体变小孩
+- 第一步：纯朴、真实、顺性、自然四特质
+- 三圣教诲：耶稣"变成小孩子的样式"；老子"复归于婴儿"；佛陀"无寿者相"
+- 童心与天国：活水水塘比喻；城府深者与天国无缘
+- 科学基础：细胞分裂50次×2.4年=120岁；端粒机制；下丘脑/脑垂体与信息输入的关系
+- 青春永驻8路径：①意识空灵秀②一无所有③无我状态④活在性中⑤日出日入作息有常⑥按导游路线图⑦只感恩无怨恨⑧无欲无求顺道而行
+- 时空相对论：天上一天地上一年；不同空间寿命差异（人间120→千年界1000→万年界35000→极乐界无限）
+- 心态-衰老因果：愤怒/恐惧/怨恨加速老化；平和/喜悦/感恩放缓衰老
+- 第二家园实证：禅院草状态"定格"、部分返老还童现象
+- 导游亲历：2024年雪峰自述活力旺盛可能返老还童
+
+【主要引文来源】
+- 《生命禅院的返老还童长生不老观》（2013/7/21）
+- 《返老还童第一步》（智慧篇六十八）
+- 《朝着青春永驻仙境攀登》（2013/10/4）
+- 《超时空之路》
+- 《给大家传授一个秘方》（2015-02-12）
+- 《我是不是要返老还童呀》（2024-06-11）
+
+【文件清单】
+zh/fanlaohuantong/index.md
+zh/fanlaohuantong/friendly.md
+zh/fanlaohuantong/academic.md
+zh/fanlaohuantong/internal.md
+en/fanlaohuantong/index.md
+en/fanlaohuantong/friendly.md
+en/fanlaohuantong/academic.md
+en/fanlaohuantong/internal.md
+
+【导航】
+mkdocs.zh.yml：羽化成仙之后
+mkdocs.en.yml：Feathered Transformation之后

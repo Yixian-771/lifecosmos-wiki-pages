@@ -1,0 +1,38 @@
+词条编号：164
+词条名称：脱胎换骨的修炼（Bone-Deep Transformation / Tuotaihuangu）
+slug：tuotaihuangu
+完成日期：2026-05-26
+提交信息：feat: 词条#164 脱胎换骨的修炼 (Bone-Deep Transformation / Tuotaihuangu)
+
+【核心内容】
+- 本义：从人到仙是生命的质变，如毛毛虫→蝴蝶、蒲公英→车前子
+- 六字箴言：无私、无我、无执（有私有我有执=人态；无私无我无执=仙态）
+- 错误路径批判：功法术路径、念诵路径、纯知识路径、口头禅路径
+- 八项修炼（2011年）：①一无所有②允许所爱自由③不怨天地人④不争只彰显真善美⑤爱全天下人含仇人⑥不议人非⑦生活简朴⑧极度谦卑感恩
+- 认知坍塌论：让认知大厦全然坍塌是脱胎换骨的意识前提；坚持自己对→看不到天堂之门
+- 子宫孕育论：孕育期（二十年修行=在子宫里发育）→诞生（质变一瞬间）
+- 凤凰涅槃：涅槃不是死亡，是生命质的飞跃；极端因素是催化剂（六丁神火炼孙悟空）
+- 脱下袈裟：传统思维方式和生活方式是"袈裟"；高级修炼=心神意合一
+- 成仙完整条件：脱胎换骨+偿还累世债务+积累天国功德+以仙佛意识替换人的意识
+
+【主要引文来源】
+- 《试试这脱胎换骨的修炼》（2011/3/31）
+- 《生命的跃升需要脱胎换骨》（2024-07-22）
+- 《让自己的认知大厦全然坍塌》（2020-10-12）
+- 《佛祖显灵示迷津》（2018-11-10）
+- 《烈火中涅槃》（2020-05-01）
+- 《脱下袈裟 翻越长城》（2006-02-09）
+
+【文件清单】
+zh/tuotaihuangu/index.md
+zh/tuotaihuangu/friendly.md
+zh/tuotaihuangu/academic.md
+zh/tuotaihuangu/internal.md
+en/tuotaihuangu/index.md
+en/tuotaihuangu/friendly.md
+en/tuotaihuangu/academic.md
+en/tuotaihuangu/internal.md
+
+【导航】
+mkdocs.zh.yml：返老还童之后
+mkdocs.en.yml：Rejuvenation之后

@@ -1,0 +1,37 @@
+词条编号：162
+词条名称：羽化成仙（Feathered Transformation / Yuhuachengxian）
+slug：yuhuachengxian
+完成日期：2026-05-26
+提交信息：feat: 词条#162 羽化成仙 (Feathered Transformation / Yuhuachengxian)
+
+【核心内容】
+- 物理机制：振动频率→超出肉眼感知范围400-700nm→进入更高频率生命空间，"羽化成仙"只是肉眼看不到了
+- 空灵状态：无我无相无牵无挂无烦无恼无忧无虑无恐惧无执着，《心经》境界（心无挂碍，究竟涅槃）
+- 进入空灵状态8个技巧：①什么也不要拥有 ②随遇而安顺道而行 ③随缘而化不执着 ④与整体和谐 ⑤少算计多游戏 ⑥劳动创造净化心灵 ⑦无欲无求远离颠倒梦想 ⑧不与人争夺能量
+- 三阶段：初级修行=作茧自缚（建立保护结构）；中级修行=茧中孕育（深化内在）；高级修行=破茧而出羽化成仙（冲出一切形式，意识回到浑沌元初）
+- 深根固柢：根=上帝之道，柢=神佛教诲；持续稳定提升振动频率需要灵性根基
+- 高层空间：我们所在的空间是极乐世界的一部分；天空不是空无的，充满高级生命
+- 梦境天启：梦中飞翔能看到地上人，地上人看不到飞翔者——高级生命能看见我们，我们看不见他们
+- 功能显现期警示：特异功能出现时，凡心一动向世人显能→追悔莫及；功能越高破坏力越大
+
+【主要引文来源】
+- 《仙途空灵多靡丽》（2013-8-10）
+- 《进入空灵状态的几个小技巧》（2013-8-11）
+- 《冲出形式——高级修行2》
+- 《修仙篇之九：深根固柢 长生久视》
+- 《初级修炼》
+- 《心灵出实像》
+
+【文件清单】
+zh/yuhuachengxian/index.md
+zh/yuhuachengxian/friendly.md
+zh/yuhuachengxian/academic.md
+zh/yuhuachengxian/internal.md
+en/yuhuachengxian/index.md
+en/yuhuachengxian/friendly.md
+en/yuhuachengxian/academic.md
+en/yuhuachengxian/internal.md
+
+【导航】
+mkdocs.zh.yml：超凡脱俗之后
+mkdocs.en.yml：Transcending the Ordinary之后
