@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Heart-to-Heart (Soul Communion): heart-to-heart/index.md
   - Soul Communication: soul-communication/index.md
   - The Material World, the Spiritual World, and the Soul World: three-worlds/index.md
   - Soul Wealth · Spiritual Wealth · Material Wealth: three-forms-of-wealth/index.md
