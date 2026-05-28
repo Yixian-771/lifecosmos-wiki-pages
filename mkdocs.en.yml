@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The Ripened Grain: ripened-grain/index.md
   - Prayer: prayer/index.md
   - Route to the Kingdom of Heaven: route-to-heaven/index.md
   - Heavenly Treasures: heavenly-treasures/index.md
