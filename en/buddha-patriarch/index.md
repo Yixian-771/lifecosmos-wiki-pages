@@ -18,4 +18,4 @@ In the Lifechanyuan system, **Buddha** (佛) is the enlightened spirit — a bei
 
 ## Related Entries
 
-[Buddha-Dharma](/en/buddha-dharma/) · [Becoming a Buddha](/en/becoming-buddha/) · [Original Nature — Buddha Nature — Tathagata Nature](/en/self-nature/) · [Illuminate the Mind, See Nature](/en/illuminate-mind-see-nature/) · [No-Self, No-Form](/en/no-self-no-form/) · [Non-abiding Mind](/en/no-abiding-mind/) · [The Greatest Creator](/en/greatest-creator/) · [Awakening](/en/enlightenment/) · [Becoming Celestial and Buddha](/en/becoming-celestial-buddha/)
+[Buddha-Dharma](/en/buddha-dharma/) · [Becoming a Buddha](/en/becoming-buddha/) · [Original Nature — Buddha Nature — Tathagata Nature](/en/self-nature/) · [Illuminate the Mind, See Nature](/en/illuminate-mind-see-nature/) · [No-Self, No-Form](/en/no-self-no-form/) · [Non-abiding Mind](/en/xinwu-suozhu-guaai/) · [The Greatest Creator](/en/greatest-creator/) · [Awakening](/en/awakening/) · [Becoming Celestial and Buddha](/en/becoming-celestial-buddha/)

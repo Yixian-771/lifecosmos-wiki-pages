@@ -92,7 +92,7 @@ This interpretation relocates Buddhahood from a distant religious goal to the na
 
 ## VI. Related Entries
 
-[Buddha-Dharma](/en/buddha-dharma/) · [Becoming a Buddha](/en/becoming-buddha/) · [Original Nature — Buddha Nature — Tathagata Nature](/en/self-nature/) · [Illuminate the Mind, See Nature](/en/illuminate-mind-see-nature/) · [No-Self, No-Form](/en/no-self-no-form/) · [The Greatest Creator](/en/greatest-creator/) · [Awakening](/en/enlightenment/)
+[Buddha-Dharma](/en/buddha-dharma/) · [Becoming a Buddha](/en/becoming-buddha/) · [Original Nature — Buddha Nature — Tathagata Nature](/en/self-nature/) · [Illuminate the Mind, See Nature](/en/illuminate-mind-see-nature/) · [No-Self, No-Form](/en/no-self-no-form/) · [The Greatest Creator](/en/greatest-creator/) · [Awakening](/en/awakening/)
 
 ---
 
