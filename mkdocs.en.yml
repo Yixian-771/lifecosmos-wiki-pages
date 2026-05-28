@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Atheist: atheist/index.md
   - Jealousy and Envy: jealousy-envy/index.md
   - The Diamond Sutra: diamond-sutra/index.md
   - Buddha, the Patriarch, Tathagata, and the Tathagata Buddha: buddha-patriarch/index.md
