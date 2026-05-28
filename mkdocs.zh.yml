@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - '"成熟庄稼"': ripened-grain/index.md
   - 祈祷: prayer/index.md
   - 去天国路线图: route-to-heaven/index.md
   - 天国财宝: heavenly-treasures/index.md
