@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The Diamond Sutra: diamond-sutra/index.md
   - Buddha, the Patriarch, Tathagata, and the Tathagata Buddha: buddha-patriarch/index.md
   - Buddha-Dharma: buddha-dharma/index.md
   - The Ripened Grain: ripened-grain/index.md
