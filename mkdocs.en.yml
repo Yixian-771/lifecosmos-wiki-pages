@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Route to the Kingdom of Heaven: route-to-heaven/index.md
   - Heavenly Treasures: heavenly-treasures/index.md
   - Ethereal Sound · The Authentic Chan Melody: ethereal-sound/index.md
   - Heart-to-Heart (Soul Communion): heart-to-heart/index.md
