@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Buddha, the Patriarch, Tathagata, and the Tathagata Buddha: buddha-patriarch/index.md
   - Buddha-Dharma: buddha-dharma/index.md
   - The Ripened Grain: ripened-grain/index.md
   - Prayer: prayer/index.md
