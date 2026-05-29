@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Space: space/index.md
   - The Twenty Parallel Worlds: twenty-parallel-worlds/index.md
   - Standards of Perfect Human Nature: perfect-human-nature/index.md
   - Atheist: atheist/index.md
