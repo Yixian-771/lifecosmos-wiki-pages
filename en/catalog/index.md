@@ -18,7 +18,7 @@
 
 ## III. The Mystery of LIFE
 
-[Disease and Health](/en/disease-health/) · [Happiness](/en/happiness/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [The Human Body — Miracle Program and Mystery](/en/human-body-miracle/) · [Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Subconscious](/en/subconscious/) · [Ling (Spirit-Force)](/en/ling-spirit/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/) · [Levels of LIFE](/en/levels-of-life/) · [Complete Independent Consciousness](/en/complete-independent-consciousness/) · [Characteristics of LIFE](/en/life-characteristics/) · [Panorama of LIFE Origin and Evolution](/en/life-origin-evolution-panorama/) · [Soul](/en/soul/) · [Spirit (Overview)](/en/spirit-overview/) · [Inner Spirit (Overview)](/en/soul-overview/) · [Will and Determination](/en/will-determination/) · [Heart-Mind](/en/heart-mind/) · [Qing (Affection)](/en/qing-affection/) · [Life Visa](/en/life-visa/)
+[Emotions](/en/emotions/) · [Disease and Health](/en/disease-health/) · [Happiness](/en/happiness/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [The Human Body — Miracle Program and Mystery](/en/human-body-miracle/) · [Origin of LIFE](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Subconscious](/en/subconscious/) · [Ling (Spirit-Force)](/en/ling-spirit/) · [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Nature](/en/nature/) · [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/) · [Levels of LIFE](/en/levels-of-life/) · [Complete Independent Consciousness](/en/complete-independent-consciousness/) · [Characteristics of LIFE](/en/life-characteristics/) · [Panorama of LIFE Origin and Evolution](/en/life-origin-evolution-panorama/) · [Soul](/en/soul/) · [Spirit (Overview)](/en/spirit-overview/) · [Inner Spirit (Overview)](/en/soul-overview/) · [Will and Determination](/en/will-determination/) · [Heart-Mind](/en/heart-mind/) · [Qing (Affection)](/en/qing-affection/) · [Life Visa](/en/life-visa/)
 
 ---
 
@@ -40,5 +40,5 @@
 
 ---
 
-*Last updated: 2026-05-29 (Thu) — Added: Disease and Health*
+*Last updated: 2026-05-29 (Thu) — Added: Emotions*
 
