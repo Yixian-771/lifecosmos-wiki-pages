@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 疾病·健康: disease-health/index.md
   - 幸福: happiness/index.md
   - 情爱·性爱: romantic-love-and-sexuality/index.md
   - 人体——奇迹程序和奥秘: human-body-miracle/index.md

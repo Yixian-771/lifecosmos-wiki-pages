@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Disease and Health: disease-health/index.md
   - Happiness: happiness/index.md
   - Romantic Love and Sexuality: romantic-love-and-sexuality/index.md
   - The Human Body — Miracle Program and Mystery: human-body-miracle/index.md
