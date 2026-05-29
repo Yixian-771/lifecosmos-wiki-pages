@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The Thirty-Six Bagua Formations: thirty-six-bagua-formations/index.md
   - Black Hole: black-hole/index.md
   - Spacetime Tunnel: spacetime-tunnel/index.md
   - Cosmic Holography: cosmic-holography/index.md
