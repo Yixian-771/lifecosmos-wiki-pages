@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 生命绿洲: life-oasis/index.md
   - 人类的意义和作用: humanity-meaning-role/index.md
   - 情绪: emotions/index.md
   - 疾病·健康: disease-health/index.md
