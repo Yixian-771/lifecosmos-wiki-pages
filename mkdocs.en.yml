@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - New Era Consciousness: new-era-consciousness/index.md
   - Plague Gods, Plague King & Eight Qi: plague-gods-eight-qi/index.md
   - The Chanyuan Corpus: chanyuan-corpus/index.md
   - Xuefeng's Dialogues with the Divine: xuefeng-divine-dialogues/index.md
