@@ -1,8 +1,8 @@
-<!-- id: LC-TCE-0002 theme: 宇宙三要素 type: 友好版 direction: 生活类比·初次接触 lang: zh -->
-
 ---
 title: 宇宙三要素（友好版）
 ---
+
+<!-- id: LC-TCE-0002 theme: 宇宙三要素 type: 友好版 direction: 生活类比·初次接触 lang: zh -->
 
 # 宇宙三要素（友好版）
 

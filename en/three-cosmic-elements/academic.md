@@ -1,8 +1,8 @@
-<!-- id: LC-TCE-0003 theme: Three Cosmic Elements type: Academic version direction: Cosmology · Ontology lang: en -->
-
 ---
 title: Three Cosmic Elements (Academic Version)
 ---
+
+<!-- id: LC-TCE-0003 theme: Three Cosmic Elements type: Academic version direction: Cosmology · Ontology lang: en -->
 
 # Three Cosmic Elements (Academic Version)
 

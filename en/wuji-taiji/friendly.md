@@ -1,8 +1,8 @@
-<!-- id: LC-WT-0006 theme: Wuji and Taiji type: friendly lang: en -->
-
 ---
 title: Wuji and Taiji (Friendly Version)
 ---
+
+<!-- id: LC-WT-0006 theme: Wuji and Taiji type: friendly lang: en -->
 
 # Wuji and Taiji (Friendly Version)
 

@@ -1,8 +1,8 @@
-<!-- id: LC-WT-0004 theme: Wuji and Taiji type: internal lang: en -->
-
 ---
 title: Wuji and Taiji (Internal Reference)
 ---
+
+<!-- id: LC-WT-0004 theme: Wuji and Taiji type: internal lang: en -->
 
 # Wuji and Taiji (Internal Reference)
 

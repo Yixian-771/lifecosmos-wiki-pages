@@ -1,8 +1,8 @@
-<!-- id: LC-TCE-0003 theme: 宇宙三要素 type: 学术版 direction: 宇宙本体论·系统分析 lang: zh -->
-
 ---
 title: 宇宙三要素（学术版）
 ---
+
+<!-- id: LC-TCE-0003 theme: 宇宙三要素 type: 学术版 direction: 宇宙本体论·系统分析 lang: zh -->
 
 # 宇宙三要素（学术版）
 

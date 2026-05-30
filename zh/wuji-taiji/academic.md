@@ -1,8 +1,8 @@
-<!-- id: LC-WT-0002 theme: 无极与太极 type: 学术版 direction: 宇宙本体论·比较研究 lang: zh -->
-
 ---
 title: 无极与太极（学术版）
 ---
+
+<!-- id: LC-WT-0002 theme: 无极与太极 type: 学术版 direction: 宇宙本体论·比较研究 lang: zh -->
 
 # 无极与太极（学术版）
 

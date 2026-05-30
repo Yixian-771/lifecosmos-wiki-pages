@@ -1,8 +1,8 @@
-<!-- id: LC-TCE-0001 theme: Three Cosmic Elements type: Internal Reference direction: Cosmology lang: en -->
-
 ---
 title: Three Cosmic Elements (Internal Reference)
 ---
+
+<!-- id: LC-TCE-0001 theme: Three Cosmic Elements type: Internal Reference direction: Cosmology lang: en -->
 
 # Three Cosmic Elements (Internal Reference)
 

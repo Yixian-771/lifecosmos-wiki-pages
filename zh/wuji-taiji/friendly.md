@@ -1,8 +1,8 @@
-<!-- id: LC-WT-0003 theme: 无极与太极 type: 友好版 direction: 生活类比·初次接触 lang: zh -->
-
 ---
 title: 无极与太极（友好版）
 ---
+
+<!-- id: LC-WT-0003 theme: 无极与太极 type: 友好版 direction: 生活类比·初次接触 lang: zh -->
 
 # 无极与太极（友好版）
 

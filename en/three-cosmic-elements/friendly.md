@@ -1,8 +1,8 @@
-<!-- id: LC-TCE-0002 theme: Three Cosmic Elements type: Friendly version direction: Life analogies · first encounter lang: en -->
-
 ---
 title: Three Cosmic Elements (Friendly Version)
 ---
+
+<!-- id: LC-TCE-0002 theme: Three Cosmic Elements type: Friendly version direction: Life analogies · first encounter lang: en -->
 
 # Three Cosmic Elements (Friendly Version)
 

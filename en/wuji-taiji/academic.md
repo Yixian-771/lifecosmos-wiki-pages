@@ -1,8 +1,8 @@
-<!-- id: LC-WT-0005 theme: Wuji and Taiji type: academic lang: en -->
-
 ---
 title: Wuji and Taiji (Academic Version)
 ---
+
+<!-- id: LC-WT-0005 theme: Wuji and Taiji type: academic lang: en -->
 
 # Wuji and Taiji (Academic Version)
 

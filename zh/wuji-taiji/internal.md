@@ -1,8 +1,8 @@
-<!-- id: LC-WT-0001 theme: 无极与太极 type: 内部版 direction: 宇宙本体论·起源论 lang: zh -->
-
 ---
 title: 无极与太极（内部版）
 ---
+
+<!-- id: LC-WT-0001 theme: 无极与太极 type: 内部版 direction: 宇宙本体论·起源论 lang: zh -->
 
 # 无极与太极（内部版）
 

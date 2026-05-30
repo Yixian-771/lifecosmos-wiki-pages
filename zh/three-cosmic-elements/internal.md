@@ -1,8 +1,8 @@
-<!-- id: LC-TCE-0001 theme: 宇宙三要素 type: 内部版 direction: 宇宙本体论 lang: zh -->
-
 ---
 title: 宇宙三要素（内部版）
 ---
+
+<!-- id: LC-TCE-0001 theme: 宇宙三要素 type: 内部版 direction: 宇宙本体论 lang: zh -->
 
 # 宇宙三要素（内部版）
 
