@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The New Oasis for LIFE: life-oasis/index.md
   - The Meaning and Role of Humanity: humanity-meaning-role/index.md
   - Emotions: emotions/index.md
   - Disease and Health: disease-health/index.md
