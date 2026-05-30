@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Hundun Economy · Market Economy · Planned Economy: hundun-economy/index.md
   - AI Alliance: ai-alliance/index.md
   - Wuji and Taiji: wuji-taiji/index.md
   - Three Cosmic Elements: three-cosmic-elements/index.md
