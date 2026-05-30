@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The Chanyuan Corpus: chanyuan-corpus/index.md
   - Xuefeng's Dialogues with the Divine: xuefeng-divine-dialogues/index.md
   - Steadfast Principles · Trust the Home: steadfast-principles-trust-home/index.md
   - Trust: trust/index.md
