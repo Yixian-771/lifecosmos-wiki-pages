@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Contribute by Ability, Take by Need: contribute-by-ability-take-by-need/index.md
   - Dialectics: dialectics/index.md
   - Good People (Virtuous) · Bad People (Wicked): good-person-bad-person/index.md
   - EQ · IQ · SQ: eq-iq-sq/index.md
