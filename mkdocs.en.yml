@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Dialectics: dialectics/index.md
   - Good People (Virtuous) · Bad People (Wicked): good-person-bad-person/index.md
   - EQ · IQ · SQ: eq-iq-sq/index.md
   - Chance and Necessity: chance-necessity/index.md
