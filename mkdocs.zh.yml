@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 埋怨·抱怨: complaining-grumbling/index.md
   - 量子纠缠和"另一半": quantum-entanglement-and-the-other-half/index.md
   - 打情骂俏: flirtatious-banter/index.md
   - 随性·任性·性自由: suixing-renxing-xingziyou/index.md
