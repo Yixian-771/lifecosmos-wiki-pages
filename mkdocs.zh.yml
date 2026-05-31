@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 中级人生宝典: intermediate-life-manual/index.md
   - 初级人生宝典: elementary-life-manual/index.md
   - 人生十八品: eighteen-grades-of-life/index.md
   - 人生的八大纲领·八大玄机·八大天机·八大迷: eight-life-principles/index.md
