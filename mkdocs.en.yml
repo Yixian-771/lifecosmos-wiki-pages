@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Eight Guidelines, Mysteries, Secrets & Bewilderments of Life: eight-life-principles/index.md
   - Outlook on Life and Values: outlook-on-life-and-values/index.md
   - New Era Consciousness: new-era-consciousness/index.md
   - Plague Gods, Plague King & Eight Qi: plague-gods-eight-qi/index.md

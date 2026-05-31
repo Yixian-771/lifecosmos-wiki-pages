@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 人生的八大纲领·八大玄机·八大天机·八大迷: eight-life-principles/index.md
   - 人生观·价值观: outlook-on-life-and-values/index.md
   - 新时代意识: new-era-consciousness/index.md
   - 瘟神·瘟王·八气: plague-gods-eight-qi/index.md
