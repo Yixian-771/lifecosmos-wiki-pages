@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Elementary Life Manual: elementary-life-manual/index.md
   - Eighteen Grades of Life: eighteen-grades-of-life/index.md
   - Eight Guidelines, Mysteries, Secrets & Bewilderments of Life: eight-life-principles/index.md
   - Outlook on Life and Values: outlook-on-life-and-values/index.md
