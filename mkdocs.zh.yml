@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 好人（善人）·坏人（恶人）: good-person-bad-person/index.md
   - 情商·智商·灵商: eq-iq-sq/index.md
   - 偶然·必然: chance-necessity/index.md
   - 务实·务虚: wu-shi-wu-xu/index.md
