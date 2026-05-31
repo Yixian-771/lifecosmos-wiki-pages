@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /mnt/f/百科馆/lifecosmos-wiki-pages -name \"待做词条名*\" -o -name \"*待做*\" 2>/dev/null | head -1)"
+    ]
+  }
+}
