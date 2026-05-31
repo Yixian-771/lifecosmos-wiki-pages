@@ -6,7 +6,7 @@
 
 ## I. The Greatest Creator and the Tao
 
-[The Greatest Creator](/en/greatest-creator/) · [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) · [Dao](/en/dao/) · [Taiji](/en/taiji/) · [Wuji](/en/wuji/) · [Wuji and Taiji](/en/wuji-taiji/) · [Hundun](/en/hundun/) · [Hundun Baby](/en/hundun-baby/) · [The Universe (Overview)](/en/universe-overview/) · [Cosmic Panorama](/en/cosmic-panorama/) · [Three Cosmic Elements](/en/three-cosmic-elements/) · [Morality](/en/morality/) · [The Greatest Creator Is the Primary Productive Force](/en/greatest-creator-first-productive-force/)
+[The Greatest Creator](/en/greatest-creator/) · [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) · [Dao](/en/dao/) · [Taiji](/en/taiji/) · [Wuji](/en/wuji/) · [Wuji and Taiji](/en/wuji-taiji/) · [Jesus the God and Satan the Demon](/en/jesus-and-satan/) · [Hundun](/en/hundun/) · [Hundun Baby](/en/hundun-baby/) · [The Universe (Overview)](/en/universe-overview/) · [Cosmic Panorama](/en/cosmic-panorama/) · [Three Cosmic Elements](/en/three-cosmic-elements/) · [Morality](/en/morality/) · [The Greatest Creator Is the Primary Productive Force](/en/greatest-creator-first-productive-force/)
 
 ---
 
@@ -40,5 +40,5 @@
 
 ---
 
-*Last updated: 2026-06-01 (Mon) — Added: Miracles*
+*Last updated: 2026-06-01 (Mon) — Added: Jesus the God and Satan the Demon*
 
