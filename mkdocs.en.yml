@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Quantum Entanglement and the "Other Half": quantum-entanglement-and-the-other-half/index.md
   - Flirtatious Banter: flirtatious-banter/index.md
   - Spontaneous Nature · Willfulness · Natural Freedom: suixing-renxing-xingziyou/index.md
   - Childlike Nature: childlike-nature/index.md
