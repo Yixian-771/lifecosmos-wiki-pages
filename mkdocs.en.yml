@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The Peak of Life and Being: peak-of-life-and-being/index.md
   - Intermediate Life Manual: intermediate-life-manual/index.md
   - Elementary Life Manual: elementary-life-manual/index.md
   - Eighteen Grades of Life: eighteen-grades-of-life/index.md
