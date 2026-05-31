@@ -18,4 +18,4 @@ title: 各尽所能·按需索取
 
 ## 相关词条
 
-[一无所有·拥有一切](/zh/yiwusuoyou-yongyouqieyiqie/) · [第二家园](/zh/second-home/) · [雪峰式共产主义](/zh/xuefeng-communism/) · [浑沌管理](/zh/hundun-management/) · [浑沌经济·市场经济·计划经济](/zh/hundun-economy/) · [天国银行](/zh/heavenly-bank/) · [文明3.0](/zh/civilization-3-0/) · [劳动为生活第一需要](/zh/laodong-diyi-xuyao/) · [生命绿洲](/zh/life-oasis/)
+[一无所有·拥有一切](/zh/own-nothing-have-everything/) · [第二家园](/zh/second-home/) · [雪峰式共产主义](/zh/xuefeng-communism/) · [浑沌管理](/zh/hundun-management/) · [浑沌经济·市场经济·计划经济](/zh/hundun-economy/) · [天国银行](/zh/heavenly-bank/) · [文明3.0](/zh/civilization-3-0/) · [劳动为生活第一需要](/zh/laodong-diyi-xuyao/) · [生命绿洲](/zh/life-oasis/)

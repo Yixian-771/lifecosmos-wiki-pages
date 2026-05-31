@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 一无所有·拥有一切: own-nothing-have-everything/index.md
   - 各尽所能·按需索取: contribute-by-ability-take-by-need/index.md
   - 辩证法: dialectics/index.md
   - 好人（善人）·坏人（恶人）: good-person-bad-person/index.md
