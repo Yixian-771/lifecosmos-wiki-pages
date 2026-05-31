@@ -1,4 +1,4 @@
-<!-- id: LC-WFL-0001-ZH theme: 修行修炼 type: 索引 lang: zh -->
+﻿<!-- id: LC-WFL-0001-ZH theme: 修行修炼 type: 索引 lang: zh -->
 
 # 无忧人生
 
@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[坚守理念·信靠家园](/zh/steadfast-principles-trust-home/) · [禅院理念](/zh/chanyuan-ideals/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [上帝](/zh/greatest-creator/) · [人生观·价值观](/zh/outlook-on-life-and-values/) · [人生和生命的巅峰](/zh/peak-of-life-and-being/) · [四随](/zh/four-responses/) · [自洽](/zh/self-consistency/) · [仙·天仙·佛](/zh/celestials-heavenly-immortals-buddhas/)
+[坚守理念·信靠家园](/zh/steadfast-principles-trust-home/) · [禅院理念](/zh/values/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [上帝](/zh/greatest-creator/) · [人生观·价值观](/zh/outlook-on-life-and-values/) · [人生和生命的巅峰](/zh/peak-of-life-and-being/) · [四随](/zh/si-sui/) · [自洽](/zh/self-coherence/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/)

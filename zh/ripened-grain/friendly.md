@@ -1,4 +1,4 @@
-<!-- id: LC-RGR-0001 theme: 天国路径 type: 友好版 direction: 什么样的人能进天国 lang: zh -->
+﻿<!-- id: LC-RGR-0001 theme: 天国路径 type: 友好版 direction: 什么样的人能进天国 lang: zh -->
 
 # "成熟庄稼"（友好版）
 
@@ -136,6 +136,6 @@
 
 - [生命签证](/zh/life-visa/)——收割完成后的通行凭证
 - [天国财宝](/zh/heavenly-treasures/)——天国路径上的积累
-- [去天国路线图](/zh/roadmap-to-heaven/)——完整的回归路径
+- [去天国路线图](/zh/route-to-heaven/)——完整的回归路径
 - [谦卑](/zh/humility/)——成熟庄稼的核心标志
 - [导游雪峰](/zh/guide-xuefeng/)——执行收割使命的天使

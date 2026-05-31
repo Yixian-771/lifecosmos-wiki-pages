@@ -1,4 +1,4 @@
----
+﻿---
 title: Soul Wealth · Spiritual Wealth · Material Wealth
 description: Lifechanyuan's framework of the "Three Forms of Wealth" — soul wealth (consciousness) ranks first, spiritual wealth (energy) ranks second, and material wealth third. All three are indispensable; only when all three are abundant is life truly complete.
 ---
@@ -28,7 +28,7 @@ Pursuing soul wealth is the core direction of spiritual cultivation and the fund
 - [The Heart-Mind (Overview)](/en/soul-overview/)
 - [The Spirit (Overview)](/en/spirit-overview/)
 - [Becoming Celestial and Buddha](/en/becoming-celestial-buddha/)
-- [Kingdom of Heaven Treasures](/en/kingdom-of-heaven-treasure/)
+- [Kingdom of Heaven Treasures](/en/heavenly-treasures/)
 - [Three Worlds: Material, Spiritual, Soul](/en/three-worlds/)
 - [Inner Garden of the Spirit](/en/soul-garden/)
 - [Purifying the Spirit](/en/jinghuaxinling/)

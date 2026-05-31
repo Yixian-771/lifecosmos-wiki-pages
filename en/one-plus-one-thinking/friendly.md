@@ -1,4 +1,4 @@
-<!-- id: LC-OPO-0007 theme: Cognitive Cultivation type: friendly direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-OPO-0007 theme: Cognitive Cultivation type: friendly direction: Path of Consciousness Elevation lang: en -->
 
 # 1+1 Thinking: The Simplest Math Hides the Universe's Deepest Secrets
 
@@ -79,7 +79,7 @@ When a person merges into the "intangible and elusive" anti-universe — setting
 
 ## Related Entries (Friendly Edition)
 
-- [Anti-Conventional Thinking (Friendly)](/en/anti-conventional-thinking/friendly/)
+- [Anti-Conventional Thinking (Friendly)](/en/abnormal-thinking/friendly/)
 - [Inverted Thinking (Friendly)](/en/inverted-thinking/friendly/)
 - [Non-Form Thinking (Friendly)](/en/non-form-thinking/friendly/)
 - [Fixed Mindset (Friendly)](/en/fixed-mindset/friendly/)

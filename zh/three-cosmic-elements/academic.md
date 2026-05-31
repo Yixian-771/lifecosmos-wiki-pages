@@ -1,4 +1,4 @@
----
+﻿---
 title: 宇宙三要素（学术版）
 ---
 
@@ -105,7 +105,7 @@ title: 宇宙三要素（学术版）
 
 ## 六、与生命禅院其他核心概念的关联
 
-- **[浑沌（本体论）](/zh/hundun-ontology/)**：宇宙三要素构成的浑沌体系即"上帝的道"
+- **[浑沌（本体论）](/zh/hundun/)**：宇宙三要素构成的浑沌体系即"上帝的道"
 - **[反物质结构](/zh/antimatter-structure/)**：生命的反物质结构是结构要素在生命层面的具体表现
 - **[提升振动频率](/zh/raise-vibration-frequency/)**：频率越高，意识越完善，结构越完美，三要素关系的动态表达
 - **[宇宙全息](/zh/cosmic-holography/)**：宇宙三要素在全息原理下的展开
@@ -114,4 +114,4 @@ title: 宇宙三要素（学术版）
 
 ## 相关词条
 
-[意识](/zh/consciousness/) · [结构](/zh/structure/) · [能量](/zh/energy/) · [上帝](/zh/greatest-creator/) · [法眼](/zh/spiritual-eye/) · [浑沌（本体论）](/zh/hundun-ontology/) · [宇宙起源](/zh/universe-origin/) · [反物质结构](/zh/antimatter-structure/) · [提升振动频率](/zh/raise-vibration-frequency/) · [心像思维](/zh/heart-image-thinking/)
+[意识](/zh/consciousness/) · [结构](/zh/structure/) · [能量](/zh/energy/) · [上帝](/zh/greatest-creator/) · [法眼](/zh/linyan/) · [浑沌（本体论）](/zh/hundun/) · [宇宙起源](/zh/universe-origin/) · [反物质结构](/zh/antimatter-structure/) · [提升振动频率](/zh/raise-vibration-frequency/) · [心像思维](/zh/heart-image-thinking/)

@@ -1,4 +1,4 @@
----
+﻿---
 title: Good People (Virtuous) · Bad People (Wicked)
 slug: good-person-bad-person-en
 ---
@@ -25,4 +25,4 @@ Chanyuan Celestials does not judge people by social reputation, religious piety,
 
 ## Related Entries
 
-[Good, Evil & 108 Virtues / 108 Vices](/en/good-evil-108/) · [Morality](/en/morality/) · [Human Nature](/en/human-nature/) · [Perfect Human Nature](/en/perfect-human-nature/) · [Demonic Nature](/en/demonic-nature/) · [Awakening](/en/awakening/) · [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Soul Garden](/en/soul-garden/)
+[Good, Evil & 108 Virtues / 108 Vices](/en/good-evil-108/) · [Morality](/en/morality/) · [Human Nature](/en/human-nature/) · [Perfect Human Nature](/en/perfect-human-nature/) · [Demonic Nature](/en/moxing/) · [Awakening](/en/awakening/) · [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Soul Garden](/en/soul-garden/)

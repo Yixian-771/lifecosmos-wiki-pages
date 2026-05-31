@@ -1,4 +1,4 @@
-<!-- id: LC-QE-0001-EN theme: cultivation type: internal direction: daily-cultivation lang: en -->
+﻿<!-- id: LC-QE-0001-EN theme: cultivation type: internal direction: daily-cultivation lang: en -->
 
 # Quantum Entanglement and the "Other Half" · Internal Reference
 
@@ -128,4 +128,4 @@ The "Quantum Entanglement and the Other Half" concept represents Lifechanyuan's 
 
 ## Related entries
 
-[Yuan — Mystery and Truth](/en/yuan-mystery-truth/) · [Eight-No Realm](/en/eight-no-boundaries/) · [Self-Sufficiency](/en/self-sufficiency/) · [Right Fruit](/en/right-fruit/) · [Becoming Immortal and Buddha](/en/becoming-immortal-buddha/) · [Elysian Realm](/en/elysian-realm-world/) · [Taiji](/en/taiji/) · [Life Reincarnation](/en/life-reincarnation/) · [36 Bagua Formations](/en/36-bagua-formations/)
+[Yuan — Mystery and Truth](/en/yuan/) · [Eight-No Realm](/en/eight-no-realms/) · [Self-Sufficiency](/en/self-coherence/) · [Right Fruit](/en/true-fruition/) · [Becoming Immortal and Buddha](/en/becoming-celestial-buddha/) · [Elysian Realm](/en/elysium-world/) · [Taiji](/en/taiji/) · [Life Reincarnation](/en/life-reincarnation/) · [36 Bagua Formations](/en/thirty-six-bagua-formations/)

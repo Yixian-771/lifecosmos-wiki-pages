@@ -1,4 +1,4 @@
----
+﻿---
 title: 黑洞
 ---
 
@@ -20,4 +20,4 @@ title: 黑洞
 
 ## 相关词条
 
-[三十六维空间](/zh/36-dimensional-space/) · [20个集合体世界](/zh/twenty-parallel-worlds/) · [反物质世界](/zh/antimatter-world/) · [时空隧道](/zh/spacetime-tunnel/) · [宇宙全景图](/zh/cosmic-panorama/) · [宇宙全息](/zh/cosmic-holography/) · [生命的轮回](/zh/life-reincarnation/) · [高层生命空间](/zh/higher-life-spaces/)
+[三十六维空间](/zh/thirty-six-dimensional-space/) · [20个集合体世界](/zh/twenty-parallel-worlds/) · [反物质世界](/zh/antimatter-world/) · [时空隧道](/zh/spacetime-tunnel/) · [宇宙全景图](/zh/cosmic-panorama/) · [宇宙全息](/zh/cosmic-holography/) · [生命的轮回](/zh/life-reincarnation/) · [高层生命空间](/zh/high-life-spaces/)

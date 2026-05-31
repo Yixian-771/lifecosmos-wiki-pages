@@ -1,4 +1,4 @@
-<!-- id: LC-FB-0001-ZH theme: 修行 type: friendly direction: 生活修炼 lang: zh -->
+﻿<!-- id: LC-FB-0001-ZH theme: 修行 type: friendly direction: 生活修炼 lang: zh -->
 
 # 打情骂俏 · 友好版
 
@@ -82,4 +82,4 @@
 
 ## 相关词条
 
-[随性而动](/zh/suixing/) · [忌妒·嫉妒](/zh/jealousy/) · [情爱·性爱](/zh/love-sexuality/) · [放下](/zh/letting-go/) · [初级修行](/zh/primary-cultivation/) · [高级修炼](/zh/advanced-practice/)
+[随性而动](/zh/suixing-er-dong/) · [忌妒·嫉妒](/zh/jealousy-envy/) · [情爱·性爱](/zh/romantic-love-and-sexuality/) · [放下](/zh/letting-go/) · [初级修行](/zh/elementary-cultivation/) · [高级修炼](/zh/advanced-refinement/)

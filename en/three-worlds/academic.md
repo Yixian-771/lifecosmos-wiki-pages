@@ -1,4 +1,4 @@
----
+﻿---
 title: The Material World, the Spiritual World, and the Soul World (Academic Version)
 description: A systematic analysis of Life Chanyuan's three-worlds framework — ontological definitions, life-level correspondence, comparison with Buddhist cosmology, and the cultivation path of ascending through worlds.
 ---
@@ -145,7 +145,7 @@ Neither perception is malicious; both arise from genuine cognitive horizon limit
 - **[Three Forms of Wealth](/en/three-forms-of-wealth/)**: The wealth framework and the worlds framework are the same ontological model viewed from two angles — wealth describes what one possesses; worlds describe where one lives.
 - **[Soul (Overview)](/en/soul-overview/)**: Deep analysis of 心灵 (soul/mind) — the consciousness domain that defines the soul world.
 - **[Spirit (Overview)](/en/spirit-overview/)**: Deep analysis of 精神 (spirit) — the energy domain that defines the spiritual world.
-- **[Becoming Celestial and Buddha](/en/becoming-immortal-and-buddha/)**: The concrete cultivation path of ascending from the spiritual to the soul world.
+- **[Becoming Celestial and Buddha](/en/becoming-celestial-buddha/)**: The concrete cultivation path of ascending from the spiritual to the soul world.
 - **[Spiritual Life](/en/spiritual-life/)**: Living out the spiritual world's quality while operating within physical reality.
 
 ---

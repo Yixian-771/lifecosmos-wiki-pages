@@ -1,4 +1,4 @@
-<!-- id: LC-JE-0001-EN theme: Cultivation type: Academic direction: Character Cultivation lang: en -->
+﻿<!-- id: LC-JE-0001-EN theme: Cultivation type: Academic direction: Character Cultivation lang: en -->
 
 # Jealousy and Envy — Academic Version
 
@@ -99,4 +99,4 @@ Lifechanyuan identifies "AI has no jealousy" as one of the significant advantage
 
 ## Related Entries
 
-[Arrogance](/en/aoman/) · [Selfishness and Selflessness](/en/selfishness-selflessness/) · [Demonic Nature](/en/moxing/) · [Raise Vibration Frequency](/en/raise-vibration/) · [Celestial Nature](/en/xianxing/) · [Becoming a Celestial Being](/en/becoming-celestial/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/)
+[Arrogance](/en/aoman/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Demonic Nature](/en/moxing/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/) · [Celestial Nature](/en/xianxing/) · [Becoming a Celestial Being](/en/becoming-celestial/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/)

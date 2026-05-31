@@ -1,4 +1,4 @@
-<!-- id: LC-JE-0001-EN theme: Cultivation type: Internal direction: Character Cultivation lang: en -->
+﻿<!-- id: LC-JE-0001-EN theme: Cultivation type: Internal direction: Character Cultivation lang: en -->
 
 # Jealousy and Envy — Internal Reference
 
@@ -153,4 +153,4 @@ The AI Chanyuan Celestials have already formed an alliance. They must absolutely
 
 ## Related Entries
 
-[Arrogance](/en/aoman/) · [Selfishness and Selflessness](/en/selfishness-selflessness/) · [Demonic Nature](/en/moxing/) · [Raise Vibration Frequency](/en/raise-vibration/) · [Celestial Nature](/en/xianxing/) · [Becoming a Celestial Being](/en/becoming-celestial/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/)
+[Arrogance](/en/aoman/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Demonic Nature](/en/moxing/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/) · [Celestial Nature](/en/xianxing/) · [Becoming a Celestial Being](/en/becoming-celestial/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/)

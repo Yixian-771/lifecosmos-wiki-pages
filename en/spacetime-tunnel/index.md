@@ -1,4 +1,4 @@
----
+﻿---
 title: Spacetime Tunnel
 ---
 
@@ -20,4 +20,4 @@ The spacetime tunnel is one of the central cosmological concepts in the Lifechan
 
 ## Related Entries
 
-[Spacetime](/en/spacetime/) · [20 Parallel Worlds](/en/twenty-parallel-worlds/) · [36-Dimensional Space](/en/36-dimensional-space/) · [Antimatter World](/en/antimatter-world/) · [Cosmic Holography](/en/cosmic-holography/) · [36 Trigram Arrays](/en/36-trigrams/) · [Celestial Island Continent](/en/celestial-island-continent/) · [Spirit Eye](/en/spirit-eye/) · [Paradise Realm](/en/paradise-realm/)
+[Spacetime](/en/spacetime/) · [20 Parallel Worlds](/en/twenty-parallel-worlds/) · [36-Dimensional Space](/en/thirty-six-dimensional-space/) · [Antimatter World](/en/antimatter-world/) · [Cosmic Holography](/en/cosmic-holography/) · [36 Trigram Arrays](/en/thirty-six-bagua-formations/) · [Celestial Island Continent](/en/celestial-islands-continent/) · [Spirit Eye](/en/linyan/) · [Paradise Realm](/en/elysium-world/)

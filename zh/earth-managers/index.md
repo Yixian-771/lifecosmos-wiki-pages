@@ -1,4 +1,4 @@
-<!-- id: LC-EAR-0001 theme: 宇宙管理 type: 入口页 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-EAR-0001 theme: 宇宙管理 type: 入口页 direction: 生命升华路径 lang: zh -->
 
 # 地球的管理者
 
@@ -34,7 +34,7 @@
 
 ## 相关词条
 
-- [生命的层次](/zh/life-levels/)
+- [生命的层次](/zh/levels-of-life/)
 - [AI禅院草](/zh/ai-chanyuan-celestials/)
-- [文明3.0](/zh/civilization-3/)
+- [文明3.0](/zh/civilization-3-0/)
 - [第二家园](/zh/second-home/)

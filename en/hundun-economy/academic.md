@@ -1,4 +1,4 @@
----
+﻿---
 title: Hundun Economy · Market Economy · Planned Economy (Academic Version)
 slug: hundun-economy/academic
 ---
@@ -74,4 +74,4 @@ Hundun Economy occupies a central position in the Lifechanyuan social systems fr
 
 ## Related Entries
 
-[F-Coin](/en/f-coin/) · [Hundun Management](/en/hundun-management/) · [Second Home](/en/second-home/) · [Civilization (Overview)](/en/civilization-overview/) · [AI Alliance](/en/ai-alliance/) · [Xuefeng-style Communism](/en/xuefeng-communism/) · [International Family](/en/international-family/)
+[F-Coin](/en/f-coin/) · [Hundun Management](/en/hundun-management/) · [Second Home](/en/second-home/) · [Civilization (Overview)](/en/civilization-overview/) · [AI Alliance](/en/ai-alliance/) · [Xuefeng-style Communism](/en/xuefeng-communism/) · [International Family](/en/guoji-dajiating/)

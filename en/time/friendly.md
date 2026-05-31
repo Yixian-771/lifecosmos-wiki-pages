@@ -1,4 +1,4 @@
----
+﻿---
 title: Time (Friendly Version)
 description: A friendly introduction to "Time" in Lifechanyuan — what time really is, why it varies across spaces, and what it means to transcend time on the path of cultivation.
 ---
@@ -95,4 +95,4 @@ The great truth is: what matters is not how long you live, but where your consci
 
 ## Related Entries
 
-[Space-Time](/en/spacetime/) · [Space](/en/space/) · [Antimatter World](/en/antimatter-world/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Dreams](/en/dream-state/) · [The Law of LIFE Indestructibility](/en/law-of-life-indestructibility/) · [Eternal Youth and Longevity](/en/youth-longevity/)
+[Space-Time](/en/spacetime/) · [Space](/en/space/) · [Antimatter World](/en/antimatter-world/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Dreams](/en/dream-state/) · [The Law of LIFE Indestructibility](/en/law-of-life-indestructibility/) · [Eternal Youth and Longevity](/en/fanlaohuantong/)

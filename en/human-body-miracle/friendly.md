@@ -1,4 +1,4 @@
-# The Human Body — Miracle Program and Mystery (Friendly Version)
+﻿# The Human Body — Miracle Program and Mystery (Friendly Version)
 
 ## Your Body Is a Universe-Class Miracle
 
@@ -111,6 +111,6 @@ You came into this world with a universe-class miracle of engineering. There is 
 
 - [Internal Reference](internal.md) — Complete original texts
 - [Academic Version](academic.md) — Systematic analysis and concept comparison
-- [LIFE (Overview)](/en/life-overview/)
+- [LIFE (Overview)](/en/life/)
 - [Soul](/en/soul/)
 - [Disease and Health](/en/disease-health/)

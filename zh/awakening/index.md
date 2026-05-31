@@ -1,4 +1,4 @@
----
+﻿---
 title: 觉悟
 slug: awakening
 ---
@@ -17,4 +17,4 @@ slug: awakening
 
 ## 相关词条
 
-[灵觉](/zh/spiritual-sensing/) · [明心见性](/zh/self-nature/) · [成仙](/zh/becoming-celestial/) · [成佛](/zh/becoming-buddha/) · [八无境界](/zh/eight-no-realms/) · [提升振动频率](/zh/raise-vibration-frequency/) · [灵魂](/zh/soul/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [浑沌元初](/zh/hundun-yuanchu/) · [第二家园](/zh/second-home/)
+[灵觉](/zh/spiritual-sensing/) · [明心见性](/zh/self-nature/) · [成仙](/zh/becoming-celestial/) · [成佛](/zh/becoming-buddha/) · [八无境界](/zh/eight-no-realms/) · [提升振动频率](/zh/raise-vibration-frequency/) · [灵魂](/zh/soul/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [浑沌元初](/zh/hundun-baby/) · [第二家园](/zh/second-home/)

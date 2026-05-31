@@ -1,4 +1,4 @@
----
+﻿---
 title: Three Cosmic Elements (Friendly Version)
 ---
 
@@ -120,4 +120,4 @@ No matter which religion, philosophy, or system someone puts in front of you —
 
 ## Related entries
 
-[Consciousness](/en/consciousness/) · [Structure](/en/structure/) · [Energy](/en/energy/) · [The Greatest Creator](/en/greatest-creator/) · [Spiritual Eye](/en/spiritual-eye/) · [Antimatter Structure](/en/antimatter-structure/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/)
+[Consciousness](/en/consciousness/) · [Structure](/en/structure/) · [Energy](/en/energy/) · [The Greatest Creator](/en/greatest-creator/) · [Spiritual Eye](/en/linyan/) · [Antimatter Structure](/en/antimatter-structure/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/)

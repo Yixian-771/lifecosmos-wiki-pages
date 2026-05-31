@@ -1,4 +1,4 @@
-<!-- id: LC-FB-0001-EN theme: cultivation type: navigation direction: daily-practice lang: en -->
+﻿<!-- id: LC-FB-0001-EN theme: cultivation type: navigation direction: daily-practice lang: en -->
 
 # Flirtatious Banter
 
@@ -18,4 +18,4 @@
 
 ## Related Entries
 
-[Acting Spontaneously](/en/suixing/) · [Jealousy and Envy](/en/jealousy/) · [Romantic Love and Sexuality](/en/love-sexuality/) · [Letting Go](/en/letting-go/) · [Exclusive Relationships](/en/exclusive-relationship/) · [Elementary Cultivation](/en/primary-cultivation/) · [Advanced Practice](/en/advanced-practice/) · [Soul Garden](/en/soul-garden/) · [Elysian Realm](/en/elysian-realm/)
+[Acting Spontaneously](/en/suixing-er-dong/) · [Jealousy and Envy](/en/jealousy-envy/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [Letting Go](/en/letting-go/) · [Exclusive Relationships](/en/exclusive-relationship/) · [Elementary Cultivation](/en/elementary-cultivation/) · [Advanced Practice](/en/advanced-refinement/) · [Soul Garden](/en/soul-garden/) · [Elysian Realm](/en/jilemiaojing/)

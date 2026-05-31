@@ -1,4 +1,4 @@
----
+﻿---
 title: Three Cosmic Elements (Internal Reference)
 ---
 
@@ -116,7 +116,7 @@ The universe is conscious. Without consciousness there would be no diverse life 
 
 ## Related entries
 
-[Consciousness](/en/consciousness/) · [Structure](/en/structure/) · [Energy](/en/energy/) · [The Greatest Creator](/en/greatest-creator/) · [Spiritual Eye](/en/spiritual-eye/) · [Hundun Ontology](/en/hundun-ontology/) · [Universe Origin](/en/universe-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/)
+[Consciousness](/en/consciousness/) · [Structure](/en/structure/) · [Energy](/en/energy/) · [The Greatest Creator](/en/greatest-creator/) · [Spiritual Eye](/en/linyan/) · [Hundun Ontology](/en/hundun/) · [Universe Origin](/en/universe-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/)
 
 ---
 

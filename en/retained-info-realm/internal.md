@@ -1,4 +1,4 @@
-<!-- id: LC-RIR-0001 theme: cosmic-spacetime type: internal direction: moral-karma lang: en -->
+﻿<!-- id: LC-RIR-0001 theme: cosmic-spacetime type: internal direction: moral-karma lang: en -->
 
 # Retained Information Space (Internal Edition)
 
@@ -269,5 +269,5 @@ The concept of the "Retained Information Space" has been elevated in the Lifecha
 - [Retained Information Space (Friendly Edition)](/en/retained-info-realm/friendly/)
 - [Retained Information Space (Academic Edition)](/en/retained-info-realm/academic/)
 - [36-Dimensional Spaces (Internal Edition)](/en/thirty-six-dimensional-space/internal/)
-- [Inter-Realm Transit Continent (Internal Edition)](/en/inter-realm-transit-continent/internal/)
+- [Inter-Realm Transit Continent (Internal Edition)](/en/celestial-islands-continent/internal/)
 - [High-Life Spaces (Internal Edition)](/en/high-life-spaces/internal/)

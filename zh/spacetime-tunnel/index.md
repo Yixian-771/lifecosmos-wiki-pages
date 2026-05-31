@@ -1,4 +1,4 @@
----
+﻿---
 title: 时空隧道
 ---
 
@@ -20,4 +20,4 @@ title: 时空隧道
 
 ## 相关词条
 
-[时空](/zh/spacetime/) · [20个集合体世界](/zh/twenty-parallel-worlds/) · [三十六维空间](/zh/36-dimensional-space/) · [反物质世界](/zh/antimatter-world/) · [宇宙全息](/zh/cosmic-holography/) · [三十六道八卦阵](/zh/36-trigrams/) · [仙岛群岛洲](/zh/celestial-island-continent/) · [灵眼](/zh/spirit-eye/) · [极乐妙境](/zh/paradise-realm/)
+[时空](/zh/spacetime/) · [20个集合体世界](/zh/twenty-parallel-worlds/) · [三十六维空间](/zh/thirty-six-dimensional-space/) · [反物质世界](/zh/antimatter-world/) · [宇宙全息](/zh/cosmic-holography/) · [三十六道八卦阵](/zh/thirty-six-bagua-formations/) · [仙岛群岛洲](/zh/celestial-islands-continent/) · [灵眼](/zh/linyan/) · [极乐妙境](/zh/elysium-world/)

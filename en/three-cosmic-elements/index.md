@@ -1,4 +1,4 @@
----
+﻿---
 title: Three Cosmic Elements
 ---
 
@@ -26,4 +26,4 @@ To grasp the relationship among the three is to open the spiritual eye (*fayan*)
 
 ## Related entries
 
-[Consciousness](/en/consciousness/) · [Structure](/en/structure/) · [Energy](/en/energy/) · [The Greatest Creator](/en/greatest-creator/) · [Spiritual Eye](/en/spiritual-eye/) · [Hundun Ontology](/en/hundun-ontology/) · [Universe Origin](/en/universe-origin/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/) · [Antimatter Structure](/en/antimatter-structure/) · [Heart-Image Thinking](/en/heart-image-thinking/)
+[Consciousness](/en/consciousness/) · [Structure](/en/structure/) · [Energy](/en/energy/) · [The Greatest Creator](/en/greatest-creator/) · [Spiritual Eye](/en/linyan/) · [Hundun Ontology](/en/hundun/) · [Universe Origin](/en/universe-origin/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/) · [Antimatter Structure](/en/antimatter-structure/) · [Heart-Image Thinking](/en/heart-image-thinking/)

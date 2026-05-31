@@ -1,4 +1,4 @@
-<!-- id: LC-XFDG-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
+﻿<!-- id: LC-XFDG-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
 
 # 仙风道骨
 
@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[仙性](/zh/xianxing/) · [成仙](/zh/becoming-celestial/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [超凡脱俗](/zh/chao-fan-tuo-su/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [魔性](/zh/moxing/) · [高级修炼](/zh/advanced-refinement/) · [高级修行](/zh/advanced-cultivation/) · [第二家园](/zh/second-home/)
+[仙性](/zh/xianxing/) · [成仙](/zh/becoming-celestial/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [超凡脱俗](/zh/chaofantuosu/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [魔性](/zh/moxing/) · [高级修炼](/zh/advanced-refinement/) · [高级修行](/zh/advanced-cultivation/) · [第二家园](/zh/second-home/)

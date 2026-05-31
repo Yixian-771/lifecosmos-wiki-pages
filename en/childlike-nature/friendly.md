@@ -1,4 +1,4 @@
-<!-- id: LC-CLN-0001-EN theme: Cultivation Practice type: friendly direction: Life Cultivation lang: en -->
+﻿<!-- id: LC-CLN-0001-EN theme: Cultivation Practice type: friendly direction: Life Cultivation lang: en -->
 
 # Childlike Nature — Friendly Version
 
@@ -108,6 +108,6 @@ True childlike nature is neither of these. It's what happens when a fully mature
 
 ## Related Entries
 
-[Rejuvenation (Eternal Youth · Immortality)](/en/rejuvenation/) · [Following Natural Impulse](/en/suixing-er-dong/) · [Fluid Adaptability](/en/linghuoyuanrong/) · [No-Self, No-Form](/en/no-self-no-form/) · [Heavenly Treasures](/en/heavenly-treasures/) · [Route to Heaven](/en/route-to-heaven/)
+[Rejuvenation (Eternal Youth · Immortality)](/en/fanlaohuantong/) · [Following Natural Impulse](/en/suixing-er-dong/) · [Fluid Adaptability](/en/linghuoyuanrong/) · [No-Self, No-Form](/en/no-self-no-form/) · [Heavenly Treasures](/en/heavenly-treasures/) · [Route to Heaven](/en/route-to-heaven/)
 
 View all eight versions of [Childlike Nature]: http://wiki.lifecosmos.org/en/childlike-nature/

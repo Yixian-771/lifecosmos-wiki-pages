@@ -1,4 +1,4 @@
-<!-- id: LC-RIR-0001 theme: 宇宙时空 type: academic direction: 道德因果 lang: zh -->
+﻿<!-- id: LC-RIR-0001 theme: 宇宙时空 type: academic direction: 道德因果 lang: zh -->
 
 # 滞留信息间：生命禅院宇宙认识论中的全息记录维度
 
@@ -131,5 +131,5 @@
 - [滞留信息间（友好版）](/zh/retained-info-realm/friendly/)
 - [滞留信息间（内部版）](/zh/retained-info-realm/internal/)
 - [三十六维空间（学术版）](/zh/thirty-six-dimensional-space/academic/)
-- [三界往返洲（学术版）](/zh/inter-realm-transit-continent/academic/)
+- [三界往返洲（学术版）](/zh/celestial-islands-continent/academic/)
 - [高层生命空间（学术版）](/zh/high-life-spaces/academic/)

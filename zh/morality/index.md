@@ -1,4 +1,4 @@
----
+﻿---
 title: 道德
 slug: morality
 ---
@@ -17,4 +17,4 @@ slug: morality
 
 ## 相关词条
 
-[上帝之道](/zh/way-of-the-greatest-creator/) · [道](/zh/dao/) · [真](/zh/truth/) · [善](/zh/goodness/) · [美](/zh/beauty/) · [爱](/zh/love/) · [心灵花园](/zh/heart-garden/) · [因果、报应、轮回](/zh/karma/) · [觉悟](/zh/awakening/) · [自洽](/zh/self-coherence/)
+[上帝之道](/zh/way-of-the-greatest-creator/) · [道](/zh/dao/) · [真](/zh/truth/) · [善](/zh/goodness/) · [美](/zh/beauty/) · [爱](/zh/love/) · [心灵花园](/zh/soul-garden/) · [因果、报应、轮回](/zh/karma-retribution-reincarnation/) · [觉悟](/zh/awakening/) · [自洽](/zh/self-coherence/)

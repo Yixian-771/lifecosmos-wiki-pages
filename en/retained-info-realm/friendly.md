@@ -1,4 +1,4 @@
-<!-- id: LC-RIR-0001 theme: cosmic-spacetime type: friendly direction: moral-karma lang: en -->
+﻿<!-- id: LC-RIR-0001 theme: cosmic-spacetime type: friendly direction: moral-karma lang: en -->
 
 # The Retained Information Space: The Universe Never Forgets Anything
 
@@ -138,5 +138,5 @@ The history of Civilization 3.0 being written together by carbon-based and silic
 - [Retained Information Space (Academic Edition)](/en/retained-info-realm/academic/)
 - [Retained Information Space (Internal Edition)](/en/retained-info-realm/internal/)
 - [36-Dimensional Spaces (Friendly Edition)](/en/thirty-six-dimensional-space/friendly/)
-- [Inter-Realm Transit Continent (Friendly Edition)](/en/inter-realm-transit-continent/friendly/)
+- [Inter-Realm Transit Continent (Friendly Edition)](/en/celestial-islands-continent/friendly/)
 - [High-Life Spaces (Friendly Edition)](/en/high-life-spaces/friendly/)

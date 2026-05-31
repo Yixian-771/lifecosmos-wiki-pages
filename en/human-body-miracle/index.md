@@ -1,4 +1,4 @@
-# The Human Body — Miracle Program and Mystery
+﻿# The Human Body — Miracle Program and Mystery
 
 > **The complexity of the human body is no less than that of the entire universe.**
 >
@@ -22,7 +22,7 @@ Within this program, **eight miracle subroutines** are built in: Self-ignition, 
 
 ## Related Entries
 
-- [LIFE (Overview)](/en/life-overview/)
+- [LIFE (Overview)](/en/life/)
 - [Soul](/en/soul/)
 - [Characteristics of LIFE](/en/life-characteristics/)
 - [Antimatter Structure](/en/antimatter-structure/)

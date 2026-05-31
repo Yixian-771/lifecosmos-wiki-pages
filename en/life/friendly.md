@@ -1,4 +1,4 @@
-<!-- id: LC-LIF-0007 theme: Nature of LIFE type: friendly direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-LIF-0007 theme: Nature of LIFE type: friendly direction: Path of LIFE Elevation lang: en -->
 
 # What Is LIFE? You May Have It Completely Backwards
 
@@ -105,4 +105,4 @@ We have whatever LIFE future corresponds to whatever LIFE structure we have. **C
 
 - [Mysteries of LIFE (Friendly)](/en/life-mysteries/friendly/)
 - [Consciousness (Friendly)](/en/consciousness/friendly/)
-- [Celestial Island Continent (Friendly)](/en/celestial-island/friendly/)
+- [Celestial Island Continent (Friendly)](/en/celestial-islands-continent/friendly/)

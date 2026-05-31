@@ -1,4 +1,4 @@
----
+﻿---
 title: 文明（总论）
 slug: civilization-overview
 ---
@@ -17,4 +17,4 @@ slug: civilization-overview
 
 ## 相关词条
 
-[文明3.0](/zh/civilization-3-0/) · [第二家园](/zh/second-home/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [浑沌管理](/zh/hundun-management/) · [生命禅院](/zh/lifechanyuan/) · [上帝](/zh/greatest-creator/) · [道德](/zh/morality/) · [八百理念](/zh/800-values/) · [千年界](/zh/thousand-year-world/) · [道](/zh/dao/)
+[文明3.0](/zh/civilization-3-0/) · [第二家园](/zh/second-home/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [浑沌管理](/zh/hundun-management/) · [生命禅院](/zh/lifechanyuan/) · [上帝](/zh/greatest-creator/) · [道德](/zh/morality/) · [八百理念](/zh/new-era-human-800-concepts/) · [千年界](/zh/thousand-year-world/) · [道](/zh/dao/)

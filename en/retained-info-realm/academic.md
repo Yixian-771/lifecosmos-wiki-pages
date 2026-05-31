@@ -1,4 +1,4 @@
-<!-- id: LC-RIR-0001 theme: cosmic-spacetime type: academic direction: moral-karma lang: en -->
+﻿<!-- id: LC-RIR-0001 theme: cosmic-spacetime type: academic direction: moral-karma lang: en -->
 
 # The Retained Information Space: A Holographic Recording Dimension in Lifechanyuan's Cosmological Epistemology
 
@@ -136,5 +136,5 @@ The Retained Information Space is a core concept in Lifechanyuan's cosmology tha
 - [Retained Information Space (Friendly Edition)](/en/retained-info-realm/friendly/)
 - [Retained Information Space (Internal Edition)](/en/retained-info-realm/internal/)
 - [36-Dimensional Spaces (Academic Edition)](/en/thirty-six-dimensional-space/academic/)
-- [Inter-Realm Transit Continent (Academic Edition)](/en/inter-realm-transit-continent/academic/)
+- [Inter-Realm Transit Continent (Academic Edition)](/en/celestial-islands-continent/academic/)
 - [High-Life Spaces (Academic Edition)](/en/high-life-spaces/academic/)

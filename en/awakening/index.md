@@ -1,4 +1,4 @@
-<!-- id: LC-AWK-0001-EN theme: Cultivation System type: Gateway Page direction: Cultivation Practice lang: en -->
+﻿<!-- id: LC-AWK-0001-EN theme: Cultivation System type: Gateway Page direction: Cultivation Practice lang: en -->
 
 # Awakening
 
@@ -42,5 +42,5 @@ The most rare thing is not awakening itself, but completing the arc from percept
 - [Soul](/en/soul/) — What LIFE actually is: the antimatter structure that awakens and endures
 - [Raise Vibration Frequency](/en/raise-vibration-frequency/) — The measurable energetic dimension of awakening
 - [Karma · Retribution · Reincarnation](/en/karma-retribution-reincarnation/) — One of the eight essential awakenings
-- [Hundun Yuanchu](/en/hundun-yuanchu/) — The guide whose route leads toward the Kingdom of Heaven
+- [Hundun Yuanchu](/en/hundun-baby/) — The guide whose route leads toward the Kingdom of Heaven
 - [Second Home](/en/second-home/) — The living environment designed to support awakening

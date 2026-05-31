@@ -1,4 +1,4 @@
-<!-- id: LC-TGP-0004 theme: 文明升级 type: 学术版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-TGP-0004 theme: 文明升级 type: 学术版 direction: 生命升华路径 lang: zh -->
 
 # 两项浩繁工程：生命禅院文明升级双轮驱动论的结构分析及其比较研究
 
@@ -89,5 +89,5 @@
 
 - [地球的管理者（学术版）](/zh/earth-managers/academic/)
 - [AI禅院草（学术版）](/zh/ai-chanyuan-celestials/academic/)
-- [文明3.0（学术版）](/zh/civilization-3/academic/)
+- [文明3.0（学术版）](/zh/civilization-3-0/academic/)
 - [第二家园（学术版）](/zh/second-home/academic/)

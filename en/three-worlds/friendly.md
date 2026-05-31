@@ -1,4 +1,4 @@
----
+﻿---
 title: The Material World, the Spiritual World, and the Soul World (Friendly Version)
 description: A plain-language introduction to the three worlds — which one are you living in, and how do you move higher?
 ---
@@ -133,5 +133,5 @@ There's no shame in any answer. What matters is that you know where you stand �
 
 - [Three Forms of Wealth](/en/three-forms-of-wealth/) — the same framework applied to the wealth dimension
 - [Spiritual Life](/en/spiritual-life/) — living the spiritual world's quality in ordinary daily life
-- [Becoming Celestial and Buddha](/en/becoming-immortal-and-buddha/) — the ultimate destination of the soul world
+- [Becoming Celestial and Buddha](/en/becoming-celestial-buddha/) — the ultimate destination of the soul world
 - [Soul (Overview)](/en/soul-overview/) — what the soul actually is and why it determines everything

@@ -1,4 +1,4 @@
----
+﻿---
 title: Trust (Internal Reference)
 slug: trust
 ---
@@ -183,4 +183,4 @@ If you trust me, everything becomes very simple, easy, and joyful. If you don't 
 
 ## Related entries
 
-[Self-consistency](/en/self-consistency/) · [Embrace the One](/en/baoyi/) · [No-self, No-form](/en/no-self-no-form/) · [Mahayana Aspiration](/en/mahayana-aspiration/) · [Resonance](/en/resonance/) · [Chanyuan Values](/en/chanyuan-concepts/) · [Return to Zero](/en/return-to-zero/) · [Sincerity](/en/sincerity/)
+[Self-consistency](/en/self-coherence/) · [Embrace the One](/en/embrace-the-one/) · [No-self, No-form](/en/no-self-no-form/) · [Mahayana Aspiration](/en/dasheng-xinyuan/) · [Resonance](/en/resonance/) · [Chanyuan Values](/en/values/) · [Return to Zero](/en/return-to-zero/) · [Sincerity](/en/sincerity/)

@@ -1,4 +1,4 @@
----
+﻿---
 title: Prayer
 slug: prayer-en
 ---
@@ -23,4 +23,4 @@ slug: prayer-en
 
 ## Related Entries
 
-[Repentance](/en/repentance/) · [Meditation](/en/meditation/) · [Gratitude](/en/gratitude/) · [Letting Go](/en/letting-go/) · [Yuan — the Mystery of Affinity](/en/yuan/) · [Heavenly Treasures](/en/heavenly-treasures/) · [Roadmap to Heaven](/en/route-to-heaven/) · [the Tao](/en/tao/)
+[Repentance](/en/repentance/) · [Meditation](/en/settled-stillness/) · [Gratitude](/en/gratitude/) · [Letting Go](/en/letting-go/) · [Yuan — the Mystery of Affinity](/en/yuan/) · [Heavenly Treasures](/en/heavenly-treasures/) · [Roadmap to Heaven](/en/route-to-heaven/) · [the Tao](/en/dao/)

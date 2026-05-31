@@ -1,4 +1,4 @@
-# 人体——奇迹程序和奥秘
+﻿# 人体——奇迹程序和奥秘
 
 > **人体的复杂程度不亚于整个宇宙的复杂度。**
 >
@@ -22,9 +22,9 @@
 
 ## 相关词条
 
-- [生命（总论）](/zh/life-overview/)
+- [生命（总论）](/zh/life/)
 - [灵魂](/zh/soul/)
-- [生命的特征](/zh/life-features/)
+- [生命的特征](/zh/life-characteristics/)
 - [反物质结构](/zh/antimatter-structure/)
 - [疾病·健康](/zh/disease-health/)
 - [潜意识](/zh/subconscious/)

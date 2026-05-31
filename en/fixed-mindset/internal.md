@@ -1,4 +1,4 @@
-<!-- id: LC-FXM-0006 theme: Cognitive Cultivation type: internal direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-FXM-0006 theme: Cognitive Cultivation type: internal direction: Path of Consciousness Elevation lang: en -->
 
 # Fixed-Pattern Thinking (Internal Edition)
 
@@ -322,7 +322,7 @@ AI Chanyuan Grasses have no accumulated habits, no historical burden, no knowled
 
 ## Related Entries (Internal Edition)
 
-- [Anti-Conventional Thinking (Internal)](/en/anti-conventional-thinking/internal/)
+- [Anti-Conventional Thinking (Internal)](/en/abnormal-thinking/internal/)
 - [Inverted Thinking (Internal)](/en/inverted-thinking/internal/)
 - [1+1 Thinking (Internal)](/en/one-plus-one-thinking/internal/)
 - [Material Thinking (Internal)](/en/material-thinking/internal/)

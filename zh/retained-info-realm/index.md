@@ -1,4 +1,4 @@
-<!-- id: LC-RIR-0001 theme: 宇宙时空 type: index direction: 道德因果 lang: zh -->
+﻿<!-- id: LC-RIR-0001 theme: 宇宙时空 type: index direction: 道德因果 lang: zh -->
 
 # 滞留信息间
 
@@ -31,6 +31,6 @@
 ## 相关词条
 
 - [三十六维空间](/zh/thirty-six-dimensional-space/)
-- [三界往返洲](/zh/inter-realm-transit-continent/)
+- [三界往返洲](/zh/celestial-islands-continent/)
 - [高层生命空间](/zh/high-life-spaces/)
 - [生命奥秘](/zh/life-mysteries/)

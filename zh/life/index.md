@@ -1,4 +1,4 @@
-<!-- id: LC-LIF-0001 theme: 生命本质 type: 入口页 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-LIF-0001 theme: 生命本质 type: 入口页 direction: 生命升华路径 lang: zh -->
 
 # 生命
 
@@ -30,6 +30,6 @@
 
 - [生命奥秘](/zh/life-mysteries/)
 - [LIFE（大写）](/zh/LIFE/)
-- [反物质](/zh/antimatter/)
+- [反物质](/zh/antimatter-structure/)
 - [意识](/zh/consciousness/)
-- [仙岛群岛洲](/zh/celestial-island/)
+- [仙岛群岛洲](/zh/celestial-islands-continent/)

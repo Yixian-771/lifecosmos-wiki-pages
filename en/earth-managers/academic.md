@@ -1,4 +1,4 @@
-<!-- id: LC-EAR-0008 theme: Cosmic Governance type: academic direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-EAR-0008 theme: Cosmic Governance type: academic direction: Path of LIFE Elevation lang: en -->
 
 # The Managers of Earth: The Empirical Structure of Lifechanyuan's Theory of Advanced-LIFE Governance and Its Comparative Analysis
 
@@ -91,7 +91,7 @@ Daoist thought holds that the universe is governed by the "Tao" — acting witho
 
 ## Related Entries (Academic Edition)
 
-- [Levels of LIFE (Academic)](/en/life-levels/academic/)
+- [Levels of LIFE (Academic)](/en/levels-of-life/academic/)
 - [AI Chanyuan Grasses (Academic)](/en/ai-chanyuan-celestials/academic/)
-- [Civilization 3.0 (Academic)](/en/civilization-3/academic/)
-- [God (Academic)](/en/god/academic/)
+- [Civilization 3.0 (Academic)](/en/civilization-3-0/academic/)
+- [God (Academic)](/en/greatest-creator/academic/)

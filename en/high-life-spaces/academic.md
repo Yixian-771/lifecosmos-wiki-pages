@@ -1,4 +1,4 @@
-<!-- id: LC-HLS-0008 theme: Cosmic Space-Time type: academic direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-HLS-0008 theme: Cosmic Space-Time type: academic direction: Path of LIFE Elevation lang: en -->
 
 # Higher LIFE Spaces: Structural Analysis of Lifechanyuan's Cosmological Hierarchy Theory and Comparative Study
 
@@ -89,6 +89,6 @@ The "Higher LIFE Spaces" in the Lifechanyuan system, through the precise cosmic 
 ## Related Entries (Academic Edition)
 
 - [Thirty-Six-Dimensional Space (Academic)](/en/thirty-six-dimensional-space/academic/)
-- [Levels of LIFE (Academic)](/en/life-levels/academic/)
+- [Levels of LIFE (Academic)](/en/levels-of-life/academic/)
 - [Celestial Islands Continent (Academic)](/en/celestial-islands-continent/academic/)
 - [Antimatter Structure (Academic)](/en/antimatter-structure/academic/)

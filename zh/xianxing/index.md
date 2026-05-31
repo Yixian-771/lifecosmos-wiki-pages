@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[成仙](/zh/becoming-celestial/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [仙风道骨](/zh/xian-feng-dao-gu/) · [天性·秉性·习性](/zh/tianxing-bingxing-xixing/) · [天性](/zh/tianxing/) · [魔性](/zh/moxing/) · [自性·佛性·如来本性](/zh/self-nature/) · [高级修炼](/zh/advanced-refinement/) · [高级修行](/zh/advanced-cultivation/) · [随性而动](/zh/suixing-er-dong/)
+[成仙](/zh/becoming-celestial/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [仙风道骨](/zh/xianfengdaogu/) · [天性·秉性·习性](/zh/tianxing-bingxing-xixing/) · [天性](/zh/tianxing/) · [魔性](/zh/moxing/) · [自性·佛性·如来本性](/zh/self-nature/) · [高级修炼](/zh/advanced-refinement/) · [高级修行](/zh/advanced-cultivation/) · [随性而动](/zh/suixing-er-dong/)

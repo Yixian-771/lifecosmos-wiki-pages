@@ -1,4 +1,4 @@
-<!-- id: LC-FXM-0004 theme: 思维修炼 type: 学术版 direction: 意识跃升路径 lang: zh -->
+﻿<!-- id: LC-FXM-0004 theme: 思维修炼 type: 学术版 direction: 意识跃升路径 lang: zh -->
 
 # 定式思维：生命禅院创新障碍论的认识论诊断及其比较研究
 
@@ -113,7 +113,7 @@
 
 ## 相关词条（学术版）
 
-- [反常思维（学术版）](/zh/anti-conventional-thinking/academic/)
+- [反常思维（学术版）](/zh/abnormal-thinking/academic/)
 - [颠倒思维（学术版）](/zh/inverted-thinking/academic/)
 - [1+1思维（学术版）](/zh/one-plus-one-thinking/academic/)
 - [物质思维（学术版）](/zh/material-thinking/academic/)

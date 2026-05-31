@@ -1,4 +1,4 @@
----
+﻿---
 title: 心灵出实像（友好版）
 description: 用镜片聚光、画家点仙鹤的故事，理解"心灵越纯净，梦想越能成真"的修炼奥秘。
 ---
@@ -95,7 +95,7 @@ description: 用镜片聚光、画家点仙鹤的故事，理解"心灵越纯净
 - [心像思维](/zh/heart-image-thinking/)
 - [净化心灵](/zh/jinghuaxinling/)
 - [提升振动频率](/zh/raise-vibration-frequency/)
-- [成仙](/zh/chengxian/)
+- [成仙](/zh/becoming-celestial/)
 - [心灵花园](/zh/soul-garden/)
 - [中级修行](/zh/intermediate-cultivation/)
 

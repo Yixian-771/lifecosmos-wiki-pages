@@ -1,4 +1,4 @@
----
+﻿---
 title: 天国银行
 slug: heavenly-bank
 ---
@@ -19,4 +19,4 @@ slug: heavenly-bank
 
 ## 相关词条
 
-[天国财宝](/zh/heavenly-treasures/) · [F币](/zh/f-coin/) · [去天国路线图](/zh/route-to-heaven/) · [天国](/zh/kingdom-of-heaven/) · [无相布施](/zh/wuxiang-bushi/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [偿还债务](/zh/償還债务/) · [了却尘缘](/zh/liaoque-chenyuan/) · [生命签证](/zh/life-visa/)
+[天国财宝](/zh/heavenly-treasures/) · [F币](/zh/f-coin/) · [去天国路线图](/zh/route-to-heaven/) · [天国](/zh/kingdom-of-heaven/) · [无相布施](/zh/formless-giving/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [偿还债务](/zh/debt-repayment/) · [了却尘缘](/zh/releasing-worldly-bonds/) · [生命签证](/zh/life-visa/)

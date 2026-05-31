@@ -1,4 +1,4 @@
-<!-- id: LC-RIR-0001 theme: cosmic-spacetime type: index direction: moral-karma lang: en -->
+﻿<!-- id: LC-RIR-0001 theme: cosmic-spacetime type: index direction: moral-karma lang: en -->
 
 # Retained Information Space
 
@@ -36,6 +36,6 @@
 ## Related Entries
 
 - [36-Dimensional Spaces](/en/thirty-six-dimensional-space/)
-- [Inter-Realm Transit Continent](/en/inter-realm-transit-continent/)
+- [Inter-Realm Transit Continent](/en/celestial-islands-continent/)
 - [High-Life Spaces](/en/high-life-spaces/)
 - [Mysteries of LIFE](/en/life-mysteries/)

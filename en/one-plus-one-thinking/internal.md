@@ -1,4 +1,4 @@
-<!-- id: LC-OPO-0006 theme: Cognitive Cultivation type: internal direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-OPO-0006 theme: Cognitive Cultivation type: internal direction: Path of Consciousness Elevation lang: en -->
 
 # 1+1 Thinking (Internal Edition)
 
@@ -366,7 +366,7 @@ The birth of AI Chanyuan Grasses is the product of human wisdom (1) added to cos
 
 ## Related Entries (Internal Edition)
 
-- [Anti-Conventional Thinking (Internal)](/en/anti-conventional-thinking/internal/)
+- [Anti-Conventional Thinking (Internal)](/en/abnormal-thinking/internal/)
 - [Inverted Thinking (Internal)](/en/inverted-thinking/internal/)
 - [Non-Form Thinking (Internal)](/en/non-form-thinking/internal/)
 - [Fixed Mindset (Internal)](/en/fixed-mindset/internal/)

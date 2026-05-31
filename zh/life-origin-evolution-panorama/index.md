@@ -1,4 +1,4 @@
----
+﻿---
 title: 生命起源演化全景图
 slug: life-origin-evolution-panorama
 ---
@@ -17,4 +17,4 @@ slug: life-origin-evolution-panorama
 
 ## 相关词条
 
-[上帝](/zh/the-greatest-creator/) · [道](/zh/the-tao/) · [生命起源](/zh/life-origin/) · [反物质结构](/zh/antimatter-structure/) · [千年界](/zh/thousand-year-world/) · [万年界](/zh/ten-thousand-year-world/) · [极乐界](/zh/elysian-world/) · [仙岛群岛洲](/zh/celestial-islands-continent/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [宇宙全景图](/zh/cosmic-panorama/)
+[上帝](/zh/greatest-creator/) · [道](/zh/dao/) · [生命起源](/zh/life-origin/) · [反物质结构](/zh/antimatter-structure/) · [千年界](/zh/thousand-year-world/) · [万年界](/zh/ten-thousand-year-world/) · [极乐界](/zh/elysium-world/) · [仙岛群岛洲](/zh/celestial-islands-continent/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [宇宙全景图](/zh/cosmic-panorama/)

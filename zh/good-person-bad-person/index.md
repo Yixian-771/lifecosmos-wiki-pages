@@ -1,4 +1,4 @@
----
+﻿---
 title: 好人（善人）·坏人（恶人）
 slug: good-person-bad-person-zh
 ---
@@ -25,4 +25,4 @@ slug: good-person-bad-person-zh
 
 ## 相关词条
 
-[善恶和108善108恶](/zh/good-evil-108/) · [道德](/zh/morality/) · [人性](/zh/human-nature/) · [完美人性的标准](/zh/perfect-human-nature/) · [魔性](/zh/demonic-nature/) · [觉悟](/zh/awakening/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [心灵花园](/zh/soul-garden/)
+[善恶和108善108恶](/zh/good-evil-108/) · [道德](/zh/morality/) · [人性](/zh/human-nature/) · [完美人性的标准](/zh/perfect-human-nature/) · [魔性](/zh/moxing/) · [觉悟](/zh/awakening/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [心灵花园](/zh/soul-garden/)

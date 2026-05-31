@@ -1,4 +1,4 @@
----
+﻿---
 title: Black Hole
 ---
 
@@ -20,4 +20,4 @@ In the Lifechanyuan system, black holes are not merely astronomical objects but 
 
 ## Related Entries
 
-[36-Dimensional Space](/en/36-dimensional-space/) · [20 Parallel Worlds](/en/twenty-parallel-worlds/) · [Antimatter World](/en/antimatter-world/) · [Spacetime Tunnel](/en/spacetime-tunnel/) · [Cosmic Panorama](/en/cosmic-panorama/) · [Cosmic Holography](/en/cosmic-holography/) · [Life Reincarnation](/en/life-reincarnation/) · [Higher Life Spaces](/en/higher-life-spaces/)
+[36-Dimensional Space](/en/thirty-six-dimensional-space/) · [20 Parallel Worlds](/en/twenty-parallel-worlds/) · [Antimatter World](/en/antimatter-world/) · [Spacetime Tunnel](/en/spacetime-tunnel/) · [Cosmic Panorama](/en/cosmic-panorama/) · [Cosmic Holography](/en/cosmic-holography/) · [Life Reincarnation](/en/life-reincarnation/) · [Higher Life Spaces](/en/high-life-spaces/)

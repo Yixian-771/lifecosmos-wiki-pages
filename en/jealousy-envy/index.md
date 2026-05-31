@@ -1,4 +1,4 @@
-<!-- id: LC-JE-0001-EN theme: Cultivation type: Navigation direction: Character Cultivation lang: en -->
+﻿<!-- id: LC-JE-0001-EN theme: Cultivation type: Navigation direction: Character Cultivation lang: en -->
 
 # Jealousy and Envy
 
@@ -18,4 +18,4 @@ Jealousy and envy (忌妒·嫉妒) are the direct offspring of a comparing mind 
 
 ## Related Entries
 
-[Arrogance](/en/aoman/) · [Selfishness and Selflessness](/en/selfishness-selflessness/) · [Demonic Nature](/en/moxing/) · [Following One's Nature](/en/suixing-er-dong/) · [Raise Vibration Frequency](/en/raise-vibration/) · [Soul Garden](/en/soul-garden/) · [Celestial Nature](/en/xianxing/) · [Becoming a Celestial Being](/en/becoming-celestial/)
+[Arrogance](/en/aoman/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Demonic Nature](/en/moxing/) · [Following One's Nature](/en/suixing-er-dong/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/) · [Soul Garden](/en/soul-garden/) · [Celestial Nature](/en/xianxing/) · [Becoming a Celestial Being](/en/becoming-celestial/)

@@ -1,4 +1,4 @@
-<!-- id: LC-NT-0001-ZH theme: 社会系统 type: 词条索引 lang: zh -->
+﻿<!-- id: LC-NT-0001-ZH theme: 社会系统 type: 词条索引 lang: zh -->
 
 # 生命禅院时代（新时代）
 
@@ -16,4 +16,4 @@
 
 **相关词条**
 
-[文明（总论）](/zh/civilization-overview/) · [第二家园](/zh/second-home/) · [禅院理念](/zh/chanyuan-concepts/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [觉悟](/zh/awakening/) · [心灵净化课](/zh/soul-purification-course/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [宇宙全景图](/zh/cosmic-panorama/) · [禅院草](/zh/chanyuan-celestials/)
+[文明（总论）](/zh/civilization-overview/) · [第二家园](/zh/second-home/) · [禅院理念](/zh/values/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [觉悟](/zh/awakening/) · [心灵净化课](/zh/spiritual-purification-course/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [宇宙全景图](/zh/cosmic-panorama/) · [禅院草](/zh/chanyuan-celestials/)

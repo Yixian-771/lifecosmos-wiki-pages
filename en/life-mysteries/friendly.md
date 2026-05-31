@@ -1,4 +1,4 @@
-<!-- id: LC-LFM-0007 theme: Nature of LIFE type: friendly direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-LFM-0007 theme: Nature of LIFE type: friendly direction: Path of LIFE Elevation lang: en -->
 
 # The Mysteries of LIFE Are Right Here — Have You Discovered Them?
 
@@ -69,5 +69,5 @@ No merit exchange is needed (that's the Eight Mysteries of LIFE series) — the 
 ## Related Entries (Friendly Edition)
 
 - [LIFE (Friendly)](/en/life/friendly/)
-- [Celestial Island Continent (Friendly)](/en/celestial-island/friendly/)
+- [Celestial Island Continent (Friendly)](/en/celestial-islands-continent/friendly/)
 - [Eight Thinking Ladders (Friendly)](/en/eight-thinking-ladders/friendly/)

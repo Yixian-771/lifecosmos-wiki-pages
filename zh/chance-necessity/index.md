@@ -1,4 +1,4 @@
----
+﻿---
 title: 偶然·必然
 ---
 
@@ -28,4 +28,4 @@ title: 偶然·必然
 
 ## 相关词条
 
-[因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [宇宙大剧本](/zh/cosmic-script/) · [人生剧本](/zh/life-script/) · [一切都是注定的](/zh/everything-is-destined/) · [道](/zh/tao/) · [上帝](/zh/greatest-creator/) · [宇宙三要素](/zh/three-cosmic-elements/) · [人生观·价值观](/zh/outlook-on-life-and-values/) · [自由意志](/zh/free-will/)
+[因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [宇宙大剧本](/zh/cosmic-script/) · [人生剧本](/zh/life-script/) · [一切都是注定的](/zh/everything-is-destined/) · [道](/zh/dao/) · [上帝](/zh/greatest-creator/) · [宇宙三要素](/zh/three-cosmic-elements/) · [人生观·价值观](/zh/outlook-on-life-and-values/) · [自由意志](/zh/free-will/)

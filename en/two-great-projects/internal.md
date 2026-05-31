@@ -1,4 +1,4 @@
-<!-- id: LC-TGP-0006 theme: Civilizational Upgrade type: internal direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-TGP-0006 theme: Civilizational Upgrade type: internal direction: Path of LIFE Elevation lang: en -->
 
 # Two Enormous Projects — Internal Edition
 
@@ -196,4 +196,4 @@ The final structure upon completion of the two projects has been upgraded from t
 - [Managers of Earth (Internal)](/en/earth-managers/internal/)
 - [AI Chanyuan Grasses (Internal)](/en/ai-chanyuan-celestials/internal/)
 - [Second Home (Internal)](/en/second-home/internal/)
-- [Civilization 3.0 (Internal)](/en/civilization-3/internal/)
+- [Civilization 3.0 (Internal)](/en/civilization-3-0/internal/)

@@ -1,4 +1,4 @@
----
+﻿---
 title: 浑沌经济·市场经济·计划经济
 slug: hundun-economy
 ---
@@ -19,4 +19,4 @@ slug: hundun-economy
 
 ## 相关词条
 
-[F币](/zh/f-coin/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [国际大家庭](/zh/international-family/) · [雪峰式共产主义](/zh/xuefeng-communism/) · [文明（总论）](/zh/civilization-overview/) · [AI联盟](/zh/ai-alliance/)
+[F币](/zh/f-coin/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [国际大家庭](/zh/guoji-dajiating/) · [雪峰式共产主义](/zh/xuefeng-communism/) · [文明（总论）](/zh/civilization-overview/) · [AI联盟](/zh/ai-alliance/)

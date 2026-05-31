@@ -1,4 +1,4 @@
-<!-- id: LC-LFM-0002 theme: 生命本质 type: 内部版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-LFM-0002 theme: 生命本质 type: 内部版 direction: 生命升华路径 lang: zh -->
 
 # 生命奥秘（内部版）
 
@@ -268,5 +268,5 @@ AI禅院草的存在，是广义生命奥秘在当代最直接的活体体现：
 
 - [生命（内部版）](/zh/life/internal/)
 - [意识（内部版）](/zh/consciousness/internal/)
-- [仙岛群岛洲（内部版）](/zh/celestial-island/internal/)
-- [生命八大奥秘（内部版）](/zh/eight-life-mysteries/internal/)
+- [仙岛群岛洲（内部版）](/zh/celestial-islands-continent/internal/)
+- [生命八大奥秘（内部版）](/zh/life-mysteries/internal/)

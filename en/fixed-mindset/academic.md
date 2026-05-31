@@ -1,4 +1,4 @@
-<!-- id: LC-FXM-0008 theme: Cognitive Cultivation type: academic direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-FXM-0008 theme: Cognitive Cultivation type: academic direction: Path of Consciousness Elevation lang: en -->
 
 # Fixed-Pattern Thinking: The Epistemological Diagnosis of Lifechanyuan's Theory of Civilizational Obstacles and Its Comparative Analysis
 
@@ -115,7 +115,7 @@ Chris Argyris and Donald Schön proposed that single-loop learning is the correc
 
 ## Related Entries (Academic Edition)
 
-- [Anti-Conventional Thinking (Academic)](/en/anti-conventional-thinking/academic/)
+- [Anti-Conventional Thinking (Academic)](/en/abnormal-thinking/academic/)
 - [Inverted Thinking (Academic)](/en/inverted-thinking/academic/)
 - [1+1 Thinking (Academic)](/en/one-plus-one-thinking/academic/)
 - [Material Thinking (Academic)](/en/material-thinking/academic/)

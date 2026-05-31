@@ -1,4 +1,4 @@
-<!-- id: LC-LIF-0004 theme: 生命本质 type: 学术版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-LIF-0004 theme: 生命本质 type: 学术版 direction: 生命升华路径 lang: zh -->
 
 # 生命：生命禅院反物质结构生命论的系统建构及其比较研究
 
@@ -127,5 +127,5 @@ NASA对生命的工作定义是："能够进行达尔文式进化的自持化学
 
 - [生命奥秘（学术版）](/zh/life-mysteries/academic/)
 - [意识（学术版）](/zh/consciousness/academic/)
-- [反物质（学术版）](/zh/antimatter/academic/)
-- [仙岛群岛洲（学术版）](/zh/celestial-island/academic/)
+- [反物质（学术版）](/zh/antimatter-structure/academic/)
+- [仙岛群岛洲（学术版）](/zh/celestial-islands-continent/academic/)

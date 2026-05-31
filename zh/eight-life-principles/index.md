@@ -1,4 +1,4 @@
-<!-- id: LC-ELP-0001-ZH theme: 修行修炼 type: 索引 lang: zh -->
+﻿<!-- id: LC-ELP-0001-ZH theme: 修行修炼 type: 索引 lang: zh -->
 
 # 人生的八大纲领·八大玄机·八大天机·八大迷
 
@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[人生观·价值观](/zh/outlook-on-life-and-values/) · [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/) · [忏悔](/zh/repentance/) · [我执](/zh/wo-zhi/) · [自洽](/zh/self-coherence/) · [放下](/zh/letting-go/) · [人生十八品](/zh/eighteen-grades-of-life/) · [初级人生宝典](/zh/elementary-life-guide/)
+[人生观·价值观](/zh/outlook-on-life-and-values/) · [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/) · [忏悔](/zh/repentance/) · [我执](/zh/wo-zhi/) · [自洽](/zh/self-coherence/) · [放下](/zh/letting-go/) · [人生十八品](/zh/eighteen-grades-of-life/) · [初级人生宝典](/zh/elementary-life-manual/)

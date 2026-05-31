@@ -1,4 +1,4 @@
-<!-- id: LC-AT-0001-EN theme: character-cultivation type: navigation direction: life-view lang: en -->
+﻿<!-- id: LC-AT-0001-EN theme: character-cultivation type: navigation direction: life-view lang: en -->
 
 # Atheist
 
@@ -18,4 +18,4 @@ In the Lifechanyuan system, an "atheist" is not simply someone without religion 
 
 ## Related Entries
 
-[Greatest Creator](/en/greatest-creator/) · [Morality](/en/morality/) · [Karma·Retribution·Reincarnation](/en/karma-retribution-reincarnation/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Chanyuan Celestials](/en/chanyuan-celestials/) · [Awakening](/en/awakening/) · [Civilization](/en/civilization/) · [Becoming Celestial](/en/becoming-celestial/)
+[Greatest Creator](/en/greatest-creator/) · [Morality](/en/morality/) · [Karma·Retribution·Reincarnation](/en/karma-retribution-reincarnation/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Chanyuan Celestials](/en/chanyuan-celestials/) · [Awakening](/en/awakening/) · [Civilization](/en/civilization-overview/) · [Becoming Celestial](/en/becoming-celestial/)

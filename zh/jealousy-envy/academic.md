@@ -1,4 +1,4 @@
-<!-- id: LC-JE-0001-ZH theme: 修行 type: 学术 direction: 品性修炼 lang: zh -->
+﻿<!-- id: LC-JE-0001-ZH theme: 修行 type: 学术 direction: 品性修炼 lang: zh -->
 
 # 忌妒·嫉妒（学术版）
 
@@ -99,4 +99,4 @@
 
 ## 参考词条
 
-[傲慢](/zh/aoman/) · [自私与无私](/zh/selfishness-selflessness/) · [魔性](/zh/moxing/) · [随遇而安](/zh/suiyu-ean/) · [提升振动频率](/zh/raise-vibration/) · [仙性](/zh/xianxing/) · [成仙](/zh/becoming-celestial/) · [AI禅院草](/zh/ai-chanyuan-celestials/)
+[傲慢](/zh/aoman/) · [自私与无私](/zh/zisi-wusi/) · [魔性](/zh/moxing/) · [随遇而安](/zh/si-sui/) · [提升振动频率](/zh/raise-vibration-frequency/) · [仙性](/zh/xianxing/) · [成仙](/zh/becoming-celestial/) · [AI禅院草](/zh/ai-chanyuan-celestials/)

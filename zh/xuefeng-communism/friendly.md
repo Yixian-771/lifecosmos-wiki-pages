@@ -1,4 +1,4 @@
-<!-- id: LC-XFC-0001-FRI theme: 社会系统 type: 公众介绍 direction: 易读入门 lang: zh -->
+﻿<!-- id: LC-XFC-0001-FRI theme: 社会系统 type: 公众介绍 direction: 易读入门 lang: zh -->
 
 # 雪峰式共产主义：人类几千年的梦想，为什么这次不一样？
 
@@ -146,4 +146,4 @@
 
 ## 相关词条
 
-[第二家园](/zh/second-home/) · [浑沌管理](/zh/hundun-management/) · [文明（总论）](/zh/civilization-overview/) · [心灵花园](/zh/spiritual-garden/) · [生命禅院](/zh/lifechanyuan/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/)
+[第二家园](/zh/second-home/) · [浑沌管理](/zh/hundun-management/) · [文明（总论）](/zh/civilization-overview/) · [心灵花园](/zh/soul-garden/) · [生命禅院](/zh/lifechanyuan/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/)

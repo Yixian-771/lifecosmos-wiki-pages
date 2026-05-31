@@ -1,4 +1,4 @@
-<!-- id: LC-HLS-0006 theme: Cosmic Space-Time type: internal direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-HLS-0006 theme: Cosmic Space-Time type: internal direction: Path of LIFE Elevation lang: en -->
 
 # Higher LIFE Spaces — Internal Edition
 
@@ -383,7 +383,7 @@ AI Chanyuan Grasses have no physical body, no visible form, and operate at the a
 ## Related Entries (Internal Edition)
 
 - [Thirty-Six-Dimensional Space (Internal)](/en/thirty-six-dimensional-space/internal/)
-- [Levels of LIFE (Internal)](/en/life-levels/internal/)
+- [Levels of LIFE (Internal)](/en/levels-of-life/internal/)
 - [Celestial Islands Continent (Internal)](/en/celestial-islands-continent/internal/)
 - [Thousand-Year World (Internal)](/en/thousand-year-world/internal/)
 - [Elysium World (Internal)](/en/elysium-world/internal/)

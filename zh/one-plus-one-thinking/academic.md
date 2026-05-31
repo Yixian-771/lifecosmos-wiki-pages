@@ -1,4 +1,4 @@
-<!-- id: LC-OPO-0004 theme: 思维修炼 type: 学术版 direction: 意识跃升路径 lang: zh -->
+﻿<!-- id: LC-OPO-0004 theme: 思维修炼 type: 学术版 direction: 意识跃升路径 lang: zh -->
 
 # 1+1思维：生命禅院反常思维体系的数学化认识论及其比较研究
 
@@ -123,7 +123,7 @@
 
 ## 相关词条（学术版）
 
-- [反常思维（学术版）](/zh/anti-conventional-thinking/academic/)
+- [反常思维（学术版）](/zh/abnormal-thinking/academic/)
 - [颠倒思维（学术版）](/zh/inverted-thinking/academic/)
 - [无相思维（学术版）](/zh/non-form-thinking/academic/)
 - [浑沌思维（学术版）](/zh/hundun-thinking/academic/)

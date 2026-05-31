@@ -1,4 +1,4 @@
-<!-- id: LC-LFM-0008 theme: Nature of LIFE type: academic direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-LFM-0008 theme: Nature of LIFE type: academic direction: Path of LIFE Elevation lang: en -->
 
 # Mysteries of LIFE (Broad Sense): The Epistemic Structure of Lifechanyuan's Theory of LIFE Truth and Its Comparative Analysis
 
@@ -103,4 +103,4 @@ The broad-sense "Mysteries of LIFE" in the Lifechanyuan system, with "to reveal 
 
 - [LIFE (Academic)](/en/life/academic/)
 - [Consciousness (Academic)](/en/consciousness/academic/)
-- [Eight Mysteries of LIFE (Academic)](/en/eight-life-mysteries/academic/)
+- [Eight Mysteries of LIFE (Academic)](/en/life-mysteries/academic/)

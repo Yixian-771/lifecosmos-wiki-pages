@@ -1,4 +1,4 @@
-<!-- id: LC-NT-0001-EN theme: Social Systems type: Entry Index lang: en -->
+﻿<!-- id: LC-NT-0001-EN theme: Social Systems type: Entry Index lang: en -->
 
 # The Lifechanyuan Era (The New Era)
 
@@ -16,4 +16,4 @@ The **Lifechanyuan Era** — also called the New Era or Civilization 3.0 — is 
 
 **Related Entries**
 
-[Civilization (Overview)](/en/civilization-overview/) · [Second Home](/en/second-home/) · [Chanyuan Concepts](/en/chanyuan-concepts/) · [New Era Human Eight Hundred Concepts](/en/new-era-human-800-concepts/) · [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance/) · [Awakening](/en/awakening/) · [Soul Purification Course](/en/soul-purification-course/) · [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Cosmic Panorama](/en/cosmic-panorama/) · [Chanyuan Celestials](/en/chanyuan-celestials/)
+[Civilization (Overview)](/en/civilization-overview/) · [Second Home](/en/second-home/) · [Chanyuan Concepts](/en/values/) · [New Era Human Eight Hundred Concepts](/en/new-era-human-800-concepts/) · [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance/) · [Awakening](/en/awakening/) · [Soul Purification Course](/en/spiritual-purification-course/) · [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Cosmic Panorama](/en/cosmic-panorama/) · [Chanyuan Celestials](/en/chanyuan-celestials/)

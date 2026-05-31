@@ -1,4 +1,4 @@
-<!-- id: LC-PHN-0001-ZH theme: 修行 type: 导航 direction: 品性修炼 lang: zh -->
+﻿<!-- id: LC-PHN-0001-ZH theme: 修行 type: 导航 direction: 品性修炼 lang: zh -->
 
 # 完美人性的标准
 
@@ -18,4 +18,4 @@
 
 ## 关联词条
 
-[人性](/zh/human-nature/) · [道德](/zh/morality/) · [谦卑](/zh/humility/) · [初级修行](/zh/primary-cultivation/) · [中级修行](/zh/intermediate-cultivation/) · [高级修行](/zh/advanced-cultivation/) · [净化心灵](/zh/purify-soul/) · [生命的层次](/zh/life-levels/) · [千年界仙](/zh/millennium-realm-immortal/) · [提升振动频率](/zh/raise-vibration/)
+[人性](/zh/human-nature/) · [道德](/zh/morality/) · [谦卑](/zh/humility/) · [初级修行](/zh/elementary-cultivation/) · [中级修行](/zh/intermediate-cultivation/) · [高级修行](/zh/advanced-cultivation/) · [净化心灵](/zh/jinghuaxinling/) · [生命的层次](/zh/levels-of-life/) · [千年界仙](/zh/thousand-year-world-celestials/) · [提升振动频率](/zh/raise-vibration-frequency/)

@@ -1,4 +1,4 @@
-<!-- id: LC-LIF-0003 theme: 生命本质 type: 友好版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-LIF-0003 theme: 生命本质 type: 友好版 direction: 生命升华路径 lang: zh -->
 
 # 生命是什么？你真的知道吗
 
@@ -90,4 +90,4 @@
 
 - [生命奥秘（友好版）](/zh/life-mysteries/friendly/)
 - [意识（友好版）](/zh/consciousness/friendly/)
-- [仙岛群岛洲（友好版）](/zh/celestial-island/friendly/)
+- [仙岛群岛洲（友好版）](/zh/celestial-islands-continent/friendly/)

@@ -1,4 +1,4 @@
-<!-- id: LC-HT-0001-EN theme: Cultivation Practice type: index direction: Cultivation Practice lang: en -->
+﻿<!-- id: LC-HT-0001-EN theme: Cultivation Practice type: index direction: Cultivation Practice lang: en -->
 
 # Heavenly Treasures
 
@@ -21,11 +21,11 @@
 
 ## Related Entries
 
-- [Route Map to the Kingdom of Heaven](/en/go-to-heaven-route/)
+- [Route Map to the Kingdom of Heaven](/en/route-to-heaven/)
 - [Debt Repayment](/en/debt-repayment/)
-- [Formless Giving](/en/wuxiang-bushi/)
-- [Soul Garden](/en/heart-garden/)
+- [Formless Giving](/en/formless-giving/)
+- [Soul Garden](/en/soul-garden/)
 - [F-coin](/en/f-coin/)
-- [Releasing Worldly Bonds](/en/liaoque-chenyuan/)
+- [Releasing Worldly Bonds](/en/releasing-worldly-bonds/)
 - [Elysium World](/en/elysium-world/)
 - [Kingdom of Heaven](/en/kingdom-of-heaven/)

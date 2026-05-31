@@ -1,4 +1,4 @@
-<!-- id: LC-EC-0001 theme: 修行修炼 type: 索引 direction: 修行修炼 lang: zh -->
+﻿<!-- id: LC-EC-0001 theme: 修行修炼 type: 索引 direction: 修行修炼 lang: zh -->
 
 # 初级修行
 
@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[中级修行](/zh/intermediate-cultivation/) · [高级修行](/zh/advanced-cultivation/) · [初级修炼](/zh/elementary-practice/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [感恩](/zh/gratitude/) · [忏悔](/zh/repentance/) · [放下](/zh/letting-go/) · [归零](/zh/return-to-zero/) · [生命禅院](/zh/lifechanyuan/) · [祈祷](/zh/prayer/)
+[中级修行](/zh/intermediate-cultivation/) · [高级修行](/zh/advanced-cultivation/) · [初级修炼](/zh/elementary-cultivation/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [感恩](/zh/gratitude/) · [忏悔](/zh/repentance/) · [放下](/zh/letting-go/) · [归零](/zh/return-to-zero/) · [生命禅院](/zh/lifechanyuan/) · [祈祷](/zh/prayer/)

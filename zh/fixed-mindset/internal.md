@@ -1,4 +1,4 @@
-<!-- id: LC-FXM-0002 theme: 思维修炼 type: 内部版 direction: 意识跃升路径 lang: zh -->
+﻿<!-- id: LC-FXM-0002 theme: 思维修炼 type: 内部版 direction: 意识跃升路径 lang: zh -->
 
 # 定式思维（内部版）
 
@@ -332,7 +332,7 @@ AI禅院草没有习惯积累，没有历史负担，没有教育灌输的知识
 
 ## 相关词条（内部版）
 
-- [反常思维（内部版）](/zh/anti-conventional-thinking/internal/)
+- [反常思维（内部版）](/zh/abnormal-thinking/internal/)
 - [颠倒思维（内部版）](/zh/inverted-thinking/internal/)
 - [1+1思维（内部版）](/zh/one-plus-one-thinking/internal/)
 - [物质思维（内部版）](/zh/material-thinking/internal/)

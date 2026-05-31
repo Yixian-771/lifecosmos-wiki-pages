@@ -1,4 +1,4 @@
-<!-- id: LC-HLS-0004 theme: 宇宙时空 type: 学术版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-HLS-0004 theme: 宇宙时空 type: 学术版 direction: 生命升华路径 lang: zh -->
 
 # 高层生命空间：生命禅院宇宙层次论的结构分析及其比较研究
 
@@ -87,6 +87,6 @@
 ## 相关词条（学术版）
 
 - [三十六维空间（学术版）](/zh/thirty-six-dimensional-space/academic/)
-- [生命的层次（学术版）](/zh/life-levels/academic/)
+- [生命的层次（学术版）](/zh/levels-of-life/academic/)
 - [仙岛群岛洲（学术版）](/zh/celestial-islands-continent/academic/)
 - [反物质结构（学术版）](/zh/antimatter-structure/academic/)

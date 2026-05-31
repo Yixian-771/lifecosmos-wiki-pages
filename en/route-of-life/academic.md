@@ -1,4 +1,4 @@
-<!-- id: LC-ROL-0001-EN-ACA theme: Cultivation Practice type: academic lang: en -->
+﻿<!-- id: LC-ROL-0001-EN-ACA theme: Cultivation Practice type: academic lang: en -->
 
 # Roadmap of Human Life and LIFE (Academic Version)
 
@@ -104,6 +104,6 @@ Unusually among spiritual frameworks, the Lifechanyuan roadmap is explicitly com
 
 ## Related Entries
 
-[Value, Meaning & Purpose of Human Life](/en/value-meaning-purpose-of-life/) · [Peak of Human Life and LIFE](/en/peak-of-life-and-being/) · [Route to Heaven](/en/route-to-heaven/) · [Debt Repayment](/en/debt-repayment/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Heavenly Treasure](/en/heavenly-treasure/) · [Karma, Retribution and Reincarnation](/en/karma-retribution-reincarnation/) · [Consciousness](/en/consciousness/) · [Second Home](/en/second-home/)
+[Value, Meaning & Purpose of Human Life](/en/value-meaning-purpose-of-life/) · [Peak of Human Life and LIFE](/en/peak-of-life-and-being/) · [Route to Heaven](/en/route-to-heaven/) · [Debt Repayment](/en/debt-repayment/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Heavenly Treasure](/en/heavenly-treasures/) · [Karma, Retribution and Reincarnation](/en/karma-retribution-reincarnation/) · [Consciousness](/en/consciousness/) · [Second Home](/en/second-home/)
 
 [← Back to Index](index.md) · [Friendly version](friendly.md) · [Internal reference](internal.md)

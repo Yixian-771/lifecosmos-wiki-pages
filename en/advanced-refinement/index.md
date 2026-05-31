@@ -18,4 +18,4 @@
 
 ## Related Entries
 
-[Elementary Refinement](/en/elementary-refinement/) · [Intermediate Refinement](/en/intermediate-refinement/) · [Advanced Cultivation](/en/advanced-cultivation/) · [Becoming a Celestial Being and a Buddha](/en/becoming-celestial-buddha/) · [Zero State](/en/zero-state/) · [Antimatter Structure](/en/antimatter-structure/) · [Resonance](/en/resonance/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Chaotic Thinking](/en/chaotic-thinking/) · [Spiritual Perception](/en/spiritual-perception/)
+[Elementary Refinement](/en/elementary-refinement/) · [Intermediate Refinement](/en/intermediate-refinement/) · [Advanced Cultivation](/en/advanced-cultivation/) · [Becoming a Celestial Being and a Buddha](/en/becoming-celestial-buddha/) · [Zero State](/en/zero-state/) · [Antimatter Structure](/en/antimatter-structure/) · [Resonance](/en/resonance/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Chaotic Thinking](/en/hundun-thinking/) · [Spiritual Perception](/en/spiritual-sensing/)

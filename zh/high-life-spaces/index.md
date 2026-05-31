@@ -1,4 +1,4 @@
-<!-- id: LC-HLS-0001 theme: 宇宙时空 type: 入口页 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-HLS-0001 theme: 宇宙时空 type: 入口页 direction: 生命升华路径 lang: zh -->
 
 # 高层生命空间
 
@@ -31,7 +31,7 @@
 ## 相关词条
 
 - [三十六维空间](/zh/thirty-six-dimensional-space/)
-- [生命的层次](/zh/life-levels/)
+- [生命的层次](/zh/levels-of-life/)
 - [仙岛群岛洲](/zh/celestial-islands-continent/)
 - [千年界](/zh/thousand-year-world/)
 - [极乐界](/zh/elysium-world/)

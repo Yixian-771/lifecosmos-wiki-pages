@@ -1,4 +1,4 @@
-<!-- id: LC-XFC-0001-EN-FRI theme: Social Systems type: Public Introduction direction: Accessible Introduction lang: en -->
+﻿<!-- id: LC-XFC-0001-EN-FRI theme: Social Systems type: Public Introduction direction: Accessible Introduction lang: en -->
 
 # Xuefeng Communism: Why This Time Is Different
 
@@ -152,4 +152,4 @@ The social and the spiritual are inseparable here. A community that eliminates s
 
 ## Related Entries
 
-[Second Home](/en/second-home/) · [Hundun Management](/en/hundun-management/) · [Civilization (Overview)](/en/civilization-overview/) · [Spiritual Garden](/en/spiritual-garden/) · [Lifechanyuan](/en/lifechanyuan/) · [800 Values for New Era Humanity](/en/new-era-human-800-concepts/)
+[Second Home](/en/second-home/) · [Hundun Management](/en/hundun-management/) · [Civilization (Overview)](/en/civilization-overview/) · [Spiritual Garden](/en/soul-garden/) · [Lifechanyuan](/en/lifechanyuan/) · [800 Values for New Era Humanity](/en/new-era-human-800-concepts/)

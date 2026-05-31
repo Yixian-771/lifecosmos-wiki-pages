@@ -1,4 +1,4 @@
-<!-- id: LC-OPO-0008 theme: Cognitive Cultivation type: academic direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-OPO-0008 theme: Cognitive Cultivation type: academic direction: Path of Consciousness Elevation lang: en -->
 
 # 1+1 Thinking: The Mathematized Epistemology of the Lifechanyuan Anti-Conventional Thinking System and Its Comparative Analysis
 
@@ -125,7 +125,7 @@ The core principle of Gestalt psychology — "the whole is different from the su
 
 ## Related Entries (Academic Edition)
 
-- [Anti-Conventional Thinking (Academic)](/en/anti-conventional-thinking/academic/)
+- [Anti-Conventional Thinking (Academic)](/en/abnormal-thinking/academic/)
 - [Inverted Thinking (Academic)](/en/inverted-thinking/academic/)
 - [Non-Form Thinking (Academic)](/en/non-form-thinking/academic/)
 - [Hundun Thinking (Academic)](/en/hundun-thinking/academic/)

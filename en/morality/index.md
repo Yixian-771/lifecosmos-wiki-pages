@@ -1,4 +1,4 @@
----
+﻿---
 title: Morality
 slug: morality
 ---
@@ -17,4 +17,4 @@ slug: morality
 
 ## Related Entries
 
-[Way of the Greatest Creator](/en/way-of-the-greatest-creator/) · [Dao](/en/dao/) · [Truth](/en/truth/) · [Goodness](/en/goodness/) · [Beauty](/en/beauty/) · [Love](/en/love/) · [Heart Garden](/en/heart-garden/) · [Self-Coherence](/en/self-coherence/)
+[Way of the Greatest Creator](/en/way-of-the-greatest-creator/) · [Dao](/en/dao/) · [Truth](/en/truth/) · [Goodness](/en/goodness/) · [Beauty](/en/beauty/) · [Love](/en/love/) · [Heart Garden](/en/soul-garden/) · [Self-Coherence](/en/self-coherence/)

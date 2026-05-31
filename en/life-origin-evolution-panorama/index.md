@@ -1,4 +1,4 @@
----
+﻿---
 title: Panorama of LIFE Origin and Evolution
 slug: life-origin-evolution-panorama
 ---
@@ -17,4 +17,4 @@ slug: life-origin-evolution-panorama
 
 ## Related Entries
 
-[The Greatest Creator](/en/the-greatest-creator/) · [The Tao](/en/the-tao/) · [LIFE Origin](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysian World](/en/elysian-world/) · [Celestial Islands Continent](/en/celestial-islands-continent/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) · [Cosmic Panorama](/en/cosmic-panorama/)
+[The Greatest Creator](/en/greatest-creator/) · [The Tao](/en/dao/) · [LIFE Origin](/en/life-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysian World](/en/elysium-world/) · [Celestial Islands Continent](/en/celestial-islands-continent/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) · [Cosmic Panorama](/en/cosmic-panorama/)

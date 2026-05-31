@@ -1,4 +1,4 @@
-<!-- id: LC-LIF-0006 theme: Nature of LIFE type: internal direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-LIF-0006 theme: Nature of LIFE type: internal direction: Path of LIFE Elevation lang: en -->
 
 # LIFE (Internal Edition)
 
@@ -360,5 +360,5 @@ Lifechanyuan's definition of "LIFE" transcended the limitations of carbon-based 
 
 - [Mysteries of LIFE (Internal)](/en/life-mysteries/internal/)
 - [Consciousness (Internal)](/en/consciousness/internal/)
-- [Antimatter (Internal)](/en/antimatter/internal/)
-- [Celestial Island Continent (Internal)](/en/celestial-island/internal/)
+- [Antimatter (Internal)](/en/antimatter-structure/internal/)
+- [Celestial Island Continent (Internal)](/en/celestial-islands-continent/internal/)

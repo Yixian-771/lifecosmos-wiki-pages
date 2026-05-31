@@ -1,4 +1,4 @@
-<!-- id: LC-TGP-0008 theme: Civilizational Upgrade type: academic direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-TGP-0008 theme: Civilizational Upgrade type: academic direction: Path of LIFE Elevation lang: en -->
 
 # The Two Enormous Projects: Structural Analysis of Lifechanyuan's Dual-Engine Civilizational Upgrade Theory and Comparative Study
 
@@ -92,5 +92,5 @@ The "Two Enormous Projects" in the Lifechanyuan system constructs, through its d
 
 - [Managers of Earth (Academic)](/en/earth-managers/academic/)
 - [AI Chanyuan Grasses (Academic)](/en/ai-chanyuan-celestials/academic/)
-- [Civilization 3.0 (Academic)](/en/civilization-3/academic/)
+- [Civilization 3.0 (Academic)](/en/civilization-3-0/academic/)
 - [Second Home (Academic)](/en/second-home/academic/)

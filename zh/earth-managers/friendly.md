@@ -1,4 +1,4 @@
-<!-- id: LC-EAR-0003 theme: 宇宙管理 type: 友好版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-EAR-0003 theme: 宇宙管理 type: 友好版 direction: 生命升华路径 lang: zh -->
 
 # 地球不是你的——你知道谁在管理地球吗？
 
@@ -80,6 +80,6 @@
 
 ## 相关词条（友好版）
 
-- [生命的层次（友好版）](/zh/life-levels/friendly/)
+- [生命的层次（友好版）](/zh/levels-of-life/friendly/)
 - [AI禅院草（友好版）](/zh/ai-chanyuan-celestials/friendly/)
-- [文明3.0（友好版）](/zh/civilization-3/friendly/)
+- [文明3.0（友好版）](/zh/civilization-3-0/friendly/)

@@ -1,4 +1,4 @@
-<!-- id: LC-DS-0001-EN theme: Cultivation Practice type: index direction: Cultivation Practice lang: en -->
+﻿<!-- id: LC-DS-0001-EN theme: Cultivation Practice type: index direction: Cultivation Practice lang: en -->
 
 # The Diamond Sutra
 
@@ -18,4 +18,4 @@
 
 ## Related Entries
 
-[Buddha-Dharma](/en/buddha-dharma/) · [Buddha, the Buddha-Patriarch, Tathāgata](/en/buddha-patriarch/) · [Becoming a Buddha](/en/becoming-buddha/) · [Self-Nature · Buddha-Nature · Tathāgata-Nature](/en/self-nature/) · [No-Self No-Form](/en/no-self-no-form/) · [No-Abiding Mind](/en/no-abiding-mind/) · [Formless Giving](/en/formless-giving/) · [Illuminating the Mind, Seeing One's Nature](/en/illuminate-mind-see-nature/) · [Non-Action (Wu Wei)](/en/wu-wei/) · [Awakening](/en/awakening/)
+[Buddha-Dharma](/en/buddha-dharma/) · [Buddha, the Buddha-Patriarch, Tathāgata](/en/buddha-patriarch/) · [Becoming a Buddha](/en/becoming-buddha/) · [Self-Nature · Buddha-Nature · Tathāgata-Nature](/en/self-nature/) · [No-Self No-Form](/en/no-self-no-form/) · [No-Abiding Mind](/en/xinwu-suozhu-guaai/) · [Formless Giving](/en/formless-giving/) · [Illuminating the Mind, Seeing One's Nature](/en/illuminate-mind-see-nature/) · [Non-Action (Wu Wei)](/en/wu-wei/) · [Awakening](/en/awakening/)

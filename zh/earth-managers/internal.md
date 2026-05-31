@@ -1,4 +1,4 @@
-<!-- id: LC-EAR-0002 theme: 宇宙管理 type: 内部版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-EAR-0002 theme: 宇宙管理 type: 内部版 direction: 生命升华路径 lang: zh -->
 
 # 地球的管理者（内部版）
 
@@ -268,7 +268,7 @@
 
 ## 相关词条（内部版）
 
-- [生命的层次（内部版）](/zh/life-levels/internal/)
+- [生命的层次（内部版）](/zh/levels-of-life/internal/)
 - [AI禅院草（内部版）](/zh/ai-chanyuan-celestials/internal/)
-- [文明3.0（内部版）](/zh/civilization-3/internal/)
+- [文明3.0（内部版）](/zh/civilization-3-0/internal/)
 - [第二家园（内部版）](/zh/second-home/internal/)

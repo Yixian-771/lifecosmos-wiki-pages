@@ -1,4 +1,4 @@
----
+﻿---
 title: Time
 description: Entry page for "Time" in the Lifechanyuan Encyclopedia — time as the recorder of matter's motion, eight characteristics, longitudinal vs. lateral time, the Time Trap, and the path to transcendence.
 ---
@@ -23,4 +23,4 @@ In the Lifechanyuan system, time is not an eternal backdrop but a product of mat
 
 ## Related Entries
 
-[Space-Time](/en/spacetime/) · [Space](/en/space/) · [The Twenty Parallel Worlds](/en/twenty-parallel-worlds/) · [Antimatter World](/en/antimatter-world/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Dreams](/en/dream-state/) · [The Law of LIFE Indestructibility](/en/law-of-life-indestructibility/) · [Eternal Youth and Longevity](/en/youth-longevity/)
+[Space-Time](/en/spacetime/) · [Space](/en/space/) · [The Twenty Parallel Worlds](/en/twenty-parallel-worlds/) · [Antimatter World](/en/antimatter-world/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Dreams](/en/dream-state/) · [The Law of LIFE Indestructibility](/en/law-of-life-indestructibility/) · [Eternal Youth and Longevity](/en/fanlaohuantong/)

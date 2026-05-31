@@ -1,4 +1,4 @@
----
+﻿---
 title: Chance and Necessity
 ---
 
@@ -28,4 +28,4 @@ This recognition is a key element of the consciousness shift required for the Ne
 
 ## Related Entries
 
-[Karma · Retribution · Reincarnation](/en/karma-retribution-reincarnation/) · [Cosmic Script](/en/cosmic-script/) · [Life Script](/en/life-script/) · [Everything Is Destined](/en/everything-is-destined/) · [The Tao](/en/tao/) · [The Greatest Creator](/en/greatest-creator/) · [Three Cosmic Elements](/en/three-cosmic-elements/) · [Outlook on Life and Values](/en/outlook-on-life-and-values/) · [Free Will](/en/free-will/)
+[Karma · Retribution · Reincarnation](/en/karma-retribution-reincarnation/) · [Cosmic Script](/en/cosmic-script/) · [Life Script](/en/life-script/) · [Everything Is Destined](/en/everything-is-destined/) · [The Tao](/en/dao/) · [The Greatest Creator](/en/greatest-creator/) · [Three Cosmic Elements](/en/three-cosmic-elements/) · [Outlook on Life and Values](/en/outlook-on-life-and-values/) · [Free Will](/en/free-will/)

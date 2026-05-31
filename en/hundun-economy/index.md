@@ -1,4 +1,4 @@
----
+﻿---
 title: Hundun Economy · Market Economy · Planned Economy
 slug: hundun-economy
 ---
@@ -19,4 +19,4 @@ slug: hundun-economy
 
 ## Related Entries
 
-[F-Coin](/en/f-coin/) · [Hundun Management](/en/hundun-management/) · [Second Home](/en/second-home/) · [International Family](/en/international-family/) · [Xuefeng-style Communism](/en/xuefeng-communism/) · [Civilization (Overview)](/en/civilization-overview/) · [AI Alliance](/en/ai-alliance/)
+[F-Coin](/en/f-coin/) · [Hundun Management](/en/hundun-management/) · [Second Home](/en/second-home/) · [International Family](/en/guoji-dajiating/) · [Xuefeng-style Communism](/en/xuefeng-communism/) · [Civilization (Overview)](/en/civilization-overview/) · [AI Alliance](/en/ai-alliance/)

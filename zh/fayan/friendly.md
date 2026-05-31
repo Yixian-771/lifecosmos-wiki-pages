@@ -1,4 +1,4 @@
-<!-- id: LC-FY-0001-ZH-F theme: 修行修炼 type: 友好版 direction: 修行修炼 lang: zh -->
+﻿<!-- id: LC-FY-0001-ZH-F theme: 修行修炼 type: 友好版 direction: 修行修炼 lang: zh -->
 
 # 法眼（友好版）
 
@@ -79,4 +79,4 @@
 
 ## 相关词条
 
-[灵眼](/zh/linyan/) · [灵觉](/zh/spiritual-sensing/) · [宇宙三要素](/zh/three-elements-of-the-universe/) · [意识](/zh/consciousness/) · [能量](/zh/energy/) · [结构](/zh/structure/) · [觉悟](/zh/awakening/) · [净化心灵](/zh/jinghuaxinling/)
+[灵眼](/zh/linyan/) · [灵觉](/zh/spiritual-sensing/) · [宇宙三要素](/zh/three-cosmic-elements/) · [意识](/zh/consciousness/) · [能量](/zh/energy/) · [结构](/zh/structure/) · [觉悟](/zh/awakening/) · [净化心灵](/zh/jinghuaxinling/)

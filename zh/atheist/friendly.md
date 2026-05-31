@@ -1,4 +1,4 @@
-<!-- id: LC-AT-0001-ZH theme: 品性修炼 type: 友好 direction: 生命观 lang: zh -->
+﻿<!-- id: LC-AT-0001-ZH theme: 品性修炼 type: 友好 direction: 生命观 lang: zh -->
 
 # 无神论者（友好版）
 
@@ -91,4 +91,4 @@
 
 ## 延伸阅读
 
-[上帝](/zh/god/) · [道德](/zh/morality/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [生命不灭定律](/zh/life-imperishable/) · [觉悟](/zh/awakening/) · [禅院草](/zh/chanyuan-celestials/) · [心像思维](/zh/xinxiang-thinking/)
+[上帝](/zh/greatest-creator/) · [道德](/zh/morality/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [生命不灭定律](/zh/law-of-life-indestructibility/) · [觉悟](/zh/awakening/) · [禅院草](/zh/chanyuan-celestials/) · [心像思维](/zh/xinxiang-thinking/)

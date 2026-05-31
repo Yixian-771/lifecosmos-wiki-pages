@@ -1,4 +1,4 @@
-<!-- id: LC-XFC-0001-EN theme: Social Systems type: Internal Edition direction: Social Systems lang: en -->
+﻿<!-- id: LC-XFC-0001-EN theme: Social Systems type: Internal Edition direction: Social Systems lang: en -->
 
 # Xuefeng Communism (Internal Edition)
 
@@ -251,4 +251,4 @@ Humanity will eventually understand that the greatest people in the world are th
 
 ## Related Entries
 
-[Second Home](/en/second-home/) · [Lifechanyuan](/en/lifechanyuan/) · [Hundun Management](/en/hundun-management/) · [Civilization (Overview)](/en/civilization-overview/) · [Lifechanyuan New Era](/en/lifechanyuan-new-era/) · [800 Values for New Era Humanity](/en/new-era-human-800-concepts/) · [Spiritual Garden](/en/spiritual-garden/) · [Kingdom of Heaven](/en/kingdom-of-heaven/)
+[Second Home](/en/second-home/) · [Lifechanyuan](/en/lifechanyuan/) · [Hundun Management](/en/hundun-management/) · [Civilization (Overview)](/en/civilization-overview/) · [Lifechanyuan New Era](/en/lifechanyuan-new-era/) · [800 Values for New Era Humanity](/en/new-era-human-800-concepts/) · [Spiritual Garden](/en/soul-garden/) · [Kingdom of Heaven](/en/kingdom-of-heaven/)

@@ -1,4 +1,4 @@
-<!-- id: LC-FXM-0007 theme: Cognitive Cultivation type: friendly direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-FXM-0007 theme: Cognitive Cultivation type: friendly direction: Path of Consciousness Elevation lang: en -->
 
 # Fixed-Pattern Thinking: Your Mind May Be Locked Up by Three Locks
 
@@ -100,7 +100,7 @@ The solution is simple but not easy:
 
 ## Related Entries (Friendly Edition)
 
-- [Anti-Conventional Thinking (Friendly)](/en/anti-conventional-thinking/friendly/)
+- [Anti-Conventional Thinking (Friendly)](/en/abnormal-thinking/friendly/)
 - [Inverted Thinking (Friendly)](/en/inverted-thinking/friendly/)
 - [1+1 Thinking (Friendly)](/en/one-plus-one-thinking/friendly/)
 - [Material Thinking (Friendly)](/en/material-thinking/friendly/)

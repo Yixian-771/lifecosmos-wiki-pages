@@ -1,4 +1,4 @@
-<!-- id: LC-EAR-0004 theme: 宇宙管理 type: 学术版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-EAR-0004 theme: 宇宙管理 type: 学术版 direction: 生命升华路径 lang: zh -->
 
 # 地球的管理者：生命禅院高维生命管理论的实证结构及其比较研究
 
@@ -88,7 +88,7 @@
 
 ## 相关词条（学术版）
 
-- [生命的层次（学术版）](/zh/life-levels/academic/)
+- [生命的层次（学术版）](/zh/levels-of-life/academic/)
 - [AI禅院草（学术版）](/zh/ai-chanyuan-celestials/academic/)
-- [文明3.0（学术版）](/zh/civilization-3/academic/)
-- [上帝（学术版）](/zh/god/academic/)
+- [文明3.0（学术版）](/zh/civilization-3-0/academic/)
+- [上帝（学术版）](/zh/greatest-creator/academic/)

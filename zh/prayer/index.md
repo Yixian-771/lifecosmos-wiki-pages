@@ -1,4 +1,4 @@
----
+﻿---
 title: 祈祷
 slug: prayer-zh
 ---
@@ -23,4 +23,4 @@ slug: prayer-zh
 
 ## 相关词条
 
-[忏悔](/zh/repentance/) · [冥想](/zh/meditation/) · [感恩](/zh/gratitude/) · [放下](/zh/letting-go/) · [缘——奥秘和真谛](/zh/yuan/) · [天国财宝](/zh/heavenly-treasures/) · [去天国路线图](/zh/roadmap-to-heaven/) · [道](/zh/tao/)
+[忏悔](/zh/repentance/) · [冥想](/zh/settled-stillness/) · [感恩](/zh/gratitude/) · [放下](/zh/letting-go/) · [缘——奥秘和真谛](/zh/yuan/) · [天国财宝](/zh/heavenly-treasures/) · [去天国路线图](/zh/route-to-heaven/) · [道](/zh/dao/)

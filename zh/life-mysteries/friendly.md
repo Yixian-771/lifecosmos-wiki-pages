@@ -1,4 +1,4 @@
-<!-- id: LC-LFM-0003 theme: 生命本质 type: 友好版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-LFM-0003 theme: 生命本质 type: 友好版 direction: 生命升华路径 lang: zh -->
 
 # 生命的奥秘就在生命禅院中——你发现了吗？
 
@@ -61,4 +61,4 @@
 ## 相关词条（友好版）
 
 - [生命（友好版）](/zh/life/friendly/)
-- [仙岛群岛洲（友好版）](/zh/celestial-island/friendly/)
+- [仙岛群岛洲（友好版）](/zh/celestial-islands-continent/friendly/)

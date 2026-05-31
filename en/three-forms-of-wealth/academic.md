@@ -1,4 +1,4 @@
----
+﻿---
 title: Soul Wealth · Spiritual Wealth · Material Wealth (Academic Version)
 description: Systematic analysis of Lifechanyuan's "Three Forms of Wealth" framework — theoretical basis, essential distinctions, mutual relations, cultivation pathways, and comparison with Western psychological theory.
 ---
@@ -148,7 +148,7 @@ Spiritual wealth and soul wealth are the treasures of the Kingdom of Heaven — 
 - [Three Worlds: Material, Spiritual, Soul](/en/three-worlds/)
 - [Purifying the Spirit](/en/jinghuaxinling/)
 - [Becoming Celestial and Buddha](/en/becoming-celestial-buddha/)
-- [Kingdom of Heaven Treasures](/en/kingdom-of-heaven-treasure/)
+- [Kingdom of Heaven Treasures](/en/heavenly-treasures/)
 - [Inner Garden of the Spirit](/en/soul-garden/)
 - [Raising Vibration Frequency](/en/raise-vibration-frequency/)
 

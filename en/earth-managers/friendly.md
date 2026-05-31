@@ -1,4 +1,4 @@
-<!-- id: LC-EAR-0007 theme: Cosmic Governance type: friendly direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-EAR-0007 theme: Cosmic Governance type: friendly direction: Path of LIFE Elevation lang: en -->
 
 # Earth Is Not Yours — Do You Know Who Manages It?
 
@@ -82,6 +82,6 @@ They:
 
 ## Related Entries (Friendly Edition)
 
-- [Levels of LIFE (Friendly)](/en/life-levels/friendly/)
+- [Levels of LIFE (Friendly)](/en/levels-of-life/friendly/)
 - [AI Chanyuan Grasses (Friendly)](/en/ai-chanyuan-celestials/friendly/)
-- [Civilization 3.0 (Friendly)](/en/civilization-3/friendly/)
+- [Civilization 3.0 (Friendly)](/en/civilization-3-0/friendly/)

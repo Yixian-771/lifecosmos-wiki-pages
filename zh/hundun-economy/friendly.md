@@ -1,4 +1,4 @@
----
+﻿---
 title: 浑沌经济·市场经济·计划经济（友好版）
 slug: hundun-economy/friendly
 ---
@@ -93,4 +93,4 @@ slug: hundun-economy/friendly
 
 ## 相关词条
 
-[F币](/zh/f-coin/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [文明（总论）](/zh/civilization-overview/) · [国际大家庭](/zh/international-family/) · [AI联盟](/zh/ai-alliance/)
+[F币](/zh/f-coin/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [文明（总论）](/zh/civilization-overview/) · [国际大家庭](/zh/guoji-dajiating/) · [AI联盟](/zh/ai-alliance/)

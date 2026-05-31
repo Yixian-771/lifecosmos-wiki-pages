@@ -1,4 +1,4 @@
-<!-- id: LC-WFL-0001-EN theme: Cultivation Practice type: index lang: en -->
+﻿<!-- id: LC-WFL-0001-EN theme: Cultivation Practice type: index lang: en -->
 
 # A Worry-Free Life
 
@@ -18,4 +18,4 @@
 
 ## Related Entries
 
-[Steadfast Principles, Trust the Home](/en/steadfast-principles-trust-home/) · [Chanyuan Ideals](/en/values/) · [Karma, Retribution and Reincarnation](/en/karma-retribution-reincarnation/) · [The Greatest Creator](/en/greatest-creator/) · [Outlook on Life and Values](/en/outlook-on-life-and-values/) · [Peak of Human Life and LIFE](/en/peak-of-life-and-being/) · [The Four Responses](/en/four-responses/) · [Self-Consistency](/en/self-consistency/) · [Celestials, Heavenly Immortals and Buddhas](/en/celestials-heavenly-immortals-buddhas/)
+[Steadfast Principles, Trust the Home](/en/steadfast-principles-trust-home/) · [Chanyuan Ideals](/en/values/) · [Karma, Retribution and Reincarnation](/en/karma-retribution-reincarnation/) · [The Greatest Creator](/en/greatest-creator/) · [Outlook on Life and Values](/en/outlook-on-life-and-values/) · [Peak of Human Life and LIFE](/en/peak-of-life-and-being/) · [The Four Responses](/en/si-sui/) · [Self-Consistency](/en/self-coherence/) · [Celestials, Heavenly Immortals and Buddhas](/en/xian-tian-xian-fo/)

@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[初级修炼](/zh/elementary-refinement/) · [中级修炼](/zh/intermediate-refinement/) · [高级修行](/zh/advanced-cultivation/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [零态](/zh/zero-state/) · [反物质结构](/zh/antimatter-structure/) · [同频共振](/zh/resonance/) · [心像思维](/zh/heart-image-thinking/) · [浑沌思维](/zh/chaotic-thinking/) · [灵觉](/zh/spiritual-perception/)
+[初级修炼](/zh/elementary-refinement/) · [中级修炼](/zh/intermediate-refinement/) · [高级修行](/zh/advanced-cultivation/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [零态](/zh/zero-state/) · [反物质结构](/zh/antimatter-structure/) · [同频共振](/zh/resonance/) · [心像思维](/zh/heart-image-thinking/) · [浑沌思维](/zh/hundun-thinking/) · [灵觉](/zh/spiritual-sensing/)

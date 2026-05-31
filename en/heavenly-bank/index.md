@@ -1,4 +1,4 @@
----
+﻿---
 title: Heavenly Bank
 slug: heavenly-bank
 ---
@@ -19,4 +19,4 @@ The **Heavenly Bank** is a core metaphor in the Lifechanyuan system, referring t
 
 ## Related entries
 
-[Heavenly Treasures](/en/heavenly-treasures/) · [F-Coin](/en/f-coin/) · [Route to the Kingdom of Heaven](/en/route-to-heaven/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Formless Giving](/en/wuxiang-bushi/) · [Karma · Retribution · Reincarnation](/en/karma-retribution-reincarnation/) · [Debt Repayment](/en/償還债务/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Life Visa](/en/life-visa/)
+[Heavenly Treasures](/en/heavenly-treasures/) · [F-Coin](/en/f-coin/) · [Route to the Kingdom of Heaven](/en/route-to-heaven/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Formless Giving](/en/formless-giving/) · [Karma · Retribution · Reincarnation](/en/karma-retribution-reincarnation/) · [Debt Repayment](/en/debt-repayment/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Life Visa](/en/life-visa/)

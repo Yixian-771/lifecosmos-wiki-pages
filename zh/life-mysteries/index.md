@@ -1,4 +1,4 @@
-<!-- id: LC-LFM-0001 theme: 生命本质 type: 入口页 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-LFM-0001 theme: 生命本质 type: 入口页 direction: 生命升华路径 lang: zh -->
 
 # 生命奥秘
 
@@ -32,5 +32,5 @@
 
 - [生命](/zh/life/)
 - [意识](/zh/consciousness/)
-- [仙岛群岛洲](/zh/celestial-island/)
-- [生命八大奥秘](/zh/eight-life-mysteries/)
+- [仙岛群岛洲](/zh/celestial-islands-continent/)
+- [生命八大奥秘](/zh/life-mysteries/)

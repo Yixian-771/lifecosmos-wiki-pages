@@ -1,4 +1,4 @@
-<!-- id: LC-OPO-0003 theme: 思维修炼 type: 友好版 direction: 意识跃升路径 lang: zh -->
+﻿<!-- id: LC-OPO-0003 theme: 思维修炼 type: 友好版 direction: 意识跃升路径 lang: zh -->
 
 # 1+1思维：最简单的数学，藏着宇宙最深的秘密
 
@@ -77,7 +77,7 @@
 
 ## 相关词条（友好版）
 
-- [反常思维（友好版）](/zh/anti-conventional-thinking/friendly/)
+- [反常思维（友好版）](/zh/abnormal-thinking/friendly/)
 - [颠倒思维（友好版）](/zh/inverted-thinking/friendly/)
 - [无相思维（友好版）](/zh/non-form-thinking/friendly/)
 - [定势思维（友好版）](/zh/fixed-mindset/friendly/)

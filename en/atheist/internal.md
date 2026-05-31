@@ -1,4 +1,4 @@
-<!-- id: LC-AT-0001-EN theme: character-cultivation type: internal direction: life-view lang: en -->
+﻿<!-- id: LC-AT-0001-EN theme: character-cultivation type: internal direction: life-view lang: en -->
 
 # Atheist (Internal Reference)
 
@@ -156,4 +156,4 @@ Humanity needs harmony. The universe needs to exist in harmony. Humans must harm
 
 ## Further Reading
 
-[Greatest Creator](/en/greatest-creator/) · [Morality](/en/morality/) · [Karma·Retribution·Reincarnation](/en/karma-retribution-reincarnation/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Chanyuan Celestials](/en/chanyuan-celestials/) · [Awakening](/en/awakening/) · [Civilization](/en/civilization/)
+[Greatest Creator](/en/greatest-creator/) · [Morality](/en/morality/) · [Karma·Retribution·Reincarnation](/en/karma-retribution-reincarnation/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Chanyuan Celestials](/en/chanyuan-celestials/) · [Awakening](/en/awakening/) · [Civilization](/en/civilization-overview/)

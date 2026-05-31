@@ -1,4 +1,4 @@
-<!-- id: LC-INV-0003 theme: 思维修炼 type: 友好版 direction: 意识跃升路径 lang: zh -->
+﻿<!-- id: LC-INV-0003 theme: 思维修炼 type: 友好版 direction: 意识跃升路径 lang: zh -->
 
 # 颠倒思维：把世界翻转180度，看见被遮住的另一半真相
 
@@ -85,7 +85,7 @@
 
 ## 相关词条（友好版）
 
-- [反常思维（友好版）](/zh/anti-conventional-thinking/friendly/)
+- [反常思维（友好版）](/zh/abnormal-thinking/friendly/)
 - [太极思维（友好版）](/zh/taiji-thinking/friendly/)
 - [1+1思维（友好版）](/zh/one-plus-one-thinking/friendly/)
 - [定势思维（友好版）](/zh/fixed-mindset/friendly/)

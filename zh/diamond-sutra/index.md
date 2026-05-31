@@ -1,4 +1,4 @@
-<!-- id: LC-DS-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
+﻿<!-- id: LC-DS-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
 
 # 《金刚经》
 
@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[佛法](/zh/buddha-dharma/) · [佛·佛祖·如来·如来佛祖](/zh/buddha-patriarch/) · [成佛](/zh/becoming-buddha/) · [自性·佛性·如来本性](/zh/self-nature/) · [无我无相](/zh/no-self-no-form/) · [心无所住·心无挂碍](/zh/no-abiding-mind/) · [无相布施](/zh/wuxiang-bushi/) · [明心见性](/zh/illuminate-mind-see-nature/) · [无为而无不为](/zh/wu-wei/) · [觉悟](/zh/awakening/)
+[佛法](/zh/buddha-dharma/) · [佛·佛祖·如来·如来佛祖](/zh/buddha-patriarch/) · [成佛](/zh/becoming-buddha/) · [自性·佛性·如来本性](/zh/self-nature/) · [无我无相](/zh/no-self-no-form/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [无相布施](/zh/formless-giving/) · [明心见性](/zh/illuminate-mind-see-nature/) · [无为而无不为](/zh/wu-wei/) · [觉悟](/zh/awakening/)

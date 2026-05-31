@@ -1,4 +1,4 @@
-<!-- id: LC-HT-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
+﻿<!-- id: LC-HT-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
 
 # 天国财宝
 
@@ -21,11 +21,11 @@
 
 ## 相关词条
 
-- [去天国路线图](/zh/go-to-heaven-route/)
-- [偿还债务](/zh/償還债务/)
-- [无相布施](/zh/wuxiang-bushi/)
-- [心灵花园](/zh/heart-garden/)
+- [去天国路线图](/zh/route-to-heaven/)
+- [偿还债务](/zh/debt-repayment/)
+- [无相布施](/zh/formless-giving/)
+- [心灵花园](/zh/soul-garden/)
 - [F币](/zh/f-coin/)
-- [了却尘缘](/zh/liaoque-chenyuan/)
-- [极乐界](/zh/jilei-jie/)
+- [了却尘缘](/zh/releasing-worldly-bonds/)
+- [极乐界](/zh/elysium-world/)
 - [天国](/zh/kingdom-of-heaven/)

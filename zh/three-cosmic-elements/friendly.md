@@ -1,4 +1,4 @@
----
+﻿---
 title: 宇宙三要素（友好版）
 ---
 
@@ -120,4 +120,4 @@ title: 宇宙三要素（友好版）
 
 ## 相关词条
 
-[意识](/zh/consciousness/) · [结构](/zh/structure/) · [能量](/zh/energy/) · [上帝](/zh/greatest-creator/) · [法眼](/zh/spiritual-eye/) · [反物质结构](/zh/antimatter-structure/) · [心像思维](/zh/heart-image-thinking/) · [提升振动频率](/zh/raise-vibration-frequency/)
+[意识](/zh/consciousness/) · [结构](/zh/structure/) · [能量](/zh/energy/) · [上帝](/zh/greatest-creator/) · [法眼](/zh/linyan/) · [反物质结构](/zh/antimatter-structure/) · [心像思维](/zh/heart-image-thinking/) · [提升振动频率](/zh/raise-vibration-frequency/)

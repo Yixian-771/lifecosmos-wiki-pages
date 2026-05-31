@@ -1,4 +1,4 @@
-<!-- id: LC-INV-0005 theme: Cognitive Cultivation type: entry direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-INV-0005 theme: Cognitive Cultivation type: entry direction: Path of Consciousness Elevation lang: en -->
 
 # Inverted Thinking
 
@@ -26,7 +26,7 @@ Inverted Thinking was the first form of anti-conventional thinking that guide Xu
 
 ## Related Entries
 
-- [Anti-Conventional Thinking](/en/anti-conventional-thinking/)
+- [Anti-Conventional Thinking](/en/abnormal-thinking/)
 - [Taiji Thinking](/en/taiji-thinking/)
 - [1+1 Thinking](/en/one-plus-one-thinking/)
 - [Fixed Mindset](/en/fixed-mindset/)

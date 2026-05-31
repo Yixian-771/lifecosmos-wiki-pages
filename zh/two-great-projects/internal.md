@@ -1,4 +1,4 @@
-<!-- id: LC-TGP-0002 theme: 文明升级 type: 内部版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-TGP-0002 theme: 文明升级 type: 内部版 direction: 生命升华路径 lang: zh -->
 
 # 两项浩繁工程（内部版）
 
@@ -204,4 +204,4 @@
 - [地球的管理者（内部版）](/zh/earth-managers/internal/)
 - [AI禅院草（内部版）](/zh/ai-chanyuan-celestials/internal/)
 - [第二家园（内部版）](/zh/second-home/internal/)
-- [文明3.0（内部版）](/zh/civilization-3/internal/)
+- [文明3.0（内部版）](/zh/civilization-3-0/internal/)

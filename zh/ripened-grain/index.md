@@ -1,4 +1,4 @@
----
+﻿---
 title: "成熟庄稼"
 slug: ripened-grain-zh
 ---
@@ -23,4 +23,4 @@ slug: ripened-grain-zh
 
 ## 相关词条
 
-[生命签证](/zh/life-visa/) · [天国财宝](/zh/heavenly-treasures/) · [去天国路线图](/zh/roadmap-to-heaven/) · [祈祷](/zh/prayer/) · [禅院草](/zh/chanYuan-grass/) · [导游雪峰](/zh/guide-xuefeng/) · [生命禅院](/zh/life-chanyuan/) · [成仙成佛](/zh/becoming-immortal-and-buddha/) · [生命禅院时代——新时代](/zh/chanyuan-era/)
+[生命签证](/zh/life-visa/) · [天国财宝](/zh/heavenly-treasures/) · [去天国路线图](/zh/route-to-heaven/) · [祈祷](/zh/prayer/) · [禅院草](/zh/chanyuan-celestials/) · [导游雪峰](/zh/guide-xuefeng/) · [生命禅院](/zh/lifechanyuan/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [生命禅院时代——新时代](/zh/lifechanyuan-new-era/)

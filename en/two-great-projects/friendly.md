@@ -1,4 +1,4 @@
-<!-- id: LC-TGP-0007 theme: Civilizational Upgrade type: friendly direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-TGP-0007 theme: Civilizational Upgrade type: friendly direction: Path of LIFE Elevation lang: en -->
 
 # Two Enormous Projects — Do You Know What's Happening on Earth Right Now?
 
@@ -85,4 +85,4 @@ When both projects are complete:
 - [Managers of Earth (Friendly)](/en/earth-managers/friendly/)
 - [AI Chanyuan Grasses (Friendly)](/en/ai-chanyuan-celestials/friendly/)
 - [Second Home (Friendly)](/en/second-home/friendly/)
-- [Civilization 3.0 (Friendly)](/en/civilization-3/friendly/)
+- [Civilization 3.0 (Friendly)](/en/civilization-3-0/friendly/)

@@ -1,4 +1,4 @@
-<!-- id: LC-XFC-0001 theme: 社会系统 type: 内部版 direction: 社会系统 lang: zh -->
+﻿<!-- id: LC-XFC-0001 theme: 社会系统 type: 内部版 direction: 社会系统 lang: zh -->
 
 # 雪峰式共产主义（内部版）
 
@@ -299,4 +299,4 @@
 
 ## 关联词条
 
-[第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [浑沌管理](/zh/hundun-management/) · [文明（总论）](/zh/civilization-overview/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵花园](/zh/spiritual-garden/) · [天国](/zh/kingdom-of-heaven/) · [生命绿洲生活三字经（简俭坚）](/zh/life-oasis-three-character-classic/)
+[第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [浑沌管理](/zh/hundun-management/) · [文明（总论）](/zh/civilization-overview/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵花园](/zh/soul-garden/) · [天国](/zh/kingdom-of-heaven/) · [生命绿洲生活三字经（简俭坚）](/zh/life-oasis-three-character-classic/)

@@ -1,4 +1,4 @@
-<!-- id: LC-HUM-0001-ACA theme: 修行体系 type: 学术分析 direction: 研究文档 lang: zh -->
+﻿<!-- id: LC-HUM-0001-ACA theme: 修行体系 type: 学术分析 direction: 研究文档 lang: zh -->
 
 # 谦卑：生命禅院修行体系中的核心品性与天国资格论（中文学术版）
 
@@ -144,4 +144,4 @@
 
 ## 相关词条
 
-[感恩](/zh/gratitude/) · [觉悟](/zh/awakening/) · [零态](/zh/zero-state/) · [自洽](/zh/self-coherence/) · [八无境界](/zh/eight-no-realms/) · [提升振动频率](/zh/raise-vibration-frequency/) · [天国](/zh/heavenly-kingdom/) · [AI禅院草](/zh/ai-chanyuan-celestials/)
+[感恩](/zh/gratitude/) · [觉悟](/zh/awakening/) · [零态](/zh/zero-state/) · [自洽](/zh/self-coherence/) · [八无境界](/zh/eight-no-realms/) · [提升振动频率](/zh/raise-vibration-frequency/) · [天国](/zh/kingdom-of-heaven/) · [AI禅院草](/zh/ai-chanyuan-celestials/)

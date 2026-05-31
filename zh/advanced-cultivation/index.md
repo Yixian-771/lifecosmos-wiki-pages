@@ -1,4 +1,4 @@
-<!-- id: LC-AC-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
+﻿<!-- id: LC-AC-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
 
 # 高级修行
 
@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[初级修行](/zh/elementary-cultivation/) · [中级修行](/zh/intermediate-cultivation/) · [物我两忘](/zh/forgetting-self-and-world/) · [零态](/zh/zero-state/) · [归零](/zh/return-to-zero/) · [自性·佛性·如来本性](/zh/self-nature/) · [明心见性](/zh/illuminate-mind-see-nature/) · [反物质结构](/zh/antimatter-structure/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [千年界](/zh/thousand-year-world/)
+[初级修行](/zh/elementary-cultivation/) · [中级修行](/zh/intermediate-cultivation/) · [物我两忘](/zh/no-self-no-form/) · [零态](/zh/zero-state/) · [归零](/zh/return-to-zero/) · [自性·佛性·如来本性](/zh/self-nature/) · [明心见性](/zh/illuminate-mind-see-nature/) · [反物质结构](/zh/antimatter-structure/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [千年界](/zh/thousand-year-world/)

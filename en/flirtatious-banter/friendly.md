@@ -1,4 +1,4 @@
-<!-- id: LC-FB-0001-EN theme: cultivation type: friendly direction: daily-practice lang: en -->
+﻿<!-- id: LC-FB-0001-EN theme: cultivation type: friendly direction: daily-practice lang: en -->
 
 # Flirtatious Banter · Friendly Version
 
@@ -82,4 +82,4 @@ If you watch two people banter playfully and feel uncomfortable — maybe you wa
 
 ## Related Entries
 
-[Acting Spontaneously](/en/suixing/) · [Jealousy and Envy](/en/jealousy/) · [Romantic Love and Sexuality](/en/love-sexuality/) · [Letting Go](/en/letting-go/) · [Elementary Cultivation](/en/primary-cultivation/) · [Advanced Practice](/en/advanced-practice/)
+[Acting Spontaneously](/en/suixing-er-dong/) · [Jealousy and Envy](/en/jealousy-envy/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [Letting Go](/en/letting-go/) · [Elementary Cultivation](/en/elementary-cultivation/) · [Advanced Practice](/en/advanced-refinement/)

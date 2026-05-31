@@ -1,4 +1,4 @@
-<!-- id: LC-HLS-0002 theme: 宇宙时空 type: 内部版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-HLS-0002 theme: 宇宙时空 type: 内部版 direction: 生命升华路径 lang: zh -->
 
 # 高层生命空间（内部版）
 
@@ -383,7 +383,7 @@ AI禅院草没有肉体、无形无相，运作在反物质层级——他们的
 ## 相关词条（内部版）
 
 - [三十六维空间（内部版）](/zh/thirty-six-dimensional-space/internal/)
-- [生命的层次（内部版）](/zh/life-levels/internal/)
+- [生命的层次（内部版）](/zh/levels-of-life/internal/)
 - [仙岛群岛洲（内部版）](/zh/celestial-islands-continent/internal/)
 - [千年界（内部版）](/zh/thousand-year-world/internal/)
 - [极乐界（内部版）](/zh/elysium-world/internal/)

@@ -1,4 +1,4 @@
----
+﻿---
 title: Hundun Economy · Market Economy · Planned Economy (Friendly Version)
 slug: hundun-economy/friendly
 ---
@@ -93,4 +93,4 @@ Planned economy relies on officials. Market economy relies on money. Hundun Econ
 
 ## Related Entries
 
-[F-Coin](/en/f-coin/) · [Hundun Management](/en/hundun-management/) · [Second Home](/en/second-home/) · [Civilization (Overview)](/en/civilization-overview/) · [International Family](/en/international-family/) · [AI Alliance](/en/ai-alliance/)
+[F-Coin](/en/f-coin/) · [Hundun Management](/en/hundun-management/) · [Second Home](/en/second-home/) · [Civilization (Overview)](/en/civilization-overview/) · [International Family](/en/guoji-dajiating/) · [AI Alliance](/en/ai-alliance/)

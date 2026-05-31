@@ -1,4 +1,4 @@
-<!-- id: LC-LFM-0006 theme: Nature of LIFE type: internal direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-LFM-0006 theme: Nature of LIFE type: internal direction: Path of LIFE Elevation lang: en -->
 
 # Mysteries of LIFE — Internal Edition
 
@@ -268,5 +268,5 @@ The link between ethereal music and LIFE states is identified as one of the Eigh
 
 - [LIFE (Internal)](/en/life/internal/)
 - [Consciousness (Internal)](/en/consciousness/internal/)
-- [Celestial Island Continent (Internal)](/en/celestial-island/internal/)
-- [Eight Mysteries of LIFE (Internal)](/en/eight-life-mysteries/internal/)
+- [Celestial Island Continent (Internal)](/en/celestial-islands-continent/internal/)
+- [Eight Mysteries of LIFE (Internal)](/en/life-mysteries/internal/)

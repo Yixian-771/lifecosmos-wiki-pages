@@ -1,4 +1,4 @@
-<!-- id: LC-PRY-0001 theme: 修行修炼 type: 友好版 direction: 与上帝联系的方式 lang: zh -->
+﻿<!-- id: LC-PRY-0001 theme: 修行修炼 type: 友好版 direction: 与上帝联系的方式 lang: zh -->
 
 # 祈祷（友好版）
 
@@ -127,4 +127,4 @@
 - [感恩](/zh/gratitude/)——祈祷的首要内容
 - [缘——奥秘和真谛](/zh/yuan/)——祈祷如何了却恶缘
 - [天国财宝](/zh/heavenly-treasures/)——祈祷在天国路径中的作用
-- [道](/zh/tao/)——祈祷效力的宇宙机制基础
+- [道](/zh/dao/)——祈祷效力的宇宙机制基础

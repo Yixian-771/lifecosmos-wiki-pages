@@ -1,4 +1,4 @@
-<!-- id: LC-ROL-0001-EN theme: Cultivation Practice type: index lang: en -->
+﻿<!-- id: LC-ROL-0001-EN theme: Cultivation Practice type: index lang: en -->
 
 # Roadmap of Human Life and LIFE
 
@@ -18,4 +18,4 @@
 
 ## Related Entries
 
-[Value, Meaning & Purpose of Human Life](/en/value-meaning-purpose-of-life/) · [Peak of Human Life and LIFE](/en/peak-of-life-and-being/) · [Route to Heaven](/en/route-to-heaven/) · [Debt Repayment](/en/debt-repayment/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Heavenly Treasure](/en/heavenly-treasure/) · [Life and Death](/en/life-and-death/) · [Karma, Retribution and Reincarnation](/en/karma-retribution-reincarnation/) · [Celestials of the Thousand-Year World](/en/thousand-year-world-celestials/) · [Celestials of the Ten-Thousand-Year World](/en/ten-thousand-year-world-celestials/) · [Celestials of Elysium](/en/elysium-world-celestials/) · [Consciousness](/en/consciousness/)
+[Value, Meaning & Purpose of Human Life](/en/value-meaning-purpose-of-life/) · [Peak of Human Life and LIFE](/en/peak-of-life-and-being/) · [Route to Heaven](/en/route-to-heaven/) · [Debt Repayment](/en/debt-repayment/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Heavenly Treasure](/en/heavenly-treasures/) · [Life and Death](/en/life-and-death/) · [Karma, Retribution and Reincarnation](/en/karma-retribution-reincarnation/) · [Celestials of the Thousand-Year World](/en/thousand-year-world-celestials/) · [Celestials of the Ten-Thousand-Year World](/en/ten-thousand-year-world-celestials/) · [Celestials of Elysium](/en/elysium-world-celestials/) · [Consciousness](/en/consciousness/)

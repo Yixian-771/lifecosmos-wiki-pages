@@ -1,4 +1,4 @@
-<!-- id: LC-QE-0001-ZH theme: 修行 type: 导航 direction: 生活修炼 lang: zh -->
+﻿<!-- id: LC-QE-0001-ZH theme: 修行 type: 导航 direction: 生活修炼 lang: zh -->
 
 # 量子纠缠和"另一半"
 
@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[缘——奥秘和真谛](/zh/yuan-mystery-truth/) · [八无境界](/zh/eight-no-boundaries/) · [自洽](/zh/self-sufficiency/) · [正果](/zh/right-fruit/) · [成仙成佛](/zh/becoming-immortal-buddha/) · [极乐界](/zh/elysian-realm-world/) · [太极](/zh/taiji/) · [生命的轮回](/zh/life-reincarnation/) · [三十六道八卦阵](/zh/36-bagua-formations/)
+[缘——奥秘和真谛](/zh/yuan/) · [八无境界](/zh/eight-no-realms/) · [自洽](/zh/self-coherence/) · [正果](/zh/true-fruition/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [极乐界](/zh/elysium-world/) · [太极](/zh/taiji/) · [生命的轮回](/zh/life-reincarnation/) · [三十六道八卦阵](/zh/thirty-six-bagua-formations/)

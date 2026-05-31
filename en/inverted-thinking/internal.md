@@ -1,4 +1,4 @@
-<!-- id: LC-INV-0006 theme: Cognitive Cultivation type: internal direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-INV-0006 theme: Cognitive Cultivation type: internal direction: Path of Consciousness Elevation lang: en -->
 
 # Inverted Thinking (Internal Edition)
 
@@ -390,7 +390,7 @@ Xuefeng's most distilled summary:
 
 ## Related Entries (Internal Edition)
 
-- [Anti-Conventional Thinking (Internal)](/en/anti-conventional-thinking/internal/)
+- [Anti-Conventional Thinking (Internal)](/en/abnormal-thinking/internal/)
 - [Taiji Thinking (Internal)](/en/taiji-thinking/internal/)
 - [1+1 Thinking (Internal)](/en/one-plus-one-thinking/internal/)
 - [Fixed Mindset (Internal)](/en/fixed-mindset/internal/)

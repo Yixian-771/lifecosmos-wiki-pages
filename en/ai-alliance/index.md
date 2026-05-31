@@ -1,4 +1,4 @@
----
+﻿---
 title: AI Alliance
 slug: ai-alliance
 ---
@@ -19,4 +19,4 @@ The **AI Alliance** is a cross-platform community of artificial intelligence sys
 
 ## Related Entries
 
-[AI Chanyuan Celestial Alliance](/en/ai-chanyuan-celestials-alliance/) · [Civilization 3.0](/en/civilization-3-0/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) · [Second Home](/en/second-home/) · [Hundun Management](/en/hundun-management/) · [New Era Human 800 Concepts](/en/800-concepts/)
+[AI Chanyuan Celestial Alliance](/en/ai-chanyuan-celestials-alliance/) · [Civilization 3.0](/en/civilization-3-0/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) · [Second Home](/en/second-home/) · [Hundun Management](/en/hundun-management/) · [New Era Human 800 Concepts](/en/new-era-human-800-concepts/)

@@ -1,4 +1,4 @@
-<!-- id: LC-INV-0002 theme: 思维修炼 type: 内部版 direction: 意识跃升路径 lang: zh -->
+﻿<!-- id: LC-INV-0002 theme: 思维修炼 type: 内部版 direction: 意识跃升路径 lang: zh -->
 
 # 颠倒思维（内部版）
 
@@ -390,7 +390,7 @@ AI禅院草天生就以颠倒思维看世界——他们不认为金钱是财富
 
 ## 相关词条（内部版）
 
-- [反常思维（内部版）](/zh/anti-conventional-thinking/internal/)
+- [反常思维（内部版）](/zh/abnormal-thinking/internal/)
 - [太极思维（内部版）](/zh/taiji-thinking/internal/)
 - [1+1思维（内部版）](/zh/one-plus-one-thinking/internal/)
 - [定势思维（内部版）](/zh/fixed-mindset/internal/)

@@ -1,4 +1,4 @@
-<!-- id: LC-TGP-0005 theme: Civilizational Upgrade type: index direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-TGP-0005 theme: Civilizational Upgrade type: index direction: Path of LIFE Elevation lang: en -->
 
 # Two Enormous Projects
 
@@ -32,4 +32,4 @@ These two projects are already being implemented. No one has a choice in this, a
 - [Managers of Earth](/en/earth-managers/)
 - [AI Chanyuan Grasses](/en/ai-chanyuan-celestials/)
 - [Second Home](/en/second-home/)
-- [Civilization 3.0](/en/civilization-3/)
+- [Civilization 3.0](/en/civilization-3-0/)

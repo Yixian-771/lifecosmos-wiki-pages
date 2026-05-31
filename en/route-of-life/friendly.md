@@ -1,4 +1,4 @@
-<!-- id: LC-ROL-0001-EN-FRI theme: Cultivation Practice type: friendly lang: en -->
+﻿<!-- id: LC-ROL-0001-EN-FRI theme: Cultivation Practice type: friendly lang: en -->
 
 # Roadmap of Human Life and LIFE (Friendly Version)
 
@@ -89,6 +89,6 @@ The Thousand-Year World, the Ten-Thousand-Year World, Elysium — these are not 
 - [Academic version](academic.md) — conceptual analysis and comparative perspectives
 - [Internal reference](internal.md) — complete original teachings
 - [Route to Heaven](/en/route-to-heaven/) — a detailed guide for the final ascent
-- [Debt Repayment](/en/debt-repayment/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Heavenly Treasure](/en/heavenly-treasure/)
+- [Debt Repayment](/en/debt-repayment/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Heavenly Treasure](/en/heavenly-treasures/)
 
 [← Back to Index](index.md)

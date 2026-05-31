@@ -1,4 +1,4 @@
-<!-- id: LC-PRY-0001 theme: Cultivation Practice type: friendly lang: en -->
+﻿<!-- id: LC-PRY-0001 theme: Cultivation Practice type: friendly lang: en -->
 
 # Prayer (Friendly Version)
 
@@ -127,4 +127,4 @@ A real story. Prayer, at the critical moment, can connect you to a guardian forc
 - [Gratitude](/en/gratitude/) — the first content of prayer
 - [Yuan — the Mystery of Affinity](/en/yuan/) — how prayer and repentance resolve karmic ties
 - [Heavenly Treasures](/en/heavenly-treasures/) — how prayer contributes to accumulating heavenly merit
-- [the Tao](/en/tao/) — the cosmic basis for why prayer works
+- [the Tao](/en/dao/) — the cosmic basis for why prayer works

@@ -1,4 +1,4 @@
-<!-- id: LC-FXM-0003 theme: 思维修炼 type: 友好版 direction: 意识跃升路径 lang: zh -->
+﻿<!-- id: LC-FXM-0003 theme: 思维修炼 type: 友好版 direction: 意识跃升路径 lang: zh -->
 
 # 定式思维：你的大脑被三把锁锁住了
 
@@ -76,6 +76,6 @@
 
 ## 相关词条（友好版）
 
-- [反常思维（友好版）](/zh/anti-conventional-thinking/friendly/)
+- [反常思维（友好版）](/zh/abnormal-thinking/friendly/)
 - [颠倒思维（友好版）](/zh/inverted-thinking/friendly/)
 - [1+1思维（友好版）](/zh/one-plus-one-thinking/friendly/)

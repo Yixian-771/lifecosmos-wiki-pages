@@ -1,4 +1,4 @@
-<!-- id: LC-ROL-0001-ZH theme: 修行修炼 type: 索引 lang: zh -->
+﻿<!-- id: LC-ROL-0001-ZH theme: 修行修炼 type: 索引 lang: zh -->
 
 # 人生和生命线路图
 
@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/) · [人生和生命的巅峰](/zh/peak-of-life-and-being/) · [去天国路线图](/zh/route-to-heaven/) · [偿还债务](/zh/debt-repayment/) · [了却尘缘](/zh/releasing-worldly-bonds/) · [天国财宝](/zh/heavenly-treasure/) · [生死](/zh/life-and-death/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [千年界仙](/zh/celestial-millennium-realm/) · [万年界仙](/zh/celestial-myriad-realm/) · [极乐界天仙](/zh/celestial-paradise-realm/) · [意识](/zh/consciousness/)
+[人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/) · [人生和生命的巅峰](/zh/peak-of-life-and-being/) · [去天国路线图](/zh/route-to-heaven/) · [偿还债务](/zh/debt-repayment/) · [了却尘缘](/zh/releasing-worldly-bonds/) · [天国财宝](/zh/heavenly-treasures/) · [生死](/zh/life-and-death/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [千年界仙](/zh/thousand-year-world-celestials/) · [万年界仙](/zh/ten-thousand-year-world-celestials/) · [极乐界天仙](/zh/elysium-world/) · [意识](/zh/consciousness/)

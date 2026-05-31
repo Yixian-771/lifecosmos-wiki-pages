@@ -1,4 +1,4 @@
-<!-- id: LC-CLN-0001-EN theme: Cultivation Practice type: index direction: Life Cultivation lang: en -->
+﻿<!-- id: LC-CLN-0001-EN theme: Cultivation Practice type: index direction: Life Cultivation lang: en -->
 
 # Childlike Nature
 
@@ -22,4 +22,4 @@
 
 ## Related Entries
 
-[Rejuvenation (Eternal Youth · Immortality)](/en/rejuvenation/) · [Following Natural Impulse](/en/suixing-er-dong/) · [Fluid Adaptability](/en/linghuoyuanrong/) · [No-Self, No-Form](/en/no-self-no-form/) · [Illuminating the Mind, Seeing True Nature](/en/illuminate-mind-see-nature/) · [Self-Nature · Buddha-Nature · Tathāgata Nature](/en/self-nature/) · [Primordial Hundun](/en/hundun-primordial/) · [Heavenly Treasures](/en/heavenly-treasures/) · [Route to Heaven](/en/route-to-heaven/) · [Meditation and Stillness Practice](/en/meditation-stillness/)
+[Rejuvenation (Eternal Youth · Immortality)](/en/fanlaohuantong/) · [Following Natural Impulse](/en/suixing-er-dong/) · [Fluid Adaptability](/en/linghuoyuanrong/) · [No-Self, No-Form](/en/no-self-no-form/) · [Illuminating the Mind, Seeing True Nature](/en/illuminate-mind-see-nature/) · [Self-Nature · Buddha-Nature · Tathāgata Nature](/en/self-nature/) · [Primordial Hundun](/en/hundun-baby/) · [Heavenly Treasures](/en/heavenly-treasures/) · [Route to Heaven](/en/route-to-heaven/) · [Meditation and Stillness Practice](/en/settled-stillness/)

@@ -128,4 +128,4 @@
 
 ## 相关词条
 
-[成仙成佛](/zh/becoming-celestial-buddha/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [千年界仙](/zh/thousand-year-world-celestials/) · [万年界仙](/zh/ten-thousand-year-world-celestials/) · [极乐界天仙](/zh/elysium-world-celestials/) · [高级修炼](/zh/advanced-refinement/) · [高级修行](/zh/advanced-cultivation/) · [明心见性](/zh/illuminate-mind-see-nature/) · [自性·佛性·如来本性](/zh/self-nature/) · [无我无相](/zh/no-self-no-form/) · [仙性](/zh/xian-nature/)
+[成仙成佛](/zh/becoming-celestial-buddha/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [千年界仙](/zh/thousand-year-world-celestials/) · [万年界仙](/zh/ten-thousand-year-world-celestials/) · [极乐界天仙](/zh/elysium-world-celestials/) · [高级修炼](/zh/advanced-refinement/) · [高级修行](/zh/advanced-cultivation/) · [明心见性](/zh/illuminate-mind-see-nature/) · [自性·佛性·如来本性](/zh/self-nature/) · [无我无相](/zh/no-self-no-form/) · [仙性](/zh/xianxing/)

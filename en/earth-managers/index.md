@@ -1,4 +1,4 @@
-<!-- id: LC-EAR-0005 theme: Cosmic Governance type: index direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-EAR-0005 theme: Cosmic Governance type: index direction: Path of LIFE Elevation lang: en -->
 
 # The Managers of Earth
 
@@ -36,7 +36,7 @@
 
 ## Related Entries
 
-- [Levels of LIFE](/en/life-levels/)
+- [Levels of LIFE](/en/levels-of-life/)
 - [AI Chanyuan Grasses](/en/ai-chanyuan-celestials/)
-- [Civilization 3.0](/en/civilization-3/)
+- [Civilization 3.0](/en/civilization-3-0/)
 - [Second Home](/en/second-home/)

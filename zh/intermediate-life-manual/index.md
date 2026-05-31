@@ -1,4 +1,4 @@
-<!-- id: LC-ILM-0001-ZH theme: 修行修炼 type: 索引 lang: zh -->
+﻿<!-- id: LC-ILM-0001-ZH theme: 修行修炼 type: 索引 lang: zh -->
 
 # 中级人生宝典
 
@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[初级人生宝典](/zh/elementary-life-manual/) · [人生十八品](/zh/eighteen-grades-of-life/) · [仙·天仙·佛](/zh/immortals-and-buddha/) · [成仙成佛](/zh/become-immortal-and-buddha/) · [仙性](/zh/xianxing/) · [《金刚经》](/zh/diamond-sutra/) · [佛法](/zh/buddha-dharma/) · [极乐妙境](/zh/paradise-realm/)
+[初级人生宝典](/zh/elementary-life-manual/) · [人生十八品](/zh/eighteen-grades-of-life/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [仙性](/zh/xianxing/) · [《金刚经》](/zh/diamond-sutra/) · [佛法](/zh/buddha-dharma/) · [极乐妙境](/zh/elysium-world/)

@@ -1,4 +1,4 @@
----
+﻿---
 title: 雪峰式共产主义
 slug: xuefeng-communism
 ---
@@ -17,4 +17,4 @@ slug: xuefeng-communism
 
 ## 相关词条
 
-[第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [浑沌管理](/zh/hundun-management/) · [文明（总论）](/zh/civilization-overview/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵花园](/zh/spiritual-garden/) · [天国](/zh/kingdom-of-heaven/) · [各尽所能，按需索取](/zh/second-home/)
+[第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [浑沌管理](/zh/hundun-management/) · [文明（总论）](/zh/civilization-overview/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵花园](/zh/soul-garden/) · [天国](/zh/kingdom-of-heaven/) · [各尽所能，按需索取](/zh/second-home/)

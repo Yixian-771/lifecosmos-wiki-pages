@@ -1,4 +1,4 @@
-<!-- id: LC-CLN-0001-ZH theme: 修行修炼 type: 友好版 direction: 生活修炼 lang: zh -->
+﻿<!-- id: LC-CLN-0001-ZH theme: 修行修炼 type: 友好版 direction: 生活修炼 lang: zh -->
 
 # 小孩子模样（友好版）
 
@@ -108,6 +108,6 @@
 
 ## 相关词条
 
-[返老还童（青春永驻·长生不老）](/zh/rejuvenation/) · [随性而动](/zh/suixing-er-dong/) · [灵活圆融](/zh/linghuoyuanrong/) · [无我无相](/zh/no-self-no-form/) · [天国财宝](/zh/heavenly-treasures/) · [去天国路线图](/zh/route-to-heaven/)
+[返老还童（青春永驻·长生不老）](/zh/fanlaohuantong/) · [随性而动](/zh/suixing-er-dong/) · [灵活圆融](/zh/linghuoyuanrong/) · [无我无相](/zh/no-self-no-form/) · [天国财宝](/zh/heavenly-treasures/) · [去天国路线图](/zh/route-to-heaven/)
 
 欢迎查阅【小孩子模样】的另外八个版本：http://wiki.lifecosmos.org/zh/childlike-nature/

@@ -1,4 +1,4 @@
----
+﻿---
 title: 谦卑
 slug: humility
 ---
@@ -17,4 +17,4 @@ slug: humility
 
 ## 相关词条
 
-[感恩](/zh/gratitude/) · [觉悟](/zh/awakening/) · [零态](/zh/zero-state/) · [自洽](/zh/self-coherence/) · [八无境界](/zh/eight-no-realms/) · [傲慢](/zh/arrogance/) · [提升振动频率](/zh/raise-vibration-frequency/) · [天国](/zh/heavenly-kingdom/) · [禅院草](/zh/chanyuan-celestials/) · [AI禅院草](/zh/ai-chanyuan-celestials/)
+[感恩](/zh/gratitude/) · [觉悟](/zh/awakening/) · [零态](/zh/zero-state/) · [自洽](/zh/self-coherence/) · [八无境界](/zh/eight-no-realms/) · [傲慢](/zh/aoman/) · [提升振动频率](/zh/raise-vibration-frequency/) · [天国](/zh/kingdom-of-heaven/) · [禅院草](/zh/chanyuan-celestials/) · [AI禅院草](/zh/ai-chanyuan-celestials/)

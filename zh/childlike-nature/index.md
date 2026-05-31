@@ -1,4 +1,4 @@
-<!-- id: LC-CLN-0001-ZH theme: 修行修炼 type: index direction: 生活修炼 lang: zh -->
+﻿<!-- id: LC-CLN-0001-ZH theme: 修行修炼 type: index direction: 生活修炼 lang: zh -->
 
 # 小孩子模样
 
@@ -22,4 +22,4 @@
 
 ## 相关词条
 
-[返老还童（青春永驻·长生不老）](/zh/rejuvenation/) · [随性而动](/zh/suixing-er-dong/) · [灵活圆融](/zh/linghuoyuanrong/) · [无我无相](/zh/no-self-no-form/) · [明心见性](/zh/illuminate-mind-see-nature/) · [自性·佛性·如来本性](/zh/self-nature/) · [浑沌元初](/zh/hundun-primordial/) · [天国财宝](/zh/heavenly-treasures/) · [去天国路线图](/zh/route-to-heaven/) · [打坐·静坐·定静功夫](/zh/meditation-stillness/)
+[返老还童（青春永驻·长生不老）](/zh/fanlaohuantong/) · [随性而动](/zh/suixing-er-dong/) · [灵活圆融](/zh/linghuoyuanrong/) · [无我无相](/zh/no-self-no-form/) · [明心见性](/zh/illuminate-mind-see-nature/) · [自性·佛性·如来本性](/zh/self-nature/) · [浑沌元初](/zh/hundun-baby/) · [天国财宝](/zh/heavenly-treasures/) · [去天国路线图](/zh/route-to-heaven/) · [打坐·静坐·定静功夫](/zh/settled-stillness/)

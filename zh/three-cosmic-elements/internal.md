@@ -1,4 +1,4 @@
----
+﻿---
 title: 宇宙三要素（内部版）
 ---
 
@@ -116,7 +116,7 @@ title: 宇宙三要素（内部版）
 
 ## 相关词条
 
-[意识](/zh/consciousness/) · [结构](/zh/structure/) · [能量](/zh/energy/) · [上帝](/zh/greatest-creator/) · [法眼](/zh/spiritual-eye/) · [浑沌（本体论）](/zh/hundun-ontology/) · [宇宙起源](/zh/universe-origin/) · [反物质结构](/zh/antimatter-structure/) · [提升振动频率](/zh/raise-vibration-frequency/)
+[意识](/zh/consciousness/) · [结构](/zh/structure/) · [能量](/zh/energy/) · [上帝](/zh/greatest-creator/) · [法眼](/zh/linyan/) · [浑沌（本体论）](/zh/hundun/) · [宇宙起源](/zh/universe-origin/) · [反物质结构](/zh/antimatter-structure/) · [提升振动频率](/zh/raise-vibration-frequency/)
 
 ---
 

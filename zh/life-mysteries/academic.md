@@ -1,4 +1,4 @@
-<!-- id: LC-LFM-0004 theme: 生命本质 type: 学术版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-LFM-0004 theme: 生命本质 type: 学术版 direction: 生命升华路径 lang: zh -->
 
 # 生命奥秘（广义）：生命禅院生命真相论的知识论结构及其比较研究
 
@@ -101,4 +101,4 @@
 
 - [生命（学术版）](/zh/life/academic/)
 - [意识（学术版）](/zh/consciousness/academic/)
-- [生命八大奥秘（学术版）](/zh/eight-life-mysteries/academic/)
+- [生命八大奥秘（学术版）](/zh/life-mysteries/academic/)

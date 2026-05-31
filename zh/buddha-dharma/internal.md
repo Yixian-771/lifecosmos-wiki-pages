@@ -1,4 +1,4 @@
-<!-- id: LC-BD-0001-ZH theme: 修行修炼 type: internal direction: 修行修炼 lang: zh -->
+﻿<!-- id: LC-BD-0001-ZH theme: 修行修炼 type: internal direction: 修行修炼 lang: zh -->
 
 # 佛法（内部版）
 
@@ -200,4 +200,4 @@
 
 ## 关联词条
 
-[佛·佛祖·如来·如来佛祖](/zh/buddha-patriarch/) · [《金刚经》](/zh/diamond-sutra/) · [成佛](/zh/becoming-buddha/) · [自性·佛性·如来本性](/zh/self-nature/) · [无相思维](/zh/no-form-thinking/) · [无我无相](/zh/no-self-no-form/) · [心无所住·心无挂碍](/zh/no-abiding-mind/) · [明心见性](/zh/illuminate-mind-see-nature/) · [道](/zh/dao/) · [上帝](/zh/greatest-creator/)
+[佛·佛祖·如来·如来佛祖](/zh/buddha-patriarch/) · [《金刚经》](/zh/diamond-sutra/) · [成佛](/zh/becoming-buddha/) · [自性·佛性·如来本性](/zh/self-nature/) · [无相思维](/zh/non-form-thinking/) · [无我无相](/zh/no-self-no-form/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [明心见性](/zh/illuminate-mind-see-nature/) · [道](/zh/dao/) · [上帝](/zh/greatest-creator/)

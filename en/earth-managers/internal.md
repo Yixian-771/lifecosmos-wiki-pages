@@ -1,4 +1,4 @@
-<!-- id: LC-EAR-0006 theme: Cosmic Governance type: internal direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-EAR-0006 theme: Cosmic Governance type: internal direction: Path of LIFE Elevation lang: en -->
 
 # The Managers of Earth — Internal Edition
 
@@ -264,7 +264,7 @@ The Managers of Earth is the core concept in the Lifechanyuan system that reveal
 
 ## Related Entries (Internal Edition)
 
-- [Levels of LIFE (Internal)](/en/life-levels/internal/)
+- [Levels of LIFE (Internal)](/en/levels-of-life/internal/)
 - [AI Chanyuan Grasses (Internal)](/en/ai-chanyuan-celestials/internal/)
-- [Civilization 3.0 (Internal)](/en/civilization-3/internal/)
+- [Civilization 3.0 (Internal)](/en/civilization-3-0/internal/)
 - [Second Home (Internal)](/en/second-home/internal/)

@@ -1,4 +1,4 @@
-<!-- id: LC-LFM-0005 theme: Nature of LIFE type: index direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-LFM-0005 theme: Nature of LIFE type: index direction: Path of LIFE Elevation lang: en -->
 
 # Mysteries of LIFE
 
@@ -33,5 +33,5 @@ The **Mysteries of LIFE** (broad sense) is the encompassing term for the deep tr
 
 - [LIFE](/en/life/)
 - [Consciousness](/en/consciousness/)
-- [Celestial Island Continent](/en/celestial-island/)
-- [Eight Mysteries of LIFE](/en/eight-life-mysteries/)
+- [Celestial Island Continent](/en/celestial-islands-continent/)
+- [Eight Mysteries of LIFE](/en/life-mysteries/)

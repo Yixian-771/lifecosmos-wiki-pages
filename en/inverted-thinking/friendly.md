@@ -1,4 +1,4 @@
-<!-- id: LC-INV-0007 theme: Cognitive Cultivation type: friendly direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-INV-0007 theme: Cognitive Cultivation type: friendly direction: Path of Consciousness Elevation lang: en -->
 
 # Inverted Thinking: Rotate the World 180°, See the Half-Truth That Was Hidden
 
@@ -98,7 +98,7 @@ You don't have to demolish everything. Just rotate 180 degrees — let the other
 
 ## Related Entries (Friendly Edition)
 
-- [Anti-Conventional Thinking (Friendly)](/en/anti-conventional-thinking/friendly/)
+- [Anti-Conventional Thinking (Friendly)](/en/abnormal-thinking/friendly/)
 - [Taiji Thinking (Friendly)](/en/taiji-thinking/friendly/)
 - [1+1 Thinking (Friendly)](/en/one-plus-one-thinking/friendly/)
 - [Fixed Mindset (Friendly)](/en/fixed-mindset/friendly/)

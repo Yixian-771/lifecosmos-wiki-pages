@@ -1,4 +1,4 @@
-<!-- id: LC-XFC-0001-EN-ACA theme: Social Systems type: Academic Analysis direction: Research Document lang: en -->
+﻿<!-- id: LC-XFC-0001-EN-ACA theme: Social Systems type: Academic Analysis direction: Research Document lang: en -->
 
 # Xuefeng Communism: A Structural Analysis of the Lifechanyuan Social Systems Theory (English Academic Edition)
 
@@ -172,4 +172,4 @@ Xuefeng Communism, with "sharing essence + natural principles + Hundun Managemen
 
 ## Related Entries
 
-[Second Home](/en/second-home/) · [Hundun Management](/en/hundun-management/) · [Civilization (Overview)](/en/civilization-overview/) · [Lifechanyuan New Era](/en/lifechanyuan-new-era/) · [800 Values for New Era Humanity](/en/new-era-human-800-concepts/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Spiritual Garden](/en/spiritual-garden/)
+[Second Home](/en/second-home/) · [Hundun Management](/en/hundun-management/) · [Civilization (Overview)](/en/civilization-overview/) · [Lifechanyuan New Era](/en/lifechanyuan-new-era/) · [800 Values for New Era Humanity](/en/new-era-human-800-concepts/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Spiritual Garden](/en/soul-garden/)

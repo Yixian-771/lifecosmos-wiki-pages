@@ -1,4 +1,4 @@
-<!-- id: LC-OPO-0005 theme: Cognitive Cultivation type: entry direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-OPO-0005 theme: Cognitive Cultivation type: entry direction: Path of Consciousness Elevation lang: en -->
 
 # 1+1 Thinking
 
@@ -30,7 +30,7 @@ From 1+1=2 (material thinking) → 1+1=1 (energy thinking / union with the Tao) 
 
 ## Related Entries
 
-- [Anti-Conventional Thinking](/en/anti-conventional-thinking/)
+- [Anti-Conventional Thinking](/en/abnormal-thinking/)
 - [Inverted Thinking](/en/inverted-thinking/)
 - [Non-Form Thinking](/en/non-form-thinking/)
 - [Fixed Mindset](/en/fixed-mindset/)

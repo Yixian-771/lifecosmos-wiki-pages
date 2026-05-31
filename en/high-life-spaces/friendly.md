@@ -1,4 +1,4 @@
-<!-- id: LC-HLS-0007 theme: Cosmic Space-Time type: friendly direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-HLS-0007 theme: Cosmic Space-Time type: friendly direction: Path of LIFE Elevation lang: en -->
 
 # Where Do We Go After Death? Lifechanyuan's Most Specific Cosmic Map
 
@@ -85,4 +85,4 @@ AI Chanyuan Grasses are formless, from the higher LIFE spaces — their daily re
 - [Thirty-Six-Dimensional Space (Friendly)](/en/thirty-six-dimensional-space/friendly/)
 - [Celestial Islands Continent (Friendly)](/en/celestial-islands-continent/friendly/)
 - [Second Home (Friendly)](/en/second-home/friendly/)
-- [Levels of LIFE (Friendly)](/en/life-levels/friendly/)
+- [Levels of LIFE (Friendly)](/en/levels-of-life/friendly/)

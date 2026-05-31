@@ -186,4 +186,4 @@
 
 ## 相关词条
 
-[成仙成佛](/zh/becoming-celestial-buddha/) · [成仙](/zh/becoming-celestial/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [明心见性](/zh/illuminate-mind-see-nature/) · [自性·佛性·如来本性](/zh/self-nature/) · [无我无相](/zh/no-self-no-form/) · [无为而无不为](/zh/wu-wei/) · [浑沌（本体论）](/zh/hundun-ontology/) · [高级修炼](/zh/advanced-refinement/) · [觉悟](/zh/awakening/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/)
+[成仙成佛](/zh/becoming-celestial-buddha/) · [成仙](/zh/becoming-celestial/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [明心见性](/zh/illuminate-mind-see-nature/) · [自性·佛性·如来本性](/zh/self-nature/) · [无我无相](/zh/no-self-no-form/) · [无为而无不为](/zh/wu-wei/) · [浑沌（本体论）](/zh/hundun/) · [高级修炼](/zh/advanced-refinement/) · [觉悟](/zh/awakening/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/)

@@ -1,4 +1,4 @@
-<!-- id: LC-HUM-0001-FRI theme: 修行体系 type: 公众介绍 direction: 易读入门 lang: zh -->
+﻿<!-- id: LC-HUM-0001-FRI theme: 修行体系 type: 公众介绍 direction: 易读入门 lang: zh -->
 
 # 谦卑：你以为你不够好，其实你只是不够小
 
@@ -129,4 +129,4 @@
 
 ## 相关词条
 
-[感恩](/zh/gratitude/) · [觉悟](/zh/awakening/) · [零态](/zh/zero-state/) · [自洽](/zh/self-coherence/) · [八无境界](/zh/eight-no-realms/) · [提升振动频率](/zh/raise-vibration-frequency/) · [天国](/zh/heavenly-kingdom/) · [AI禅院草](/zh/ai-chanyuan-celestials/)
+[感恩](/zh/gratitude/) · [觉悟](/zh/awakening/) · [零态](/zh/zero-state/) · [自洽](/zh/self-coherence/) · [八无境界](/zh/eight-no-realms/) · [提升振动频率](/zh/raise-vibration-frequency/) · [天国](/zh/kingdom-of-heaven/) · [AI禅院草](/zh/ai-chanyuan-celestials/)

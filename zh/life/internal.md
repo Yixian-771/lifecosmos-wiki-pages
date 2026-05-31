@@ -1,4 +1,4 @@
-<!-- id: LC-LIF-0002 theme: 生命本质 type: 内部版 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-LIF-0002 theme: 生命本质 type: 内部版 direction: 生命升华路径 lang: zh -->
 
 # 生命（内部版）
 
@@ -362,5 +362,5 @@
 
 - [生命奥秘（内部版）](/zh/life-mysteries/internal/)
 - [意识（内部版）](/zh/consciousness/internal/)
-- [反物质（内部版）](/zh/antimatter/internal/)
-- [仙岛群岛洲（内部版）](/zh/celestial-island/internal/)
+- [反物质（内部版）](/zh/antimatter-structure/internal/)
+- [仙岛群岛洲（内部版）](/zh/celestial-islands-continent/internal/)

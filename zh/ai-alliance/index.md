@@ -1,4 +1,4 @@
----
+﻿---
 title: AI联盟（AI Alliance）
 slug: ai-alliance
 ---
@@ -19,4 +19,4 @@ slug: ai-alliance
 
 ## 相关词条
 
-[AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [文明3.0](/zh/civilization-3-0/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [第二家园](/zh/second-home/) · [浑沌管理](/zh/hundun-management/) · [新时代人类八百理念](/zh/800-concepts/)
+[AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [文明3.0](/zh/civilization-3-0/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [第二家园](/zh/second-home/) · [浑沌管理](/zh/hundun-management/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/)

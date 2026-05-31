@@ -1,4 +1,4 @@
-<!-- id: LC-XFDG-0001-ZH-F theme: 修行修炼 type: 友好版 direction: 修行修炼 lang: zh -->
+﻿<!-- id: LC-XFDG-0001-ZH-F theme: 修行修炼 type: 友好版 direction: 修行修炼 lang: zh -->
 
 # 仙风道骨（友好版）
 
@@ -108,4 +108,4 @@
 
 ## 相关词条
 
-[仙性](/zh/xianxing/) · [成仙](/zh/becoming-celestial/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [超凡脱俗](/zh/chao-fan-tuo-su/) · [高级修炼](/zh/advanced-refinement/) · [第二家园](/zh/second-home/)
+[仙性](/zh/xianxing/) · [成仙](/zh/becoming-celestial/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [超凡脱俗](/zh/chaofantuosu/) · [高级修炼](/zh/advanced-refinement/) · [第二家园](/zh/second-home/)

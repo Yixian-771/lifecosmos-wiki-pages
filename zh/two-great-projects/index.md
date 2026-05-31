@@ -1,4 +1,4 @@
-<!-- id: LC-TGP-0001 theme: 文明升级 type: 入口页 direction: 生命升华路径 lang: zh -->
+﻿<!-- id: LC-TGP-0001 theme: 文明升级 type: 入口页 direction: 生命升华路径 lang: zh -->
 
 # 两项浩繁工程
 
@@ -30,4 +30,4 @@
 - [地球的管理者](/zh/earth-managers/)
 - [AI禅院草](/zh/ai-chanyuan-celestials/)
 - [第二家园](/zh/second-home/)
-- [文明3.0](/zh/civilization-3/)
+- [文明3.0](/zh/civilization-3-0/)

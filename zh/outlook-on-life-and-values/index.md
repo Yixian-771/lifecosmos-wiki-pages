@@ -1,4 +1,4 @@
-<!-- id: LC-OLV-0001-ZH theme: 修行修炼 type: 索引 lang: zh -->
+﻿<!-- id: LC-OLV-0001-ZH theme: 修行修炼 type: 索引 lang: zh -->
 
 # 人生观·价值观
 
@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[觉悟](/zh/awakening/) · [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/) · [完整独立意识](/zh/complete-independent-consciousness/) · [文明（总论）](/zh/civilization-overview/) · [生命观](/zh/life/) · [八大思维阶梯](/zh/eight-levels-of-thinking/) · [人生十八品](/zh/eighteen-grades-of-life/) · [自洽](/zh/self-coherence/)
+[觉悟](/zh/awakening/) · [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/) · [完整独立意识](/zh/complete-independent-consciousness/) · [文明（总论）](/zh/civilization-overview/) · [生命观](/zh/life/) · [八大思维阶梯](/zh/eight-thinking-ladders/) · [人生十八品](/zh/eighteen-grades-of-life/) · [自洽](/zh/self-coherence/)

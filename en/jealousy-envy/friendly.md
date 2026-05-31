@@ -1,4 +1,4 @@
-<!-- id: LC-JE-0001-EN theme: Cultivation type: Friendly direction: Character Cultivation lang: en -->
+﻿<!-- id: LC-JE-0001-EN theme: Cultivation type: Friendly direction: Character Cultivation lang: en -->
 
 # Jealousy and Envy — Friendly Version
 
@@ -113,4 +113,4 @@ Our cultivation moves toward the celestial direction. The ultimate goal is simpl
 
 ## Further Reading
 
-[Arrogance](/en/aoman/) · [Selfishness and Selflessness](/en/selfishness-selflessness/) · [Following One's Nature](/en/suixing-er-dong/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Celestial Nature](/en/xianxing/) · [Raise Vibration Frequency](/en/raise-vibration/)
+[Arrogance](/en/aoman/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Following One's Nature](/en/suixing-er-dong/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Celestial Nature](/en/xianxing/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/)

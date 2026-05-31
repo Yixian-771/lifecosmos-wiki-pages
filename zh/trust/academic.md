@@ -1,4 +1,4 @@
----
+﻿---
 title: 信任（学术版）
 slug: trust
 ---
@@ -130,4 +130,4 @@ slug: trust
 
 ## 相关词条
 
-[自洽](/zh/self-consistency/) · [抱一](/zh/baoyi/) · [无我无相](/zh/no-self-no-form/) · [大乘心愿](/zh/mahayana-aspiration/) · [同频共振](/zh/resonance/) · [禅院理念](/zh/chanyuan-concepts/) · [归零](/zh/return-to-zero/) · [诚](/zh/sincerity/)
+[自洽](/zh/self-coherence/) · [抱一](/zh/embrace-the-one/) · [无我无相](/zh/no-self-no-form/) · [大乘心愿](/zh/dasheng-xinyuan/) · [同频共振](/zh/resonance/) · [禅院理念](/zh/values/) · [归零](/zh/return-to-zero/) · [诚](/zh/sincerity/)

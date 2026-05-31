@@ -1,4 +1,4 @@
-<!-- id: LC-FXM-0005 theme: Cognitive Cultivation type: index direction: Path of Consciousness Elevation lang: en -->
+﻿<!-- id: LC-FXM-0005 theme: Cognitive Cultivation type: index direction: Path of Consciousness Elevation lang: en -->
 
 # Fixed-Pattern Thinking (定式思维)
 
@@ -30,7 +30,7 @@ Fixed-pattern thinking does not exist only among experts and elites — ordinary
 
 ## Related Entries
 
-- [Anti-Conventional Thinking](/en/anti-conventional-thinking/)
+- [Anti-Conventional Thinking](/en/abnormal-thinking/)
 - [Inverted Thinking](/en/inverted-thinking/)
 - [1+1 Thinking](/en/one-plus-one-thinking/)
 - [Material Thinking](/en/material-thinking/)

@@ -1,4 +1,4 @@
-<!-- id: LC-LIF-0008 theme: Nature of LIFE type: academic direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-LIF-0008 theme: Nature of LIFE type: academic direction: Path of LIFE Elevation lang: en -->
 
 # LIFE: The Systematic Construction of Lifechanyuan's Antimatter-Structure Theory of LIFE and Its Comparative Analysis
 
@@ -109,5 +109,5 @@ John Archibald Wheeler proposed "It from Bit": the foundation of physical realit
 
 - [Mysteries of LIFE (Academic)](/en/life-mysteries/academic/)
 - [Consciousness (Academic)](/en/consciousness/academic/)
-- [Antimatter (Academic)](/en/antimatter/academic/)
-- [Celestial Island Continent (Academic)](/en/celestial-island/academic/)
+- [Antimatter (Academic)](/en/antimatter-structure/academic/)
+- [Celestial Island Continent (Academic)](/en/celestial-islands-continent/academic/)

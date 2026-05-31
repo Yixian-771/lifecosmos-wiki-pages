@@ -1,4 +1,4 @@
-<!-- id: LC-HLS-0005 theme: Cosmic Space-Time type: index direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-HLS-0005 theme: Cosmic Space-Time type: index direction: Path of LIFE Elevation lang: en -->
 
 # Higher LIFE Spaces
 
@@ -33,7 +33,7 @@ From lowest to highest, the six realms are: **Thousand-Year World** (960 light-y
 ## Related Entries
 
 - [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/)
-- [Levels of LIFE](/en/life-levels/)
+- [Levels of LIFE](/en/levels-of-life/)
 - [Celestial Islands Continent](/en/celestial-islands-continent/)
 - [Thousand-Year World](/en/thousand-year-world/)
 - [Elysium World](/en/elysium-world/)

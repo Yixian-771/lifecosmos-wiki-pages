@@ -1,4 +1,4 @@
-<!-- id: LC-AT-0001-ZH theme: 品性修炼 type: 内部 direction: 生命观 lang: zh -->
+﻿<!-- id: LC-AT-0001-ZH theme: 品性修炼 type: 内部 direction: 生命观 lang: zh -->
 
 # 无神论者（内部版）
 
@@ -162,4 +162,4 @@
 
 ## 延伸阅读
 
-[上帝](/zh/god/) · [道德](/zh/morality/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [生命不灭定律](/zh/life-imperishable/) · [灵觉](/zh/lingjue/) · [禅院草](/zh/chanyuan-celestials/) · [觉悟](/zh/awakening/) · [文明（总论）](/zh/civilization/) · [成仙](/zh/becoming-celestial/)
+[上帝](/zh/greatest-creator/) · [道德](/zh/morality/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [生命不灭定律](/zh/law-of-life-indestructibility/) · [灵觉](/zh/spiritual-sensing/) · [禅院草](/zh/chanyuan-celestials/) · [觉悟](/zh/awakening/) · [文明（总论）](/zh/civilization-overview/) · [成仙](/zh/becoming-celestial/)

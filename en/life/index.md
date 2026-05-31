@@ -1,4 +1,4 @@
-<!-- id: LC-LIF-0005 theme: Nature of LIFE type: index direction: Path of LIFE Elevation lang: en -->
+﻿<!-- id: LC-LIF-0005 theme: Nature of LIFE type: index direction: Path of LIFE Elevation lang: en -->
 
 # LIFE (生命)
 
@@ -31,6 +31,6 @@ The essence of LIFE is a **spiritual antimatter structure** — not the physical
 ## Related Entries
 
 - [Mysteries of LIFE](/en/life-mysteries/)
-- [Antimatter](/en/antimatter/)
+- [Antimatter](/en/antimatter-structure/)
 - [Consciousness](/en/consciousness/)
-- [Celestial Island Continent](/en/celestial-island/)
+- [Celestial Island Continent](/en/celestial-islands-continent/)

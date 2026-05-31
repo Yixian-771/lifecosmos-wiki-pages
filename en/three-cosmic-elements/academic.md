@@ -1,4 +1,4 @@
----
+﻿---
 title: Three Cosmic Elements (Academic Version)
 ---
 
@@ -106,7 +106,7 @@ The Three Cosmic Elements are not merely cosmological theory — they directly g
 
 ## VI. Relationships to Other Core Concepts
 
-- **[Hundun Ontology](/en/hundun-ontology/)**: The Hundun system constituted by the three cosmic elements is the Tao of the Greatest Creator
+- **[Hundun Ontology](/en/hundun/)**: The Hundun system constituted by the three cosmic elements is the Tao of the Greatest Creator
 - **[Antimatter Structure](/en/antimatter-structure/)**: The life-specific expression of the structure element
 - **[Raise Vibration Frequency](/en/raise-vibration-frequency/)**: Higher frequency = more perfect consciousness + more complete structure — a dynamic rendering of the three-element relationship
 - **[Cosmic Holography](/en/cosmic-holography/)**: The three elements expressed through the holographic principle
@@ -115,4 +115,4 @@ The Three Cosmic Elements are not merely cosmological theory — they directly g
 
 ## Related entries
 
-[Consciousness](/en/consciousness/) · [Structure](/en/structure/) · [Energy](/en/energy/) · [The Greatest Creator](/en/greatest-creator/) · [Spiritual Eye](/en/spiritual-eye/) · [Hundun Ontology](/en/hundun-ontology/) · [Universe Origin](/en/universe-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/) · [Heart-Image Thinking](/en/heart-image-thinking/)
+[Consciousness](/en/consciousness/) · [Structure](/en/structure/) · [Energy](/en/energy/) · [The Greatest Creator](/en/greatest-creator/) · [Spiritual Eye](/en/linyan/) · [Hundun Ontology](/en/hundun/) · [Universe Origin](/en/universe-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/) · [Heart-Image Thinking](/en/heart-image-thinking/)

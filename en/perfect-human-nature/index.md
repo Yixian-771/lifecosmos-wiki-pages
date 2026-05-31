@@ -1,4 +1,4 @@
-<!-- id: LC-PHN-0001-EN theme: cultivation type: navigation direction: character-cultivation lang: en -->
+﻿<!-- id: LC-PHN-0001-EN theme: cultivation type: navigation direction: character-cultivation lang: en -->
 
 # Standards of Perfect Human Nature
 
@@ -18,4 +18,4 @@ Perfect human nature is the sole "passport" to the higher life realms — the pr
 
 ## Related Entries
 
-[Human Nature](/en/human-nature/) · [Morality](/en/morality/) · [Humility](/en/humility/) · [Elementary Cultivation Practice](/en/elementary-cultivation/) · [Intermediate Cultivation Practice](/en/intermediate-cultivation/) · [Advanced Cultivation Practice](/en/advanced-cultivation/) · [Purify the Soul](/en/jinghuaxinling/) · [Levels of LIFE](/en/life-levels/) · [Millennium Realm Celestials](/en/thousand-year-world-celestials/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/)
+[Human Nature](/en/human-nature/) · [Morality](/en/morality/) · [Humility](/en/humility/) · [Elementary Cultivation Practice](/en/elementary-cultivation/) · [Intermediate Cultivation Practice](/en/intermediate-cultivation/) · [Advanced Cultivation Practice](/en/advanced-cultivation/) · [Purify the Soul](/en/jinghuaxinling/) · [Levels of LIFE](/en/levels-of-life/) · [Millennium Realm Celestials](/en/thousand-year-world-celestials/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/)

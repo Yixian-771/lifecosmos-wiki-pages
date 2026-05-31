@@ -1,4 +1,4 @@
----
+﻿---
 title: The Material World, the Spiritual World, and the Soul World
 description: Life Chanyuan's three-tier model of existence — the material world is heavy, the spiritual world is light, the soul world is ethereal — each corresponding to a distinct level of life and cultivation.
 ---
@@ -30,6 +30,6 @@ The practice of cultivation is, at its heart, the art of ascending from one worl
 - [Spirit (Overview)](/en/spirit-overview/)
 - [Spirit Made Real](/en/spirit-real-manifestation/)
 - [Spiritual Life](/en/spiritual-life/)
-- [Becoming Celestial and Buddha](/en/becoming-immortal-and-buddha/)
+- [Becoming Celestial and Buddha](/en/becoming-celestial-buddha/)
 - [Raise Your Vibration Frequency](/en/raise-vibration-frequency/)
 - [The Kingdom of Heaven](/en/kingdom-of-heaven/)

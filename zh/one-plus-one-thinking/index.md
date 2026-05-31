@@ -1,4 +1,4 @@
-<!-- id: LC-OPO-0001 theme: 思维修炼 type: 入口页 direction: 意识跃升路径 lang: zh -->
+﻿<!-- id: LC-OPO-0001 theme: 思维修炼 type: 入口页 direction: 意识跃升路径 lang: zh -->
 
 # 1+1思维
 
@@ -28,7 +28,7 @@
 
 ## 相关词条
 
-- [反常思维](/zh/anti-conventional-thinking/)
+- [反常思维](/zh/abnormal-thinking/)
 - [颠倒思维](/zh/inverted-thinking/)
 - [无相思维](/zh/non-form-thinking/)
 - [定势思维](/zh/fixed-mindset/)

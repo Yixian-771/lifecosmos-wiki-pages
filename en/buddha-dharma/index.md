@@ -1,4 +1,4 @@
-<!-- id: LC-BD-0001-EN theme: Cultivation Practice type: index direction: Cultivation Practice lang: en -->
+﻿<!-- id: LC-BD-0001-EN theme: Cultivation Practice type: index direction: Cultivation Practice lang: en -->
 
 # Buddha-Dharma
 
@@ -18,4 +18,4 @@
 
 ## Related Entries
 
-[Buddha, the Buddha-Patriarch, Tathāgata](/en/buddha-patriarch/) · [The Diamond Sutra](/en/diamond-sutra/) · [Becoming a Buddha](/en/becoming-buddha/) · [Self-Nature · Buddha-Nature · Tathāgata-Nature](/en/self-nature/) · [Non-Form Thinking](/en/non-form-thinking/) · [No-Self No-Form](/en/no-self-no-form/) · [No-Abiding Mind](/en/no-abiding-mind/) · [Illuminating the Mind, Seeing One's Nature](/en/illuminate-mind-see-nature/) · [The Tao](/en/dao/) · [The Greatest Creator](/en/greatest-creator/)
+[Buddha, the Buddha-Patriarch, Tathāgata](/en/buddha-patriarch/) · [The Diamond Sutra](/en/diamond-sutra/) · [Becoming a Buddha](/en/becoming-buddha/) · [Self-Nature · Buddha-Nature · Tathāgata-Nature](/en/self-nature/) · [Non-Form Thinking](/en/non-form-thinking/) · [No-Self No-Form](/en/no-self-no-form/) · [No-Abiding Mind](/en/xinwu-suozhu-guaai/) · [Illuminating the Mind, Seeing One's Nature](/en/illuminate-mind-see-nature/) · [The Tao](/en/dao/) · [The Greatest Creator](/en/greatest-creator/)

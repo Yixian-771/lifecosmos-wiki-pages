@@ -1,4 +1,4 @@
----
+﻿---
 title: Trust (Friendly Version)
 slug: trust
 ---
@@ -121,4 +121,4 @@ Be someone whose word can be relied on. That is how the soil for trust is prepar
 
 ## Related entries
 
-[Self-consistency](/en/self-consistency/) · [Embrace the One](/en/baoyi/) · [No-self, No-form](/en/no-self-no-form/) · [Mahayana Aspiration](/en/mahayana-aspiration/) · [Resonance](/en/resonance/) · [Chanyuan Values](/en/chanyuan-concepts/) · [Return to Zero](/en/return-to-zero/) · [Sincerity](/en/sincerity/)
+[Self-consistency](/en/self-coherence/) · [Embrace the One](/en/embrace-the-one/) · [No-self, No-form](/en/no-self-no-form/) · [Mahayana Aspiration](/en/dasheng-xinyuan/) · [Resonance](/en/resonance/) · [Chanyuan Values](/en/values/) · [Return to Zero](/en/return-to-zero/) · [Sincerity](/en/sincerity/)

@@ -1,4 +1,4 @@
-<!-- id: LC-JE-0001-ZH theme: 修行 type: 导航 direction: 品性修炼 lang: zh -->
+﻿<!-- id: LC-JE-0001-ZH theme: 修行 type: 导航 direction: 品性修炼 lang: zh -->
 
 # 忌妒·嫉妒
 
@@ -18,4 +18,4 @@
 
 ## 关联词条
 
-[傲慢](/zh/aoman/) · [自私与无私](/zh/selfishness-selflessness/) · [魔性](/zh/moxing/) · [随性而动](/zh/follow-nature/) · [随遇而安](/zh/suiyu-ean/) · [提升振动频率](/zh/raise-vibration/) · [心灵花园](/zh/soul-garden/) · [仙性](/zh/xianxing/) · [情关](/zh/liaoquerchen/) · [成仙](/zh/becoming-celestial/)
+[傲慢](/zh/aoman/) · [自私与无私](/zh/zisi-wusi/) · [魔性](/zh/moxing/) · [随性而动](/zh/suixing-er-dong/) · [随遇而安](/zh/si-sui/) · [提升振动频率](/zh/raise-vibration-frequency/) · [心灵花园](/zh/soul-garden/) · [仙性](/zh/xianxing/) · [情关](/zh/releasing-worldly-bonds/) · [成仙](/zh/becoming-celestial/)
