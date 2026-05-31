@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The Practical and the Ideal: wu-shi-wu-xu/index.md
   - A Worry-Free Life: worry-free-life/index.md
   - Roadmap of Human Life and LIFE: route-of-life/index.md
   - The Peak of Life and Being: peak-of-life-and-being/index.md
