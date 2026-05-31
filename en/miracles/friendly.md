@@ -119,4 +119,4 @@ Miracles don't live in the spectacular. They live in every ordinary day of repet
 
 ## Related Entries
 
-[The Human Body — Miracle Programs and Mysteries](/en/human-body-miracle/) · [Prayer](/en/prayer/) · [Eight Non-Being States](/en/eight-nonbeing-states/) · [Elysian State](/en/jile-miaoling/) · [Heart Purification](/en/heart-purification/)
+[The Human Body — Miracle Programs and Mysteries](/en/human-body-miracle/) · [Prayer](/en/prayer/) · [Eight Non-Being States](/en/eight-no-realms/) · [Elysian State](/en/jilemiaojing/) · [Heart Purification](/en/jinghuaxinling/)

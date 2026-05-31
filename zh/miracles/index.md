@@ -22,4 +22,4 @@
 
 ## 相关词条
 
-[人体——奇迹程序和奥秘](/zh/human-body-miracle/) · [极乐妙境](/zh/jile-miaoling/) · [祈祷](/zh/prayer/) · [八无境界](/zh/eight-nonbeing-states/) · [同频共振](/zh/resonance/) · [专注与坚持（见净化心灵）](/zh/heart-purification/) · [神通（见成仙成佛）](/zh/becoming-celestial-buddha/) · [生命禅院的合作之道](/zh/way-of-cooperation/)
+[人体——奇迹程序和奥秘](/zh/human-body-miracle/) · [极乐妙境](/zh/jilemiaojing/) · [祈祷](/zh/prayer/) · [八无境界](/zh/eight-no-realms/) · [同频共振](/zh/resonance/) · [专注与坚持（见净化心灵）](/zh/jinghuaxinling/) · [神通（见成仙成佛）](/zh/becoming-celestial-buddha/) · [生命禅院的合作之道](/zh/way-of-cooperation/)

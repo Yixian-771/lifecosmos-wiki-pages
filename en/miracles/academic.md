@@ -91,7 +91,7 @@ Within the Lifechanyuan cultivation system, "miracles" occupy the middle layer: 
 
 ## VII. Related Entries
 
-[The Human Body — Miracle Programs and Mysteries](/en/human-body-miracle/) · [Eight Non-Being States](/en/eight-nonbeing-states/) · [Elysian State](/en/jile-miaoling/) · [True Fruition](/en/true-fruition/) · [Prayer](/en/prayer/) · [Resonance](/en/resonance/) · [Celestial Islands Continent](/en/xian-island-archipelago/) · [Becoming a Celestial Being or Buddha](/en/becoming-celestial-buddha/)
+[The Human Body — Miracle Programs and Mysteries](/en/human-body-miracle/) · [Eight Non-Being States](/en/eight-no-realms/) · [Elysian State](/en/jilemiaojing/) · [True Fruition](/en/true-fruition/) · [Prayer](/en/prayer/) · [Resonance](/en/resonance/) · [Celestial Islands Continent](/en/celestial-islands-continent/) · [Becoming a Celestial Being or Buddha](/en/becoming-celestial-buddha/)
 
 ---
 

@@ -18,4 +18,4 @@
 
 ## 相关词条
 
-[生命绿洲](/zh/life-oasis/) · [第二家园](/zh/second-home/) · [各尽所能·按需索取](/zh/contribute-by-ability-take-by-need/) · [一无所有·拥有一切](/zh/own-nothing-have-everything/) · [完美人性的标准](/zh/perfect-human-nature/) · [心灵花园](/zh/heart-garden/) · [懒惰（待做）]() · [感恩](/zh/gratitude/) · [偿还债务](/zh/repaying-debts/) · [浑沌管理](/zh/hundun-management/)
+[生命绿洲](/zh/life-oasis/) · [第二家园](/zh/second-home/) · [各尽所能·按需索取](/zh/contribute-by-ability-take-by-need/) · [一无所有·拥有一切](/zh/own-nothing-have-everything/) · [完美人性的标准](/zh/perfect-human-nature/) · [心灵花园](/zh/soul-garden/) · [懒惰（待做）]() · [感恩](/zh/gratitude/) · [偿还债务](/zh/debt-repayment/) · [浑沌管理](/zh/hundun-management/)

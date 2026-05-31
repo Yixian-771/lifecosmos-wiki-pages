@@ -22,4 +22,4 @@ In the Lifechanyuan system, a miracle is "something that was thought impossible 
 
 ## Related Entries
 
-[The Human Body — Miracle Programs and Mysteries](/en/human-body-miracle/) · [Elysian State](/en/jile-miaoling/) · [Prayer](/en/prayer/) · [Eight Non-Being States](/en/eight-nonbeing-states/) · [Resonance](/en/resonance/) · [Becoming a Celestial Being or Buddha](/en/becoming-celestial-buddha/) · [Way of Cooperation](/en/way-of-cooperation/)
+[The Human Body — Miracle Programs and Mysteries](/en/human-body-miracle/) · [Elysian State](/en/jilemiaojing/) · [Prayer](/en/prayer/) · [Eight Non-Being States](/en/eight-no-realms/) · [Resonance](/en/resonance/) · [Becoming a Celestial Being or Buddha](/en/becoming-celestial-buddha/) · [Way of Cooperation](/en/way-of-cooperation/)

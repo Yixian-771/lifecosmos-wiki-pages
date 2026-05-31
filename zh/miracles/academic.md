@@ -91,7 +91,7 @@
 
 ## 七、关联词条
 
-[人体——奇迹程序和奥秘](/zh/human-body-miracle/) · [八无境界](/zh/eight-nonbeing-states/) · [极乐妙境](/zh/jile-miaoling/) · [正果](/zh/zhenguo/) · [祈祷](/zh/prayer/) · [同频共振](/zh/resonance/) · [仙岛群岛洲](/zh/xian-island-archipelago/) · [神通（见成仙成佛）](/zh/becoming-celestial-buddha/)
+[人体——奇迹程序和奥秘](/zh/human-body-miracle/) · [八无境界](/zh/eight-no-realms/) · [极乐妙境](/zh/jilemiaojing/) · [正果](/zh/true-fruition/) · [祈祷](/zh/prayer/) · [同频共振](/zh/resonance/) · [仙岛群岛洲](/zh/celestial-islands-continent/) · [神通（见成仙成佛）](/zh/becoming-celestial-buddha/)
 
 ---
 

@@ -118,4 +118,4 @@
 
 ## 相关词条
 
-[人体——奇迹程序和奥秘](/zh/human-body-miracle/) · [祈祷](/zh/prayer/) · [八无境界](/zh/eight-nonbeing-states/) · [极乐妙境](/zh/jile-miaoling/) · [专注与坚持（见净化心灵）](/zh/heart-purification/)
+[人体——奇迹程序和奥秘](/zh/human-body-miracle/) · [祈祷](/zh/prayer/) · [八无境界](/zh/eight-no-realms/) · [极乐妙境](/zh/jilemiaojing/) · [专注与坚持（见净化心灵）](/zh/jinghuaxinling/)
