@@ -18,4 +18,4 @@ title: Contribute by Ability, Take by Need
 
 ## Related Entries
 
-[Have Nothing, Own Everything](/en/yiwusuoyou-yongyouqieyiqie/) · [Second Home](/en/second-home/) · [Xuefeng-Style Communism](/en/xuefeng-communism/) · [Hundun Management](/en/hundun-management/) · [Hundun Economy](/en/hundun-economy/) · [Heavenly Bank](/en/heavenly-bank/) · [Civilization 3.0](/en/civilization-3-0/) · [Life Oasis](/en/life-oasis/)
+[Own Nothing, Have Everything](/en/own-nothing-have-everything/) · [Second Home](/en/second-home/) · [Xuefeng-Style Communism](/en/xuefeng-communism/) · [Hundun Management](/en/hundun-management/) · [Hundun Economy](/en/hundun-economy/) · [Heavenly Bank](/en/heavenly-bank/) · [Civilization 3.0](/en/civilization-3-0/) · [Life Oasis](/en/life-oasis/)
