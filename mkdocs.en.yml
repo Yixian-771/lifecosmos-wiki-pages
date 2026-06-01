@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Masculine Beauty in Strength: masculine-beauty-in-strength/index.md
   - Feminine Beauty in Softness: feminine-beauty-in-softness/index.md
   - Mirage: mirage/index.md
   - Jesus the God and Satan the Demon: jesus-and-satan/index.md
