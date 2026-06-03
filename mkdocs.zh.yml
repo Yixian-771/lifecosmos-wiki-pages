@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 仙子·仙女: xianzi-xiannv/index.md
   - 姐夫·小姨子·丈母娘·小舅子: jiefu-xiaoyizi/index.md
   - 灵性金矿和宝石: spiritual-gold-mine-and-gems/index.md
   - 麦粒: wheat-grain/index.md
