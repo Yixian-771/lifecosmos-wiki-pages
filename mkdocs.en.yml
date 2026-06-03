@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Sensory, Rational, Intellectual, and Spiritual Awareness: sensory-rational-intellectual-spiritual/index.md
   - Action and Non-Action (You-wei and Wu-wei): you-wei-wu-wei/index.md
   - Sages and Worthies: sages-and-worthies/index.md
   - Yangsheng — Life Cultivation (Elementary · Intermediate · Advanced): yangsheng/index.md

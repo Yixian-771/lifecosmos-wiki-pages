@@ -24,7 +24,7 @@
 
 ## IV. The Mystery of Thinking
 
-[New Era Consciousness](/en/new-era-consciousness/) · [Thinking (Overview)](/en/thinking-overview/) · [Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Imagery Thinking](/en/imagery-thinking/) · [Associative Thinking](/en/associative-thinking/) · [Illusory Thinking](/en/illusory-thinking/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Taiji Thinking](/en/taiji-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Hundun Thinking](/en/hundun-thinking/) · [Rational Thinking](/en/rational-thinking/) · [Spiritual Thinking](/en/spiritual-thinking/) · [Inverted Thinking](/en/inverted-thinking/) · [Abnormal Thinking](/en/abnormal-thinking/) · [1+1 Thinking](/en/one-plus-one-thinking/) · [Fixed-Pattern Thinking](/en/fixed-mindset/)
+[Sensory, Rational, Intellectual & Spiritual Awareness](/en/sensory-rational-intellectual-spiritual/) · [New Era Consciousness](/en/new-era-consciousness/) · [Thinking (Overview)](/en/thinking-overview/) · [Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Material Thinking](/en/material-thinking/) · [Imagery Thinking](/en/imagery-thinking/) · [Associative Thinking](/en/associative-thinking/) · [Illusory Thinking](/en/illusory-thinking/) · [Heart-Image Thinking](/en/heart-image-thinking/) · [Taiji Thinking](/en/taiji-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Hundun Thinking](/en/hundun-thinking/) · [Rational Thinking](/en/rational-thinking/) · [Spiritual Thinking](/en/spiritual-thinking/) · [Inverted Thinking](/en/inverted-thinking/) · [Abnormal Thinking](/en/abnormal-thinking/) · [1+1 Thinking](/en/one-plus-one-thinking/) · [Fixed-Pattern Thinking](/en/fixed-mindset/)
 
 ---
 
@@ -40,5 +40,5 @@
 
 ---
 
-*Last updated: 2026-06-03 (Tue) — Added: Action and Non-Action (You-wei and Wu-wei)*
+*Last updated: 2026-06-04 (Wed) — Added: Sensory, Rational, Intellectual & Spiritual Awareness*
 
