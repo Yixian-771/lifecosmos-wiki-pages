@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Hell: hell/index.md
   - The Way of Nature: way-of-nature/index.md
   - Celestial Men and Celestial Women: xianzi-xiannv/index.md
   - Jiefu and Xiaoyizi — The In-Law Endearment System: jiefu-xiaoyizi/index.md
