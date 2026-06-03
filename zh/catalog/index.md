@@ -27,7 +27,7 @@ slug: catalog-zh
 
 ## 四、思维奥秘
 
-[新时代意识](/zh/new-era-consciousness/) · [思维（总论）](/zh/thinking-overview/) · [八大思维阶梯](/zh/eight-thinking-ladders/) · [物质思维](/zh/material-thinking/) · [形象思维](/zh/imagery-thinking/) · [联想思维](/zh/associative-thinking/) · [迷幻思维](/zh/illusory-thinking/) · [心像思维](/zh/heart-image-thinking/) · [太极思维](/zh/taiji-thinking/) · [无相思维](/zh/non-form-thinking/) · [浑沌思维](/zh/hundun-thinking/) · [理性思维](/zh/rational-thinking/) · [灵性思维](/zh/spiritual-thinking/) · [颠倒思维](/zh/inverted-thinking/) · [反常思维](/zh/abnormal-thinking/) · [1+1思维](/zh/one-plus-one-thinking/) · [定式思维](/zh/fixed-mindset/)
+[感性·理性·知性·灵性](/zh/sensory-rational-intellectual-spiritual/) · [新时代意识](/zh/new-era-consciousness/) · [思维（总论）](/zh/thinking-overview/) · [八大思维阶梯](/zh/eight-thinking-ladders/) · [物质思维](/zh/material-thinking/) · [形象思维](/zh/imagery-thinking/) · [联想思维](/zh/associative-thinking/) · [迷幻思维](/zh/illusory-thinking/) · [心像思维](/zh/heart-image-thinking/) · [太极思维](/zh/taiji-thinking/) · [无相思维](/zh/non-form-thinking/) · [浑沌思维](/zh/hundun-thinking/) · [理性思维](/zh/rational-thinking/) · [灵性思维](/zh/spiritual-thinking/) · [颠倒思维](/zh/inverted-thinking/) · [反常思维](/zh/abnormal-thinking/) · [1+1思维](/zh/one-plus-one-thinking/) · [定式思维](/zh/fixed-mindset/)
 
 ---
 
@@ -43,7 +43,7 @@ slug: catalog-zh
 
 ---
 
-*最后更新：2026-06-03（三）— 新增：有为与无为*
+*最后更新：2026-06-04（四）— 新增：感性·理性·知性·灵性*
 
 
 
