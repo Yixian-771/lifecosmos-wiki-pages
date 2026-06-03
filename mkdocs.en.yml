@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Jiefu and Xiaoyizi — The In-Law Endearment System: jiefu-xiaoyizi/index.md
   - Spiritual Gold Mine and Gems: spiritual-gold-mine-and-gems/index.md
   - Wheat Grain: wheat-grain/index.md
   - Life Oasis Three Maxims (Simple, Frugal, Steadfast): life-oasis-three-maxims/index.md
