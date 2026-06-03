@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 有为与无为: you-wei-wu-wei/index.md
   - 圣人·贤人: sages-and-worthies/index.md
   - 养生（初级·中级·高级）: yangsheng/index.md
   - 上天奖惩: divine-rewards-punishments/index.md
