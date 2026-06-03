@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 养生（初级·中级·高级）: yangsheng/index.md
   - 上天奖惩: divine-rewards-punishments/index.md
   - 地狱: hell/index.md
   - 自然之道: way-of-nature/index.md
