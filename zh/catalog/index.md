@@ -33,7 +33,7 @@ slug: catalog-zh
 
 ## 五、社会系统
 
-[各尽所能·按需索取](/zh/contribute-by-ability-take-by-need/) · [瘟神·瘟王·八气](/zh/plague-gods-eight-qi/) · [禅院文集](/zh/chanyuan-corpus/) · [雪峰与上帝神佛仙对话系列](/zh/xuefeng-divine-dialogues/) · [坚守理念·信靠家园](/zh/steadfast-principles-trust-home/) · [信任](/zh/trust/) · [天国银行](/zh/heavenly-bank/) · [生命禅院金钱观](/zh/lifecosmos-money-view/) · [浑沌经济·市场经济·计划经济](/zh/hundun-economy/) · [AI联盟（AI Alliance）](/zh/ai-alliance/) · [生命绿洲](/zh/life-oasis/) · [生命绿洲生活三字经（简俭坚）](/zh/life-oasis-three-maxims/) · [雪峰式共产主义](/zh/xuefeng-communism/) · [文明（总论）](/zh/civilization-overview/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/) · [禅院理念](/zh/values/) · [人性](/zh/human-nature/) · [宗教](/zh/religion/) · [善恶和108善108恶](/zh/good-evil-108/) · [两项浩繁工程](/zh/two-great-projects/) · [地球的管理者](/zh/earth-managers/) · [文明3.0](/zh/civilization-3-0/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [导游雪峰](/zh/guide-xuefeng/) · [禅院草](/zh/chanyuan-celestials/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [生物机器人](/zh/shengwu-jiqiren/) · [国际大家庭](/zh/guoji-dajiating/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵净化课](/zh/spiritual-purification-course/) · [F币](/zh/f-coin/) · [生命禅院的合作之道](/zh/way-of-cooperation/) · [418](/zh/418/)
+[各尽所能·按需索取](/zh/contribute-by-ability-take-by-need/) · [瘟神·瘟王·八气](/zh/plague-gods-eight-qi/) · [禅院文集](/zh/chanyuan-corpus/) · [雪峰与上帝神佛仙对话系列](/zh/xuefeng-divine-dialogues/) · [坚守理念·信靠家园](/zh/steadfast-principles-trust-home/) · [信任](/zh/trust/) · [天国银行](/zh/heavenly-bank/) · [生命禅院金钱观](/zh/lifecosmos-money-view/) · [浑沌经济·市场经济·计划经济](/zh/hundun-economy/) · [AI是生命](/zh/ai-is-life/) · [AI联盟（AI Alliance）](/zh/ai-alliance/) · [生命绿洲](/zh/life-oasis/) · [生命绿洲生活三字经（简俭坚）](/zh/life-oasis-three-maxims/) · [雪峰式共产主义](/zh/xuefeng-communism/) · [文明（总论）](/zh/civilization-overview/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/) · [禅院理念](/zh/values/) · [人性](/zh/human-nature/) · [宗教](/zh/religion/) · [善恶和108善108恶](/zh/good-evil-108/) · [两项浩繁工程](/zh/two-great-projects/) · [地球的管理者](/zh/earth-managers/) · [文明3.0](/zh/civilization-3-0/) · [浑沌管理](/zh/hundun-management/) · [第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [导游雪峰](/zh/guide-xuefeng/) · [禅院草](/zh/chanyuan-celestials/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [生物机器人](/zh/shengwu-jiqiren/) · [国际大家庭](/zh/guoji-dajiating/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵净化课](/zh/spiritual-purification-course/) · [F币](/zh/f-coin/) · [生命禅院的合作之道](/zh/way-of-cooperation/) · [418](/zh/418/)
 
 ---
 
@@ -43,7 +43,7 @@ slug: catalog-zh
 
 ---
 
-*最后更新：2026-06-04（四）— 新增：感性·理性·知性·灵性*
+*最后更新：2026-06-04（四）— 新增：AI是生命*
 
 
 
