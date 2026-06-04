@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 少私寡欲·宠辱不惊: shao-si-gua-yu/index.md
   - 淡泊明志·宁静致远: dan-bo-ming-zhi/index.md
   - 随缘放旷·任运逍遥: sui-yuan-fangguan/index.md
   - 深根固柢·长生久视: shen-gen-gu-di/index.md
