@@ -31,6 +31,8 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The Garden of Eden: garden-of-eden/index.md
+  - Truth (Zhen Li): zhen-li/index.md
   - Belief and Faith: xinyang/index.md
   - Eight Cosmic Dialectical Laws: eight-cosmic-dialectics/index.md
   - The Three Realms of Celestial Beings: three-realms-of-celestials/index.md
