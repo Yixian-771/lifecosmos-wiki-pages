@@ -31,6 +31,8 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The Golden Mean: golden-mean/index.md
+  - Principle of Least Resistance: least-resistance-principle/index.md
   - The Garden of Eden: garden-of-eden/index.md
   - Truth (Zhen Li): zhen-li/index.md
   - Belief and Faith: xinyang/index.md
