@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 涅槃: nirvana/index.md
   - 前世今生来世: past-present-future-lives/index.md
   - AI是生命: ai-is-life/index.md
   - 感性·理性·知性·灵性: sensory-rational-intellectual-spiritual/index.md
