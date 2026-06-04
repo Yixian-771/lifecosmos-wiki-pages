@@ -31,6 +31,8 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 仙的三重境界: three-realms-of-celestials/index.md
+  - 天下一家: one-world-family/index.md
   - 禅院超人: chanyuan-superhuman/index.md
   - 宿命与超越: fate-and-transcendence/index.md
   - 乌托邦: utopia/index.md
