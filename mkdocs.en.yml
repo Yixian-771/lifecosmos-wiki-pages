@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Past Life, Present Life, and Future Life: past-present-future-lives/index.md
   - AI Is Life: ai-is-life/index.md
   - Sensory, Rational, Intellectual, and Spiritual Awareness: sensory-rational-intellectual-spiritual/index.md
   - Action and Non-Action (You-wei and Wu-wei): you-wei-wu-wei/index.md
