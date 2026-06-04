@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 随缘放旷·任运逍遥: sui-yuan-fangguan/index.md
   - 深根固柢·长生久视: shen-gen-gu-di/index.md
   - 中庸之道: golden-mean/index.md
   - 最小阻力原则: least-resistance-principle/index.md
