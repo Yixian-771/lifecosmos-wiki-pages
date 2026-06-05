@@ -31,6 +31,8 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - The Mysteries of Food and Diet: yin-shi-ao-mi/index.md
+  - The Grand Void Illusion: tai-xu-huan-jing/index.md
   - Minimal Desires, Unshaken Composure: shao-si-gua-yu/index.md
   - Detachment and Serenity: dan-bo-ming-zhi/index.md
   - Following Causes Freely · Roaming at Ease: sui-yuan-fangguan/index.md
