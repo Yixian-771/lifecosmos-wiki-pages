@@ -31,6 +31,7 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 成圣: becoming-sage/index.md
   - 人类文明跃升: civilizational-leap/index.md
   - 超时空之路: path-beyond-spacetime/index.md
   - 空性: kong-xing/index.md
