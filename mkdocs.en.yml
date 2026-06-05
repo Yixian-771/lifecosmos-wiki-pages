@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Five Skandhas Are Empty: wuyun-jiekong/index.md
   - Democracy: democracy/index.md
   - Female Awakening: female-awakening/index.md
   - The Mysteries of Food and Diet: yin-shi-ao-mi/index.md
