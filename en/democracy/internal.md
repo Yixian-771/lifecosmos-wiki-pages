@@ -10,7 +10,7 @@ title: Democracy · Internal Reference
 
 ## I. Why Democracy Doesn't Suit Lifechanyuan
 
-**Chanyuan Corpus · Why Democracy Doesn't Suit Lifechanyuan**
+**Xuefeng Anthology · Chanyuan Section · Why Democracy Doesn't Suit Lifechanyuan**
 
 Democracy is a good thing, but it does not suit Lifechanyuan — just as salt is a good thing, but you do not put salt in honey.
 
