@@ -9,7 +9,7 @@ slug: democracy
 
 > Democracy is a good thing, but it does not suit Lifechanyuan — just as salt is a good thing, but you do not put salt in honey.
 >
-> — *Guide's Other Writings · 2026 · Why Democracy Doesn't Suit Lifechanyuan*
+> — *Chanyuan Corpus · Why Democracy Doesn't Suit Lifechanyuan*
 
 ## Version Guide
 

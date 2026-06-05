@@ -14,7 +14,7 @@ Lifechanyuan's treatment of "democracy" presents a distinctive dual structure: o
 
 | Text | Source | Date |
 |------|--------|------|
-| Why Democracy Doesn't Suit Lifechanyuan | Guide's Other Writings | 2026-06-04 |
+| Why Democracy Doesn't Suit Lifechanyuan | Chanyuan Corpus | 2026-06-04 |
 | Democracy Is the Pursuit of Mediocre People | Chanyuan Corpus · Unconventional Thinking | 2011/6/23 |
 | The Meaning of Democracy | Xuefeng Anthology · Warning to the World | 2008-01-03 |
 | Entries 10, 647, 659 | New Era Eight Hundred Concepts, 4th Edition | — |
