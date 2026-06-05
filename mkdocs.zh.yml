@@ -31,6 +31,8 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 民主: democracy/index.md
+  - 女性觉醒: female-awakening/index.md
   - 饮食奥秘: yin-shi-ao-mi/index.md
   - 太虚幻境: tai-xu-huan-jing/index.md
   - 少私寡欲·宠辱不惊: shao-si-gua-yu/index.md
