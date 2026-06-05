@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Wuji and Taiji Systems: wuji-taiji-systems/index.md
   - Becoming a Sage: becoming-sage/index.md
   - Civilizational Leap: civilizational-leap/index.md
   - Path Beyond Spacetime: path-beyond-spacetime/index.md
