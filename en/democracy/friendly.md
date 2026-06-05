@@ -4,64 +4,77 @@ title: Democracy · Friendly Version
 
 # Democracy · Friendly Version
 
-## How Does Lifechanyuan View Democracy?
+## A Surprising Starting Point
 
-Most people today assume democracy is simply "the best system." Lifechanyuan's view is more nuanced — it distinguishes between **true democracy** and **democracy as misused**, and argues they are fundamentally different things.
+In a 2026 article, Guide Xuefeng opened with a statement that surprises many people:
 
----
+> Democracy is a good thing, but it does not suit Lifechanyuan — just as salt is a good thing, but you do not put salt in honey.
 
-## What Is True Democracy?
-
-In his essay *The Meaning of Democracy*, Guide Xuefeng offers a rigorous definition:
-
-> Democracy is a social operating mechanism that reflects the wishes of the broadest possible public and upholds the interests of the broadest possible public, in a fair, reasonable, orderly, and effective way.
-
-The key is "broadest possible" — not the broadest within one country, not the broadest within one ethnic group, but the broadest across **all humanity**.
-
-Xuefeng's conclusion follows logically: a nation's internal democracy that only serves its own citizens while ignoring others is not true democracy. "The more democratic a wolf pack is, the deeper the disaster for the sheep." The same applies to political parties, religions, and companies — internal democracy without regard for the outside world remains narrow and partial.
-
-True democracy, in Xuefeng's view, requires seeing yourself as a **world citizen** working for all of humanity. Not for your nation. Not for your party. Not for your religion or your family. Only those who have transcended all of those partial loyalties can genuinely claim to speak for democracy.
+This is not a dismissal of democracy. It's something more precise: democracy has its proper place, and that place is not Lifechanyuan.
 
 ---
 
-## Democracy Misused: A Tool for the Mediocre
+## Democracy Belongs in Politics
 
-In *Democracy Is the Pursuit of Mediocre People*, Xuefeng makes the provocative case that the democracy we see most often is not the noble ideal — it's a mechanism that tends to suppress excellence.
+Xuefeng is clear: **democracy is the instrument of politics. Where politics is practiced, democracy must be practiced. Politics without democracy is necessarily tyranny.**
 
-His core argument: **Three ordinary minds can never surpass one Zhuge Liang.**
+But Lifechanyuan is not a political organization. It has two defining features:
 
-When it comes to important decisions, the wisdom of one exceptionally clear-sighted person consistently outperforms the pooled opinion of a crowd. He illustrates this with a historical example: Mao Zedong was repeatedly sidelined by "democratic" party processes in the 1930s — and each time he was removed, the revolution suffered; each time he was restored, it recovered.
+1. **It walks the Way of the Greatest Creator — the Way of Nature.**
+2. **It carries out the work of "harvesting the ripened grain."**
 
-Then he scales the argument to the cosmos:
-
-> The entire universe operates as an autocracy: the Greatest Creator is the sole decision-maker. Only when all life obeys without exception can the universe run in order.
-
-An orchestra needs one conductor. A company needs one boss. A rescue mission needs one person calling the shots. When everything is put to a democratic vote, the result is often that nobody is truly responsible — and mutual blame-shifting follows.
-
-Who tends to demand democracy? Xuefeng's list is blunt: the irresponsible, the mediocre, those chasing power, the self-interested, and those who want a share without putting in the work.
+These two features are what make democracy inapplicable here.
 
 ---
 
-## Lifechanyuan's Answer: The Superman Philosophy
+## You Cannot Vote on Natural Law
 
-Lifechanyuan doesn't practice democracy internally. Instead it uses **Hundun Management** — also called the Superman Philosophy:
+Natural laws don't hold referendums:
 
-**Whoever is responsible makes the decisions. Whoever is responsible bears all consequences.**
+- The sun is the center of the solar system — no ballot can make it orbit Mars;
+- Water freezes at zero degrees — no democratic resolution can change this to 30 degrees;
+- Eyes are above the nose and nose above the mouth — no democratic competition can relocate the mouth to the forehead.
 
-Every task is assigned to a specific person. Within their domain, that person decides — no meetings, no votes, no endless discussion. But they also bear full accountability. No passing blame to others.
-
-The ideal is captured in a Chinese phrase: "Eight immortals crossing the sea, each showing their divine power." Everyone shines in their own area. No one is stepping on anyone else's work. Efficiency comes from clarity of responsibility, not from distributed power.
+Lifechanyuan follows the Way of Nature, which is the Way of the Greatest Creator. That way is already set. It is not a policy proposal to be debated and voted on. Introducing democracy here would be like voting to change the direction of sunrise — not a matter of will, but of impossibility.
 
 ---
 
-## What This Means for Everyday Life
+## "Harvesting the Ripened Grain" Cannot Be Done by Committee
 
-Lifechanyuan's thinking on democracy is a useful provocation regardless of context:
+The second feature of Lifechanyuan is its mission: guiding people with the right affinity into the Kingdom of Heaven — the Thousand-Year World, the Ten-Thousand-Year World, the Elysium World. Xuefeng calls this "harvesting the ripened grain."
 
-- The majority is not always right — being outvoted doesn't mean being wrong;
-- True concern for "everyone" must eventually extend to *everyone* — not just your group;
-- In a team, clarity about who decides and who is accountable matters more than consensus processes;
-- Democracy as a label can be hijacked — it's worth asking whose interests a particular "democratic" vote actually serves.
+This mission requires someone who actually knows where the Kingdom of Heaven is. **A person with no knowledge of the Kingdom of Heaven, or who can only imagine it, cannot guide others there.** That work cannot be done by ten thousand ordinary people through democratic discussion — because most of those people have no more map of the destination than anyone else.
+
+Xuefeng also makes an unusually candid personal admission here: he isn't entirely certain whether he himself is an angel. He says that Lifechanyuan was born from a strange car accident that changed his inner life completely, and that everything he has written — the twenty parallel worlds, the thirty-six formations, the celestial worlds — came from an inner compulsion he cannot fully explain. "Am I myself an angel? Or is an angel speaking through my body and spirit? Honestly, I cannot tell." But the conclusion stands regardless of the answer: **the nature of the mission makes democracy unworkable here.**
+
+---
+
+## Want Democracy? First Do This
+
+Xuefeng doesn't say democracy is wrong in principle. He says:
+
+> If anyone believes democracy could suit Lifechanyuan, I would be happy to practice it — on one condition. You must first solve the food, clothing, shelter, health, and end-of-life needs of all Chanyuan Celestials. You must guarantee that they obtain a life of joy, happiness, freedom, and well-being. You must guide them into the Thousand-Year World, the Ten-Thousand-Year World, and the Elysium World. If you cannot guarantee these things, what gives you the right to demand democracy? Your eloquent words? Your fashionable vocabulary? The promises you make?
+
+It's a very practical test: **whoever wants the authority to lead should first show they can carry the responsibility of leading.** Demanding a vote without being willing or able to bear the consequences is just redistribution of credit without redistribution of accountability.
+
+---
+
+## What Would "True Democracy" Actually Look Like?
+
+In an earlier essay, Xuefeng defined what genuine democracy would require: it must have universal, global, and holistic attributes — not serving one nation, one party, one religion, or one family, but all of humanity.
+
+"The more democratic a wolf pack is, the deeper the disaster for the sheep." A group's internal democracy doesn't prevent it from harming others outside the group. True democracy, in Xuefeng's view, can only be practiced by someone who has genuinely transcended all partial loyalties and acts for the good of all people everywhere.
+
+---
+
+## In Short
+
+Lifechanyuan's position on democracy, in plain terms:
+
+- Democracy is good — in politics;
+- Lifechanyuan walks natural law and carries a mission that cannot be conducted by democratic vote;
+- Whoever wants the right to lead must first prove they can bear the full responsibility of leading;
+- True democracy requires a global, not a local, perspective.
 
 ---
 

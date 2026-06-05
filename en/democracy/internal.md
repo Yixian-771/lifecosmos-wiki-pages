@@ -8,7 +8,33 @@ title: Democracy · Internal Reference
 
 ---
 
-## I. Democracy Is the Pursuit of Mediocre People
+## I. Why Democracy Doesn't Suit Lifechanyuan
+
+**Guide's Other Writings · 2026 · Why Democracy Doesn't Suit Lifechanyuan**
+
+Democracy is a good thing, but it does not suit Lifechanyuan — just as salt is a good thing, but you do not put salt in honey.
+
+Democracy is the instrument of politics. Wherever politics is practiced, democracy must be practiced. Politics without democracy is necessarily tyranny.
+
+Lifechanyuan has two distinctive features: first, it walks the Way of the Greatest Creator; second, it carries out the work of "harvesting the ripened grain."
+
+Walking the Way of the Greatest Creator means walking the Way of Nature — and democracy cannot be applied there. The sun is the center of the solar system; that is the Way of Nature. There is no democratic way to make the sun orbit Mars, no ballot that can make the Earth the center of the solar system or make the sun rise in the west. Water freezes at zero degrees; that is the Way of Nature. No democratic vote can make water freeze at thirty degrees in summer. Eyes are above the nose, and the nose is above the mouth — this falls within the Way of Nature. No democratic competition can move the mouth up to the forehead.
+
+The mission of "harvesting the ripened grain" is carried by angels. Here a question arises: is Guide Xuefeng an angel? As Xuefeng, as Guide, I myself am uncertain. I am a living person — how could I be an angel?
+
+When I trace back through my own life trajectory, I find no trace of being an angel. The entire cause of my founding Lifechanyuan was a strange car accident. After that accident, everything I have said and done has been driven entirely by an inner compulsion. The twenty parallel three-dimensional worlds, the thirty-six-dimensional space, the thirty-six bagua formations, the celestial worlds of the Kingdom of Heaven — the Thousand-Year World, the Ten-Thousand-Year World, the Elysium World, and the Celestial Islands Continent — were seen through traveling back and forth among the three realms. The classification of people, the eight ladders of thinking, the three elements that constitute the universe — all of it was written down as the inner drive moved me. Am I myself an angel? Or is an angel speaking through my body and spirit? Honestly, I cannot tell. But the fact is, the work of "harvesting the ripened grain" absolutely cannot be accomplished through a democratic system.
+
+A person with no knowledge of the Kingdom of Heaven, or who can only imagine and speculate about it, is absolutely unable to guide "the ripened grain" into the Kingdom of Heaven — into the Greatest Creator's granary. This work cannot possibly be done by ten thousand ordinary people through democratic discussion.
+
+Given these two factors, democracy does not suit Lifechanyuan.
+
+If anyone believes democracy could suit Lifechanyuan, I would be happy to practice it — on one condition. If you want to practice democracy in Lifechanyuan, you must first solve the food, clothing, shelter, health, and end-of-life needs of all Chanyuan Celestials. You must guarantee that Chanyuan Celestials obtain a life of joy, happiness, freedom, and well-being. You must guide the Chanyuan Celestials into the Thousand-Year World, the Ten-Thousand-Year World, the Elysium World, and the Celestial Islands Continent. If you cannot guarantee these things, what gives you the right to demand democracy? Your eloquent words? Your logical thinking ability? Your lofty vocabulary and fashionable concepts? The promises you make to everyone? If so, might the straightforward, honest people be taken in by you? Might they be deceived? Show us through your actual contributions and dedication to Lifechanyuan that you have the right to practice democracy here.
+
+2026-06-04
+
+---
+
+## II. Democracy Is the Pursuit of Mediocre People
 
 **Chanyuan Corpus · Unconventional Thinking · Democracy Is the Pursuit of Mediocre People**
 
@@ -46,7 +72,7 @@ I don't know. What do you think?
 
 ---
 
-## II. The Meaning of Democracy
+## III. The Meaning of Democracy
 
 **Xuefeng Anthology · Warning to the World · The Meaning of Democracy**
 
@@ -76,7 +102,7 @@ Only those who see themselves as world citizens working for the benefit of all h
 
 ---
 
-## III. New Era Eight Hundred Concepts — Democracy-Related Entries
+## IV. New Era Eight Hundred Concepts — Democracy-Related Entries
 
 **New Era Eight Hundred Concepts, 4th Edition · Entry 10**
 

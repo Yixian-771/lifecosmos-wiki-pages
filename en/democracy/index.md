@@ -5,20 +5,20 @@ slug: democracy
 
 # Democracy
 
-**Democracy**, in the Lifechanyuan system, is analyzed from two sharply distinct angles. The first is "true democracy": Guide Xuefeng argues that genuine democracy must carry universal, global, and holistic attributes — only those who see themselves as world citizens working for all humanity are qualified to speak of democracy. The second is secular democracy as commonly practiced, which Xuefeng identifies as "the pursuit of mediocre people" — the will of the majority is not equivalent to what is correct; democratic decision-making stifles the far-sighted wisdom of sages and leads to inefficiency and decline. Lifechanyuan internally does not practice democracy but instead employs *Hundun* Management (the Superman Philosophy): whoever is responsible makes the decisions, and whoever is responsible bears all consequences.
+**Democracy**, in the Lifechanyuan system, is analyzed from two distinct angles. The first is "true democracy": Guide Xuefeng argues that genuine democracy must carry universal, global, and holistic attributes — only those who see themselves as world citizens working for all humanity are qualified to speak of it. The second is the question of democracy's fit with Lifechanyuan itself: Xuefeng holds that "democracy is a good thing, but it does not suit Lifechanyuan" — because Lifechanyuan follows the Way of the Greatest Creator (natural law, which cannot be changed by vote) and carries the angelic mission of "harvesting the ripened grain" (a task that cannot be accomplished through democratic discussion among ordinary people). Lifechanyuan internally employs *Hundun* Management (the Superman Philosophy) instead: whoever is responsible makes decisions and bears all consequences.
 
-> Democracy is forever the pursuit of mediocre people; the wise should guard against it.
+> Democracy is a good thing, but it does not suit Lifechanyuan — just as salt is a good thing, but you do not put salt in honey.
 >
-> — *Chanyuan Corpus · Unconventional Thinking · Democracy Is the Pursuit of Mediocre People*
+> — *Guide's Other Writings · 2026 · Why Democracy Doesn't Suit Lifechanyuan*
 
 ## Version Guide
 
 | Version | Best for | Focus |
 |---------|----------|-------|
-| [Friendly version](friendly/) | First-time readers | Two views of democracy and Lifechanyuan's choice |
+| [Friendly version](friendly/) | First-time readers | The salt-and-honey analogy — why democracy doesn't fit |
 | [Academic version](academic/) | Researchers | Systematic analysis of both democracy critiques and the Hundun alternative |
 | [Internal reference](internal/) | Deep study | Guide's original texts · source archive |
 
 ## Related Entries
 
-[Hundun Management](/en/hundun-management/) · [Xuefeng-Style Communism](/en/xuefeng-communism/) · [Lifechanyuan Values](/en/values/) · [Civilization Overview](/en/civilization-overview/) · [The Greatest Creator as First Productive Force](/en/greatest-creator-first-productive-force/) · [International Extended Family](/en/guoji-dajiating/) · [One World Family](/en/one-world-family/)
+[Hundun Management](/en/hundun-management/) · [Xuefeng-Style Communism](/en/xuefeng-communism/) · [Lifechanyuan Values](/en/values/) · [Civilization Overview](/en/civilization-overview/) · [The Greatest Creator as First Productive Force](/en/greatest-creator-first-productive-force/) · [International Extended Family](/en/guoji-dajiating/) · [One World Family](/en/one-world-family/) · [The Ripened Grain](/en/ripened-grain/)
