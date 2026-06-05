@@ -31,6 +31,8 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Osho: osho/index.md
+  - Mahjong and Hundun Culture: mahjong-hundun-culture/index.md
   - Cosmic Unified Field: cosmic-unified-field/index.md
   - Emotional Debt: emotional-debt/index.md
   - Wuji and Taiji Systems: wuji-taiji-systems/index.md
