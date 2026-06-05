@@ -31,6 +31,8 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Civilizational Leap: civilizational-leap/index.md
+  - Path Beyond Spacetime: path-beyond-spacetime/index.md
   - Emptiness-Nature (Kong-Xing): kong-xing/index.md
   - Five Skandhas Are Empty: wuyun-jiekong/index.md
   - Democracy: democracy/index.md
