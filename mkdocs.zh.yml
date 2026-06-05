@@ -31,6 +31,10 @@ plugins:
 nav:
   - 首页: index.md
   - 📚 词条分类目录: catalog/index.md
+  - 声波能量: sound-wave-energy/index.md
+  - 人道八狱: eight-prisons-of-human-existence/index.md
+  - 人生八悲: eight-sorrows-of-life/index.md
+  - 上善若水: shang-shan-ruo-shui/index.md
   - 奥修: osho/index.md
   - 麻将与浑沌文化: mahjong-hundun-culture/index.md
   - 宇宙统一场: cosmic-unified-field/index.md
