@@ -20,6 +20,27 @@ title: 三十六道八卦阵
 
 ---
 
+## 视频版
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/wIUbtREOlNY" title="三十六道八卦阵（生命禅院百科·视频版）" allowfullscreen></iframe>
+</div>
+
+??? info "📖 图文幻灯（12 张，点击展开）"
+
+    ![幻灯 01](slides/01.jpg)
+    ![幻灯 02](slides/02.jpg)
+    ![幻灯 03](slides/03.jpg)
+    ![幻灯 04](slides/04.jpg)
+    ![幻灯 05](slides/05.jpg)
+    ![幻灯 06](slides/06.jpg)
+    ![幻灯 07](slides/07.jpg)
+    ![幻灯 08](slides/08.jpg)
+    ![幻灯 09](slides/09.jpg)
+    ![幻灯 10](slides/10.jpg)
+    ![幻灯 11](slides/11.jpg)
+    ![幻灯 12](slides/12.jpg)
+
 ## 相关词条
 
 [三十六维空间](/zh/thirty-six-dimensional-space/) · [空间](/zh/space/) · [时间](/zh/time/) · [结构](/zh/structure/) · [生命的轮回](/zh/life-reincarnation/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [自由意志](/zh/free-will/) · [宇宙大剧本](/zh/cosmic-script/) · [完整独立意识](/zh/complete-independent-consciousness/) · [18阵破阵法·最简版](/zh/eighteen-formation-breaking/)

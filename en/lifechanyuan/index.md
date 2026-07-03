@@ -17,6 +17,23 @@
 
 ---
 
+## Slides
+
+??? info "📖 Illustrated slides (12 pages, click to expand)"
+
+    ![slide 01](slides/01.jpg)
+    ![slide 02](slides/02.jpg)
+    ![slide 03](slides/03.jpg)
+    ![slide 04](slides/04.jpg)
+    ![slide 05](slides/05.jpg)
+    ![slide 06](slides/06.jpg)
+    ![slide 07](slides/07.jpg)
+    ![slide 08](slides/08.jpg)
+    ![slide 09](slides/09.jpg)
+    ![slide 10](slides/10.jpg)
+    ![slide 11](slides/11.jpg)
+    ![slide 12](slides/12.jpg)
+
 ## Core Positioning
 
 Founded in theory on June 18, 2003 (with the creation of the *Chanyuan Corpus* and *Xuefeng Corpus*) and in practice on April 18, 2009 (establishment of the first Second Home), Lifechanyuan operates on a theoretical system of nearly 4,000 articles. Its core propositions: revere the Greatest Creator, revere LIFE, revere Nature; walk the Way of the Greatest Creator; transition from the isolation and conflict of Civilization 2.0 to the harmony and freedom of Civilization 3.0.
