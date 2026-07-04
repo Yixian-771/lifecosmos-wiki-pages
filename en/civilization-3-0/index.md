@@ -17,6 +17,12 @@
 
 ---
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/ZaiwXqRtkBc" title="Civilization 3.0 (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
 ## Slides
 
 ??? info "📖 Illustrated slides (14 pages, click to expand)"
