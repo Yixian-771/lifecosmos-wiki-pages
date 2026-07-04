@@ -20,6 +20,12 @@ The **Thirty-Six Bagua Formations** are thirty-six programmatic constraints set 
 
 ---
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/yEFJWF5bOVA" title="The 36 Bagua Formations (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
 ## Slides
 
 ??? info "📖 Illustrated slides (13 pages, click to expand)"

@@ -15,6 +15,12 @@
 
 ---
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/FjnDbN3TosE" title="Awakening (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
 ## Slides
 
 ??? info "📖 Illustrated slides (15 pages, click to expand)"
