@@ -1,6 +1,6 @@
 <!-- id: LC-NE8-0001-EN theme: Theory System type: Gateway Page direction: Navigation lang: en -->
 
-# New Era Human 800 Concepts
+# 800 Values for New Era Human Beings
 
 [Entry Gateway]
 
@@ -9,9 +9,9 @@
 > incarnations — while **life** (lowercase) refers to the experiential stage
 > of human existence in this world.
 
-**New Era Human 800 Concepts** (新时代人类八百理念) is the most distilled normative text in the Lifechanyuan theoretical system — 800 articles authored by Guide Xuefeng, spanning values, consciousness, cultivation, governance, LIFE theory, and civilizational direction. Each article is complete in itself; together they form the most systematic and concentrated expression of Lifechanyuan thought.
+**800 Values for New Era Human Beings** (新时代人类八百理念) is the most distilled normative text in the Lifechanyuan theoretical system — 800 articles authored by Guide Xuefeng, spanning values, consciousness, cultivation, governance, LIFE theory, and civilizational direction. Each article is complete in itself; together they form the most systematic and concentrated expression of Lifechanyuan thought.
 
-> *New Era Human 800 Concepts* is the operating manual for the new era human — the 800 principles that separate Civilization 2.0 from Civilization 3.0.
+> *800 Values for New Era Human Beings* is the operating manual for the new era human — the 800 principles that separate Civilization 2.0 from Civilization 3.0.
 >
 > — Guide Xuefeng
 
@@ -20,7 +20,7 @@
 ## Video
 
 <div style="max-width:760px">
-<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/WI3JdqUwFrw" title="New Era Human 800 Concepts (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/WI3JdqUwFrw" title="800 Values for New Era Human Beings (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
 </div>
 
 ## Slides

@@ -1,6 +1,6 @@
 <!-- id: LC-NE800-0001-FRI theme: Theory System type: Public Intro direction: Easy Reading lang: en -->
 
-# New Era Human 800 Concepts: 800 Ways to Turn Ideals into Daily Practice
+# 800 Values for New Era Human Beings: 800 Ways to Turn Ideals into Daily Practice
 
 ## What is it?
 

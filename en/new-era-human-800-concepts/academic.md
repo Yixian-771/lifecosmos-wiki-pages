@@ -1,10 +1,10 @@
 <!-- id: LC-NE800-0001-ACA theme: Theory System type: Academic Analysis direction: Research lang: en -->
 
-# New Era Human 800 Concepts: Normative Architecture, Governance Logic, and Open Revision
+# 800 Values for New Era Human Beings: Normative Architecture, Governance Logic, and Open Revision
 
 ## Abstract
 
-This entry analyzes *New Era Human 800 Concepts* as a dynamic normative framework. It is not merely doctrinal rhetoric; it operationalizes values into behavioral rules and governance procedures while preserving revision capacity.
+This entry analyzes *800 Values for New Era Human Beings* as a dynamic normative framework. It is not merely doctrinal rhetoric; it operationalizes values into behavioral rules and governance procedures while preserving revision capacity.
 
 ---
 

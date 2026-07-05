@@ -1,10 +1,10 @@
 <!-- id: LC-NE800-0001-INT theme: Theory System type: Core Entry direction: Civilization 3.0 Canon lang: en -->
 
-# New Era Human 800 Concepts (Internal English Version)
+# 800 Values for New Era Human Beings (Internal English Version)
 
 ## 1. Overview
 
-*New Era Human 800 Concepts* is a core normative text in the Lifechanyuan system.
+*800 Values for New Era Human Beings* is a core normative text in the Lifechanyuan system.
 
 It is designed as an operational bridge from worldview to behavior, and from behavior to collective governance.
 
