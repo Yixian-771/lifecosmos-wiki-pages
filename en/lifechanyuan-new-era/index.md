@@ -6,6 +6,28 @@ The **Lifechanyuan Era** — also called the New Era or Civilization 3.0 — is 
 
 ---
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/brdDdxg9x-w" title="The Lifechanyuan Era (Lifechanyuan Encyclopedia · Video)" allowfullscreen></iframe>
+</div>
+
+??? info "📖 Illustrated slides (11 slides, click to expand)"
+
+    ![Slide 01](slides/01.jpg)
+    ![Slide 02](slides/02.jpg)
+    ![Slide 03](slides/03.jpg)
+    ![Slide 04](slides/04.jpg)
+    ![Slide 05](slides/05.jpg)
+    ![Slide 06](slides/06.jpg)
+    ![Slide 07](slides/07.jpg)
+    ![Slide 08](slides/08.jpg)
+    ![Slide 09](slides/09.jpg)
+    ![Slide 10](slides/10.jpg)
+    ![Slide 11](slides/11.jpg)
+
+---
+
 | Edition | Best for | Link |
 |---------|----------|------|
 | Friendly | First-time readers, everyday language | [Read Friendly Edition](/en/lifechanyuan-new-era/friendly/) |
