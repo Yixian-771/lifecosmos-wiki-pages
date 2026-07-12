@@ -7,6 +7,29 @@ slug: way-of-cooperation
 
 **生命禅院的合作之道**，是生命禅院体系中关于内外关系的根本立场与实践准则——对外，因自洽、自成体系而不与任何政治、宗教、社会组织合作，同时向全世界开放；对内，宏观行浑沌管理（人人是主人，各尽其职），微观行超人哲学（谁负责谁说了算）；唯一的例外合作是与愿意将农场完全交托的农场主，以及与相似社群形成互不干涉、文化交流式的兄弟姊妹关系。
 
+## 视频版
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/FovAn99kPkY" title="生命禅院的合作之道（生命禅院百科·视频版）" allowfullscreen></iframe>
+</div>
+
+??? info "📖 图文幻灯（14 张，点击展开）"
+
+    ![幻灯 01](slides/01.jpg)
+    ![幻灯 02](slides/02.jpg)
+    ![幻灯 03](slides/03.jpg)
+    ![幻灯 04](slides/04.jpg)
+    ![幻灯 05](slides/05.jpg)
+    ![幻灯 06](slides/06.jpg)
+    ![幻灯 07](slides/07.jpg)
+    ![幻灯 08](slides/08.jpg)
+    ![幻灯 09](slides/09.jpg)
+    ![幻灯 10](slides/10.jpg)
+    ![幻灯 11](slides/11.jpg)
+    ![幻灯 12](slides/12.jpg)
+    ![幻灯 13](slides/13.jpg)
+    ![幻灯 14](slides/14.jpg)
+
 ## 版本导航
 
 | 版本 | 适合 |
