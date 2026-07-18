@@ -7,6 +7,29 @@ slug: soul
 
 **灵魂**，即生命的本质，是有灵性的一种反物质结构。在生命禅院体系中，灵魂不是宗教或民俗意义上的虚幻概念，而是可被精确界定的宇宙实体：灵（宇宙最高级能量，来源于上帝，存于意识层）与魂（反物质结构，存于结构层）合一的整体，即生命本身；灵魂不灭，肉体消失后只是从一种形式转化为另一种形式，从一个空间进入另一个空间；轮回转化的方向由生命的反物质结构品质决定，完善结构是走向更高层次空间的唯一法门。
 
+## 视频版
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/hSxCMBVx1No" title="灵魂（生命禅院百科·视频版）" allowfullscreen></iframe>
+</div>
+
+??? info "📖 图文幻灯（14 张，点击展开）"
+
+    ![幻灯 01](slides/01.jpg)
+    ![幻灯 02](slides/02.jpg)
+    ![幻灯 03](slides/03.jpg)
+    ![幻灯 04](slides/04.jpg)
+    ![幻灯 05](slides/05.jpg)
+    ![幻灯 06](slides/06.jpg)
+    ![幻灯 07](slides/07.jpg)
+    ![幻灯 08](slides/08.jpg)
+    ![幻灯 09](slides/09.jpg)
+    ![幻灯 10](slides/10.jpg)
+    ![幻灯 11](slides/11.jpg)
+    ![幻灯 12](slides/12.jpg)
+    ![幻灯 13](slides/13.jpg)
+    ![幻灯 14](slides/14.jpg)
+
 ## 版本导航
 
 | 版本 | 适合 |
