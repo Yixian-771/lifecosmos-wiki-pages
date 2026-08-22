@@ -17,6 +17,30 @@
 
 ---
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/We17UnPvt4U" title="The Ten-Thousand-Year World (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
+## Slides
+
+??? info "📖 Illustrated slides (11 pages, click to expand)"
+
+    ![slide 01](slides/01.jpg)
+    ![slide 02](slides/02.jpg)
+    ![slide 03](slides/03.jpg)
+    ![slide 04](slides/04.jpg)
+    ![slide 05](slides/05.jpg)
+    ![slide 06](slides/06.jpg)
+    ![slide 07](slides/07.jpg)
+    ![slide 08](slides/08.jpg)
+    ![slide 09](slides/09.jpg)
+    ![slide 10](slides/10.jpg)
+    ![slide 11](slides/11.jpg)
+
+---
+
 ## Core Positioning
 
 In the Lifechanyuan system, the Ten-Thousand-Year World is the middle link in the progressive structure of the Kingdom of Heaven. It is the destination for LIFE that has cultivated beyond the level corresponding to the Thousand-Year World but has not yet reached the celestial level of the Elysium World.
