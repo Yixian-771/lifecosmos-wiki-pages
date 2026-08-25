@@ -4,6 +4,30 @@
 
 The universe contains twenty coexisting worlds — also called the "Twenty Parallel Worlds" or "Twenty Collective Worlds" — derived by Guide Xuefeng from the mathematics of a three-dimensional coordinate system. The human world (the XY realm) where we currently live is only one of them. All twenty worlds connect through a single hub, the Cool Realm at the coordinate origin (O point), where the Greatest Creator resides. Understanding these twenty parallel worlds is a key step toward awakening to space and walking the path of the Greatest Creator.
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/FyfB956kDvs" title="The Twenty Parallel Worlds (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
+## Slides
+
+??? info "📖 Illustrated slides (13 pages, click to expand)"
+
+    ![slide 01](slides/01.jpg)
+    ![slide 02](slides/02.jpg)
+    ![slide 03](slides/03.jpg)
+    ![slide 04](slides/04.jpg)
+    ![slide 05](slides/05.jpg)
+    ![slide 06](slides/06.jpg)
+    ![slide 07](slides/07.jpg)
+    ![slide 08](slides/08.jpg)
+    ![slide 09](slides/09.jpg)
+    ![slide 10](slides/10.jpg)
+    ![slide 11](slides/11.jpg)
+    ![slide 12](slides/12.jpg)
+    ![slide 13](slides/13.jpg)
+
 ---
 
 ## Version Navigation

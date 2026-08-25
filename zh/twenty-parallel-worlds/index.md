@@ -4,6 +4,29 @@
 
 宇宙中同时并存着20个世界（亦称"20个平行世界"），由导游雪峰依据立体坐标系的数学原理推导得出。我们人类所处的人间（XY世界）仅是其中之一，其余19个世界与人间同时存在，通过清凉界O点这一枢纽彼此相连——上帝的质即居于此处。理解20个集合体世界，是觉悟空间、走上帝之道的重要一步。
 
+## 视频版
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/aY8FXqC7U78" title="20个集合体世界（生命禅院百科·视频版）" allowfullscreen></iframe>
+</div>
+
+??? info "📖 图文幻灯（14 张，点击展开）"
+
+    ![幻灯 01](slides/01.jpg)
+    ![幻灯 02](slides/02.jpg)
+    ![幻灯 03](slides/03.jpg)
+    ![幻灯 04](slides/04.jpg)
+    ![幻灯 05](slides/05.jpg)
+    ![幻灯 06](slides/06.jpg)
+    ![幻灯 07](slides/07.jpg)
+    ![幻灯 08](slides/08.jpg)
+    ![幻灯 09](slides/09.jpg)
+    ![幻灯 10](slides/10.jpg)
+    ![幻灯 11](slides/11.jpg)
+    ![幻灯 12](slides/12.jpg)
+    ![幻灯 13](slides/13.jpg)
+    ![幻灯 14](slides/14.jpg)
+
 ---
 
 ## 版本导航

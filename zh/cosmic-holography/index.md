@@ -10,6 +10,29 @@ title: 宇宙全息
 
 宇宙全息是生命禅院体系对宇宙整体性的核心表述：宇宙是一个浑沌整体，其大无外、其小无内，任何现象与事物皆相互感应、彼此关联；一念贯通宇宙，微末映照全体，天人合一，万物皆通。这一原理既是理解因果、奖惩机制的钥匙，也是修炼实践与人际相处的深层依据。
 
+## 视频版
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/3s9COdTwPyc" title="宇宙全息（生命禅院百科·视频版）" allowfullscreen></iframe>
+</div>
+
+??? info "📖 图文幻灯（14 张，点击展开）"
+
+    ![幻灯 01](slides/01.jpg)
+    ![幻灯 02](slides/02.jpg)
+    ![幻灯 03](slides/03.jpg)
+    ![幻灯 04](slides/04.jpg)
+    ![幻灯 05](slides/05.jpg)
+    ![幻灯 06](slides/06.jpg)
+    ![幻灯 07](slides/07.jpg)
+    ![幻灯 08](slides/08.jpg)
+    ![幻灯 09](slides/09.jpg)
+    ![幻灯 10](slides/10.jpg)
+    ![幻灯 11](slides/11.jpg)
+    ![幻灯 12](slides/12.jpg)
+    ![幻灯 13](slides/13.jpg)
+    ![幻灯 14](slides/14.jpg)
+
 | 版本 | 适合 | 核心角度 |
 |------|------|----------|
 | [友好版](friendly.md) | 初次了解 | 生活类比与修炼意义 |
