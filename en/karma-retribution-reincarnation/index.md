@@ -7,6 +7,32 @@ slug: karma-retribution-reincarnation
 
 **Karma, retribution, and reincarnation** are not articles of faith — they are the fundamental laws and order by which life operates across the cosmos. *Karma* is the principle that maintains the sum of positive and negative energy in the universe at zero: every action plants a seed, every seed grows its own fruit. *Retribution* is not a divine verdict handed down at the end of time, but the continuous, automatic operation of the Tao — running every second of every day with perfect impartiality. *Reincarnation* is the eternal transformation of LIFE across ten spaces — from the Elysium World and Celestial Islands Continent at the heights to the Frozen Layer and Fire-Refining Layer at the depths — with the direction of each transition determined by the quality of one's consciousness and antimatter structure at the moment of departure from this world. Together, these three principles form the cosmic moral order established by the Greatest Creator: the universe neither owes you nor wrongs you.
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/_JIZYYUDIbA" title="Karma, Retribution & Reincarnation (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
+## Slides
+
+??? info "📖 Illustrated slides (15 pages, click to expand)"
+
+    ![slide 01](slides/01.jpg)
+    ![slide 02](slides/02.jpg)
+    ![slide 03](slides/03.jpg)
+    ![slide 04](slides/04.jpg)
+    ![slide 05](slides/05.jpg)
+    ![slide 06](slides/06.jpg)
+    ![slide 07](slides/07.jpg)
+    ![slide 08](slides/08.jpg)
+    ![slide 09](slides/09.jpg)
+    ![slide 10](slides/10.jpg)
+    ![slide 11](slides/11.jpg)
+    ![slide 12](slides/12.jpg)
+    ![slide 13](slides/13.jpg)
+    ![slide 14](slides/14.jpg)
+    ![slide 15](slides/15.jpg)
+
 ## Version Navigation
 
 | Version | Best for |

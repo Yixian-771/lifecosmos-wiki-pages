@@ -11,6 +11,29 @@ description: Entry page for "Space" in the Lifechanyuan Encyclopedia — the pos
 
 Space is far more than the three-dimensional physical world visible to the eye. The Lifechanyuan system identifies thirty-six dimensions of space, categorized fundamentally into two types: yang-space (positive/material) and yin-space (negative/antimatter). The physical body inhabits positive space; the spirit-body inhabits negative space. Dreams are the most direct everyday encounter with negative space. Space shapes a being's lifespan, character, and degree of freedom — and expanding one's life space is one of the central tasks of cultivation practice.
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/RFyUwHhgxqU" title="Space (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
+## Slides
+
+??? info "📖 Illustrated slides (12 pages, click to expand)"
+
+    ![slide 01](slides/01.jpg)
+    ![slide 02](slides/02.jpg)
+    ![slide 03](slides/03.jpg)
+    ![slide 04](slides/04.jpg)
+    ![slide 05](slides/05.jpg)
+    ![slide 06](slides/06.jpg)
+    ![slide 07](slides/07.jpg)
+    ![slide 08](slides/08.jpg)
+    ![slide 09](slides/09.jpg)
+    ![slide 10](slides/10.jpg)
+    ![slide 11](slides/11.jpg)
+    ![slide 12](slides/12.jpg)
+
 ---
 
 | Version | Best for | Focus |
