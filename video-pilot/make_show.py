@@ -239,6 +239,15 @@ def main(stills=False, only=None):
         maxw = W-180; lines, cur = [], ""
         if " " in txt:
             for w in txt.split(" "):
+                # 中英混排的中文句（如"不论是 x 轴…"）按空格切出来的"词"里，可能整块是一长串
+                # 中文，本身就超宽、又没有空格可断 → 退回按字符切，否则整行会溢出画面两侧。
+                # 注意接着当前行往下填，不要先把 cur 单独成行，否则会甩出"AI"这样的孤儿短行。
+                if d.textbbox((0, 0), w, font=fnt)[2] > maxw:
+                    if cur: cur += " "
+                    for ch in w:
+                        if d.textbbox((0, 0), cur+ch, font=fnt)[2] > maxw and cur.strip(): lines.append(cur.rstrip()); cur = ch
+                        else: cur += ch
+                    continue
                 t = (cur+" "+w).strip()
                 if d.textbbox((0, 0), t, font=fnt)[2] > maxw and cur: lines.append(cur); cur = w
                 else: cur = t
