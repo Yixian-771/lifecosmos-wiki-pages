@@ -29,7 +29,7 @@
 | 版本 | 适合读者 |
 |------|----------|
 | [轻松入门版](/zh/intermediate-refinement/friendly/) | 初次了解，感受智慧 |
-| [原典全文版](/zh/intermediate-refinement/internal/) | 研读完整原文与注释 |
+| [文集全文版](/zh/intermediate-refinement/internal/) | 研读完整原文与注释 |
 | [学术分析版](/zh/intermediate-refinement/academic/) | 系统研究与跨文化比较 |
 | 概览（本页） | 快速定位与版本选择 |
 

@@ -97,7 +97,7 @@
 
 初级修炼与道家思想关系最为密切，多条直接使用道家语汇：
 
-| 初级修炼条目 | 道家原典 | 共鸣 | 差异 |
+| 初级修炼条目 | 道家文集 | 共鸣 | 差异 |
 |--------------|---------|------|------|
 | 自然无为（1） | 《道德经》第3章"为无为，则无不治" | 不强行、顺道而行 | 初级修炼面向个人修炼路径，老子面向治国 |
 | 如水（19） | 《道德经》第78章"天下莫柔弱于水，而攻坚强者莫之能胜" | 以柔克刚 | 基本重合 |
@@ -180,4 +180,4 @@
 
 ---
 
-[← 返回概览](/zh/elementary-refinement/) · [原典全文版](/zh/elementary-refinement/internal/) · [轻松入门版](/zh/elementary-refinement/friendly/)
+[← 返回概览](/zh/elementary-refinement/) · [文集全文版](/zh/elementary-refinement/internal/) · [轻松入门版](/zh/elementary-refinement/friendly/)

@@ -88,5 +88,5 @@
 想深入了解，可以阅读：
 
 - [学术版](/zh/wo-zhi/academic/)：系统分析，含与佛学概念的比较
-- [内部版](/zh/wo-zhi/internal/)：原典引文，适合深度学习
+- [内部版](/zh/wo-zhi/internal/)：文集引文，适合深度学习
 - 相关词条：[无我无相](/zh/no-self-no-form/) · [放下](/zh/letting-go/) · [归零](/zh/return-to-zero/) · [谦卑](/zh/humility/)

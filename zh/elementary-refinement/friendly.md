@@ -128,4 +128,4 @@
 
 ---
 
-[← 返回概览](/zh/elementary-refinement/) · [原典版](/zh/elementary-refinement/internal/) · [学术版](/zh/elementary-refinement/academic/)
+[← 返回概览](/zh/elementary-refinement/) · [文集版](/zh/elementary-refinement/internal/) · [学术版](/zh/elementary-refinement/academic/)

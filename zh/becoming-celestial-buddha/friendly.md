@@ -113,5 +113,5 @@
 ## 继续探索
 
 - [学术版](/zh/becoming-celestial-buddha/academic/)：系统分析，含与道佛传统的比较
-- [内部版](/zh/becoming-celestial-buddha/internal/)：原典引文完整版
+- [内部版](/zh/becoming-celestial-buddha/internal/)：文集引文完整版
 - 相关词条：[觉悟](/zh/awakening/) · [明心见性](/zh/illuminate-mind-see-nature/) · [八无境界](/zh/eight-no-realms/) · [归零](/zh/return-to-zero/)

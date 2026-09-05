@@ -17,7 +17,7 @@ slug: religion-zh
 |------|----------|------|
 | 友好版 | 初次接触，希望轻松理解 | [阅读友好版](/zh/religion/friendly/) |
 | 学术版 | 深入研究，系统梳理 | [阅读学术版](/zh/religion/academic/) |
-| 内部版 | 禅院草，研读原典 | [阅读内部版](/zh/religion/internal/) |
+| 内部版 | 禅院草，研读文集 | [阅读内部版](/zh/religion/internal/) |
 
 ---
 

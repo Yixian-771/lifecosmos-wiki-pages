@@ -132,7 +132,7 @@
 
 ### 4.2 道家（老子·庄子）
 
-| 中级修炼步骤 | 道家原典 | 共鸣 | 差异 |
+| 中级修炼步骤 | 道家文集 | 共鸣 | 差异 |
 |--------------|---------|------|------|
 | 静心（1） | 《道德经》第16章："致虚极，守静笃" | 以静为修炼之本 | 基本重合；道家更强调静作为宇宙本体的属性，中级修炼更强调静作为接通负宇宙能量的条件 |
 | 虚心（5） | 《道德经》第48章："为道日损，损之又损，以至于无为" | 减法路径；去掉固执，才能接近道 | 中级修炼的虚心是认识论操作（清空偏见）；道家的"损"是本体论的（回归道本身） |
@@ -185,4 +185,4 @@
 
 ---
 
-[← 返回概览](/zh/intermediate-refinement/) · [原典全文版](/zh/intermediate-refinement/internal/) · [轻松入门版](/zh/intermediate-refinement/friendly/)
+[← 返回概览](/zh/intermediate-refinement/) · [文集全文版](/zh/intermediate-refinement/internal/) · [轻松入门版](/zh/intermediate-refinement/friendly/)

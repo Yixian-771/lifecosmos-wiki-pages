@@ -1,4 +1,4 @@
-﻿---
+---
 title: 雪峰式共产主义
 slug: xuefeng-communism
 ---
@@ -13,7 +13,7 @@ slug: xuefeng-communism
 |------|------|
 | [友好版](friendly/) | 首次接触，用生活类比读懂这个概念 |
 | [学术版](academic/) | 理论研究与系统比较分析 |
-| [内部版](internal/) | 体系内核心学习，完整原典 |
+| [内部版](internal/) | 体系内核心学习，完整文集 |
 
 ## 相关词条
 

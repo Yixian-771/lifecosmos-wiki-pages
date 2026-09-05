@@ -1,4 +1,4 @@
-﻿<!-- id: LC-BC-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
+<!-- id: LC-BC-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
 
 # 成仙
 
@@ -12,7 +12,7 @@
 |------|---------|---------|
 | [友好版](friendly.md) | 初次了解者 | 仙是什么感觉？三步成仙是怎么回事？成仙难不难？ |
 | [学术版](academic.md) | 研究者 | 三重境界结构分析、成仙条件论、陷阱类型学 |
-| [内部版](internal.md) | 深度研读 | 完整原典引文、三步曲、八条法、核心秘诀 |
+| [内部版](internal.md) | 深度研读 | 完整文集引文、三步曲、八条法、核心秘诀 |
 
 ---
 

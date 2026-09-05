@@ -35,7 +35,7 @@
 |------|----------|------|
 | 通俗版 | 初次接触者，想用日常语言理解 | [阅读通俗版](/zh/qing-affection/friendly/) |
 | 学术版 | 研究者，需要来源分析与系统梳理 | [阅读学术版](/zh/qing-affection/academic/) |
-| 内部版 | 禅院草，需要完整原典引文 | [阅读内部版](/zh/qing-affection/internal/) |
+| 内部版 | 禅院草，需要完整文集引文 | [阅读内部版](/zh/qing-affection/internal/) |
 
 ---
 

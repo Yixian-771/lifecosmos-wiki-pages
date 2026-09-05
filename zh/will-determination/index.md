@@ -12,7 +12,7 @@
 |------|----------|------|
 | 友好版 | 初次接触者，想用日常语言理解 | [阅读友好版](/zh/will-determination/friendly/) |
 | 学术版 | 研究者，需要来源分析与系统梳理 | [阅读学术版](/zh/will-determination/academic/) |
-| 内部版 | 禅院草，需要完整原典引文 | [阅读内部版](/zh/will-determination/internal/) |
+| 内部版 | 禅院草，需要完整文集引文 | [阅读内部版](/zh/will-determination/internal/) |
 
 ---
 

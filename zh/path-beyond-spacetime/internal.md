@@ -5,7 +5,7 @@ slug: path-beyond-spacetime-internal-zh
 
 # 超时空之路·内部版
 
-> 此版本为原典完整汇编，供深度研修者参考。
+> 此版本为文集完整汇编，供深度研修者参考。
 
 ---
 

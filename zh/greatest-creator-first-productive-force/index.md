@@ -40,7 +40,7 @@ slug: greatest-creator-first-productive-force
 |------|------|----------|
 | [友好版](friendly.md) | 初次了解 | 生活类比，讲清为何上帝才是真正的生产力 |
 | [学术版](academic.md) | 研究者 | 系统分析定义、辨析与比较研究 |
-| [内部版](internal.md) | 深度研修 | 原典全文，一字不改 |
+| [内部版](internal.md) | 深度研修 | 文集全文，一字不改 |
 
 ## 相关词条
 

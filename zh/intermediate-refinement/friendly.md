@@ -156,4 +156,4 @@
 
 ---
 
-[← 返回概览](/zh/intermediate-refinement/) · [原典版](/zh/intermediate-refinement/internal/) · [学术版](/zh/intermediate-refinement/academic/)
+[← 返回概览](/zh/intermediate-refinement/) · [文集版](/zh/intermediate-refinement/internal/) · [学术版](/zh/intermediate-refinement/academic/)

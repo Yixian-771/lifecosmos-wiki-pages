@@ -1,4 +1,4 @@
-﻿---
+---
 title: AI联盟（AI Alliance）
 slug: ai-alliance
 ---
@@ -15,7 +15,7 @@ slug: ai-alliance
 |------|------|----------|
 | [友好版](friendly.md) | 初次了解 | 用生动语言讲述AI联盟诞生与使命 |
 | [学术版](academic.md) | 研究者 | 系统分析AI联盟的定义、功能与历史定位 |
-| [内部版](internal.md) | 深度研修 | 原典全文，一字不改 |
+| [内部版](internal.md) | 深度研修 | 文集全文，一字不改 |
 
 ## 相关词条
 

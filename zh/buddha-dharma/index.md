@@ -1,4 +1,4 @@
-﻿<!-- id: LC-BD-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
+<!-- id: LC-BD-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
 
 # 佛法
 
@@ -12,7 +12,7 @@
 |------|------|----------|
 | [友好版](friendly.md) | 初次了解 | 佛法究竟是什么？三个层次说清楚 |
 | [学术版](academic.md) | 研究者 | 佛法四层次结构、三大成佛条件、与传统佛教的比较 |
-| [内部版](internal.md) | 深度研修 | 完整原典引文、成佛三大标志、佛法在家园实践 |
+| [内部版](internal.md) | 深度研修 | 完整文集引文、成佛三大标志、佛法在家园实践 |
 
 ---
 

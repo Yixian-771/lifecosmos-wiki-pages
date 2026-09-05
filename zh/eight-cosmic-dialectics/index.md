@@ -14,7 +14,7 @@ slug: eight-cosmic-dialectics-zh
 |------|------|----------|
 | [友好版](friendly.md) | 初次了解 | 八大规律的生活智慧 |
 | [学术版](academic.md) | 研究者 | 系统分析与体系比较 |
-| [内部版](internal.md) | 深度研修 | 完整原典与修炼路径 |
+| [内部版](internal.md) | 深度研修 | 完整文集与修炼路径 |
 
 ---
 

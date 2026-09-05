@@ -1,8 +1,8 @@
-﻿<!-- id: LC-FB-0001-ZH theme: 修行 type: internal direction: 生活修炼 lang: zh -->
+<!-- id: LC-FB-0001-ZH theme: 修行 type: internal direction: 生活修炼 lang: zh -->
 
 # 打情骂俏 · 内部版
 
-> 本版面向修行者与研究者，收录完整原典引文，按六节逻辑框架整理，标注出处。
+> 本版面向修行者与研究者，收录完整文集引文，按六节逻辑框架整理，标注出处。
 
 ---
 

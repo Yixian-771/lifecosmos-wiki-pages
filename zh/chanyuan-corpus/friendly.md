@@ -86,6 +86,6 @@ slug: chanyuan-corpus/friendly
 
 ## 想了解更多？
 
-你可以从[内部版](internal.md)阅读所有原典原文，或从[学术版](academic.md)获得系统分析。
+你可以从[内部版](internal.md)阅读所有文集原文，或从[学术版](academic.md)获得系统分析。
 
 相关词条：[雪峰文集](/zh/guide-xuefeng/) · [生命禅院](/zh/lifechanyuan/) · [禅院草](/zh/chanyuan-celestials/) · [修行修炼](/zh/raise-vibration-frequency/) · [觉悟](/zh/awakening/)

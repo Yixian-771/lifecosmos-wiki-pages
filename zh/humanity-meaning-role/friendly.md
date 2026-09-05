@@ -103,7 +103,7 @@
 ## 想深入了解？
 
 - [学术版](academic.md)——系统分析人类意义的理论框架
-- [内部版](internal.md)——导游原典完整引文
+- [内部版](internal.md)——导游文集完整引文
 - [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/)——与本词条密切相关
 - [生命的轮回](/zh/life-reincarnation/)——了解消业转化的完整机制
 - [成仙成佛](/zh/becoming-celestial-buddha/)——了解人类最终的升华之路

@@ -1,4 +1,4 @@
-﻿<!-- id: LC-ROL-0001-ZH-FRI theme: 修行修炼 type: 友好版 lang: zh -->
+<!-- id: LC-ROL-0001-ZH-FRI theme: 修行修炼 type: 友好版 lang: zh -->
 
 # 人生和生命线路图（友好版）
 
@@ -85,7 +85,7 @@
 ## 想更深入了解？
 
 - [学术版](academic.md)——概念辨析与比较研究
-- [内部版](internal.md)——完整原典原文
+- [内部版](internal.md)——完整文集原文
 - [去天国路线图](/zh/route-to-heaven/)——更详细的路径细节
 - [偿还债务](/zh/debt-repayment/) · [了却尘缘](/zh/releasing-worldly-bonds/) · [天国财宝](/zh/heavenly-treasures/)
 

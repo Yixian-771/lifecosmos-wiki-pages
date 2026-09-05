@@ -93,6 +93,6 @@
 ---
 
 - [学术版](academic/) — 能力递进结构分析、与千年界仙系统比较表、性升华框架
-- [内部版](internal/) — 原典引文与出处
+- [内部版](internal/) — 文集引文与出处
 - [仙·天仙·佛](/zh/xian-tian-xian-fo/) — 五品仙的完整体系
 - [千年界仙](/zh/thousand-year-world-celestials/) — 万年界的前一站

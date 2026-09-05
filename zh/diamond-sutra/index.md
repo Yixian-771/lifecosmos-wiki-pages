@@ -1,4 +1,4 @@
-﻿<!-- id: LC-DS-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
+<!-- id: LC-DS-0001-ZH theme: 修行修炼 type: index direction: 修行修炼 lang: zh -->
 
 # 《金刚经》
 
@@ -12,7 +12,7 @@
 |------|------|----------|
 | [友好版](friendly.md) | 初次了解 | 三大核心教义与当下成佛的路径 |
 | [学术版](academic.md) | 研究者 | 教义结构分析、乘次体系、与传统佛教比较 |
-| [内部版](internal.md) | 深度研修 | 完整原典引文、成佛三标志、果报与佛塔 |
+| [内部版](internal.md) | 深度研修 | 完整文集引文、成佛三标志、果报与佛塔 |
 
 ---
 

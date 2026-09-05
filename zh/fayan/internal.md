@@ -1,8 +1,8 @@
-﻿<!-- id: LC-FY-0001-ZH-I theme: 修行修炼 type: 内部版 direction: 修行修炼 lang: zh -->
+<!-- id: LC-FY-0001-ZH-I theme: 修行修炼 type: 内部版 direction: 修行修炼 lang: zh -->
 
 # 法眼（内部版）
 
-## 原典引文
+## 文集引文
 
 ### 一、我为大家开法眼
 

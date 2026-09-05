@@ -5,7 +5,7 @@ slug: eight-cosmic-dialectics-internal-zh
 
 # 宇宙八大辩证法 · 内部版
 
-> 本版为深度研修版，完整呈现导游原典，供禅院草体系学习使用。
+> 本版为深度研修版，完整呈现导游文集，供禅院草体系学习使用。
 
 ---
 
@@ -21,7 +21,7 @@ slug: eight-cosmic-dialectics-internal-zh
 
 ---
 
-## 二、八大辩证法原典
+## 二、八大辩证法文集
 
 ### 空即色 色即空
 
