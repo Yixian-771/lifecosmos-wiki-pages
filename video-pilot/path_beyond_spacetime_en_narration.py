@@ -28,7 +28,7 @@ WATERMARK = "Lifechanyuan"
 
 META = [
     {"quote": "The road never went anywhere. It only changed names."},
-    {"quote": "First, the advisory the source wrote for itself"},
+    {"quote": "First, the advisory Xuefeng wrote himself"},
     {"quote": "Every place and every space keeps its own time"},
     {"quote": "Imagine the river away and the river carries you off"},
     {"quote": "Change the mode of motion and you change what is fixed"},
@@ -51,7 +51,7 @@ SLIDES = [
         "Which means the road never went anywhere. It only changed names. Lifechanyuan is itself a path beyond spacetime.",
     ]),
     ("slides_pbs_en/slide_02.png", [
-        "Before we go further, there is an advisory the source wrote for itself, and it has to be read out.",
+        "Before we go further, there is an advisory Xuefeng wrote himself, and it has to be read out.",
         "Xuefeng said: this content suits only Chanyuan Celestials who have lived in the Second Home for over two years, have settled their worldly ties, passed the labour discipline, repaid their karmic debts and accumulated sufficient merit.",
         "All other Chanyuan Celestials should proceed step by step — keeping the weight of their practice on settling worldly ties, repaying debts, accumulating merit and perfecting their own garden of the heart, not on the path beyond spacetime.",
         "Other readers should take it as information only, and should not practise from it. Otherwise a life will inevitably tip out of balance, one thing gained and another lost.",
