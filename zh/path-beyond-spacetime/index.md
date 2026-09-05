@@ -19,7 +19,7 @@ slug: path-beyond-spacetime-zh
 ## 视频版
 
 <div style="max-width:760px">
-<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/EK-2RCTRHsE" title="超时空之路（生命禅院百科·视频版）" allowfullscreen></iframe>
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/5q0zPvZXpO4" title="超时空之路（生命禅院百科·视频版）" allowfullscreen></iframe>
 </div>
 
 ??? info "📖 图文幻灯（14 张，点击展开）"
