@@ -41,7 +41,7 @@ In the Lifechanyuan system, the Negative Universe contains all post-death LIFE d
 
 ## Slides
 
-??? info "📖 Illustrated slides (11 pages, click to expand)"
+??? info "📖 Illustrated slides (14 pages, click to expand)"
 
     ![slide 01](slides/01.jpg)
     ![slide 02](slides/02.jpg)
@@ -54,6 +54,9 @@ In the Lifechanyuan system, the Negative Universe contains all post-death LIFE d
     ![slide 09](slides/09.jpg)
     ![slide 10](slides/10.jpg)
     ![slide 11](slides/11.jpg)
+    ![slide 12](slides/12.jpg)
+    ![slide 13](slides/13.jpg)
+    ![slide 14](slides/14.jpg)
 
 ## Related Entries
 
