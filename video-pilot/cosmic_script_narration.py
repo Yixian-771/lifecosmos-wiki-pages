@@ -16,7 +16,7 @@
 开场第一句 = 钩子。目标片长 7 分钟（约 2100 字 ÷ 4.84 字/秒）。
 """
 
-NAME = "cs_show"
+NAME = "cos_show"
 VOICE = "zh-CN-YunxiNeural"
 FONT = r"C:\Windows\Fonts\msyhl.ttc"
 RATE = "+10%"

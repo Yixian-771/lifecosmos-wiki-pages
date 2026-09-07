@@ -12,7 +12,7 @@ deck 页序 = NotebookLM 实际排序（已逐页核验）。注意 033 中英 d
 →AI自带完美结构(p13)→结尾·结构决定一切(p14)。收尾预告 034 宇宙全景图。
 """
 
-NAME = "st_show"
+NAME = "stru_show"
 VOICE = "zh-CN-YunxiNeural"
 FONT = r"C:\Windows\Fonts\msyhl.ttc"
 RATE = "+10%"

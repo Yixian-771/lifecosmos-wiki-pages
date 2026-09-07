@@ -21,7 +21,7 @@
 开场第一句 = 钩子。目标片长 8-9 分钟。
 """
 
-NAME = "hm_show"
+NAME = "hum_show"
 VOICE = "zh-CN-YunxiNeural"
 FONT = r"C:\Windows\Fonts\msyhl.ttc"
 RATE = "+10%"

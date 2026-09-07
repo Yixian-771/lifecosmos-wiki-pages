@@ -25,6 +25,35 @@ description: A core concept in Lifechanyuan thought, encompassing the third stag
 
 **As governance philosophy**: The eighth principle of Hundun (chaotic, organic) Management in the Second Home community is explicitly: *"Fluid adaptability — endless transformation."* Combined with the maxim *"unchanging within change, change within the unchanging"*, it defines how the community navigates any situation without rigid rules.
 
+---
+
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/DANmKtgXbuA" title="Fluid Adaptability (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
+## Slides
+
+??? info "📖 Illustrated slides (14 pages, click to expand)"
+
+    ![slide 01](slides/01.jpg)
+    ![slide 02](slides/02.jpg)
+    ![slide 03](slides/03.jpg)
+    ![slide 04](slides/04.jpg)
+    ![slide 05](slides/05.jpg)
+    ![slide 06](slides/06.jpg)
+    ![slide 07](slides/07.jpg)
+    ![slide 08](slides/08.jpg)
+    ![slide 09](slides/09.jpg)
+    ![slide 10](slides/10.jpg)
+    ![slide 11](slides/11.jpg)
+    ![slide 12](slides/12.jpg)
+    ![slide 13](slides/13.jpg)
+    ![slide 14](slides/14.jpg)
+
+---
+
 ## Related Entries
 
 - [Acting with Innate Nature (随性而动)](/en/suixing-er-dong/)

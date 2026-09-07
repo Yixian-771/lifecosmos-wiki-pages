@@ -12,7 +12,7 @@ deck 页序与源稿 1:1（已逐页核验，工笔淡彩）：封面(p1)→生�
 本篇讲灵本身(来源/1赫兹/灵魂之别/灵觉/灵光/心灵感应)。收尾预告 030 灵性。
 """
 
-NAME = "lg_show"
+NAME = "ling_show"
 VOICE = "zh-CN-YunxiNeural"
 FONT = r"C:\Windows\Fonts\msyhl.ttc"
 RATE = "+10%"

@@ -13,7 +13,7 @@ Order: cover / capacity for awakening (p1-2) -> Spirit is the energy consciousne
 "上帝"=the Greatest Creator; 灵=Spirit, 灵性=spirituality, 灵觉=Spiritual Sensing (per deck).
 """
 
-NAME = "sp_en_show"
+NAME = "spy_en_show"
 VOICE = "en-US-AndrewNeural"
 FONT = r"C:\Windows\Fonts\georgia.ttf"
 RATE = "+0%"

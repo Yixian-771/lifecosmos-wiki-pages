@@ -18,7 +18,7 @@ Voice: Andrew, unhurried, plain-spoken. Written from the English internal.md, no
 First line = hook. Target ~7 minutes (~1180 words at ~2.74 w/s).
 """
 
-NAME = "cs_en_show"
+NAME = "cos_en_show"
 VOICE = "en-US-AndrewNeural"
 FONT = r"C:\Windows\Fonts\georgia.ttf"
 RATE = "+0%"

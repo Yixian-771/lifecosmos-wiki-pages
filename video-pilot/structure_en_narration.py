@@ -15,7 +15,7 @@ Order: cover/root (p1) -> structure is the hub (p2) -> the only accident: struct
 "上帝"=the Greatest Creator; 性=Nature (per deck).
 """
 
-NAME = "st_en_show"
+NAME = "stru_en_show"
 VOICE = "en-US-AndrewNeural"
 FONT = r"C:\Windows\Fonts\georgia.ttf"
 RATE = "+0%"

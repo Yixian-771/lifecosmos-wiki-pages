@@ -14,7 +14,7 @@ Order: cover (p1) -> Ling is highest-order energy, from the Greatest Creator (p2
 "上帝"=the Greatest Creator; 魂=Soul, 灵=Ling (per deck).
 """
 
-NAME = "lg_en_show"
+NAME = "ling_en_show"
 VOICE = "en-US-AndrewNeural"
 FONT = r"C:\Windows\Fonts\georgia.ttf"
 RATE = "+0%"

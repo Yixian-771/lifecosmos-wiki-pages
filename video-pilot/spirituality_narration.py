@@ -12,7 +12,7 @@ deck 页序与源稿 1:1（已逐页核验，工笔淡彩）：封面·灵性是
 收尾预告 031 性。
 """
 
-NAME = "sp_show"
+NAME = "spy_show"
 VOICE = "zh-CN-YunxiNeural"
 FONT = r"C:\Windows\Fonts\msyhl.ttc"
 RATE = "+10%"

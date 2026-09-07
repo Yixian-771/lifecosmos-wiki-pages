@@ -25,7 +25,7 @@ Voice: Andrew. Written from the English internal.md and the 077 source outline, 
 First line = hook. Target ~9-10 minutes.
 """
 
-NAME = "hm_en_show"
+NAME = "hum_en_show"
 VOICE = "en-US-AndrewNeural"
 FONT = r"C:\Windows\Fonts\georgia.ttf"
 RATE = "+0%"
