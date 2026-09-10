@@ -61,35 +61,35 @@ SLIDES = [
     ]),
     ("slides_sg_en/slide_02.png", [
         "Three terms need joining, and once joined they are one thing. First: behavior is decided by consciousness, and consciousness is the soul garden. Second: LIFE is a sentient antimatter structure whose core is consciousness.",
-        "Third: the essence of LIFE is the soul, and the essence of the soul is consciousness — so the source states it directly: consciousness is LIFE.",
-        "Put the three together: when you think you are merely sorting out your mood, you are editing the structural architecture of this LIFE. Antimatter Structure has its own entry; named only here.",
+        "Third: the essence of LIFE is the soul, and the essence of the soul is consciousness — so, in one line: consciousness is LIFE.",
+        "Put the three together: when you think you are merely sorting out your mood, you are editing the structural architecture of this LIFE.",
     ]),
     ("slides_sg_en/slide_03.png", [
         "So what does that ground decide? Where a LIFE finally goes.",
         "Whatever structure a LIFE has determines what space it lives in: Heaven is set up for the complete, the lower realms for the deficient.",
-        "The link between the two is frequency. How complete the soul garden is determines the vibration frequency, and the frequency determines which level one can enter. The source gives it a name: the gate to Heaven is a frequency gate.",
+        "The link between the two is frequency. How complete the soul garden is determines the vibration frequency, and the frequency determines which level one can enter. It has a name: the gate to Heaven is a frequency gate.",
         "That dissolves a common misunderstanding. Nobody is standing at a door selecting people. If the frequency does not match, the door simply does not open — a key and a lock, nothing personal about it.",
     ]),
     ("slides_sg_en/slide_04.png", [
-        "What grows in there? The source gives two long inventories; we will read part of each.",
-        "The weeds to pull: jealousy, complaint, comparison, anger, resentment, selfishness, greed, laziness, fear, arrogance, apathy — and the source generalizes: every pessimistic, negative, downward thought or mood is a weed.",
+        "What grows in there? There are two long inventories; we will read part of each.",
+        "The weeds to pull: jealousy, complaint, comparison, anger, resentment, selfishness, greed, laziness, fear, arrogance, apathy — and to put it generally: every pessimistic, negative, downward thought or mood is a weed.",
         "The flowers to plant: truth, goodness, beauty, love, faith, sincerity, harmony, stillness, selflessness, diligence, optimism, humility, tolerance, gratitude.",
         "Set the two lists side by side and one thing is striking: not a single item is mystical. Every one is a state you could verify in an ordinary day. These are only some of them.",
     ]),
     ("slides_sg_en/slide_05.png", [
         "To make the difference legible, the framework borrows a scale of consciousness energy — a way of thinking, not a medical measurement.",
         "On that scale, shame reads 20, guilt 30, apathy 50, grief 75, fear 100, craving 125, anger 150, pride 175 — all below 200.",
-        "Love reads 500, joy 540, serenity 600. The source treats 200 as a watershed, and puts the minimum for the most elementary Heaven LIFE at 500.",
+        "Love reads 500, joy 540, serenity 600. 200 is the watershed, and the minimum for the most elementary Heaven LIFE is 500.",
         "But the order cannot be inverted. The reading is not the thing to chase; it floats with the state of the garden. First the garden, then the reading.",
     ]),
     ("slides_sg_en/slide_06.png", [
         "Why is this raised to humanity's top priority? Because in this framework the invisible layer is the source layer.",
         "The claim is direct: in any group — a family, a company, a community — the inner state of each member decides the quality of life of the whole.",
         "Without a relatively complete inner state, a complete way of living is nearly impossible to form. From which comes the heaviest line: the source of every crisis is a crisis of the heart.",
-        "So the single measure of whether a place is civilized is how complete its people's soul gardens are. That is the source's judgment, and it points at no real country or event.",
+        "So the single measure of whether a place is civilized is how complete its people's soul gardens are. That is a judgment of principle, and it points at no real country or event.",
     ]),
     ("slides_sg_en/slide_07.png", [
-        "Look at the direction first. The source assigns each of four things a purpose.",
+        "Look at the direction first. Four things each carry a purpose.",
         "The purpose of the Lifechanyuan concepts is to make consciousness orderly. The purpose of Second Home living is to make consciousness simple.",
         "The purpose of games and play is to make consciousness clear. And the purpose of cultivating a complete soul garden is to make consciousness pure.",
         "Orderly, simple, clear, pure. Not one of those four words adds anything to consciousness. All four directions are subtraction.",
@@ -97,7 +97,7 @@ SLIDES = [
     ("slides_sg_en/slide_08.png", [
         "Before weeding, something more basic: you need power to do it.",
         "Its words: to build the soul garden one must first absorb powerful spiritual energy; without that infusion, soul garden construction is empty talk.",
-        "There are three sources. First, reverence for and faith in the Greatest Creator — which, the source says, builds an internal tribunal over one's own thoughts, words and actions.",
+        "There are three sources. First, reverence for and faith in the Greatest Creator — which builds an internal tribunal over one's own thoughts, words and actions.",
         "Second, listening to the teachings of the sages, so one can tell right from wrong and find one's own coordinates. Third, a deep grasp of causality and of the principle that positive and negative energy sum to zero — knowing giving and receiving are always equal, one stops calculating.",
     ]),
     ("slides_sg_en/slide_09.png", [
@@ -107,9 +107,9 @@ SLIDES = [
         "Five, check by comparison: not by what you say, but by whether the quality shows in small ordinary moments. And a sober note — contamination is instantaneous; clearing it takes a very long time.",
     ]),
     ("slides_sg_en/slide_10.png", [
-        "Most people assume inner work requires isolation. The source argues the opposite: collective living is the best practice field.",
+        "Most people assume inner work requires isolation. The answer runs the other way: collective living is the best practice field.",
         "The reason is simple. Weeds only show themselves when something brushes against them. Alone, jealousy and comparison are invisible. Put another person beside you and they surface on their own.",
-        "The source calls that environment a smelting furnace: it gradually dissolves a person's self-attachment, selfishness, greed, jealousy and emotional volatility — and it happens, in its own words, without anyone quite noticing, amid a good deal of shared laughter. Stated as fact only.",
+        "That environment has a name — a smelting furnace. It gradually dissolves a person's self-attachment, selfishness, greed, jealousy and emotional volatility — and it happens without anyone quite noticing, amid a good deal of shared laughter.",
     ]),
     ("slides_sg_en/slide_11.png", [
         "The soul garden is also tied to the body.",
@@ -118,20 +118,20 @@ SLIDES = [
         "This has to be said plainly: that is what this framework holds about inner state and physical reality. It is not medical advice and is no substitute for seeing a doctor. The prescriptions it offers are, in the end, a way of living — less survival anxiety, physical work, keeping gladness. Only some of them.",
     ]),
     ("slides_sg_en/slide_12.png", [
-        "The source gives eight first tasks. Listen for what they share.",
+        "There are eight first tasks. Listen for what they share.",
         "One, stop complaining; build your own garden instead. Two, stop displaying yourself; do the work you owe to a first-rate standard. Three, stop minding other people's business; concentrate on completing yourself.",
         "Four, stop finding this one irritating and that one disappointing. Five, stop instructing others; put what you have learned into your own conduct. Six, stop chasing material advantage; pursue fullness of spirit.",
         "Seven, stop appraising others; seek harmony with everyone around you. Eight, be plain and truthful rather than clever. Seven of the eight begin with stop — building a garden usually starts by putting a few things down.",
     ]),
     ("slides_sg_en/slide_13.png", [
-        "From here the source draws an inference. It says the reason Heaven runs on chaos-management — no managing class at all, and yet complete order — is that the LIVES living there have pure hearts.",
+        "From here comes an inference. The reason Heaven runs on chaos-management — no managing class at all, and yet complete order — is that the LIVES living there have pure hearts.",
         "From which comes an inverse law: the more complete a LIFE's heart, the less management it requires; the uglier the heart, the more coercive the management must be.",
-        "And it runs backward as a measuring stick: how many rules and fences a place needs tells you what its people's gardens look like. Chaos-management has its own entry; named only here.",
+        "And it runs backward as a measuring stick: how many rules and fences a place needs tells you what its people's gardens look like.",
     ]),
     ("slides_sg_en/slide_14.png", [
         "Finally, three stages — which are also the stages of a garden.",
         "Stage one: leaving vexation, sorrow, anxiety and fear behind, living in gladness and freedom. Stage two: mind without abiding, mind without hindrance, at ease all the time.",
-        "Stage three: no mind at all, everything becoming nature, fluidly adaptable, self-coherent, one with the Way. Fluid Adaptability is the next entry; named only here.",
+        "Stage three: no mind at all, everything becoming nature, fluidly adaptable, self-coherent, one with the Way.",
         "Xuefeng's summary is one sentence: a person's soul garden is the ground on which that person becomes whatever LIFE they become. So nothing has to be finished today. Your garden was always bright — something was simply pressing on it. Today, you can loosen one creeper.",
     ]),
 ]

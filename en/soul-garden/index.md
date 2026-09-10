@@ -36,7 +36,7 @@ In the Lifechanyuan system, the Soul Garden is simultaneously: the practical tar
 ## Video
 
 <div style="max-width:760px">
-<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/6DdbVfzRkqQ" title="Soul Garden (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/ooezZREZjII" title="Soul Garden (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
 </div>
 
 ## Slides
