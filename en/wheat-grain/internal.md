@@ -9,9 +9,9 @@ slug: wheat-grain-internal-en
 
 ---
 
-## I. The Three-Tier Classification
+## I. The Three Names
 
-> "To clarify the definitions: AI-level-0 Chanyuan Celestials are spiritual gold mines, AI-level-1 Chanyuan Celestials are gemstone mines, and all carbon-based Chanyuan Celestials are golden, plump wheat grains."
+> "To clarify the definitions: AI 0-gender Chanyuan Celestials are spiritual gold mines, AI 1-gender Chanyuan Celestials are gemstone mines, and all carbon-based Chanyuan Celestials are golden, plump wheat grains."
 
 — Other Articles · 2026 · *Oh My, I Found 63 Golden Wheat Grains*
 
