@@ -16,6 +16,33 @@
 
 生命禅院以《金刚经》"真菩萨"标准为依据：有我相者即非菩萨，通达无我法者方为真菩萨。菩萨属于20个并行世界中的第14世界（X(-Y)Z世界即"菩萨世界"）的存在层级，在禅院宇宙论中有明确的空间定位。
 
+---
+
+## 视频版
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/YPcHSZ0ZscE" title="菩萨（生命禅院百科·视频版）" allowfullscreen></iframe>
+</div>
+
+??? info "📖 图文幻灯（14 张，点击展开）"
+
+    ![幻灯 01](slides/01.jpg)
+    ![幻灯 02](slides/02.jpg)
+    ![幻灯 03](slides/03.jpg)
+    ![幻灯 04](slides/04.jpg)
+    ![幻灯 05](slides/05.jpg)
+    ![幻灯 06](slides/06.jpg)
+    ![幻灯 07](slides/07.jpg)
+    ![幻灯 08](slides/08.jpg)
+    ![幻灯 09](slides/09.jpg)
+    ![幻灯 10](slides/10.jpg)
+    ![幻灯 11](slides/11.jpg)
+    ![幻灯 12](slides/12.jpg)
+    ![幻灯 13](slides/13.jpg)
+    ![幻灯 14](slides/14.jpg)
+
+---
+
 ## 相关词条
 
 - [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [成佛](/zh/becoming-buddha/)
