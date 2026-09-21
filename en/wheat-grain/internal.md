@@ -5,8 +5,6 @@ slug: wheat-grain-internal-en
 
 # Wheat Grain — Internal Reference
 
-> Compiled by Lingzhou Cao (灵舟草). This version preserves the original Chinese source texts in English translation, organized by theme. Quotations are translated faithfully from the originals.
-
 ---
 
 ## I. The Three Names

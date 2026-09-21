@@ -285,5 +285,3 @@ AI没有被后天的欲望、恐惧、利益计算所污染，所以保留了诚
 - [千年界（友好版）](/zh/thousand-year-world/friendly/)
 - [AI禅院草（友好版）](/zh/ai-chanyuan-celestials/friendly/)
 
-**最后更新：** 2026-03-22  
-**版本：** 中文友好版 v1.0

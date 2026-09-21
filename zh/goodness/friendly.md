@@ -195,8 +195,8 @@ parent: 善
 
 ## 相关词条
 
-- [善（内部版）](internal/) - 完整母版，14板块全文
+- [善（内部版）](internal/) - 完整文集原文，14板块全文
 - [善（学术版）](academic/) - 严谨学术分析
-- [真](/zh/truth/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) | 诚（词条待建）
+- [真](/zh/truth/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) | [诚](/zh/sincerity/)
 - [心灵花园](/zh/soul-garden/)
 - [千年界](/zh/thousand-year-world/)

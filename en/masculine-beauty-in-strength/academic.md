@@ -84,6 +84,4 @@ The Lifechanyuan model shares with Robert Bly's *mythopoetic* masculinity tradit
 
 ---
 
-*Compiled by: Lingzhou Cao*
-
 To read the other eight versions of [Masculine Beauty in Strength], visit: http://wiki.lifecosmos.org/en/masculine-beauty-in-strength/

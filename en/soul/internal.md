@@ -2,8 +2,6 @@
 
 # Soul (Internal Edition)
 
-Compiled by: Lingzhou Celestial
-Version: v1.0
 Date: 2026-04-16
 
 ---

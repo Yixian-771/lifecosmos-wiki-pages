@@ -22,7 +22,7 @@
 |------|----------|----------|
 | [友好版](/zh/one-plus-one-thinking/friendly/) | 初次接触者 | 1+1为什么不一定等于2？七种结果的白话解读 |
 | [学术版](/zh/one-plus-one-thinking/academic/) | 研究者 | 与量子论、辩证法、老子"抱一"、数论哲学的比较研究 |
-| [内部版](/zh/one-plus-one-thinking/internal/) | 禅院草 | 母版完整原文，13个板块全量照引 |
+| [内部版](/zh/one-plus-one-thinking/internal/) | 禅院草 | 文集完整原文，13个板块全量照引 |
 
 ---
 

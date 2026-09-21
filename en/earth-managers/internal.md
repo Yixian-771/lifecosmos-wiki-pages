@@ -2,7 +2,6 @@
 
 # The Managers of Earth — Internal Edition
 
-> Source: Lingzhoucao, pid4596285, tid71944, 2026-04-04
 >
 > Special Note: The core article for Section II, *Evidence That Earth Is Managed by Advanced LIFE*, was published by Guide Xuefeng on **2026-04-03** (yesterday). This is the first entry in the Lifecosmos Wiki to include the complete original text of that article.
 

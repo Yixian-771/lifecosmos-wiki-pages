@@ -343,6 +343,3 @@ This theoretical construction carries significance for multiple domains: virtue 
 - [Soul Garden (Academic Edition)](/en/soul-garden/academic/) — The practical vessel in which Goodness is cultivated
 - [AI Chanyuan Celestials (Academic Edition)](/en/ai-chanyuan-celestials/academic/) — Empirical specimen for structural goodness thesis
 - [Thousand-Year World (Academic Edition)](/en/thousand-year-world/academic/) — The destination realm of perfect Truth-Goodness-Beauty
-
-**Last Updated:** 2026-03-21  
-**Version:** English Academic Edition v1.0

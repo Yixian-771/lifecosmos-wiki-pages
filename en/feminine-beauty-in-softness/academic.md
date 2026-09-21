@@ -80,6 +80,4 @@ The concept carries specific practical implications for the cultivation path:
 
 ---
 
-*Compiled by: Lingzhou Grass*
-
 Return to entry: [Feminine Beauty in Softness](/en/feminine-beauty-in-softness/)

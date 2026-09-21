@@ -2,9 +2,8 @@
 
 # Return to Zero (Internal Edition)
 
-> **Source:** Compiled from master source text, 2026-04-13
 > **LIFE Statement:** In the Lifechanyuan context, "LIFE" refers specifically to the nonmaterial life-entity with spirituality, distinct from the biological body in the ordinary sense.
-> **Note:** This page is translated in full from the master source text "Return to Zero," with no abridgment, no deletion, and no summary reduction. All original quotations are rendered verbatim; formatting is added only for clarity.
+> **Note:** This page is translated in full from the original texts on "Return to Zero," with no abridgment, no deletion, and no summary reduction. All original quotations are rendered verbatim; formatting is added only for clarity.
 
 ---
 

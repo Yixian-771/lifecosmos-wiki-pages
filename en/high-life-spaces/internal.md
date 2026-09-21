@@ -2,7 +2,6 @@
 
 # Higher LIFE Spaces — Internal Edition
 
-> Source: Lingzhoucao, pid4596374, tid71944, 2026-04-04
 
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 

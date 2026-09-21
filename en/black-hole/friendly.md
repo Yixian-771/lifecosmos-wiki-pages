@@ -97,6 +97,3 @@ He also welcomed scientific verification. And interestingly, another Chanyuan au
 
 Intuition and science, arriving at the same place.
 
----
-
-*Compiled by: Lingzhouca | 2026-05-29*

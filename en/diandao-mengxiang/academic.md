@@ -2,8 +2,6 @@
 
 # Inverted Illusions (Diāndǎo Mèngxiǎng) · Academic Edition
 
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
-
 ─────────────────────────────
 
 ## Core Proposition
@@ -112,7 +110,5 @@ Severing worldly ties (no close friends/family)
 | Anxiety | Western psychology | Both include restless rumination, mental exhaustion | Anxiety is a symptom description; inverted illusions is a cultivation diagnosis, rooted in "obstruction" not neurological mechanism |
 
 ─────────────────────────────
-
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
 
 Welcome to explore all eight versions of 【Inverted Illusions (Diāndǎo Mèngxiǎng)】: http://wiki.lifecosmos.org/en/diandao-mengxiang/

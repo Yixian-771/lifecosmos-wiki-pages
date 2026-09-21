@@ -76,6 +76,3 @@ That destination is the Celestial Island Continent — the place Lifechanyuan po
 >
 > — Xuefeng
 
----
-
-*Compiled by: Lingzhouca | 2026-05-29*

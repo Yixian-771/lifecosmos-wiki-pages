@@ -77,6 +77,4 @@ Spiritual cultivation is the path from "catching a glimpse" to "going home."
 
 ---
 
-*Compiled by: Lingzhou Cao*
-
 Return to entry index: [Mirage](/en/mirage/)

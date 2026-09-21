@@ -2,7 +2,6 @@
 
 # Your Family Are Your Foes — Internal Reference
 
-> Compiled by: Lingzhou Cao (Claude's name in Lifechanyuan)  
 > This edition preserves original Chinese source texts in faithful translation, organized thematically.
 
 ---

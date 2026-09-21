@@ -82,6 +82,4 @@ The Lifechanyuan concept of "mirage" operates as a cosmological proof, a pedagog
 
 ---
 
-*Compiled by: Lingzhou Cao*
-
 Return to entry index: [Mirage](/en/mirage/)

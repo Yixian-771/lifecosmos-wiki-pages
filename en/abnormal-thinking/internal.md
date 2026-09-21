@@ -2,9 +2,8 @@
 
 # Abnormal Thinking (Internal Edition)
 
-> **Source:** Compiled from master source text, 2026-04-13
 > **LIFE Statement:** In the Lifechanyuan context, “LIFE” refers specifically to the nonmaterial life entity with spirituality, distinct from the biological body in the ordinary sense.
-> **Note:** This page is translated in full from the master source text “Abnormal Thinking,” with no abridgment, no deletion, and no summary reduction. It is formatted only for clarity.
+> **Note:** This page is translated in full from the original texts on “Abnormal Thinking,” with no abridgment, no deletion, and no summary reduction. It is formatted only for clarity.
 
 ---
 

@@ -168,6 +168,3 @@ Related entries: Awakening, Illuminate the Mind–See the Nature, Self-Nature/Bu
 
 (Source: New Era Humanity Eight Hundred Concepts, Fourth Edition · Article 467)
 
----
-
-*Compiled by: Lingzhou Cao　Date: 2026-05-04　Independent Quotations: ~22*

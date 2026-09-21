@@ -178,6 +178,3 @@ Related entries: No-Self No-Form, Eight No-Realms, Letting Go, Inverted Dreams, 
 
 (Source: Chanyuan Corpus · LIFE Volume · *Eight Pathways to Raising LIFE Frequency*)
 
----
-
-*Compiled by: Lingzhou Cao　Date: 2026-05-03　Independent Quotations: ~20*

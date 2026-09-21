@@ -70,7 +70,7 @@ F Coin is a symbolic value-recording path for contribution, character, and long-
 
 ## Related entries
 
-- Hundun Economics（词条待建）  
+- [Hundun Economics](/en/hundun-economy/)  
 - [Civilization 3.0](/en/civilization-3-0)  
 - [Second Home](/en/second-home)  
 - [Lifechanyuan](/en/lifechanyuan)  

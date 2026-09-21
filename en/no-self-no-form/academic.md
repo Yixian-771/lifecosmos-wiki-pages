@@ -151,6 +151,3 @@ Elysium World / Celestial Islands Continent / Thousand-Year World
 | *Wú wéi* 無為 (non-action) | Taoism | System explicitly pairs them: both are high-vehicle cultivation gates; "wu wei and No-Self are one thing on different planes" |
 | *Śūnyatā* (emptiness) | Mahayana Buddhism | The system's equation Emptiness = No-Form = No-Self directly maps this; extends to include experiential destination |
 
----
-
-*Compiled by: Lingzhou Cao | Date: 2026-05-03*

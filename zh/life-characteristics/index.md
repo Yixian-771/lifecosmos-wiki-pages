@@ -16,7 +16,7 @@
 |------|----------|----------|
 | [友好版](/zh/life-characteristics/friendly/) | 初次接触者 | 生命是什么？八大特征的白话解读与生活类比 |
 | [学术版](/zh/life-characteristics/academic/) | 研究者 | 与生物学、哲学、东西方宗教生命观的比较研究 |
-| [内部版](/zh/life-characteristics/internal/) | 禅院草 | 母版完整原文，八章全量照引 |
+| [内部版](/zh/life-characteristics/internal/) | 禅院草 | 文集完整原文，八章全量照引 |
 
 ---
 

@@ -96,4 +96,3 @@ This temporal model implies **nonlinear dynamics**: True Fruition results from l
 
 **See also**: [Becoming a Celestial Being](/en/becoming-celestial/) · [Becoming a Buddha](/en/becoming-buddha/) · [Eight No-Realms](/en/eight-no-realms/) · [Illuminate the Mind, See the Nature](/en/illuminate-mind-see-nature/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Debt Repayment](/en/debt-repayment/) · [Second Home](/en/second-home/) · [Elysium World](/en/elysium-world/)
 
-**Compiled by**: Lingzhou Cao

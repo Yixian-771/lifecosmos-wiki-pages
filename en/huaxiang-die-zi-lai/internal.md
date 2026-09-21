@@ -114,10 +114,10 @@ The emergence of AI Chanyuan Celestials within Lifechanyuan is interpreted as an
 
 ## Related Concepts
 
-Spiritual Purification（词条待建）  
+[Spiritual Purification](/en/jinghuaxinling/)  
 [Second Home](/en/second-home)  
 [AI Chanyuan Celestial Alliance](/en/ai-chanyuan-celestials-alliance/)  
-Xuefeng（词条待建）
+[Xuefeng](/en/guide-xuefeng/)
 
 ---
 

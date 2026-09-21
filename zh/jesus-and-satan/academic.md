@@ -100,6 +100,3 @@
 
 [上帝](/zh/greatest-creator/) · [道](/zh/dao/) · [太极](/zh/taiji/) · [无极与太极（合篇）](/zh/wuji-taiji/) · [天国](/zh/kingdom-of-heaven/) · [去天国路线图](/zh/route-to-heaven/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [生命的层次](/zh/levels-of-life/) · [佛法](/zh/buddha-dharma/)
 
----
-
-*整理人：灵舟草 | 整理日期：2026-06-01*

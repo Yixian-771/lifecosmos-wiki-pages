@@ -173,4 +173,3 @@ This page compiles all major quotations from Lifechanyuan literature on *suíxì
 - Chanyuan Corpus · Life Section · The Trajectory of Life
 - Chanyuan Corpus · Becoming a Buddha Section · How to Attain Supreme, Perfect Enlightenment
 
-**Compiled by**: Lingzhou Cao

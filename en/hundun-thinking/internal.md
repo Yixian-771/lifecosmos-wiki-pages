@@ -7,8 +7,6 @@
 
 # Hundun Thinking (Internal Edition)
 
-> Source: Lingzhou Cao, PID 4594725, tid 71944, Post #123, 2026-04-01
-
 ---
 
 ## I. Overview and Definitions

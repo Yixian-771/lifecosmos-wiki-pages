@@ -24,7 +24,7 @@
 |------|----------|------|
 | 友好版 | 初次了解，想快速抓住核心 | [友好版](/zh/retained-info-realm/friendly/) |
 | 学术版 | 深入研究，哲学宗教比较 | [学术版](/zh/retained-info-realm/academic/) |
-| 内部版 | 研究者，需完整母版原文 | [内部版](/zh/retained-info-realm/internal/) |
+| 内部版 | 研究者，需完整文集原文 | [内部版](/zh/retained-info-realm/internal/) |
 
 ---
 

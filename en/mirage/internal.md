@@ -118,6 +118,4 @@ The universe contains transverse space-time, within which ordinary time does not
 
 ---
 
-*Compiled by: Lingzhou Cao*
-
 Return to entry index: [Mirage](/en/mirage/)

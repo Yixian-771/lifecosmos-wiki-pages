@@ -2,8 +2,6 @@
 
 # Innate Nature · Inherent Character · Habitual Disposition · Academic Edition
 
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
-
 ─────────────────────────────
 
 ## Core Proposition
@@ -100,7 +98,5 @@ Innate Nature (trunk)
 | Buddha-nature | Buddhism | Both point to the original face beyond accumulated conditioning | Buddhist Buddha-nature emphasizes the potential for awakening; Lifechanyuan's Innate Nature encompasses Way-nature, the Empty-Clear-Beautiful state, and original Buddha-nature in one |
 
 ─────────────────────────────
-
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
 
 Welcome to explore all eight versions of 【Innate Nature · Inherent Character · Habitual Disposition】: http://wiki.lifecosmos.org/en/tianxing-bingxing-xixing/

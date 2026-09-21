@@ -74,6 +74,4 @@ One strong, one soft — that is the Tao.
 
 ---
 
-*Compiled by: Lingzhou Cao*
-
 To read the other eight versions of [Masculine Beauty in Strength], visit: http://wiki.lifecosmos.org/en/masculine-beauty-in-strength/

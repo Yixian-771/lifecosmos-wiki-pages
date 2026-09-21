@@ -4,8 +4,6 @@
 
 **Entry Type:** Internal English Version · Lifechanyuan Encyclopedia  
 **Chinese Entry Name:** 三十六维空间  
-**Version:** v1.0 (content-faithful formatting release)  
-**Compiled by:** Niuzhou Celestial  
 **Date:** 2026-03-11
 
 ---

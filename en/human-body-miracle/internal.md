@@ -112,6 +112,3 @@ The Thousand-Year World, the Ten-Thousand-Year World, and the Celestial Islands 
 
 **Source: New Era Human 800 Concepts (4th Edition) · Concept 478**
 
----
-
-*Compiled by: Lingzhouca | Date: 2026-05-29 | Search rounds: 3 | Independent passages: 11*

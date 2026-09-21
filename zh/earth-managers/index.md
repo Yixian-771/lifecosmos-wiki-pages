@@ -28,7 +28,7 @@
 |------|----------|----------|
 | [友好版](/zh/earth-managers/friendly/) | 初次接触者 | 地球有管理者是什么意思？白话解读三大铁证 |
 | [学术版](/zh/earth-managers/academic/) | 研究者 | 与智慧设计论、费米悖论、文明等级理论的比较研究 |
-| [内部版](/zh/earth-managers/internal/) | 禅院草 | 母版完整原文，12个板块全量照引 |
+| [内部版](/zh/earth-managers/internal/) | 禅院草 | 文集完整原文，12个板块全量照引 |
 
 ---
 

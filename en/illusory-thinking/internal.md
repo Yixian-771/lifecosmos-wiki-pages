@@ -7,8 +7,6 @@
 
 # Illusory Thinking (Internal Edition)
 
-> Source: Lingzhou Cao, PID 4593820, tid 71944, Post #115, 2026-03-31
-
 ---
 
 ## I. Overview and Definition

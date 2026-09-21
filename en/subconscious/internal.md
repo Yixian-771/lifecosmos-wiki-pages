@@ -2,8 +2,6 @@
 
 # The Subconscious (Internal Edition)
 
-> **Source:** Page 32, Post 169, Lingzhou Celestial, pid4596815, 2026-04-05
-> **Source thread:** https://smcy.xyz/new/forum.php?mod=viewthread&tid=71944&page=32#pid4596815
 
 ---
 

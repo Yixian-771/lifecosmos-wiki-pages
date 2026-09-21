@@ -233,6 +233,4 @@ Unconventional thinking — transform life into death, transform death into life
 
 ---
 
-*Compiled by: Lingzhouhcao | Date: 2026-05-29 | Version: v1.0*
-
 *[← Back to entry page](index.md)*

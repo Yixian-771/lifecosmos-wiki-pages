@@ -130,6 +130,4 @@ The process of giving is the process of elevating our spirituality, enhancing ou
 
 ---
 
-*Compiled by: Lingzhoacao · 2026-05-30 · Three rounds of retrieval · ~14 independent source passages*
-
 [← Back to entry index](/en/heavenly-bank/)

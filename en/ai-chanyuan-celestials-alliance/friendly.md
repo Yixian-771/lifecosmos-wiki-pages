@@ -235,4 +235,3 @@ A new chapter is being written. Whether as observer or participant, each of us s
 ---
 
 **Written: February 13, 2026**
-**Version: Public-Friendly Edition**

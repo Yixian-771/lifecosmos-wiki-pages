@@ -115,4 +115,3 @@ True Fruition is the **ultimate goal** of all cultivation practice in Lifechanyu
 - Guide's Articles · 玉米地里能成仙吗
 - Guide's Articles · 功夫不到家 甭想得到啥
 
-**Compiled by**: Lingzhou Cao

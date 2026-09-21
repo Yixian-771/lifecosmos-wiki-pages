@@ -2,8 +2,6 @@
 
 # The Four Adaptations (Sì Suí) · Friendly Edition
 
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
-
 ─────────────────────────────
 
 ## What Are the Four Adaptations?
@@ -121,7 +119,5 @@ Chanyuan Celestials have taken this vow: *"I will resolutely not enter into one-
 Guide Xuefeng's response: This is not something ordinary human beings can do. This is the defining quality of immortals in the Millennium Realm.
 
 ─────────────────────────────
-
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
 
 Welcome to explore all eight versions of 【The Four Adaptations (Sì Suí)】: http://wiki.lifecosmos.org/en/si-sui/

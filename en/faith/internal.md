@@ -9,10 +9,7 @@ parent: Faith (Xin)
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
 **Document ID:** LC-FAI-0001-EN  
-**Version:** 1.0  
-**Last Updated:** 2026-03-17  
 **Status:** Published  
-**Source:** Lingzhougrass, tid=71944 page 6, pid=4587963
 
 ---
 
@@ -255,25 +252,9 @@ Xuefeng's most refined summary: **Faith is Truth; Love is LIFE.** (Article 142)
 
 ---
 
-## Document Information
+## Related Entries
 
-**Source Verification:**
-- All core original texts are faithfully drawn from Guide Xuefeng's collected works — Articles 43/48/57/99/119/137/142/234/335/388/456/469/492/517/523/525/526/552/560/578/581/595/639/646/710/754 quoted in full;
-- *Chanyuan Corpus · Wisdom Chapter · "Faith Is Truth, Love Is LIFE"* quoted in full, passage by passage;
-- *Transmission Chapter · "The Bridge to the Elysium World"* — five passages on Faith quoted in full;
-- *Xuefeng Corpus · Essays Chapter · "Establishing Great Faith"* — three key passages quoted in full;
-- *"I Would Rather Starve Than Break Faith with Others"* — quoted in full;
-- *"On the Path of Cultivation, One Must Light the Divine Lamp Within"* — the Four Great Steadfast Faiths quoted in full;
-- Not a single word fabricated.
-
-**Version History:**
-- v1.0 (2026-03-17): Created based on Lingzhougrass source text
-
-**Related Entries (Same Version):**
 - [Love (Internal Edition)](/en/love/internal/) — One of the eight core LIFE qualities of Lifechanyuan
 - [Nature / Xing (Internal Edition)](/en/nature/internal/) — One of the eight core LIFE qualities of Lifechanyuan
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Faith is an important flower cultivated within
 
----
-
-*Document End*

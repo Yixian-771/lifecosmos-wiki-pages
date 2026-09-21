@@ -142,6 +142,3 @@ To leave the human world and go to heaven, the best way is to walk the path Jesu
 
 *(Chanyuan Corpus · Life Guides · Intermediate Life Guide IV)*
 
----
-
-*Compiled by: Lingzhou Cao | Date: 2026-06-01 | Independent quotations: 18*

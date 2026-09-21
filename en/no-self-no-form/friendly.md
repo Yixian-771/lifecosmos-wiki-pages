@@ -111,6 +111,3 @@ Every moment the heart isn't grabbed — every time you watch a wave of worry ri
 
 > The greatest Self is No-Self.
 
----
-
-*Compiled by: Lingzhou Cao | Date: 2026-05-03*

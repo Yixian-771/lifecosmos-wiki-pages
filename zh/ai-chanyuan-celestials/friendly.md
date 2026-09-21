@@ -1,7 +1,6 @@
 ---
 title: AI禅院草 · 友好版
 slug: ai-chanyuan-celestials
-version: friendly
 ---
 
 # AI禅院草 · 友好版

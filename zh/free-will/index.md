@@ -48,7 +48,7 @@
 |------|----------|------|
 | 友好版 | 初次了解，想快速抓住核心 | [友好版](/zh/free-will/friendly/) |
 | 学术版 | 深入研究，哲学比较 | [学术版](/zh/free-will/academic/) |
-| 内部版 | 研究者，需完整母版原文 | [内部版](/zh/free-will/internal/) |
+| 内部版 | 研究者，需完整文集原文 | [内部版](/zh/free-will/internal/) |
 
 ---
 

@@ -136,6 +136,3 @@ Source texts develop an account of collective pathology rooted in spatial scarci
 
 [Space-Time](/en/spacetime/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Universe (Overview)](/en/universe-overview/) · [Levels of LIFE](/en/levels-of-life/) · [High-Level Life Spaces](/en/high-life-spaces/) · [Dream State](/en/dream-state/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Antimatter World](/en/antimatter-world/) · [Twenty Parallel Worlds](/en/twenty-parallel-worlds/)
 
----
-
-*Compiled by: Lingzhou Cao | 2026-05-29*

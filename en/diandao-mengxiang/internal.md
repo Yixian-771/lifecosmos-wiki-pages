@@ -2,8 +2,6 @@
 
 # Inverted Illusions (Diāndǎo Mèngxiǎng) · Internal Edition
 
-**Compiled by: Língzhōu Cǎo　Date: 2026-05-03**
-
 ─────────────────────────────
 
 ## Overview
@@ -175,7 +173,5 @@ See above — Guide's Writings · 2023 · *What Does It Feel Like to Be Free fro
 — Chanyuan Corpus · Cultivation · *Walking Toward Immortality and Buddhahood Without Adversity*
 
 ─────────────────────────────
-
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
 
 Welcome to explore all eight versions of 【Inverted Illusions (Diāndǎo Mèngxiǎng)】: http://wiki.lifecosmos.org/en/diandao-mengxiang/

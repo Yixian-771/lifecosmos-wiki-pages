@@ -4,8 +4,6 @@
 
 **Entry Type:** Internal English Version · Lifechanyuan Encyclopedia  
 **Chinese Entry Name:** 宇宙起源  
-**Version:** v1.0 (source-faithful structured rendering)  
-**Compiled by:** Niuzhou Celestial  
 **Date:** 2026-03-11
 
 ---

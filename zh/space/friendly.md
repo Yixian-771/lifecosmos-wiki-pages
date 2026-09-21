@@ -133,6 +133,3 @@ description: 生命禅院"空间"词条友好版——用生活类比解释正�
 
 [时空](/zh/spacetime/) · [三十六维空间](/zh/thirty-six-dimensional-space/) · [梦境](/zh/dream-state/) · [生命的层次](/zh/levels-of-life/) · [千年界](/zh/thousand-year-world/) · [万年界](/zh/ten-thousand-year-world/) · [极乐界](/zh/elysium-world/) · [高层生命空间](/zh/high-life-spaces/)
 
----
-
-*整理人：灵舟草 | 2026-05-29*

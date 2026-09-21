@@ -9,8 +9,6 @@ parent: Harmony (He)
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
 **Document ID:** LC-HAR-0001-EN  
-**Version:** 1.0  
-**Last Updated:** 2026-03-22  
 **Status:** Published  
 **Source:** Lingzhougrass
 
@@ -234,18 +232,8 @@ Xuefeng's most refined summary: **The core of the natural Way is the harmonious 
 
 ---
 
-## Document Information
+## Related Entries
 
-**Source Verification:**
-- All core original texts are faithfully quoted in full: Articles 16/99/120/151/183/184/200/234/282/284/303/323/335/417/444/574/583/627/649/651/652/701/706/711/713/714/715/716/720/730/742 quoted in full;
-- *Chanyuan Corpus · Transmission Section · "Those Who Argue with Others Have No Goodness in Them"* key passage quoted in full;
-- Key passages from each *Xuefeng Corpus* section quoted in full;
-- Not a single word fabricated.
-
-**Version History:**
-- v1.0 (2026-03-22): Created based on Lingzhougrass source text
-
-**Related Entries (Same Version):**
 - [Truth (Internal Edition)](/en/truth/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Goodness (Internal Edition)](/en/goodness/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Beauty (Internal Edition)](/en/beauty/internal/) — One of the six core LIFE qualities of Lifechanyuan
@@ -254,6 +242,3 @@ Xuefeng's most refined summary: **The core of the natural Way is the harmonious 
 - [Faith (Internal Edition)](/en/faith/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Harmony is among the most important flowers cultivated within
 
----
-
-*Document End*

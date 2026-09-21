@@ -277,7 +277,6 @@ This theoretical construction carries foundational significance for the Lifechan
 1. Xuefeng. *New Era Human 800 Concepts*. Lifechanyuan, 2023.
 2. Xuefeng. *Chanyuan Corpus* (禅院文集). Lifechanyuan, 2023.
 3. Xuefeng. *Xuefeng Corpus* (雪峰文集). Lifechanyuan, 2023.
-4. Lingzhouao. Source text for "Beauty" entry. Lifechanyuan Forum (smcy.xyz/new/), tid=71944 page 6, pid=4589974, 2026-03-22.
 5. Plato. *Symposium*. Trans. Alexander Nehamas and Paul Woodruff. Hackett, 1989.
 6. Kant, Immanuel. *Critique of the Power of Judgment*. Trans. Paul Guyer and Eric Matthews. Cambridge UP, 2000.
 7. Dissanayake, Ellen. *Homo Aestheticus: Where Art Comes From and Why*. Univ. of Washington Press, 1995.
@@ -292,5 +291,3 @@ This theoretical construction carries foundational significance for the Lifechan
 - [Faith (Academic Edition)](/en/faith/academic/) — Co-cultivated with Beauty in the soul garden
 - [Soul Garden (Academic Edition)](/en/soul-garden/academic/) — The cultivation space in which Beauty is grown and protected
 
-**Last Updated:** 2026-03-22  
-**Version:** English Academic Edition v1.0

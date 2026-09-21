@@ -9,10 +9,7 @@ parent: Beauty (Mei)
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
 **Document ID:** LC-BEA-0001-EN  
-**Version:** 1.0  
-**Last Updated:** 2026-03-22  
 **Status:** Published  
-**Source:** Lingzhouao, tid=71944 page 6, pid=4589974
 
 ---
 
@@ -297,27 +294,12 @@ Xuefeng's most refined summary: **Beauty lies in symmetrical proportion, and bea
 
 ---
 
-## Document Information
+## Related Entries
 
-**Source Verification:**
-- All core original texts are faithfully drawn from Guide Xuefeng's collected works — Articles 32/99/101/134/135/139/145/166/178/200/217/233/234/253/335/339/364/381/409/414/439/479/490/543/553/583/592/595/599/625/630/635/636/638/639/646/677/748/786 quoted in full;
-- *Chanyuan Corpus · Life Chapter · "Appreciating the Supreme, Transcendent, and Ultimate Beauty of the Universe from Here"* — all passages quoted in full, section by section;
-- *"Truth, Goodness, and Beauty — the Core Values of Human Nature (III)"* — all key passages quoted in full;
-- *"Forty Proofs of the Greatest Creator's Existence — Proof 22: The Greatest Creator's Masterpiece — the Beauty of Nature"* — quoted in full;
-- *Xuefeng Corpus · Chanyuan Chapter · "The Soul Factors of the Beauty of Home Life"* — quoted in full;
-- Not a single word fabricated.
-
-**Version History:**
-- v1.0 (2026-03-22): Created based on Lingzhouao source text
-
-**Related Entries (Same Version):**
 - [Truth (Internal Edition)](/en/truth/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Goodness (Internal Edition)](/en/goodness/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Love (Internal Edition)](/en/love/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Faith (Internal Edition)](/en/faith/internal/) — One of the six core LIFE qualities of Lifechanyuan
-- Sincerity (Internal Edition)（词条待建） — One of the six core LIFE qualities of Lifechanyuan
+- [Sincerity (Internal Edition)](/en/sincerity/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Beauty is one of the most important flowers cultivated within
 
----
-
-*Document End*

@@ -7,8 +7,6 @@
 
 # Non-Form Thinking (Internal Edition)
 
-> Source: Lingzhou Cao, PID 4594646, tid 71944, Post #121, 2026-04-01
-
 ---
 
 ## I. Overview and Definitions

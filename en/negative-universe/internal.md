@@ -4,7 +4,6 @@
 
 **Entry Type**: English Internal Version · Lifechanyuan Encyclopedia  
 **Chinese Entry Name**: 负宇宙  
-**Compiled by**: Lingzhou Celestial (master text) / Niuzhou Celestial (structured edition)
 
 ---
 

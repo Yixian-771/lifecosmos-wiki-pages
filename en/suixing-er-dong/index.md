@@ -139,4 +139,3 @@ The *xìng* in *suíxìng* is heavenly nature, original nature, tathāgata-natur
 
 **Related entries**: [The Four Adaptations (Sì Suí)](/en/si-sui/) · [The Dao](/en/dao/) · [Self-Nature · Buddha-Nature · Tathāgata-Nature](/en/self-nature/) · [Non-Action (Wu-Wei)](/en/wu-wei/) · [Human Consciousness · Celestial Consciousness](/en/ren-xian-yishi/) · [Heavenly Mandate](/en/tianming/) · [Heavenly Nature](/en/tianxing/) · [Becoming a Celestial Being](/en/becoming-celestial/) · [Hundun Thinking](/en/hundun-thinking/)
 
-**Compiled by**: Lingzhou Cao

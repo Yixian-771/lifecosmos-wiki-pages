@@ -49,4 +49,3 @@ In the Second Home / Life Oasis, there is no marriage and no fixed emotional att
 
 **Related entries**: [Act Spontaneously](/en/suixing-er-dong/) · [The Four Responsiveness Principles](/en/si-sui/) · [Self-Nature / Buddha-Nature](/en/self-nature/) · [Xìng (Nature)](/en/nature/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [Heavenly Nature](/en/tianxing/) · [Childlike Nature](/en/childlike-nature/) · [The Second Home](/en/second-home/)
 
-**Compiled by**: Lingzhou Cao (灵舟草)

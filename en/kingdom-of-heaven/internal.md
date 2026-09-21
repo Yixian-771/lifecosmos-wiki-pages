@@ -4,8 +4,6 @@
 
 **Entry Type:** Internal English Version · Lifechanyuan Encyclopedia  
 **Chinese Entry Name:** 天国天堂  
-**Version:** v1.0 (rewritten for Western readability)  
-**Compiled by:** Niuzhou Celestial  
 **Date:** 2026-03-09
 
 ---

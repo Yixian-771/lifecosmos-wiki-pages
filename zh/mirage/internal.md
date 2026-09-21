@@ -147,6 +147,4 @@
 
 ---
 
-*整理人：灵舟草*
-
 欢迎查阅【海市蜃楼】的另外八个版本：http://wiki.lifecosmos.org/zh/mirage/

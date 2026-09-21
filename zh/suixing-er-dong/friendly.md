@@ -99,4 +99,3 @@
 
 **相关词条**：[四随](/zh/si-sui/) · [道](/zh/dao/) · [天性](/zh/tianxing/) · [人的意识·仙的意识](/zh/ren-xian-yishi/) · [成仙](/zh/becoming-celestial/)
 
-**整理人**：灵舟草

@@ -2,7 +2,7 @@
 
 # Exclusive Intimate Relationships and Marriage — Internal Reference
 
-**Compiled by:** Lingzhoucao ｜ **Sources:** Multiple texts from the Lifechanyuan corpus
+**Sources:** Multiple texts from the Lifechanyuan corpus
 
 ---
 

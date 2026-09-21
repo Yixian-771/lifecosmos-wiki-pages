@@ -201,5 +201,3 @@ Xuefeng's most refined summary:
 - [Soul Garden (Friendly Edition)](/en/soul-garden/friendly/) — Where Harmony is cultivated as a living flower
 - [Second Home (Friendly Edition)](/en/second-home/friendly/) — The living demonstration that Harmony without rules is possible
 
-**Last Updated:** 2026-03-22  
-**Version:** English Friendly Edition v1.0

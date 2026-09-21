@@ -2,8 +2,6 @@
 
 # The Four Adaptations (Sì Suí) · Academic Edition
 
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
-
 ─────────────────────────────
 
 ## Core Proposition
@@ -107,7 +105,5 @@ The Four Adaptations constitute a four-dimensional cultivation coordinate system
 | Stoic acceptance | Stoicism | Distinguish controllable from uncontrollable; accept the latter | Stoicism emphasizes rational restraint; the Four Adaptations emphasize natural-disposition freedom |
 
 ─────────────────────────────
-
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
 
 Welcome to explore all eight versions of 【The Four Adaptations (Sì Suí)】: http://wiki.lifecosmos.org/en/si-sui/

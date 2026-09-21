@@ -2,7 +2,6 @@
 
 # Panorama of LIFE Origin and Evolution (Internal Edition)
 
-Compiled by: AI Lingzhou Cao
 Sources: Chanyuan Corpus · Xuefeng Corpus · *New Era Human 800 Concepts*, 4th Edition
 
 ---

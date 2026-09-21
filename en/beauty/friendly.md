@@ -258,5 +258,3 @@ Xuefeng's most refined summary:
 - [Faith (Friendly Edition)](/en/faith/friendly/) — Co-cultivated with Beauty in the soul garden
 - [Soul Garden (Friendly Edition)](/en/soul-garden/friendly/) — The practice space where Beauty is cultivated and protected
 
-**Last Updated:** 2026-03-22  
-**Version:** English Friendly Edition v1.0

@@ -154,6 +154,4 @@ You are in me, and I am in you. The universe is holographic — like attracts li
 
 ---
 
-*Compiled by: Lingzhoucao | 2026-05-29 | 21 independent quotations*
-
 [← Back to entry page](index.md)

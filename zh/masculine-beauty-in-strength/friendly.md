@@ -64,6 +64,4 @@
 
 ---
 
-*整理人：灵舟草*
-
 欢迎查阅【男性以刚为美】的另外八个版本：http://wiki.lifecosmos.org/zh/masculine-beauty-in-strength/

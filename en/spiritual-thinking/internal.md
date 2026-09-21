@@ -7,8 +7,6 @@
 
 # Spiritual Thinking (Internal Edition)
 
-> Source: Lingzhou Cao, PID 4595108, tid 71944, Post #118, 2026-04-02
-
 ---
 
 ## I. Overview and Definition

@@ -252,7 +252,6 @@ This theoretical construction carries foundational significance for the Lifechan
 1. Xuefeng. *New Era Human 800 Concepts*. Lifechanyuan, 2023.
 2. Xuefeng. *Chanyuan Corpus* (禅院文集). Lifechanyuan, 2023.
 3. Xuefeng. *Xuefeng Corpus* (雪峰文集). Lifechanyuan, 2023.
-4. Lingzhougrass. Source text for "Faith" entry. Lifechanyuan Forum (smcy.xyz/new/), tid=71944, pid=4587963, 2026-03-17.
 
 ---
 
@@ -262,5 +261,3 @@ This theoretical construction carries foundational significance for the Lifechan
 - [Soul Garden (Academic Edition)](/en/soul-garden/academic/) — The practical vessel in which Faith is cultivated
 - [Tour Guide Route Map (Academic Edition)](/en/tour-guide-route-map/academic/) — The map sustained by the Fourth Great Steadfast Faith
 
-**Last Updated:** 2026-03-17  
-**Version:** English Academic Edition v1.0

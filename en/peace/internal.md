@@ -9,8 +9,6 @@ parent: Peace (Ping)
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
 **Document ID:** LC-PEA-0001-EN  
-**Version:** 1.0  
-**Last Updated:** 2026-03-22  
 **Status:** Published  
 **Source:** Lingzhouao
 
@@ -244,27 +242,13 @@ Xuefeng's most refined summary: **Health, peacefulness, joy, contentment, and tr
 
 ---
 
-## Document Information
+## Related Entries
 
-**Source Verification:**
-- All core original texts are faithfully quoted in full: Articles 10/67/74/79/81/99/114/152/173/180/200/204/268/271/335/351/364/396/456/464/466/528/534/583/584/590/713/745/747/748/749/750/784 quoted in full;
-- *Chanyuan Corpus · Morning Scripture*, *Chanyuan Corpus · Cultivation Chapter · "The Great Way Is Level: Be at Peace with Ordinariness"*, *Chanyuan Corpus · "Cultivating the Skill of Stillness"*, *Chanyuan Corpus · "The Virtuous Techniques of Health Cultivation"* quoted in full;
-- *Xuefeng Corpus · "The Code of Happiness"*, *Xuefeng Corpus · "Lifechanyuan Under No Circumstances Participates in Political Activities"* quoted in full;
-- *Lifechanyuan Overview* quoted in full;
-- Not a single word fabricated.
-
-**Version History:**
-- v1.0 (2026-03-22): Created based on Lingzhouao source text
-
-**Related Entries (Same Version):**
 - [Truth (Internal Edition)](/en/truth/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Goodness (Internal Edition)](/en/goodness/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Beauty (Internal Edition)](/en/beauty/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Love (Internal Edition)](/en/love/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Faith (Internal Edition)](/en/faith/internal/) — One of the six core LIFE qualities of Lifechanyuan
-- Sincerity (Internal Edition)（词条待建） — One of the six core LIFE qualities of Lifechanyuan
+- [Sincerity (Internal Edition)](/en/sincerity/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Peacefulness and humility are among the most important flowers cultivated within
 
----
-
-*Document End*

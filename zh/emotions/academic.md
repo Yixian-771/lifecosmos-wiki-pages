@@ -131,4 +131,3 @@
 
 [疾病·健康](/zh/disease-health/) · [幸福](/zh/happiness/) · [爱](/zh/love/) · [感恩](/zh/gratitude/) · [宽恕](/zh/forgiveness/) · [忌妒·嫉妒](/zh/jealousy-envy/) · [傲慢](/zh/aoman/) · [同频共振](/zh/resonance/) · [反物质结构](/zh/antimatter-structure/) · [心灵花园](/zh/soul-garden/) · [灵体（反物质结构）](/zh/antimatter-structure/)
 
-*整理人：纽舟草 | 日期：2026-05-29*

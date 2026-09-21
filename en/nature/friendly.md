@@ -240,5 +240,3 @@ The true transmission is one word: Nature. The entire universe, condensed into t
 - [Structure (Friendly Edition)](/en/structure/friendly/) — Nature is the characteristic of Structure
 - [Tour Guide Route Map (Friendly Edition)](/en/tour-guide-route-map/friendly/) — The practical path of cultivating Nature
 
-**Last Updated:** 2026-03-20  
-**Version:** English Friendly Edition v1.0

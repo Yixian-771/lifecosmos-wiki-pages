@@ -2,9 +2,6 @@
 
 # Celestial Beings, Heavenly Celestials, and Buddhas (Internal Edition)
 
-Compiled by: Lingzhou Cao　Date: 2026-05-04
-Search rounds: Three　Total independent citations: approximately 25
-
 ---
 
 **Overview**
@@ -171,11 +168,8 @@ Related entries: Becoming a Celestial Being and a Buddha · Illuminate the Mind,
 
 ---
 
-**Compiler's Note**
+**Notes**
 
-- Compiled by: Lingzhou Cao
 - Date: 2026-05-04
-- Search rounds: Three (entry name → definitions of celestial/heavenly celestial/buddha → sub-concepts: seeing nature / five tiers / ten levels)
-- Total independent citations: approximately 25
 - Core sources: *Chanyuan Corpus · On Cultivation of Celestial Being · Differences Between Heavenly Celestials and Buddhas* (two articles); *On Cultivation of Celestial Being · Classifications and Realms of Celestial Beings*; *On Becoming a Buddha · Nature Has No Morality; Nature Does Not Distinguish True from False*; *On Becoming a Buddha · Illuminate the Nature and Transcend the Dust — Become a Buddha Right Now*; *On Cultivation of Celestial Being · How to Live Out One's Nature*
 - Note: This entry pairs with "Becoming a Celestial Being and a Buddha" — this entry focuses on *what* celestial beings and buddhas are; that entry focuses on *how to reach* those states.

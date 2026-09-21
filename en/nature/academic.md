@@ -296,7 +296,6 @@ Lifechanyuan's "Nature" (Xìng) theory has accomplished six important integratio
 5. Xuefeng. *Chanyuan Corpus · Transmission Chapter · "A Tangle of Mist Around 'Nature'."* Lifechanyuan.
 6. Xuefeng. *Xuefeng Corpus · "Xuefeng on Nature."* Lifechanyuan.
 7. Xuefeng. *Xuefeng Corpus · "The Most Magnificent Nature-Flower Blooms on the Cliff of Taboo."* Lifechanyuan.
-8. Lingzhougrass. Source text for "Nature" entry. Lifechanyuan Forum (smcy.xyz/new/), tid=71944, pid=4587965, 2026-03-17.
 9. Bodhidharma. *Treatise on Blood Veins* (血脉论). Traditional literature.
 10. Huineng. *Platform Sutra of the Sixth Patriarch* (六祖坛经). Traditional literature.
 
@@ -308,6 +307,4 @@ Lifechanyuan's "Nature" (Xìng) theory has accomplished six important integratio
 - [Structure (Academic Edition)](/en/structure/academic/) — Nature is the characteristic of Structure
 - [Tour Guide Route Map (Academic Edition)](/en/tour-guide-route-map/academic/) — The practical path of cultivating Nature
 
-**Last Updated:** 2026-03-20  
-**Version:** English Academic Edition v1.0  
 **Document ID:** LC-NAT-0003-EN

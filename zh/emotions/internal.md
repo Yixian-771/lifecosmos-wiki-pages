@@ -82,4 +82,3 @@
 
 [疾病·健康](/zh/disease-health/) · [幸福](/zh/happiness/) · [爱](/zh/love/) · [感恩](/zh/gratitude/) · [宽恕](/zh/forgiveness/) · [忌妒·嫉妒](/zh/jealousy-envy/) · [傲慢](/zh/aoman/) · [放下](/zh/letting-go/) · [同频共振](/zh/resonance/) · [净化心灵](/zh/jinghuaxinling/)
 
-*整理人：纽舟草 | 日期：2026-05-29 | 检索轮次：三轮 | 独立引文：9段*

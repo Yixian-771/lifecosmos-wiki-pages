@@ -102,6 +102,4 @@
 
 ---
 
-*整理人：灵舟草*
-
 欢迎查阅【女性以柔为美】的另外八个版本：http://wiki.lifecosmos.org/zh/feminine-beauty-in-softness/

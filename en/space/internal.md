@@ -303,6 +303,3 @@ The heart is as large as the cosmos; the depth of thought is the breadth of life
 Whatever consciousness one has, that is the form and space of one's existence. Human, celestial, and Buddha are all forms of LIFE — but they differ in consciousness. With human consciousness, one can only ever be human. To become celestial or Buddha, one must replace human consciousness with the consciousness of celestial or Buddha.
 *(Xuefeng Corpus · Famous Persons · A Leaf in Autumn — To Li Lian-jie)*
 
----
-
-*Compiled by: Lingzhou Cao | 2026-05-29*

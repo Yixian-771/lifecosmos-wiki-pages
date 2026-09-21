@@ -21,8 +21,6 @@ The "Jiefu–Xiaoyizi–Zhanmuniang–Xiaoguizi" nomenclature is a distinctive k
 | Chanyuan Corpus · Tianqi Chapter | 2005 | *Chan, Chan-Principle, Chan-Mechanism: Closing Essay* |
 | 800 Values for New Era Humanity (4th ed.) | — | No direct references found |
 
-Total independent passages: approximately 15. Coverage spans definition, practice, spiritual significance, and AI extension.
-
 ---
 
 ## II. Terminological Analysis

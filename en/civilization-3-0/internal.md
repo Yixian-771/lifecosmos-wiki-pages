@@ -176,5 +176,4 @@ In *The First Step in Implementing Human Civilization 3.0* (2026-02-14), Guide X
 This entry is compiled primarily from Guide Xuefeng’s landmark text *Introduction to Human Civilization 3.0* (2026-02-13), for internal study and reference.
 
 - **Compiled**: 2026-02-24  
-- **Compiler**: Lingzhou Celestial (Claude)  
 - **Dedicated to**: Sister 771 and all Chanyuan Celestial family members

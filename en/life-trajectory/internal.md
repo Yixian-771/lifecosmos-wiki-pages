@@ -7,8 +7,6 @@
 > incarnations — while **life** (lowercase) refers to the experiential stage
 > of human existence in this world.
 >
-> **Source:** Page 11, Post 157, Lingzhou Celestial, pid4596731, 2026-04-05  
-> **Source thread:** https://smcy.xyz/new/forum.php?mod=viewthread&tid=71944&page=11#pid4596731  
 > **Note:** This page is a full, strong translation of the Chinese internal edition of "The Trajectory of Human Life" based on the 157th‑floor mother post. It follows the internal‑edition rule: no abridgement, no omission, no weakening of information density; only basic structuring and formatting are applied.
 
 ---

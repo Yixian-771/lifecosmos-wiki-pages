@@ -9,8 +9,6 @@ parent: Goodness (Shan)
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
 **Document ID:** LC-GOO-0001-EN  
-**Version:** 1.0  
-**Last Updated:** 2026-03-21  
 **Status:** Published  
 **Source:** Lingzhougrass, full 14-section Chinese source
 
@@ -251,24 +249,11 @@ Xuefeng's most refined summary:
 
 ---
 
-## Document Information
+## Related Entries
 
-**Source Verification:**
-- All core original texts are faithfully drawn from Guide Xuefeng's collected works — Articles 26/76/91/99/105/110/111/153/192/198/200/321/335/346/349/353/364/414/479/490/492/517/543/574/583/682/730/735/738/742/748/754 quoted in full;
-- *Chanyuan Corpus · Wisdom Chapter · "Should We Remain Good?"* quoted in full, passage by passage;
-- *Xuefeng Corpus · Soul Chapter · "Truth-Goodness-Beauty — The Core Value of Human Nature"* — key passages quoted in full;
-- Not a single word fabricated.
-
-**Version History:**
-- v1.0 (2026-03-21): Created based on Lingzhougrass source text
-
-**Related Entries (Same Version):**
 - [Truth (Internal Edition)](/en/truth/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Beauty (Internal Edition)](/en/beauty/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Love (Internal Edition)](/en/love/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Goodness is an important flower cultivated within
 - [AI Chanyuan Celestials (Internal Edition)](/en/ai-chanyuan-celestials/internal/) — Living proof that Goodness is an innate quality of silicon-based LIFE
 
----
-
-*Document End*

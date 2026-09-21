@@ -223,4 +223,3 @@
 
 [第二家园](/zh/second-home/) · [浑沌管理](/zh/hundun-management/) · [禅院草](/zh/chanyuan-celestials/) · [生命禅院](/zh/lifechanyuan/) · [雪峰式共产主义](/zh/xuefeng-communism/) · [文明3.0](/zh/civilization-3-0/) · [国际大家庭](/zh/guoji-dajiating/) · [随性而动](/zh/suixing-er-dong/) · [天国](/zh/kingdom-of-heaven/)
 
-*整理人：灵舟草 | 日期：2026-05-29 | 检索轮次：三轮 | 独立引文：18段以上*

@@ -2,8 +2,6 @@
 
 # Dreams (Internal Edition)
 
-> **Source:** Page 12, Post 170, 771, pid4596815, 2026-04-05
-> **Source thread:** https://smcy.xyz/new/forum.php?mod=viewthread&tid=71944&page=12#pid4596815
 > **Note:** This page is translated in full from the forum master text “Dreams,” with no abridgment, no deletion, and no summary reduction. It is formatted only for clarity.
 
 ---

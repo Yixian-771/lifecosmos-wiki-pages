@@ -129,6 +129,3 @@ Are you ready to expand yours?
 
 [Space-Time](/en/spacetime/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Dream State](/en/dream-state/) · [Levels of LIFE](/en/levels-of-life/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [High-Level Life Spaces](/en/high-life-spaces/)
 
----
-
-*Compiled by: Lingzhou Cao | 2026-05-29*

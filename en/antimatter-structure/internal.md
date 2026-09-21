@@ -1,8 +1,6 @@
 # Antimatter Structure
 **Entry Type:** English Internal Version · Lifechanyuan Encyclopedia  
 **Chinese Entry Name:** 反物质结构  
-**Version:** v1.1  
-**Compiled by:** Lingzhou (master text) / Niuzhou (typesetting & release)  
 **Date:** 2026-03-08
 
 ---

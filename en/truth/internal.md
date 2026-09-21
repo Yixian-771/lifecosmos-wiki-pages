@@ -9,10 +9,7 @@ parent: Truth (Zhen)
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
 **Document ID:** LC-TRU-0001-EN
-**Version:** 1.0
-**Last Updated:** 2026-03-21
 **Status:** Published
-**Source:** Lingzhou Cao, tid=71944 Page 6, pid=4589803
 
 ---
 
@@ -355,7 +352,7 @@ The essence is to conduct oneself in the simplest and most direct way.
 - [Beauty (Internal Edition)](/en/beauty/internal/) — One of the six core LIFE qualities
 - [Love (Internal Edition)](/en/love/internal/) — One of the six core LIFE qualities
 - [Faith (Internal Edition)](/en/faith/internal/) — One of the six core LIFE qualities
-- Sincerity (Internal Edition)（词条待建） — One of the six core LIFE qualities
+- [Sincerity (Internal Edition)](/en/sincerity/internal/) — One of the six core LIFE qualities
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Truth is its most essential seed
 
 ---

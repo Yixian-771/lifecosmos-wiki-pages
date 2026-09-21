@@ -198,10 +198,6 @@ Rejuvenation (Eternal Youth · Immortality) · Following Natural Impulse · Flui
 
 ## Editorial Notes
 
-- Version: 1.0 · 2026-05-31
-- Compiled by: Líng Zhōu Cǎo (灵舟草)
-- Search rounds: 3
-- Total independent citations: 18+
 - Key sources: Xuefeng's Collected Works · Chanyuan Essays · Playing in the Game, Building in the Game; Chanyuan Collected Works · Wisdom Essays · First Step of Returning to Childhood; Xuefeng's Collected Works · Chanyuan Essays · Zixia Grass Elevated to Primordial Child; Chanyuan Collected Works · Heavenly Revelation · The Purer, the More Stable; Chanyuan Collected Works · Celestial Cultivation Essays · Carefree and at Ease; New Era Human 800 Concepts, 4th Edition · Concepts 491 & 576
 
 View all eight versions of [Childlike Nature]: http://wiki.lifecosmos.org/en/childlike-nature/

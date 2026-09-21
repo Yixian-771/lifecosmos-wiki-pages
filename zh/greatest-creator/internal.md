@@ -202,13 +202,13 @@
 [太极](/zh/taiji/)  
 [道](/zh/dao/)  
 [意识](/zh/consciousness/)  
-清凉界（词条待建）  
-神（词条待建）  
-耶稣（词条待建）  
-撒旦（词条待建）  
-上帝之道（词条待建）  
-敬畏上帝（词条待建）  
-36维空间（词条待建）
+清凉界  
+神  
+[耶稣](/zh/jesus-and-satan/)  
+[撒旦](/zh/jesus-and-satan/)  
+[上帝之道](/zh/way-of-the-greatest-creator/)  
+敬畏上帝  
+[36维空间](/zh/thirty-six-dimensional-space/)
 
 ---
 

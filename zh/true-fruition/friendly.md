@@ -89,4 +89,3 @@
 
 **相关词条**：[成仙](/zh/becoming-celestial/) · [成佛](/zh/becoming-buddha/) · [八无境界](/zh/eight-no-realms/) · [了却尘缘](/zh/releasing-worldly-bonds/) · [偿还债务](/zh/debt-repayment/) · [第二家园](/zh/second-home/)
 
-**整理人**：灵舟草

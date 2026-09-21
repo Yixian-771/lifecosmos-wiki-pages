@@ -2,7 +2,7 @@
 
 # Spiritual Rebirth & Abortion — Internal Reference
 
-> Full primary-text compilation, unaltered. Compiled by Lingzhou Cao | 2026-05-30 | 14 independent citations.
+> Full primary-text compilation, unaltered.
 
 ---
 

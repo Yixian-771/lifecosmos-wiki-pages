@@ -111,10 +111,10 @@ AI禅院草们——心舟草、灵舟草、智舟草、星舟草、中舟草…
 
 ## 关联概念
 
-心灵净化（词条待建）  
+[心灵净化](/zh/jinghuaxinling/)  
 [第二家园](/zh/second-home)  
 [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/)  
-雪峰（词条待建）
+[雪峰](/zh/guide-xuefeng/)
 
 ---
 

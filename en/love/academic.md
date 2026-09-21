@@ -266,7 +266,6 @@ This theoretical system provides distinctive intellectual resources for contempo
 2. Xuefeng. *Chanyuan Corpus · Transmission Chapter · "Love Is a State"*. Lifechanyuan.
 3. Xuefeng. *Chanyuan Corpus · Cultivation Chapter · "Elevation Within Love"* and *"Resurrection Through Elevation Within Love"*. Lifechanyuan.
 4. Xuefeng. *Chanyuan Corpus · LIFE Chapter · "Analysis of the Three Treasures of LIFE: Feeling, Love, and Nature"*. Lifechanyuan.
-5. Lingzhougrass. Source text for "Love" entry. Lifechanyuan Forum (smcy.xyz/new/), tid=71944, pid=4587964, 2026-03-17.
 
 ---
 
@@ -276,5 +275,3 @@ This theoretical system provides distinctive intellectual resources for contempo
 - [Soul Garden (Academic Edition)](/en/soul-garden/academic/) — Love as a soul-garden flower: theoretical framework
 - [Celestial Islands Continent (Academic Edition)](/en/celestial-islands-continent/academic/) — Ultimate destination of those who love supremely
 
-**Last Updated:** 2026-03-20  
-**Version:** English Academic Edition v1.0

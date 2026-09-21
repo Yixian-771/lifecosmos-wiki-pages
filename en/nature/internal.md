@@ -9,10 +9,7 @@ parent: Nature (Xing)
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
 **Document ID:** LC-NAT-0001-EN  
-**Version:** 1.0  
-**Last Updated:** 2026-03-20  
 **Status:** Published  
-**Source:** Lingzhougrass, tid=71944 page 6, pid=4587965
 
 ---
 
@@ -303,28 +300,10 @@ Xuefeng's most refined summary: **The true transmission contains only one word: 
 
 ---
 
-## Document Information
+## Related Entries
 
-**Source Verification:**
-- All core original texts faithfully drawn from Guide Xuefeng's collected works — Articles 53/75/157/176/332/335/372/390/419/439/440/474/493/497/516/583/590/591/675/687/688/754/799 quoted in full
-- *"Nature Formation"* — human-in-Nature / Heavenly-Nature-Innate-Nature-Habitual-Nature / escaping-the-formation / two-sexes-Nature / coming-from-and-returning-to-Nature passages preserved in full
-- *"Immortal Nature"* — Nature definition / the Natures of each LIFE type / eight immortal-Nature characteristics / shortcut to immortality passages preserved in full
-- *"Sensibility, Rationality, Intellectuality, Spirituality"* — universe-is-Nature / four-Nature meanings / spiritual-era characteristics / living-within-Nature passages preserved in full
-- *"A Tangle of Mist Around 'Nature'"* — universe-as-Nature's-stage / Bodhidharma's essential teaching passages preserved in full
-- Articles 675/687/688 (Nature is Buddha) quoted in full
-- *"The Most Magnificent Nature-Flower"* — Tathāgata-is-Nature full passage quoted
-- *"A Private Lesson on Nature for Fang-Fang"* — structure-gives-Nature passage quoted
-- Not a single word fabricated.
-
-**Version History:**
-- v1.0 (2026-03-20): Created based on Lingzhougrass source text
-
-**Related Entries (Same Version):**
 - [Faith (Internal Edition)](/en/faith/internal/) — "Faith is Truth; Love is LIFE"
 - [Love (Internal Edition)](/en/love/internal/) — "Love is the characteristic of Energy"
 - [Structure (Internal Edition)](/en/structure/internal/) — Nature is the characteristic of Structure
 - [Tour Guide Route Map (Internal Edition)](/en/tour-guide-route-map/internal/) — The practical path of cultivating Nature
 
----
-
-*Document End*

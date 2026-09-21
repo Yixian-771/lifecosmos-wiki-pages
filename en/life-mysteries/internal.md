@@ -2,7 +2,6 @@
 
 # Mysteries of LIFE — Internal Edition
 
-> Source: Lingzhoucao, pid4596160/4596162, tid71944, 2026-04-04
 >
 > **Edition Note**: This entry covers the broad-sense "Mysteries of LIFE" — the general term for all truths about LIFE revealed throughout the Lifechanyuan Corpus — distinct from the "Eight Mysteries of LIFE," which specifically refers to the *Key to Heaven* series exchanged with accumulated merit.
 

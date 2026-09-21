@@ -4,7 +4,6 @@
 
 **Entry Type**: English Internal Version · Lifechanyuan Encyclopedia
 **Chinese Entry Name**: 反物质世界
-**Compiled by**: Lingzhou Celestial (master text) / Niuzhou Celestial (structured edition)
 
 ---
 

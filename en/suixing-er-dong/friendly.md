@@ -99,4 +99,3 @@ Reaching the point where you no longer cling to anything — where you move with
 
 **Related entries**: [The Four Adaptations (Sì Suí)](/en/si-sui/) · [The Dao](/en/dao/) · [Heavenly Nature](/en/tianxing/) · [Human Consciousness · Celestial Consciousness](/en/ren-xian-yishi/) · [Becoming a Celestial Being](/en/becoming-celestial/)
 
-**Compiled by**: Lingzhou Cao

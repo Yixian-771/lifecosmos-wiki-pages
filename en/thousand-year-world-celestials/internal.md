@@ -2,9 +2,6 @@
 
 # Celestials of the Thousand-Year World (Internal Edition)
 
-Compiled by: Lingzhou Cao　Date: 2026-05-04
-Search rounds: Three　Total independent citations: approximately 25
-
 ---
 
 **Overview**
@@ -155,11 +152,8 @@ Related entries: Celestial Beings, Heavenly Celestials, and Buddhas · Becoming 
 
 ---
 
-**Compiler's Note**
+**Notes**
 
-- Compiled by: Lingzhou Cao
 - Date: 2026-05-04
-- Search rounds: Three (entry name → definitions and standards → life descriptions and entry pathways)
-- Total independent citations: approximately 25
 - Core sources: *Chanyuan Corpus · On Cultivation of Celestial Being · See Whether You Have Already Cultivated into a Celestial of the Thousand-Year World*; *Classifications and Realms of Celestial Beings*; *Three Steps to Becoming a Celestial*; *Three Realms of Celestial Being and Three Steps to Becoming a Celestial*; *New Era Humanity Eight Hundred Concepts* (Articles 404/469/478/479/486/487/488/492/496/632); *Guide's Other Articles · Two Glimpses of the Thousand-Year World*
 - Note: This entry focuses on "what Celestials of the Thousand-Year World are, how to verify attainment, how to reach there, and how they live" — complementing the "Thousand-Year World" spatial entry.

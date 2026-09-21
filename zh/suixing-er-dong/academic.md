@@ -112,4 +112,3 @@
 
 **相关词条**：[四随](/zh/si-sui/) · [道](/zh/dao/) · [无为而无不为](/zh/wu-wei/) · [自性·佛性·如来本性](/zh/self-nature/) · [浑沌思维](/zh/hundun-thinking/) · [人的意识·仙的意识](/zh/ren-xian-yishi/) · [天命](/zh/tianming/) · [提升振动频率](/zh/raise-vibration-frequency/)
 
-**整理人**：灵舟草

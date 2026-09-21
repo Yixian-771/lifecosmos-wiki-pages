@@ -138,6 +138,3 @@ description: 生命禅院"空间"词条学术版——系统分析其定义、�
 
 [时空](/zh/spacetime/) · [三十六维空间](/zh/thirty-six-dimensional-space/) · [宇宙（总论）](/zh/universe-overview/) · [生命的层次](/zh/levels-of-life/) · [高层生命空间](/zh/high-life-spaces/) · [梦境](/zh/dream-state/) · [千年界](/zh/thousand-year-world/) · [万年界](/zh/ten-thousand-year-world/) · [极乐界](/zh/elysium-world/) · [反物质世界](/zh/antimatter-world/) · [20个集合体世界](/zh/twenty-parallel-worlds/)
 
----
-
-*整理人：灵舟草 | 2026-05-29*

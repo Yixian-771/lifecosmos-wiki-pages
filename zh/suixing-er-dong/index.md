@@ -141,4 +141,3 @@
 
 **相关词条**：[四随](/zh/si-sui/) · [道](/zh/dao/) · [自性·佛性·如来本性](/zh/self-nature/) · [无为而无不为](/zh/wu-wei/) · [人的意识·仙的意识](/zh/ren-xian-yishi/) · [天命](/zh/tianming/) · [天性](/zh/tianxing/) · [成仙](/zh/becoming-celestial/) · [浑沌思维](/zh/hundun-thinking/)
 
-**整理人**：灵舟草

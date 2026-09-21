@@ -183,5 +183,3 @@ We would rather starve than break a promise.
 - [Six Qualities](/en/six-qualities/) — The complete set of truth, goodness, beauty, love, faith, sincerity
 - [Soul Garden](/en/soul-garden/) — Where sincerity is planted as a flower
 - [Second Home](/en/second-home/) — Where sincerity is lived daily without rules
-
-*Last updated: 2026‑03‑22*

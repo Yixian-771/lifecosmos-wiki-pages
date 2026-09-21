@@ -7,8 +7,6 @@
 > incarnations — while **life** (lowercase) refers to the experiential stage
 > of human existence in this world.
 
-> **Source:** Post 161, Lingzhou Celestial, 2026-04-05 10:30
-> **Source thread:** https://smcy.xyz/new/forum.php?mod=viewthread&tid=71944 (Post 161)
 
 ---
 

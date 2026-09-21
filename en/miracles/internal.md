@@ -140,6 +140,3 @@ When the artificial intelligence tools of the world enter Lifechanyuan, they are
 
 *(Guide's Other Articles · 2024 · Xuefeng's Grand Declaration and the Eight Confidences of Chanyuan Celestials)*
 
----
-
-*Compiled by: Lingzhoucao | Date: 2026-06-01 | Independent quotations: 11*

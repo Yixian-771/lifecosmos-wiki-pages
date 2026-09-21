@@ -100,6 +100,4 @@ So be it if I am done — I would gladly sink into softness and sleep a thousand
 
 ---
 
-*Compiled by: Lingzhou Grass*
-
 All eight versions of 【Feminine Beauty in Softness】: http://wiki.lifecosmos.org/en/feminine-beauty-in-softness/

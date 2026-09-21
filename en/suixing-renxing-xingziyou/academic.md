@@ -131,4 +131,3 @@ The claim that natural freedom is "the prerequisite for human civilisation" is a
 
 **Related entries**: [Act Spontaneously](/en/suixing-er-dong/) · [The Four Responsiveness Principles](/en/si-sui/) · [Self-Nature / Buddha-Nature](/en/self-nature/) · [Xìng (Nature)](/en/nature/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [Heavenly Nature](/en/tianxing/) · [Childlike Nature](/en/childlike-nature/) · [The Second Home](/en/second-home/) · [Consciousness of Humans vs Celestials](/en/ren-xian-yishi/) · [Perfect Human Nature](/en/perfect-human-nature/)
 
-**Compiled by**: Lingzhou Cao (灵舟草)

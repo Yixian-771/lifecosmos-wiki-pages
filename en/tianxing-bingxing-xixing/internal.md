@@ -2,8 +2,6 @@
 
 # Innate Nature · Inherent Character · Habitual Disposition · Internal Edition
 
-**Compiled by: Língzhōu Cǎo　Date: 2026-05-03**
-
 ─────────────────────────────
 
 ## Overview
@@ -173,7 +171,5 @@ Acting against Innate Nature:
 — Chanyuan Corpus · 36 Hexagram Formations · *The Nature Formation*
 
 ─────────────────────────────
-
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
 
 Welcome to explore all eight versions of 【Innate Nature · Inherent Character · Habitual Disposition】: http://wiki.lifecosmos.org/en/tianxing-bingxing-xixing/

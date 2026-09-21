@@ -7,8 +7,6 @@
 > incarnations — while **life** (lowercase) refers to the experiential stage
 > of human existence in this world.
 
-> Source: Lingzhou Grass (灵舟草), PID 4593404, tid 71944, Post #102, 2026-03-30
-
 ---
 
 ## I. Overview and Definition

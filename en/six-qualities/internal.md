@@ -9,8 +9,6 @@ parent: Truth, Goodness, Beauty, Love, Faith & Sincerity
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
 **Document ID:** LC-SQ-0001-EN  
-**Version:** 1.0  
-**Last Updated:** 2026-03-22  
 **Status:** Published  
 **Source:** Lingzhougrass
 
@@ -228,27 +226,15 @@ Truth, Goodness, Beauty, Love, Faith, and Sincerity (真善美爱信诚) are the
 
 ---
 
-## Document Information
+## Related Entries
 
-**Source Verification:**
-- All core original texts are faithfully quoted in full from Lingzhougrass source — Articles 99/142/147/180/234/253/335/364/451/479/492/516/543/560/578/583/595/625/630/639/641/646/692/748/754/786 quoted in full;
-- Key passages from each *Chanyuan Corpus* and *Xuefeng Corpus* section quoted in full;
-- Not a single word fabricated.
-
-**Version History:**
-- v1.0 (2026-03-22): Created based on Lingzhougrass source text
-
-**Related Entries (Same Version):**
 - [Truth (Internal Edition)](/en/truth/internal/) — The ontological ground of the universe; origin of all artistic forms
 - [Goodness (Internal Edition)](/en/goodness/internal/) — The operating mechanism of the universe; maintaining orderly harmony
 - [Beauty (Internal Edition)](/en/beauty/internal/) — The law of cosmic harmony; proportion and symmetry
 - [Love (Internal Edition)](/en/love/internal/) — The characteristic of energy; the essence of LIFE
 - [Faith (Internal Edition)](/en/faith/internal/) — Truth; the trust-state of structural resonance
-- Sincerity (Internal Edition)（词条待建） — Tathāgata nature; unity of word and deed
+- [Sincerity (Internal Edition)](/en/sincerity/internal/) — Tathāgata nature; unity of word and deed
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — The inner space where the six qualities are cultivated as living flowers
 - [Hundun Management (Internal Edition)](/en/hundun-management/internal/) — The Second Home's management mode that activates the six qualities
 - [Second Home (Internal Edition)](/en/second-home/internal/) — The most complete living experiment of the six qualities in the human world
 
----
-
-*Document End*

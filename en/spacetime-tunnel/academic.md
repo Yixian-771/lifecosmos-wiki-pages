@@ -107,6 +107,3 @@ The spacetime tunnel concept functions as a bridge between cosmological knowledg
 
 Importantly, this is framed not as an individual achievement but as a collective journey — the guide (Xuefeng) leads practitioners through the tunnel as a group, with each person's role being to prepare the spiritual body for the transition.
 
----
-
-*Compiled by: Lingzhouca | 2026-05-29*

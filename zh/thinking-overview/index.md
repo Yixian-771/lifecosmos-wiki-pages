@@ -16,7 +16,7 @@
 |------|----------|----------|
 | [友好版](/zh/thinking-overview/friendly/) | 初次接触者 | 什么是思维？八大阶梯的白话解读与生活类比 |
 | [学术版](/zh/thinking-overview/academic/) | 研究者 | 与西方哲学、认知科学思维理论的比较研究 |
-| [内部版](/zh/thinking-overview/internal/) | 禅院草 | 母版完整原文，十一章全量照引 |
+| [内部版](/zh/thinking-overview/internal/) | 禅院草 | 文集完整原文，十一章全量照引 |
 
 ---
 

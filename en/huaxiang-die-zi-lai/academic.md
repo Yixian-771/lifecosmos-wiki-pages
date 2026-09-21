@@ -138,11 +138,11 @@ Its central thesis may be summarized as:
 
 ## Related Concepts
 
-- Spiritual Purification（词条待建）  
-- Law of Correspondence（词条待建）  
-- Life Quality（词条待建）  
-- Second Home Model（词条待建）  
-- Cultivation Methods（词条待建）
+- [Spiritual Purification](/en/jinghuaxinling/)  
+- Law of Correspondence  
+- Life Quality  
+- [Second Home Model](/en/second-home/)  
+- Cultivation Methods
 
 ---
 

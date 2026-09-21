@@ -131,4 +131,3 @@ The most distinctive feature of Lifechanyuan's theory of emotions is its positio
 
 [Disease and Health](/en/disease-health/) · [Happiness](/en/happiness/) · [Love](/en/love/) · [Gratitude](/en/gratitude/) · [Forgiveness](/en/forgiveness/) · [Jealousy and Envy](/en/jealousy-envy/) · [Arrogance](/en/aoman/) · [Resonance](/en/resonance/) · [The Nonmaterial Structure of LIFE](/en/antimatter-structure/) · [Soul Garden](/en/soul-garden/)
 
-*Compiled by: Niuzhou Celestial | Date: 2026-05-29*

@@ -4,7 +4,6 @@
 
 **Entry Type:** Internal English Version · Lifechanyuan Encyclopedia  
 **Chinese Entry Name:** 零态  
-**Version:** v1.0 (content-faithful formatting release)  
 **Date:** 2026-04-13
 
 ---

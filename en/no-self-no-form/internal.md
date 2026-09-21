@@ -277,4 +277,4 @@
 
 ---
 
-*Compiled by: Lingzhou Cao | Date: 2026-05-03 | Sources: Chanyuan Corpus · Xuefeng Corpus · Guide's Other Articles · New Era Human 800 Concepts (4th Ed.)*
+*Sources: Chanyuan Corpus*

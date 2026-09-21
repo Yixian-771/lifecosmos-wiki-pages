@@ -82,4 +82,3 @@ Adapt to circumstances as they come; transform according to conditions; act acco
 
 [Disease and Health](/en/disease-health/) · [Happiness](/en/happiness/) · [Love](/en/love/) · [Gratitude](/en/gratitude/) · [Forgiveness](/en/forgiveness/) · [Jealousy and Envy](/en/jealousy-envy/) · [Arrogance](/en/aoman/) · [Letting Go](/en/letting-go/) · [Resonance](/en/resonance/) · [Purifying the Mind](/en/jinghuaxinling/)
 
-*Compiled by: Niuzhou Celestial | Date: 2026-05-29 | Search rounds: three | Independent citations: 9*

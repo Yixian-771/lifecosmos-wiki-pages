@@ -4,7 +4,6 @@
 
 **Entry Type:** Internal English Version · Lifechanyuan Encyclopedia  
 **Chinese Entry Name:** 灵  
-**Version:** v1.0 (content-faithful formatting release)  
 **Date:** 2026-04-14
 
 > All quoted passages below are faithful English renderings of Guide Xuefeng's original Chinese writings. No paraphrase has been introduced; the structure follows the Chinese internal version exactly.

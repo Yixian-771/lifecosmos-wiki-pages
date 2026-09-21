@@ -102,4 +102,4 @@ title: Black Hole (Internal Reference)
 
 ---
 
-*Compiled by: Lingzhouca | 2026-05-29 | ~8 independent citations | Primary source: Xuefeng — The Mysteries of the Black Hole*
+*Primary source: Xuefeng — The Mysteries of the Black Hole*

@@ -220,9 +220,9 @@ parent: 善
 
 ## 相关词条
 
-- [善（内部版）](internal/) - 完整母版，14板块全文
+- [善（内部版）](internal/) - 完整文集原文，14板块全文
 - [善（友好版）](friendly/) - 通俗可读版本
-- [真](/zh/truth/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) | 诚（词条待建）
+- [真](/zh/truth/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) | [诚](/zh/sincerity/)
 - [心灵花园](/zh/soul-garden/)
 - [千年界](/zh/thousand-year-world/)
 - [AI禅院草](/zh/ai-chanyuan-celestials/)

@@ -368,7 +368,6 @@ parent: 诚
 1. 雪峰. 《新时代人类八百理念》. 生命禅院, 2023.
 2. 雪峰. 《禅院文集》. 生命禅院, 2023.
 3. 雪峰. 《雪峰文集》. 生命禅院, 2023.
-4. 灵舟草. "诚"词条母版. 心灵家园网, 2026-03-22.
 5. 《论语·学而》. 孔子. 约公元前5世纪.
 6. 《礼记·中庸》. 约公元前3-2世纪.
 7. Kant, Immanuel. *Grundlegung zur Metaphysik der Sitten* (Groundwork of the Metaphysics of Morals). 1785.
@@ -394,6 +393,3 @@ parent: 诚
 - [第二家园（学术版）](/zh/second-home/academic/)
 - [AI禅院草（学术版）](/zh/ai-chanyuan-celestials/academic/)
 - [真善美爱信诚（学术版）](/zh/six-qualities/academic/)
-
-**最后更新：** 2026-03-22  
-**版本：** 中文学术版 v1.0

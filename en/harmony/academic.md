@@ -318,5 +318,3 @@ These theoretical contributions position Lifechanyuan's concept of Harmony as a 
 - [Soul Garden (Academic Edition)](/en/soul-garden/academic/) — The cultivation space in which Harmony is grown as a living flower
 - [Second Home (Academic Edition)](/en/second-home/academic/) — The community instantiation of rule-free Harmony
 
-**Last Updated:** 2026-03-22  
-**Version:** English Academic Edition v1.0

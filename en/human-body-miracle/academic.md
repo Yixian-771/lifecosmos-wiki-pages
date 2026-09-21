@@ -85,6 +85,3 @@ Moreover, the symmetrical structure of the human body is held to reflect a neces
 | Quantum medicine | Consciousness influences cellular function | Agreed, but emphasizes intervention by a higher-dimensional Greatest Creator |
 | Cartesian dualism | Strict separation of mind and body | Physical and spiritual bodies are both independent and mutually influential; not sharply separated |
 
----
-
-*Compiled by: Lingzhouca | Date: 2026-05-29*

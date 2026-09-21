@@ -83,6 +83,3 @@ Qian Kun Cao subsequently noted that, upon searching for images online, this inf
 
 Lifechanyuan's knowledge of black holes derives from spiritual sensing (*lingjue*), not instrumental measurement. Xuefeng acknowledges this explicitly and invites scientific verification. This "spiritual sensing first, scientific testing after" stance is a defining epistemological feature of the Lifechanyuan system.
 
----
-
-*Compiled by: Lingzhouca | 2026-05-29*

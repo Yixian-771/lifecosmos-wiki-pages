@@ -18,7 +18,7 @@
 |------|----------|----------|
 | [友好版](/zh/inverted-thinking/friendly/) | 初次接触者 | 什么是颠倒思维？为什么要颠倒？ |
 | [学术版](/zh/inverted-thinking/academic/) | 研究者 | 与解构主义/辩证法/禅宗的比较研究 |
-| [内部版](/zh/inverted-thinking/internal/) | 禅院草 | 母版完整原文，19个板块全量照引 |
+| [内部版](/zh/inverted-thinking/internal/) | 禅院草 | 文集完整原文，19个板块全量照引 |
 
 ---
 

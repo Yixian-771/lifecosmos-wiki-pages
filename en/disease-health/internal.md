@@ -84,4 +84,3 @@ Among them, **toxin-release** (negative emotions triggering the release of inter
 
 [Human Body — Miracle Program and Mystery](/en/human-body-miracle/) · [The Nonmaterial Structure of LIFE](/en/antimatter-structure/) · [Ling-Spirit](/en/ling-spirit/) · [Subconscious](/en/subconscious/) · [Purifying the Mind](/en/jinghuaxinling/) · [Correcting Body and Mind](/en/neigong/) · [Happiness](/en/happiness/) · [Resonance](/en/resonance/) · [Letting Go](/en/letting-go/) · [Forgiveness](/en/forgiveness/) · [Gratitude](/en/gratitude/)
 
-*Compiled by: Niuzhou Celestial | Date: 2026-05-29 | Search rounds: three | Source passages: 9*

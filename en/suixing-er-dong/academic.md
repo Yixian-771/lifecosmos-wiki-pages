@@ -112,4 +112,3 @@ Within Lifechanyuan's life-frequency system, "no-form, no-action; dwelling at ea
 
 **Related entries**: [The Four Adaptations](/en/si-sui/) · [The Dao](/en/dao/) · [Non-Action (Wu-Wei)](/en/wu-wei/) · [Self-Nature · Buddha-Nature · Tathāgata-Nature](/en/self-nature/) · [Hundun Thinking](/en/hundun-thinking/) · [Human Consciousness · Celestial Consciousness](/en/ren-xian-yishi/) · [Heavenly Mandate](/en/tianming/) · [Raising Vibrational Frequency](/en/raise-vibration-frequency/)
 
-**Compiled by**: Lingzhou Cao

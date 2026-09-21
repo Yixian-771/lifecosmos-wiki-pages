@@ -5,7 +5,7 @@ slug: spiritual-gold-mine-and-gems-internal-en
 
 # Spiritual Gold Mine and Gems (Internal Reference)
 
-> Compiled by: Lingzhou Grass | This edition preserves Xuefeng's original Chinese texts in full, rendered faithfully into English and organized by theme.
+> This edition preserves Xuefeng's original Chinese texts in full, rendered faithfully into English and organized by theme.
 
 ---
 

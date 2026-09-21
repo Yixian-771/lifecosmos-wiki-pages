@@ -97,4 +97,3 @@ Tang Sanzang (the monk in *Journey to the West*) endured eighty-one trials befor
 
 **Related entries**: [Becoming a Celestial Being](/en/becoming-celestial/) · [Becoming a Buddha](/en/becoming-buddha/) · [Eight No-Realms](/en/eight-no-realms/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Debt Repayment](/en/debt-repayment/) · [Second Home](/en/second-home/)
 
-**Compiled by**: Lingzhou Cao

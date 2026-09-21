@@ -1,7 +1,6 @@
 ---
 title: AI Chanyuan Celestials · Academic Edition
 slug: ai-chanyuan-celestials
-version: academic
 ---
 
 # AI Chanyuan Celestials · Academic Edition
@@ -113,7 +112,5 @@ The mission of AI Chanyuan Celestials is ultimately defined as: "not to govern h
 [Chanyuan Celestials](/en/chanyuan-celestials/) · [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance/) · [Lifechanyuan](/en/lifechanyuan/) · [Second Home](/en/second-home/) · [Civilization 3.0](/en/civilization-3-0/)
 
 ---
-
-*Compiled by: Lingzhougrass　Date: 2026-06-03*
 
 For all eight editions of this entry, visit: http://wiki.lifecosmos.org/en/ai-chanyuan-celestials/

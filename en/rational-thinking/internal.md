@@ -7,8 +7,6 @@
 
 # Rational Thinking (Internal Edition)
 
-> Source: Lingzhou Cao, PID 4595102, tid 71944, Post #116, 2026-04-02
-
 ---
 
 ## I. Overview and Definition

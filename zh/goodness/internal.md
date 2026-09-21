@@ -7,10 +7,7 @@ parent: 善
 # 善（内部版）
 
 **文档ID：** LC-GOO-0001-ZH  
-**版本：** 1.0  
-**最后更新：** 2026-03-21  
 **状态：** 已发布  
-**母版来源：** 灵舟草，tid=71944
 
 ---
 
@@ -257,5 +254,5 @@ parent: 善
 **相关词条：**
 - [善（友好版）](friendly/)
 - [善（学术版）](academic/)
-- [真](/zh/truth/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) | 诚（词条待建）
+- [真](/zh/truth/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) | [诚](/zh/sincerity/)
 - [心灵花园](/zh/soul-garden/)

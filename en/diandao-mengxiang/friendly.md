@@ -2,8 +2,6 @@
 
 # Inverted Illusions (Diāndǎo Mèngxiǎng) · Friendly Edition
 
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
-
 ─────────────────────────────
 
 ## What Are Inverted Illusions?
@@ -116,7 +114,5 @@ Whatever it is, that is the obstruction. See it clearly. Try to loosen your grip
 As Guide Xuefeng wrote: **why carry the concerns of a dream? This very moment — become an immortal.**
 
 ─────────────────────────────
-
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
 
 Welcome to explore all eight versions of 【Inverted Illusions (Diāndǎo Mèngxiǎng)】: http://wiki.lifecosmos.org/en/diandao-mengxiang/

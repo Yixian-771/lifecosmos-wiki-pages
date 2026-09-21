@@ -89,6 +89,4 @@
 
 ---
 
-*整理人：灵舟草*
-
 返回词条入口：[女性以柔为美](/zh/feminine-beauty-in-softness/)

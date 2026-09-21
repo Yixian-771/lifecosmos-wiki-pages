@@ -165,6 +165,3 @@ Thus we know: humanity's meaning lies in serving the Greatest Creator. We are no
 
 **（Chanyuan Corpus · Human Life Chapter · The Meaning of Humanity）**
 
----
-
-*Compiled by: Lingzhoucao | Date: 2026-05-29 | Search rounds: 3 | Total independent citations: 20+*

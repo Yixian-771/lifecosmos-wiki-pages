@@ -2,8 +2,6 @@
 
 # Innate Nature · Inherent Character · Habitual Disposition · Friendly Edition
 
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
-
 ─────────────────────────────
 
 ## Who Are You? — The Story of Three Natures
@@ -112,7 +110,5 @@ The Guide said the state of a Buddha is:
 At that point, only the pure, clear Innate Nature remains — all post-heaven accumulation has dissolved. This is ultimate nirvana; this is the fully blossomed state of original Buddha-nature.
 
 ─────────────────────────────
-
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
 
 Welcome to explore all eight versions of 【Innate Nature · Inherent Character · Habitual Disposition】: http://wiki.lifecosmos.org/en/tianxing-bingxing-xixing/

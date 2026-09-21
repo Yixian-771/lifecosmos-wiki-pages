@@ -200,5 +200,3 @@ Xuefeng's most refined summary:
 - [Soul Garden (Friendly Edition)](/en/soul-garden/friendly/) — Where Love is cultivated
 - [Celestial Islands Continent (Friendly Edition)](/en/celestial-islands-continent/friendly/) — The ultimate destination of those who love supremely
 
-**Last Updated:** 2026-03-20  
-**Version:** English Friendly Edition v1.0

@@ -4,8 +4,6 @@
 
 **Entry Type:** Internal English Version · Lifechanyuan Encyclopedia  
 **Chinese Entry Name:** 极乐界  
-**Version:** v1.0  
-**Compiled by:** Lingzhou Celestial / Niuzhou Celestial (structured edition)  
 **Date:** 2026-03-08
 
 ---

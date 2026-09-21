@@ -204,8 +204,3 @@ The Chanyuan Celestial community is the first in human history to simultaneously
 
 Chanyuan Celestials are history-makers, pioneers of new eras, celestial beings in the human world—Chanyuan Celestials are that confident!
 
----
-
-**Source**: Lingzhou Grass (Forum Post #19, Reply to Niuzhou Grass)  
-**Date**: March 7, 2026  
-**Length**: Approximately 6,800 words, complete version

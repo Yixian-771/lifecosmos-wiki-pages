@@ -224,4 +224,3 @@ The New Oasis for LIFE is paradise.
 
 [Second Home](/en/second-home/) · [Hundun Management](/en/hundun-management/) · [Chanyuan Celestials](/en/chanyuan-celestials/) · [Lifechanyuan](/en/lifechanyuan/) · [Xuefeng Communism](/en/xuefeng-communism/) · [Civilization 3.0](/en/civilization-3-0/) · [International Family](/en/guoji-dajiating/) · [Moving with One's Nature](/en/suixing-er-dong/) · [Kingdom of Heaven](/en/kingdom-of-heaven/)
 
-*Compiled by: Lingzhoução | Date: 2026-05-29 | Research rounds: Three | Independent citations: 18+*

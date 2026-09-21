@@ -116,10 +116,10 @@ These observations reinforce the idea that inner order shapes outer life.
 
 ## Related Concepts
 
-- Spiritual Purification（词条待建）  
+- [Spiritual Purification](/en/jinghuaxinling/)  
 - [Second Home](/en/second-home)  
-- Cultivation Methods（词条待建）  
-- Xuefeng（词条待建）
+- Cultivation Methods  
+- [Xuefeng](/en/guide-xuefeng/)
 
 ---
 

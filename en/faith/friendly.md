@@ -180,5 +180,3 @@ Xuefeng's most refined summary:
 - [Soul Garden (Friendly Edition)](/en/soul-garden/friendly/) — The practice space where Faith is cultivated
 - [Tour Guide Route Map (Friendly Edition)](/en/tour-guide-route-map/friendly/) — The path that Faith in the Route Map sustains
 
-**Last Updated:** 2026-03-17  
-**Version:** English Friendly Edition v1.0

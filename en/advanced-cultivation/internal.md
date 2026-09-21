@@ -142,9 +142,6 @@ Becoming a Celestial Being is not mythology. It is the inevitable result of LIFE
 
 ## Editorial Notes
 
-- Version: 2026-05-10
-- Compiled by: Niuzhou Celestial
-- Search rounds: 3 (keywords: "Advanced Cultivation" → "Breaking Through Form / Emerging from Cocoon" → "Advanced Practice Methods")
 - Primary sources: Chanyuan Collection · Cultivation Chapter · Breaking Through Form — Advanced Cultivation 2; Always in Zero-State (Advanced Practice); Creating the Celestial Structure to Absorb Special Energy; Intermediate Cultivation (containing content on forgetting self and world and awakening to Buddha-nature); Xuefeng Collection · A Landmark Recognition
 - Note: Advanced Cultivation source texts are distributed across multiple articles. This entry uses "Breaking Through Form" as the central thread, integrating all Advanced Practice methods.
 

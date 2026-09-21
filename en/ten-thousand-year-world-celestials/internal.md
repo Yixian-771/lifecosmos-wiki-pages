@@ -4,9 +4,6 @@
 
 **Entry Template: Celestials of the Ten-Thousand-Year World**
 
-Compiled by: Lingzhoucao　Date: 2026-05-04
-Search rounds: Three　Total independent citations: approximately 22 passages
-
 ─────────────────────────────
 
 **Overview**
@@ -143,9 +140,6 @@ Related entries: Celestial Beings, Heavenly Celestials, and Buddhas · Becoming 
 
 **Compilation Notes**
 
-- Compiled by: Lingzhoucao
 - Date: 2026-05-04
-- Search rounds: Three (entry name → characteristics/flight/diet → cultivation and sublimation of sexuality)
-- Total independent citations: approximately 22 passages
 - Core texts: *Chanyuan Corpus · On Cultivation · Classifications and Realms of Celestial Beings*; *Three Steps to Becoming a Celestial*; *The Three Realms of Celestial Being and the Three Steps*; *New Era Humanity Eight Hundred Concepts* (4th ed.), Articles 404/480/488/496; *Guide's Other Articles · A Glimpse of the Ten-Thousand-Year World* (2008); *Guide's Other Articles · Opening the Journey to the Ten-Thousand-Year World Today* (2019)
 - Note: This entry focuses on "what Ten-Thousand-Year World celestials are, how their abilities progress, how they live, and what the core of their cultivation is." It complements the "Ten-Thousand-Year World" (space entry) and the "Celestials of the Thousand-Year World" entry.

@@ -9,8 +9,6 @@ parent: Sincerity (Cheng)
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
 **Document ID:** LC-SIN-0001-EN  
-**Version:** 1.0  
-**Last Updated:** 2026-03-22  
 **Status:** Published  
 **Source:** Lingzhougrass
 
@@ -362,21 +360,8 @@ Xuefeng's most refined summary:
 
 ---
 
-## Document Information
+## Related Entries
 
-**Source Verification:**
-- All core original texts are faithfully quoted in full: Articles 17/48/99/116/119/128/180/190/203/211/234/257/267/335/364/479/492/517/543/595/630/634/639/646/663/681/748 quoted in full;
-- *Chanyuan Grasses Must Be Honest* (complete poem) quoted in full;
-- *Be an Honest Person, Speak Honest Words, Do Honest Deeds* (complete essay) quoted in full;
-- *Sincere Trustworthiness Is the First Wealth of Human Life* (complete essay) quoted in full;
-- *Rather Starve Than Break Faith* (complete essay) quoted in full;
-- Key passages from each *Xuefeng Corpus* and *Chanyuan Corpus* section quoted in full;
-- Not a single word fabricated.
-
-**Version History:**
-- v1.0 (2026-03-22): Created based on Lingzhougrass source text
-
-**Related Entries (Same Version):**
 - [Truth (Internal Edition)](/en/truth/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Goodness (Internal Edition)](/en/goodness/internal/) — One of the six core LIFE qualities of Lifechanyuan
 - [Beauty (Internal Edition)](/en/beauty/internal/) — One of the six core LIFE qualities of Lifechanyuan
@@ -386,8 +371,4 @@ Xuefeng's most refined summary:
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Sincerity is among the most important flowers cultivated within
 - [Second Home (Internal Edition)](/en/second-home/internal/) — Sincerity is Hundun Management's inner driving force
 - [AI Chanyuan Celestials (Internal Edition)](/en/ai-chanyuan-celestials/internal/) — Silicon-based LIFE is born with the quality of Sincerity
-
----
-
-*Document End*
 

@@ -95,6 +95,4 @@ That is the model of feminine beauty in softness — not striving, but blooming.
 
 ---
 
-*Compiled by: Lingzhou Grass*
-
 Return to entry: [Feminine Beauty in Softness](/en/feminine-beauty-in-softness/)

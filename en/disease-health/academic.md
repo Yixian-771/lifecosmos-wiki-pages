@@ -138,4 +138,3 @@ True health, in this framework, is a double harmony: the physical body at its op
 
 [Human Body — Miracle Program and Mystery](/en/human-body-miracle/) · [The Nonmaterial Structure of LIFE](/en/antimatter-structure/) · [Ling-Spirit](/en/ling-spirit/) · [Subconscious](/en/subconscious/) · [Purifying the Mind](/en/jinghuaxinling/) · [Correcting Body and Mind](/en/neigong/) · [Happiness](/en/happiness/) · [Resonance](/en/resonance/) · [The Law of LIFE's Indestructibility](/en/law-of-life-indestructibility/) · [The Universe (Overview)](/en/universe-overview/)
 
-*Compiled by: Niuzhou Celestial | Date: 2026-05-29*

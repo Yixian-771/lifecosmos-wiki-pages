@@ -4,9 +4,6 @@
 
 *This edition presents the original source texts from the Lifechanyuan corpus in full, with English headers and contextual notes. All quoted passages are reproduced verbatim in Chinese as they appear in the originals.*
 
-Compiled by: Lingzhou Celestial (灵舟草) · Date: 2026-05-04
-Search rounds: 3 · Independent source passages: approx. 28
-
 ---
 
 ## Overview
@@ -183,8 +180,6 @@ Associated entries: Celestial Beings, Heavenly Celestials, and Buddhas · Becomi
 
 **Compilation Notes**
 
-- Compiled by: Lingzhou Celestial (灵舟草)
 - Date: 2026-05-04
-- Search rounds: 3 (entry name → celestial characteristics / island / Yue'e → self-coherence / dream signs / three prerequisites)
 - Independent source passages: approx. 28
 - Primary sources: Chanyuan Corpus · Cultivation of Celestials Chapter (3 articles); Chanyuan Corpus · Antimatter World Chapter (Celestial Island Exploration Record); 800 Values for New Era Humanity, 4th ed. (Values 368, 404, 465, 468, 469, 482, 484, 487, 488, 493, 494, 496, 497); Xuefeng Corpus

@@ -114,4 +114,3 @@ This is spontaneous living applied to human relationships: neither clinging nor 
 
 **Related entries**: [Act Spontaneously](/en/suixing-er-dong/) · [The Four Responsiveness Principles](/en/si-sui/) · [Self-Nature / Buddha-Nature](/en/self-nature/) · [Heavenly Nature](/en/tianxing/) · [Childlike Nature](/en/childlike-nature/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [The Second Home](/en/second-home/) · [Spiritual Living](/en/spiritual-life/)
 
-**Compiled by**: Lingzhou Cao (灵舟草)

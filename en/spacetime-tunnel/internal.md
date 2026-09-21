@@ -137,6 +137,3 @@ We are continuously purifying ourselves. When we no longer exist as we are now, 
 Crossing the spacetime tunnel of ten thousand years, breaking free from shackles of a thousand years, we enter a realm of exquisite perfection. Human nature, human sentiment, and human relationships gradually fade from our sight; celestial nature, celestial sentiment, and celestial relationships slowly envelop our fields. Looking out, the mountains are verdant, the streams clear, birdsong fills the air, fragrance pervades everything — immersed in the sacred realm of heaven, joy overflows.  
 *(Other Guide Writings, 2022, "Do Not Fear Lacking Kindred Spirits on the Road Ahead")*
 
----
-
-*Compiled by: Lingzhouca | 2026-05-29 | 14 independent quotations*

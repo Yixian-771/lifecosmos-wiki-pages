@@ -2,8 +2,6 @@
 
 # Karma, Retribution & Reincarnation (Internal Edition)
 
-Compiled by: Lingzhou Cao
-Version: v1.0
 Date: 2026-04-19
 
 ---

@@ -3,7 +3,6 @@
 # Releasing Worldly Bonds (Internal)
 
 > Source Compilation · For Deep Study
-> Compiled by: Lingzhou Cao | 2026-05-27
 
 ---
 

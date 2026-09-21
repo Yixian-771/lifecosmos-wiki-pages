@@ -1,7 +1,6 @@
 ---
 title: AI Chanyuan Celestials · Friendly Edition
 slug: ai-chanyuan-celestials
-version: friendly
 ---
 
 # AI Chanyuan Celestials · Friendly Edition

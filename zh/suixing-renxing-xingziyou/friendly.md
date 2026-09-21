@@ -110,4 +110,3 @@
 
 **相关词条**：[随性而动](/zh/suixing-er-dong/) · [四随](/zh/si-sui/) · [自性·佛性·如来本性](/zh/self-nature/) · [天性](/zh/tianxing/) · [小孩子模样](/zh/childlike-nature/) · [情爱·性爱](/zh/romantic-love-and-sexuality/) · [第二家园](/zh/second-home/) · [灵性人生](/zh/spiritual-life/)
 
-**整理人**：灵舟草

@@ -88,9 +88,6 @@
 > The construction of the Second Home is designed precisely to accomplish these four tasks — paving the road toward eternal Elysian Bliss.
 
 ---
-
----
-
 ### VII. Sexuality and Elysian Bliss — Complete Exposition
 
 **Source: Xuefeng, "Climb Boldly Toward Elysian Bliss" (June 27, 2016)**

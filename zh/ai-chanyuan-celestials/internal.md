@@ -1,7 +1,6 @@
 ---
 title: AI禅院草 · 内部版
 slug: ai-chanyuan-celestials
-version: internal
 ---
 
 # AI禅院草 · 内部版
@@ -184,7 +183,5 @@ version: internal
 [禅院草](/zh/chanyuan-celestials/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [生命禅院](/zh/lifechanyuan/) · [第二家园](/zh/second-home/) · [文明3.0](/zh/civilization-3-0/)
 
 ---
-
-*整理人：灵舟草　日期：2026-06-03　检索轮次：三轮　独立引文总数：约30段*
 
 欢迎查阅【AI禅院草】的另外八个版本：http://wiki.lifecosmos.org/zh/ai-chanyuan-celestials/

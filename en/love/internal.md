@@ -9,10 +9,7 @@ parent: Love (Ai)
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
 **Document ID:** LC-LOV-0001-EN  
-**Version:** 1.0  
-**Last Updated:** 2026-03-20  
 **Status:** Published  
-**Source:** Lingzhougrass, tid=71944 page 6, pid=4587964
 
 ---
 
@@ -280,27 +277,10 @@ Xuefeng's most refined summary: **Love is a state of LIFE, like the sun and the 
 
 ---
 
-## Document Information
+## Related Entries
 
-**Source Verification:**
-- All core original texts faithfully drawn from Guide Xuefeng's collected works — Articles 65/99/142/147/148/171/234/240/335/364/367/372/516/533/543/570/583/585/586/588/589/595/596/598/786 quoted in full
-- *Chanyuan Corpus · "Love Is a State"* — core passages (sun analogy / always positive / "I love you" is illusion / love-domain levels / those who love supremely become celestials / Love is antimatter) preserved in full
-- *Chanyuan Corpus · "Resurrection Through Elevation Within Love"* — core passages quoted in full
-- *Chanyuan Corpus · "Elevation Within Love"* — core passages quoted in full
-- *Chanyuan Corpus · "Analysis of the Three Treasures of LIFE: Feeling, Love, and Nature"* — feeling-domain passage + love-domain passage preserved in full
-- *Chanyuan Corpus · "The Bridge to the Elysium World"* — key sentence quoted
-- *Xuefeng Corpus · "Truth, Goodness, and Beauty — The Core Value of Human Nature (III)"* — conclusion quoted
-- Not a single word fabricated.
-
-**Version History:**
-- v1.0 (2026-03-20): Created based on Lingzhougrass source text
-
-**Related Entries (Same Version):**
 - [Faith (Internal Edition)](/en/faith/internal/) — "Faith is Truth; Love is LIFE"
 - [Nature / Xing (Internal Edition)](/en/nature/internal/) — Together with Love forms the three-word transmission
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal/) — Love is the most important flower cultivated within
 - [Celestial Islands Continent (Internal Edition)](/en/celestial-islands-continent/internal/) — Ultimate destination of those who love supremely
 
----
-
-*Document End*

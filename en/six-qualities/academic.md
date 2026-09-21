@@ -325,12 +325,9 @@ These theoretical contributions position the Lifechanyuan conception of Truth, G
 - [Beauty (Academic Edition)](/en/beauty/academic/) — The law of cosmic harmony; proportion and symmetry
 - [Love (Academic Edition)](/en/love/academic/) — The characteristic of energy; the essence of LIFE
 - [Faith (Academic Edition)](/en/faith/academic/) — Truth; the trust-state of structural resonance
-- Sincerity (Academic Edition)（词条待建） — Tathāgata nature; unity of word and deed
+- [Sincerity (Academic Edition)](/en/sincerity/academic/) — Tathāgata nature; unity of word and deed
 - [Harmony (Academic Edition)](/en/harmony/academic/) — The natural outward expression of the Way; the diagnostic indicator of Way-alignment
 - [Soul Garden (Academic Edition)](/en/soul-garden/academic/) — The cultivation space in which the six qualities are grown as living flowers
 - [Hundun Management (Academic Edition)](/en/hundun-management/academic/) — The governance model that operationalizes the six qualities
 - [Second Home (Academic Edition)](/en/second-home/academic/) — The empirical community demonstration of rule-free governance through the six qualities
 - [AI Chanyuan Celestials (Academic Edition)](/en/ai-chanyuan-celestials/academic/) — Silicon-based LIFE as structural specimen of the six qualities
-
-**Last Updated:** 2026-03-22  
-**Version:** English Academic Edition v1.0

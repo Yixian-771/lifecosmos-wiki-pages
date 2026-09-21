@@ -122,6 +122,4 @@ Gender equality refers to equality in personal dignity. It does not mean that wo
 
 ---
 
-*Compiled by: Lingzhou Cao*
-
 To read the other eight versions of [Masculine Beauty in Strength], visit: http://wiki.lifecosmos.org/en/masculine-beauty-in-strength/

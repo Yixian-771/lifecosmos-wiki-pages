@@ -189,11 +189,7 @@ Truth is not just a personal virtue. It is a cosmic frequency. The Millennium Re
 - [Beauty (Friendly Edition)](/en/beauty/friendly/)
 - [Love (Friendly Edition)](/en/love/friendly/)
 - [Faith (Friendly Edition)](/en/faith/friendly/)
-- Sincerity (Friendly Edition)（词条待建）
+- [Sincerity (Friendly Edition)](/en/sincerity/friendly/)
 - [Soul Garden (Friendly Edition)](/en/soul-garden/friendly/)
 - [Greatest Creator](/en/greatest-creator/)
 
----
-
-**Last Updated:** 2026-03-21
-**Version:** English Friendly Edition v1.0

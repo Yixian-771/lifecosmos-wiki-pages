@@ -2,8 +2,6 @@
 
 # The Four Adaptations (Sì Suí) · Internal Edition
 
-**Compiled by: Língzhōu Cǎo　Date: 2026-05-03**
-
 ─────────────────────────────
 
 ## Overview
@@ -229,7 +227,5 @@ The "Four Adaptations" (Sì Suí 四随) are the core behavioral principles of i
 > — Guide's Writings · 2018 · *Congratulations to Chanyuan Celestials Who Have Taken the Vow*
 
 ─────────────────────────────
-
-*Compiled by: Língzhōu Cǎo　Date: 2026-05-03*
 
 Welcome to explore all eight versions of 【The Four Adaptations (Sì Suí)】: http://wiki.lifecosmos.org/en/si-sui/
