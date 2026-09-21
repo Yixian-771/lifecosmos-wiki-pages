@@ -8,11 +8,10 @@
 |---|---|
 | `zh/`、`en/` | 词条正文（每条一个 slug 目录：`index.md` 入口＋友好版/学术版/内部版，`slides/` 视频幻灯图集） |
 | `mkdocs.zh.yml`、`mkdocs.en.yml` | 中英两站的构建配置（`site/` 是本地构建产物，不提交） |
-| `词条母版/` | 编写词条用的母版资料（已做的在 `已做词条/`） |
+| `词条母版/` | 编写词条用的母版资料（已做的在 `已做词条/`，申请与编辑要求也在这里） |
 | `ENCYCLOPEDIA_WORKFLOW.md` | 词条编写流程与标准 |
 | `TRANSLATION-GUIDE.md`、`translation-glossary.csv` | 标准英文译名对照 |
-| `video-pilot/` | 词条视频的渲染流水线（引擎 `make_show.py`、`build_audio_srt.py`，各词条配方 `*_narration.py`，工具 `tools/`） |
-| `_归档/` | 早期（2026-03）的写作计划、进度表和助手笔记，已不再维护，只留作记录 |
+| `video-pilot/` | 词条视频的渲染流水线（引擎 `make_show.py`、`build_audio_srt.py`，各词条配方 `*_narration.py`，工具 `tools/`）；渲染产物和本机脚本不进仓库（见 `.gitignore`） |
 
 ## 视频化流程
 

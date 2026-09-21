@@ -21,3 +21,18 @@ __pycache__/
 
 # mkdocs build output (服务器 push 后自动构建，无需提交)
 site/
+
+# video-pilot：只收引擎、配方（*_narration.py）和 tools/；
+# 渲染产物（音视频、字幕、台词文本、幻灯目录、逐帧图）和本机启动脚本不进仓库
+video-pilot/*.mp4
+video-pilot/*.wav
+video-pilot/*.mp3
+video-pilot/*.srt
+video-pilot/*_lines.txt
+video-pilot/_*.txt
+video-pilot/*.ps1
+video-pilot/slides_*/
+video-pilot/_frames/
+video-pilot/_superseded/
+video-pilot/_stale_cache/
+video-pilot/_render_baseline
