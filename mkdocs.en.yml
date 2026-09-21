@@ -31,6 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - 📚 Entry Catalog: catalog/index.md
+  - Global Government: global-government/index.md
   - Sound Wave Energy: sound-wave-energy/index.md
   - The Eight Prisons of Human Existence: eight-prisons-of-human-existence/index.md
   - The Eight Sorrows of Life: eight-sorrows-of-life/index.md
