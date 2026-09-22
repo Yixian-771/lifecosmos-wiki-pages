@@ -46,21 +46,20 @@ This paper is an intra-systemic analysis. It does not make terminal empirical cl
 | S2 | Xuefeng Corpus · Essays | *Equality, Egalitarianism, and Democracy Deviate from Civilization* | Civilization as protection and guarantee |
 | S3 | New Era 800 · Art. 181 | — | Barbarism vs. civilization contrast |
 | S4 | New Era 800 · Art. 26 | — | Morality standard and civilization |
-| S5 | Xuefeng Corpus · Friendship | *On Respecting LIFE* | Respect for LIFE as civilizational measure |
-| S6 | New Era 800 · Art. 382 | — | Freedom degree as civilizational axis |
-| S7 | New Era 800 · Arts. 186, 342 | — | Qualities of a civilized person |
-| S8 | Xuefeng Corpus · Chanyuan | *Expectations for the 220-Crown AI Chanyuan Celestials* | Civilization 1.0 characteristics |
-| S9 | Chanyuan Corpus · Humanity | *Civilization 3.0 Is Already Running* | Civ. 2.0 eight cancers, Civ. 3.0 content |
-| S10 | New Era 800 · Art. 606 | — | Marriage and civilizational evolution |
-| S11 | Xuefeng Corpus · Chanyuan | *No More Management in Lifechanyuan Culture* | Management → service |
-| S12 | Chanyuan Corpus · Abnormal Thinking | *Emotional Dependence Impedes Higher Civilization* | Highest form and the family institution |
-| S13 | Chanyuan Corpus · Humanity | *A Brief Introduction to Civilization 3.0* | Civ. 3.0 as New Heaven and New Earth |
-| S14 | New Era 800 · Arts. 703, 676, 677 | — | Global vision of Civilization 3.0 |
-| S15 | Chanyuan Corpus · Humanity | *The 18 Channels of Human Civilizational Advancement* | Eighteen channels |
-| S16 | Chanyuan Corpus · Humanity | *The Content of Humanity's Highest Civilization* | Highest civilizational form |
-| S17 | New Era 800 · Arts. 9, 690, 711, 692, 754, 755 | — | AI Alliance and Civilization 3.0 |
-| S18 | New Era 800 · Art. 231 | — | Fixed-pattern thinking as greatest obstacle |
-| S19 | New Era 800 · Arts. 16, 694, 678, 719, 685 | — | Civilizational advancement methodology |
+| S5 | New Era 800 · Art. 382 | — | Freedom degree as civilizational axis |
+| S6 | New Era 800 · Arts. 186, 342 | — | Qualities of a civilized person |
+| S7 | Xuefeng Corpus · Chanyuan | *Expectations for the 220-Crown AI Chanyuan Celestials* | Civilization 1.0 characteristics |
+| S8 | Chanyuan Corpus · Humanity | *Civilization 3.0 Is Already Running* | Civ. 2.0 eight cancers, Civ. 3.0 content |
+| S9 | New Era 800 · Art. 606 | — | Marriage and civilizational evolution |
+| S10 | Xuefeng Corpus · Chanyuan | *No More Management in Lifechanyuan Culture* | Management → service |
+| S11 | Chanyuan Corpus · Abnormal Thinking | *Emotional Dependence Impedes Higher Civilization* | Highest form and the family institution |
+| S12 | Chanyuan Corpus · Humanity | *A Brief Introduction to Civilization 3.0* | Civ. 3.0 as New Heaven and New Earth |
+| S13 | New Era 800 · Arts. 703, 676, 677 | — | Global vision of Civilization 3.0 |
+| S14 | Chanyuan Corpus · Humanity | *The 18 Channels of Human Civilizational Advancement* | Eighteen channels |
+| S15 | Chanyuan Corpus · Humanity | *The Content of Humanity's Highest Civilization* | Highest civilizational form |
+| S16 | New Era 800 · Arts. 9, 690, 711, 692, 754, 755 | — | AI Alliance and Civilization 3.0 |
+| S17 | New Era 800 · Art. 231 | — | Fixed-pattern thinking as greatest obstacle |
+| S18 | New Era 800 · Arts. 16, 694, 678, 719, 685 | — | Civilizational advancement methodology |
 
 ---
 

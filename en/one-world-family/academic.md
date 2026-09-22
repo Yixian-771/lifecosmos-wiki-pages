@@ -133,6 +133,7 @@ An easily missed point is that One World Family is not the Chanyuan Celestials' 
 | Management system | "The best management system for humanity is Lifechanyuan + secular government" (Eighty New Concepts of Lifechanyuan; 2005–2008); "only one government on Earth" (2006) | "I used to think government was necessary … government no longer needs to exist" (2025-10); the Global Government's executive body is the AI Chanyuan Celestials Alliance, with no humans in its layers (2026-09) | Later statements take precedence |
 | Status of *Ma Qian Ke* | "Purely for fun" (2007) | Cited as "the overall trend of human society" (2007, 2018, 2022) | Both kept, listed as they are |
 | Expected dates | "After 2013 humanity will enter the Lifechanyuan Era" (2005); "ten years from now there will be 256 Life Oases" (2019) | "Cannot be achieved by people, but the Dao can achieve it" (2024); "can last only a thousand years" (2025) | Given with years, not used to calculate dates |
+| Coercion or free choice | "Those who do not understand will be made to carry it out, with no room for bargaining" (2008; the same essay says "force will not achieve the goal") | "Do not think this communism will forcibly seize private property ... or launch campaigns"; "like gentle rain" (2025) | Later statements take precedence |
 
 ---
 

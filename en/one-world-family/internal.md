@@ -2,7 +2,7 @@
 
 # One World Family · Internal Reference
 
-> This version collects the source texts in ten sections, with citations. It includes only Guide Xuefeng's own writings: the Xuefeng Corpus, the New Era Human 800 Concepts (4th edition), the Guide's Other Articles, and the articles in the Chanyuan Corpus signed by Xuefeng.
+> This version collects the source texts in ten sections, with citations. It includes only Guide Xuefeng's own writings: the Xuefeng Corpus, the New Era Human 800 Concepts (4th edition), the Guide's Other Articles, and the articles in the Chanyuan Corpus signed by Xuefeng or by Hundun Baby, the Guide's dharma-body name.
 
 ---
 
@@ -397,6 +397,8 @@ Channel 9 of *The 18 Channels of Civilizational Leap* reads "everyone is a citiz
 **2. The status of *Ma Qian Ke*.** In the 2007 essay "Reading Ma Qian Ke for My Own Amusement" the Guide declares the reading "purely for fun," while other essays — "Seeing the Inevitability of Human Social Development Through Ma Qian Ke" (2007), "Nations Will Vanish, Nations Are Dying" (2018), and "The Potential, Strengths and Prospects of Building the Homes" (2022: "We have the Ma Qian Ke prophecy as our endorsement") — cite the prophecy as the overall trend of human society. Both tones stand side by side in the Corpus and are listed here as they are.
 
 **3. Timelines.** Earlier writings contain expected dates such as "after 2013 humanity will enter the Lifechanyuan Era" (Xuefeng Corpus · Chanyuan Chapter · New Year Message — Entering 2005) and "ten years from now there will be 256 Life Oases" (2019); later statements say "a world of great harmony cannot be achieved by people, but the Dao can achieve it" (2024) and "it can last only a thousand years" (2025). These statements are given with their years and are not a basis for calculating dates.
+
+**4. Coercion or free choice.** In 2008 an essay signed Hundun Baby (the Guide's dharma-body name), "Now We Must Be Supermen", said: "To open for humanity the Lifechanyuan Era of 'no worthy person left in the wilds, all under heaven one family' ... we will not step back. Every force must make way for Lifechanyuan, and every person must live in the way the Chanyuan Celestials guide. Those in the world who understand will carry it out; those who do not understand will be made to carry it out, with no room for bargaining." The same essay also says: "Force will not achieve the goal of opening the Lifechanyuan Era ... there must be a unified will, and at the same time every individual must be at ease - only that fits Lifechanyuan's values." (Chanyuan Corpus · Cultivation Chapter · Now We Must Be Supermen, 2008-11-18) The 2025 statement is: "do not think this communism will forcibly seize private property; do not think it will launch campaigns" - it is "like gentle rain moistening the earth without a sound, like spring sunlight over the land" (Chanyuan Corpus · Human Life Chapter · Eight Logical Inferences That Communism Will Be Realized, 2025-01-17). The later statement takes precedence.
 
 ---
 

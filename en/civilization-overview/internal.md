@@ -18,9 +18,13 @@ Ensuring that the creators of wealth can safely enjoy what they create — that 
 
 (Source: Xuefeng Corpus · Essays Volume · *Equality, Egalitarianism, and Democracy Deviate from Civilization*)
 
-Barbarism is the law of the jungle — the strong devour the weak, the fittest survive. Civilization means the strong show consideration for the weak, the powerful respect the vulnerable. A civilized society is a society of shared resources. A barbaric society is a society of competing for and possessing resources.
+A civilized society is a society of shared resources. A barbaric society is a society of competing for and possessing resources.
 
-(Source: New Era 800 Concepts, 4th Ed. · Article 181; Xuefeng Corpus · Soul Volume · *Wisdom Glows Here*)
+(Source: New Era 800 Concepts, 4th Ed. · Article 181)
+
+In 2004 the Guide excerpted a line from Lung Ying-tai's essay *The Fuller the Rice Ear, the Lower It Bows*, for all to take to heart: "Barbarism is the law of the jungle — the strong devour the weak, the fittest survive. Civilization means the strong show consideration for the weak, the powerful respect the vulnerable."
+
+(Source: Xuefeng Corpus · Soul Volume · *Wisdom Glows Here*, 2004-08-01)
 
 Whatever teachings and orders enable people to be joyful, happy, free, and blessed are moral. Whatever teachings and orders impede people from attaining joy, happiness, freedom, and blessing are immoral.
 
@@ -29,10 +33,6 @@ Whatever teachings and orders enable people to be joyful, happy, free, and bless
 ---
 
 ## II. The Measure of Civilization
-
-Whether LIFE — especially human LIFE — is respected can serve as a primary standard for measuring the degree of human civilization and the "level" of culture.
-
-(Source: Xuefeng Corpus · Friendship Volume · *On Respecting LIFE*)
 
 Freedom is supreme; freedom is priceless. Freedom is the defining characteristic of LIFE in heaven; the degree of freedom reveals the level at which a LIFE exists. The greater the freedom, the closer to heaven; the lesser the freedom, the closer to hell. The greatest characteristic of a civilized society is that citizens have attained abundant and expansive freedom.
 
