@@ -23,3 +23,5 @@ In Lifechanyuan's philosophy, feminine beauty lies in softness — not in weakne
 ## Related Entries
 
 [Celestial Nature](/en/tianxing/) · [Celestial Bearing](/en/xianfengdaogu/) · [Standard of Perfect Human Nature](/en/perfect-human-nature/) · [Refinement of Character](/en/jiaoyang-xiuyang-hanyang/) · [Heaven-Nature, Innate-Nature, Habitual-Nature](/en/tianxing-bingxing-xixing/) · [Transcending the Mundane](/en/chaofantuosu/) · [Spiritual Life](/en/spiritual-life/) · [Truth, Goodness, Beauty, Love, Faith, Sincerity](/en/six-qualities/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -134,3 +134,5 @@
 ## 六、相关词条
 
 [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [人生轨迹](/zh/life-trajectory/) · [人生剧本](/zh/life-script/) · [自由意志](/zh/free-will/) · [觉悟](/zh/awakening/) · [知识·智慧·智](/zh/knowledge-wisdom-zhi/) · [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/) · [明心见性](/zh/illuminate-mind-see-nature/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

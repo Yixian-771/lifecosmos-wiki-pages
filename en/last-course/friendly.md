@@ -110,3 +110,5 @@ The Last Course is not a monastery or a renunciation. It is purifying your thoug
 - [The Last Course (Internal Edition)](/en/last-course/internal/)
 - [High-Life Spaces (Friendly Edition)](/en/high-life-spaces/friendly/)
 - [Everything Is Destined (Friendly Edition)](/en/everything-is-destined/friendly/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

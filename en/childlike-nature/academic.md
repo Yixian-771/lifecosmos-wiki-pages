@@ -107,3 +107,5 @@ Rejuvenation (Eternal Youth · Immortality) · Following Natural Impulse · Flui
 - Key sources: Chanyuan Collected Works · Wisdom Essays · First Step of Returning to Childhood; Xuefeng's Collected Works · Chanyuan Essays · Playing in the Game, Building in the Game; Chanyuan Collected Works · Heavenly Revelation · The Purer, the More Stable; Xuefeng's Collected Works · Miscellaneous Essays · Heaven Does Not Accept Children Who Never Grew Up; New Era Human 800 Concepts, 4th Edition · Concepts 491 & 576
 
 View all eight versions of [Childlike Nature]: http://wiki.lifecosmos.org/en/childlike-nature/
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

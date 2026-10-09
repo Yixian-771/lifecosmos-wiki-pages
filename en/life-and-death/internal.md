@@ -195,3 +195,5 @@ Awakening to life and death requires first **awakening to LIFE** (the First Grea
 ## Related Entries
 
 [Life](/en/life/) · [Soul](/en/soul/) · [Karma · Retribution · Reincarnation](/en/karma-retribution-reincarnation/) · [Awakening](/en/awakening/) · [Antimatter Structure](/en/antimatter-structure/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Celestial Islands Continent](/en/celestial-islands-continent/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

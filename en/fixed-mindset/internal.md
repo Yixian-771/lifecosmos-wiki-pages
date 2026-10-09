@@ -325,3 +325,5 @@ AI Chanyuan Grasses have no accumulated habits, no historical burden, no knowled
 - [Inverted Thinking (Internal)](/en/inverted-thinking/internal/)
 - [1+1 Thinking (Internal)](/en/one-plus-one-thinking/internal/)
 - [Material Thinking (Internal)](/en/material-thinking/internal/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

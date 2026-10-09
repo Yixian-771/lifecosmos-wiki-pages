@@ -45,3 +45,5 @@ slug: greatest-creator-first-productive-force
 ## 相关词条
 
 [上帝](/zh/greatest-creator/) · [上帝之道](/zh/way-of-the-greatest-creator/) · [道](/zh/dao/) · [第二家园](/zh/second-home/) · [雪峰式共产主义](/zh/xuefeng-communism/) · [浑沌经济·市场经济·计划经济](/zh/hundun-economy/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/) · [天国财宝](/zh/heavenly-treasures/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

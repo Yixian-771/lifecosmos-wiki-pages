@@ -106,4 +106,6 @@ Unusually among spiritual frameworks, the Lifechanyuan roadmap is explicitly com
 
 [Value, Meaning & Purpose of Human Life](/en/value-meaning-purpose-of-life/) · [Peak of Human Life and LIFE](/en/peak-of-life-and-being/) · [Route to Heaven](/en/route-to-heaven/) · [Debt Repayment](/en/debt-repayment/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Heavenly Treasure](/en/heavenly-treasures/) · [Karma, Retribution and Reincarnation](/en/karma-retribution-reincarnation/) · [Consciousness](/en/consciousness/) · [Second Home](/en/second-home/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 [← Back to Index](index.md) · [Friendly version](friendly.md) · [Internal reference](internal.md)

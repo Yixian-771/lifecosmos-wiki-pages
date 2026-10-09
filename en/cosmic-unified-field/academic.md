@@ -89,6 +89,8 @@ Lifechanyuan's New Era 800 Concepts states explicitly: "Both science and religio
 | String / M-Theory | All four + extra dimensions | Partial | Unverified |
 | **Lifechanyuan** | All eight forces | **Yes** | Claims complete |
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry index](index.md) · [Friendly version](friendly.md) · [Internal reference](internal.md)

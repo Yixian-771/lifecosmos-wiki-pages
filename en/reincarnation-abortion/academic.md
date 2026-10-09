@@ -88,3 +88,5 @@ Path of reincarnation into the human world:
 ## IV. Related Entries
 
 [Life Reincarnation](/en/life-reincarnation/) · [Karma · Retribution · Reincarnation](/en/karma-retribution-reincarnation/) · [Soul](/en/soul/) · [Life and Death](/en/life-and-death/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Elysium World](/en/elysium-world/) · [Debt Repayment](/en/debt-repayment/) · [Twenty Parallel Worlds](/en/twenty-parallel-worlds/) · [Life Origin and Evolution Panorama](/en/life-origin-evolution-panorama/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

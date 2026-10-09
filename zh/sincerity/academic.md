@@ -393,3 +393,5 @@ parent: 诚
 - [第二家园（学术版）](/zh/second-home/academic/)
 - [AI禅院草（学术版）](/zh/ai-chanyuan-celestials/academic/)
 - [真善美爱信诚（学术版）](/zh/six-qualities/academic/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

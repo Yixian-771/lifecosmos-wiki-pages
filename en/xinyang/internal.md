@@ -139,6 +139,12 @@ Recognizing the Greatest Creator, revering the Greatest Creator, believing in th
 
 The first of all universal values is belief in the Greatest Creator. This is the cornerstone of all universal values. Belief has nothing to do with religion. *(Concept 710)*
 
+"All teachings return to one" does not mean that all religions merge into a single religion, nor is it any longer a spiritual and psychological activity of knowing gods, believing in gods, worshipping gods and following gods; it will become reverence and praise for the Greatest Creator. There is only one Greatest Creator in the universe, but countless gods. The Greatest Creator is not a god, and a god is not the Greatest Creator. Worshipping gods only clouds people's view; only by revering the Greatest Creator do we have a clear direction. *(Fifth Edition, Concept 232)*
+
+In the Lifechanyuan Era there is no such thing as a "cult". *(Fifth Edition, Concept 718)*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*, except the two marked "Fifth Edition". The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry main page](index.md)

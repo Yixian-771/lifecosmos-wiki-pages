@@ -151,3 +151,5 @@ Without a heart of gratitude, desire will inflate, causing others distress and p
 ## Related Entries
 
 [Awakening](/en/awakening/) · [Yuan (Karmic Affinity)](/en/yuan/) · [Formless Giving](/en/formless-giving/) · [Morality](/en/morality/) · [Thousand-Year World](/en/thousand-year-world/) · [Second Home](/en/second-home/) · [Soul Garden](/en/soul-garden/) · [The Greatest Creator](/en/greatest-creator/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

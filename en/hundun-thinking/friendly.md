@@ -121,3 +121,5 @@ This is the final sentence of the entire book. The whole Lifechanyuan theoretica
 - [Non-Form Thinking (Friendly Edition)](/en/non-form-thinking/friendly) — Seventh rung; the step before Hundun Thinking
 - [Hundun Management (Friendly Edition)](/en/hundun-management/friendly) — Hundun Thinking expressed in daily life and institutional practice
 - [Elysium World (Friendly Edition)](/en/elysium-world/friendly) — The ultimate LIFE space that Hundun Thinking leads toward
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

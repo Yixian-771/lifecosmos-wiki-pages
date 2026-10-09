@@ -117,3 +117,5 @@ This is not a ranking that makes lower levels worthless. It is a map. Knowing wh
 ---
 
 **Related reading:** [LIFE](/en/life/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Characteristics of LIFE](/en/life-characteristics/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -114,3 +114,5 @@ title: 圣人·贤人——学术版
 ## 五、相关词条
 
 [人群分类](/zh/people-classification/) · [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [觉悟](/zh/awakening/) · [灵性](/zh/spirituality/) · [八大思维阶梯](/zh/eight-thinking-ladders/) · [无我无相](/zh/no-self-no-form/) · [谦卑](/zh/humility/) · [自性·佛性·如来本性](/zh/self-nature/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

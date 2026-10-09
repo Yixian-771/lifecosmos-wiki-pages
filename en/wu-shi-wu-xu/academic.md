@@ -106,6 +106,8 @@ The explicit insight: pursuing the ideal appears foolish from a worldly answer s
 
 — Xuefeng (Chanyuan Corpus · Wisdom Chapter · The Practical and the Ideal)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to Entry Index](index.md)

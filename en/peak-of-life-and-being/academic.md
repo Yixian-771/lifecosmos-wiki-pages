@@ -114,3 +114,5 @@ The *New Era Human 800 Concepts, 4th Edition* (Concept 54) states that without a
 ## VII. Related Entries
 
 [Raise Vibration Frequency](/en/raise-vibration-frequency/) · [Eight No-Realms](/en/eight-no-realms/) · [Soul Garden](/en/soul-garden/) · [Becoming a Celestial](/en/becoming-celestial/) · [Becoming a Buddha](/en/becoming-buddha/) · [Debt Repayment](/en/debt-repayment/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Paradise Realm](/en/jilemiaojing/) · [Great Vow](/en/dasheng-xinyuan/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

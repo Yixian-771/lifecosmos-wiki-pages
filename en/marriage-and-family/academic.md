@@ -72,6 +72,8 @@ The original texts offer a three-level framework for transcending marriage and f
 
 [One-to-One Relationships and Spousal Bond](/en/one-to-one-and-marriage/) · [Family Members as Adversaries](/en/family-as-foes/) · [Second Home](/en/second-home/) · [Life Oasis](/en/life-oasis/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Xuefeng-Style Communism](/en/xuefeng-communism/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Return to index](index.md)

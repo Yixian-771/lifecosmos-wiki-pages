@@ -100,3 +100,4 @@ The ultimate purpose: "to play games, to find enjoyment — and to maintain the 
 
 [The Greatest Creator](/en/greatest-creator/) · [The Tao](/en/dao/) · [Taiji](/en/taiji/) · [Wuji and Taiji](/en/wuji-taiji/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Route to Heaven](/en/route-to-heaven/) · [Becoming a Celestial Being or Buddha](/en/becoming-celestial-buddha/) · [Levels of LIFE](/en/levels-of-life/) · [Buddha Dharma](/en/buddha-dharma/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

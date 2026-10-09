@@ -129,3 +129,5 @@ NASA对生命的工作定义是："能够进行达尔文式进化的自持化学
 - [意识（学术版）](/zh/consciousness/academic/)
 - [反物质（学术版）](/zh/antimatter-structure/academic/)
 - [仙岛群岛洲（学术版）](/zh/celestial-islands-continent/academic/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

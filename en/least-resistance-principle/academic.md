@@ -100,3 +100,5 @@ The Principle of Least Resistance is Lifechanyuan's translation of the Way of th
 ---
 
 *[Return to entry page](/en/least-resistance-principle/) · [Friendly version](/en/least-resistance-principle/friendly/) · [Internal Reference](/en/least-resistance-principle/internal/)*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

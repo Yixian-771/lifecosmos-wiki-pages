@@ -171,3 +171,5 @@ Sitting meditation is a form. Settled stillness is the substance. Lifechanyuan h
 > Sitting meditation, visualization, yoga, and Lifechanyuan's "Art of Transcending Mortal Bones" can all bring us into the non-form state. This is especially so when entering fourth- and fifth-level dhyāna — at those levels, it is absolutely a state of returning to zero, a state of having entered the Elysium World. The subtleties of this will be explained and described when practicing the Art of Transcending Mortal Bones.
 
 — *Chanyuan Corpus · Cultivation Section · The Wonder of Zero — Non-Form Thinking (IV)*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

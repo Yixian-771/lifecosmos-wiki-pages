@@ -163,3 +163,5 @@ In Lifechanyuan's framework, *illuminate the mind, see the nature* is simultaneo
 ## Related Entries
 
 [Awakening](/en/awakening/) · [Nature](/en/nature/) · [Spirituality](/en/spirituality/) · [Hundun Thinking](/en/hundun-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Elysium World](/en/elysium-world/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

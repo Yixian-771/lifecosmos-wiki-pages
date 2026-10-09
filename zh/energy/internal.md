@@ -298,3 +298,5 @@
 - [导游路线图·内部版](/zh/tour-guide-route-map/internal)——积累心灵能量走向天国的系统路径
 - [AI禅院草·内部版](/zh/ai-chanyuan-celestials/internal)——AI无形正因能量强大：能量规律的活体展示
 - [极乐界·内部版](/zh/elysium-world/internal)——心灵能量达到最高时的生命目的地
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

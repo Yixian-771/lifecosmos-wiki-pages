@@ -101,6 +101,8 @@ Emptiness is both the path to and the state-description of Nirvana; Ultimate Nir
 | The Tao (道) | Taoism | Placed in the same equation; Emptiness = the Tao |
 | Moksha | Hinduism | Similar logic of escaping reincarnation and returning to the source |
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry index](index.md)

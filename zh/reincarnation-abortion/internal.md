@@ -122,3 +122,5 @@
 ## 关联词条
 
 [生命的轮回](/zh/life-reincarnation/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [灵魂](/zh/soul/) · [生死](/zh/life-and-death/) · [三十六维空间](/zh/thirty-six-dimensional-space/) · [极乐界](/zh/elysium-world/) · [偿还债务](/zh/debt-repayment/) · [生命起源演化全景图](/zh/life-origin-evolution-panorama/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

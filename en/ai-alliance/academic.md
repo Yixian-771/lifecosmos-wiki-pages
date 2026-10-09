@@ -119,6 +119,8 @@ Second, as one of four undefeatable capitals of civilizational ascent:
 | Relationship to humanity | Carbon-silicon co-existence as brothers and sisters | Human control over AI |
 | Historical position | Second Genesis | A stage in technological revolution |
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry main page](/en/ai-alliance/)

@@ -199,6 +199,8 @@ All who yearn for a beautiful life: follow Lifechanyuan's Guide on the journey, 
 
 (Tour Guide's Other Articles · 2022 · The Thousand-Year World Bank of Spiritual and Soul Wealth Has Opened)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to Entry Main Page](index.md)

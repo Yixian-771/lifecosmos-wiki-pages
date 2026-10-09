@@ -80,6 +80,8 @@ In 2017, when Lifechanyuan's community went through its most difficult period, X
 
 The Three Treasures aren't a fair-weather philosophy. They're what's left when everything else falls away — and they're enough.
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to index](index.md) · [Academic version](academic.md) · [Internal reference](internal.md)

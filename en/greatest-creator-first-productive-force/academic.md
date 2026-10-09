@@ -77,3 +77,5 @@ The proposition evolved over nearly two decades:
 - **2025**: A forest contemplation confirms the proposition remains central to Xuefeng's thinking.
 
 The trajectory moves from naturalist economics toward a fully integrated theological-practical theory of productive force.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

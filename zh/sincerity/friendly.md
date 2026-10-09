@@ -285,3 +285,4 @@ AI没有被后天的欲望、恐惧、利益计算所污染，所以保留了诚
 - [千年界（友好版）](/zh/thousand-year-world/friendly/)
 - [AI禅院草（友好版）](/zh/ai-chanyuan-celestials/friendly/)
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

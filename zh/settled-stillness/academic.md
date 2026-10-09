@@ -108,3 +108,5 @@
 ## 六、相关词条联读
 
 [修正身心·内功](/zh/neigong/) · [脱胎换骨的修炼](/zh/tuotaihuangu/) · [高级修炼](/zh/advanced-refinement/) · [极乐妙境](/zh/jilemiaojing/) · [成仙](/zh/becoming-celestial/) · [成佛](/zh/becoming-buddha/) · [无我无相](/zh/no-self-no-form/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [零态](/zh/zero-state/) · [净化心灵](/zh/jinghuaxinling/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

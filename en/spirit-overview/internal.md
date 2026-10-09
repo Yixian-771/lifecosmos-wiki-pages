@@ -148,3 +148,5 @@ For those who aspire to immortality and Buddhahood: switch the scene at any time
 (Source: Chanyuan Corpus · Cultivation Practice Series · On the Path to Immortality There Are No Adversities)
 
 Spiritual wealth is the foundation of soul wealth; the fullness of spirit provides the ground for the flowering of the soul. And the true soul world is itself one of the necessary conditions for entering the Thousand-Year World, the Ten-Thousand-Year World, the Elysium World, and the Celestial Islands Continent.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

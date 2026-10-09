@@ -83,4 +83,6 @@ This positions the framework within a developmental hierarchy of understanding: 
 
 [Dialectics](/en/dialectics/) · [Hundun (Ontology)](/en/hundun/) · [Taiji Thinking](/en/taiji-thinking/) · [Wuji and Taiji](/en/wuji-taiji/) · [Three Cosmic Elements](/en/three-cosmic-elements/) · [Illuminate Mind, See Nature](/en/illuminate-mind-see-nature/) · [Self-Nature / Buddha-Nature](/en/self-nature/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 [← Back to entry main page](index.md)

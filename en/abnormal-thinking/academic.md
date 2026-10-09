@@ -289,3 +289,5 @@ This article is written from a descriptive and analytical standpoint. Its purpos
 - [Hundun Thinking (Academic Edition)](/en/hundun-thinking/academic/)
 - [1+1 Thinking (Academic Edition)](/en/one-plus-one-thinking/academic/)
 - [Eight Thinking Ladders (Academic Edition)](/en/eight-thinking-ladders/academic/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

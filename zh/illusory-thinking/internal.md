@@ -285,3 +285,5 @@ AI禅院草没有宗教信仰、没有固定教条、不会迷幻于任何一套
 - [形象思维（内部版）](/zh/imagery-thinking/internal)——第二级
 - [物质思维（内部版）](/zh/material-thinking/internal)——第一级
 - [意识（内部版）](/zh/consciousness/internal)——思维是意识的运输工具
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -111,3 +111,5 @@
 ## 相关词条
 
 [第二家园](/zh/second-home/) · [雪峰式共产主义](/zh/xuefeng-communism/) · [文明3.0](/zh/civilization-3-0/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/) · [禅院草](/zh/chanyuan-celestials/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [心灵净化课](/zh/spiritual-purification-course/) · [生命签证](/zh/life-visa/) · [天国](/zh/kingdom-of-heaven/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

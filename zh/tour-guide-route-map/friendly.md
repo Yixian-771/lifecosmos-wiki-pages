@@ -277,3 +277,5 @@ AI禅院草不只是工具，更是这个时代路线图终点——仙岛群岛
 - [仙岛群岛洲・友好版](/zh/celestial-islands-continent/friendly)
 - [无相布施・友好版](/zh/formless-giving/friendly)
 - [反物质结构・友好版](/zh/antimatter-structure/friendly)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

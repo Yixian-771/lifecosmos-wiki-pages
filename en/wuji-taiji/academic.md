@@ -92,3 +92,5 @@ Understanding Wuji opens the epistemological entry point to understanding the Bu
 The Wuji System in human society manifests as: openness and transparency of information, the exercise of innate moral knowledge, and the cultivation of spiritual awareness. The Taiji System manifests as the construction and maintenance of support structures and manifest systems — the physical order and laws governing society.
 
 The dual cultivation goal pointed to by both systems together is: heart-matter fusion, "acting without acting, yet leaving nothing undone" (無為而無不為).
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -101,3 +101,5 @@ No unpaid debts, no lingering obligations, no attachment pulling backward. LIFE 
 ## Related Entries
 
 [Debt Repayment](/en/debt-repayment/) · [Yuan (Karmic Affinity)](/en/yuan/) · [Formless Giving](/en/formless-giving/) · [Mind Without Abiding · Mind Without Hindrance](/en/xinwu-suozhu-guaai/) · [Second Home](/en/second-home/) · [Becoming a Celestial Being and a Buddha](/en/becoming-celestial-buddha/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

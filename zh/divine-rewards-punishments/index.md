@@ -49,3 +49,5 @@ slug: divine-rewards-punishments
 ## 相关词条
 
 [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [道](/zh/dao/) · [上帝](/zh/god/) · [天国银行](/zh/heavenly-bank/) · [地狱](/zh/hell/) · [天国财宝](/zh/heavenly-treasures/) · [生命的层次](/zh/levels-of-life/) · [宇宙全息](/zh/cosmic-holography/) · [偿还债务](/zh/debt-repayment/) · [生命签证](/zh/life-visa/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

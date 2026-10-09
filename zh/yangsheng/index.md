@@ -26,3 +26,5 @@ slug: yangsheng
 ## 相关词条
 
 [净化心灵](/zh/jinghuaxinling/) · [心灵花园](/zh/soul-garden/) · [修正身心·内功](/zh/neigong/) · [打坐·静坐·定静功夫](/zh/settled-stillness/) · [成仙](/zh/becoming-celestial/) · [疾病·健康](/zh/disease-health/) · [生命的反物质结构](/zh/antimatter-structure/) · [初级修炼](/zh/elementary-refinement/) · [高级修炼](/zh/advanced-refinement/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

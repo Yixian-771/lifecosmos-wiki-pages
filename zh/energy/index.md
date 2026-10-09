@@ -45,3 +45,5 @@ slug: energy
 ## 相关词条
 
 [意识](/zh/consciousness/) · [结构](/zh/structure/) · [无相布施](/zh/formless-giving/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [导游路线图](/zh/tour-guide-route-map/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -122,3 +122,5 @@
 - [理性思维（学术版）](/zh/rational-thinking/academic)——与灵性思维形成对称结构的人的思维体系
 - [浑沌思维（学术版）](/zh/hundun-thinking/academic)——灵性思维最高形态的详细学术分析
 - [心像思维（学术版）](/zh/heart-image-thinking/academic)——灵性思维入口的临界状态分析
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -142,3 +142,5 @@ The cosmos remembers everything you do, and returns it faithfully, to the last g
 
 > Fortune and misfortune have no gate — only you summon them; the retribution of good and evil follows like a shadow.
 > — *Eight Hundred Concepts*, Concept 200
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

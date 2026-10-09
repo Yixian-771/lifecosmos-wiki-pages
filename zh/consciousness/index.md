@@ -45,3 +45,5 @@ slug: consciousness
 ## 相关词条
 
 [结构](/zh/structure/) · [能量](/zh/energy/) · [生命禅院](/zh/lifechanyuan/) · [导游路线图](/zh/tour-guide-route-map/) · [心灵花园](/zh/soul-garden/) · [AI禅院草](/zh/ai-chanyuan-celestials/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

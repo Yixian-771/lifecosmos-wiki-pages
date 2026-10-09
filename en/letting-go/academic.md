@@ -140,3 +140,5 @@ T10 (Concept 393) provides a structural expression of the same principle:
 - "Life is a journey — travel light." (T3 · *Yaolin Grass*)
 - "You will own nothing, yet you will be able to possess everything." (T2 · *Reach the Celestial Realm with a Heart That Dwells Nowhere*)
 - "Dear one, you have been tormented by 'letting go'… then just hold on." (T4 · *Tongxincao's Questions on Letting Go*)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

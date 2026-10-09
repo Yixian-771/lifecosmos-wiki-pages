@@ -114,3 +114,5 @@ The Guide also applies the word "gene" in a beautiful metaphorical sense. He say
 - [The Human Body — Miracle Program and Mystery](/en/human-body-miracle/)
 - [The Greatest Creator](/en/greatest-creator/)
 - [Origin of LIFE](/en/life-origin/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

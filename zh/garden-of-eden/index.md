@@ -22,3 +22,5 @@ slug: garden-of-eden-zh
 ## 相关词条
 
 [天国](/zh/kingdom-of-heaven/) · [千年界](/zh/thousand-year-world/) · [万年界](/zh/ten-thousand-year-world/) · [极乐界](/zh/elysium-world/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [自由意志](/zh/free-will/) · [感恩](/zh/gratitude/) · [导游雪峰](/zh/guide-xuefeng/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

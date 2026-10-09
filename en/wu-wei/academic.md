@@ -139,3 +139,5 @@ S1 provides a key practical proposition: in the secular world, people not only f
 ## Related Entries
 
 [Return to Zero](/en/return-to-zero/) · [Zero-State](/en/zero-state/) · [Hundun](/en/hundun/) · [Hundun Management](/en/hundun-management/) · [Embrace the One](/en/embrace-the-one/) · [Eight No-Realms](/en/eight-no-realms/) · [Second Home](/en/second-home/) · [Dao](/en/dao/) · [Self-Coherence](/en/self-coherence/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

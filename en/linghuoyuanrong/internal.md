@@ -217,3 +217,5 @@ The community's management is Hundun (organic) Management, following primarily t
 Children raised in the community will, when they enter society, have far greater adaptive capacity and the ability to handle situations with fluid adaptability than children raised by conventional society.
 
 *(Xuefeng Corpus · Chanyuan Chapter · The Strategy and Plan for Cultivating Children in the Second Home)*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

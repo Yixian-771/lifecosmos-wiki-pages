@@ -35,3 +35,5 @@ description: 生命禅院体系中"人生三大财富"的完整框架——心�
 - [天国](/zh/kingdom-of-heaven/)
 - [提升振动频率](/zh/raise-vibration-frequency/)
 - [完美人性的标准](/zh/perfect-human-nature/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

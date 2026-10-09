@@ -22,3 +22,5 @@ slug: sincerity
 ## 相关词条
 
 [真](/zh/truth/) · [善](/zh/goodness/) · [美](/zh/beauty/) · [爱](/zh/love/) · [信](/zh/faith/) · [和](/zh/harmony/) · [心灵花园](/zh/soul-garden/) · [上帝](/zh/greatest-creator/) · [天国天堂](/zh/kingdom-of-heaven/) · [千年界](/zh/thousand-year-world/) · [浑沌管理](/zh/hundun-management/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [真善美爱信诚](/zh/six-qualities/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

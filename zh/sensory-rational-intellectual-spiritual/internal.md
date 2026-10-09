@@ -123,3 +123,5 @@
 ## 相关词条
 
 [自性·佛性·如来本性](/zh/self-nature/) · [灵性思维](/zh/spiritual-thinking/) · [八大思维阶梯](/zh/eight-thinking-ladders/) · [明心见性](/zh/illuminate-mind-see-nature/) · [成仙](/zh/becoming-celestial/) · [成佛](/zh/becoming-buddha/) · [天性·秉性·习性](/zh/tianxing-bingxing-xixing/) · [灵性人生](/zh/spiritual-life/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -145,3 +145,5 @@ T2 (2021) establishes the Guide's forgiveness as a one-directional, burden-beari
 - "Hatred… distorts the inner Spirit and drives the LIFE structure to evolve toward falseness, evil, and ugliness." (T13)
 - "Forgiveness flows from the sense of gratitude in our hearts." (T14)
 - "There are only wrong Guides; there are no wrong Chanyuan Celestials." (T2)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

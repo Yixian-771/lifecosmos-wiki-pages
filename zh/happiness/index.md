@@ -32,3 +32,5 @@
 - [真善美爱信诚](/zh/six-qualities/)
 - [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/)
 - [千年界](/zh/thousand-year-world/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

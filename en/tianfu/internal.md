@@ -157,3 +157,5 @@ In the Lifechanyuan system, "tianfu" (天赋, natural talent / innate endowment)
 > If a person's intelligence and talent are not released and expressed in time, they will — like plants and animals in nature — gradually age, decay, and pass away. Burn, O youth! The value of life lies not in what it absorbs, but in what it releases.
 
 (Source: New Era Human 800 Concepts, 4th Edition · Concept 61)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -113,3 +113,5 @@ Cosmic destination: members welcomed into Thousand-Year World · Ten-Thousand-Ye
 ## Related Entries
 
 [Second Home](/en/second-home/) · [Xuefeng Communism](/en/xuefeng-communism/) · [Civilization 3.0](/en/civilization-3-0/) · [Lifechanyuan Era (New Era)](/en/lifechanyuan-new-era/) · [Chanyuan Celestials](/en/chanyuan-celestials/) · [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance/) · [Spiritual Purification Course](/en/spiritual-purification-course/) · [Life Visa](/en/life-visa/) · [Kingdom of Heaven](/en/kingdom-of-heaven/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

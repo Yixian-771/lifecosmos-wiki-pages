@@ -145,3 +145,5 @@ The path beyond space-time relies not on qigong, meditation, or medicine, but on
 "What connects the 20 three-dimensional parallel universes turns out to be 0… 0 is the beginning and the end; all things depend on 0; without 0 there is no universe, without 0 there is no LIFE. 0 is the Greatest Creator… To embrace and merge with eternity is to embrace and merge with 0; once one merges completely with 0, one can arrive directly at the Celestial Islands Continent."
 
 (Source: Chanyuan Corpus · Way of Transmission · Merging with Eternity, Arriving Directly at the Heavenly Court, 2025-05-23)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

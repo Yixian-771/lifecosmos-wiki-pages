@@ -77,3 +77,5 @@ The principle I have always followed is: least resistance. Any matter where resi
 ---
 
 *[Return to entry page](/en/least-resistance-principle/) · [Friendly version](/en/least-resistance-principle/friendly/) · [Academic version](/en/least-resistance-principle/academic/)*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

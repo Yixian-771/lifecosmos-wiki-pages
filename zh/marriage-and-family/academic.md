@@ -70,6 +70,8 @@
 
 [一对一特殊关系·夫妻关系](/zh/one-to-one-and-marriage/) · [家里人都是仇人](/zh/family-as-foes/) · [第二家园](/zh/second-home/) · [生命绿洲](/zh/life-oasis/) · [情爱·性爱](/zh/romantic-love-and-sexuality/) · [了却尘缘](/zh/releasing-worldly-bonds/) · [自私与无私](/zh/zisi-wusi/) · [雪峰式共产主义](/zh/xuefeng-communism/)
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。
+
 ---
 
 [← 返回入口页](index.md)

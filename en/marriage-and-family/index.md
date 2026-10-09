@@ -23,3 +23,5 @@ In the Lifechanyuan system, the **spousal relationship**, **marriage** as an ins
 ## Related Entries
 
 [One-to-One Relationships and Spousal Bond](/en/one-to-one-and-marriage/) · [Family Members as Adversaries](/en/family-as-foes/) · [Second Home](/en/second-home/) · [Life Oasis](/en/life-oasis/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Xuefeng-Style Communism](/en/xuefeng-communism/) · [Quantum Entanglement and the "Other Half"](/en/quantum-entanglement-and-the-other-half/) · [Natural Freedom and Sexual Liberty](/en/suixing-renxing-xingziyou/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

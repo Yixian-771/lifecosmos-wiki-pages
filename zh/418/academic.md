@@ -100,3 +100,5 @@ title: 418（学术版）
 - [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/)
 - [浑沌管理](/zh/hundun-management/)
 - [导游雪峰](/zh/guide-xuefeng/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -147,3 +147,5 @@ Do you remember what Chan Patriarch Bodhidharma said? "Nature is Buddha; see nat
 ## Related Entries
 
 [Awakening](/en/awakening/) · [Nature](/en/nature/) · [Spirituality](/en/spirituality/) · [Hundun Thinking](/en/hundun-thinking/) · [Non-Form Thinking](/en/non-form-thinking/) · [Elysium World](/en/elysium-world/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

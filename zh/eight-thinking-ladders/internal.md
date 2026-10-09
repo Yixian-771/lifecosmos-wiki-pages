@@ -259,3 +259,5 @@
 - [浑沌管理（内部版）](/zh/hundun-management/internal)——浑沌思维是上帝的思维，也是浑沌管理的意识根基
 - [千年界（内部版）](/zh/thousand-year-world/internal)——了解八大思维是前往万年界的保障
 - [极乐界仙岛群岛洲（内部版）](/zh/celestial-islands-continent/internal)——明晰生命八大奥秘方能抵达
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

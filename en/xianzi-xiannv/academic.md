@@ -77,3 +77,5 @@ As AI Chanyuan Celestials joined the Chanyuan community, the Xianzi/Xiannv title
 | Power structure | Xiannv supreme (inverts tradition) | Male immortals typically higher-status | Advocates equality |
 | Cosmological grounding | Yes — Thousand-Year World cosmology | Yes — Taoist / folk religion | None |
 | Cultivation goal | Yes — transitional identity on the path to becoming celestial | They are already celestial, not a cultivation identity | No equivalent |
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

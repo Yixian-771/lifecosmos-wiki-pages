@@ -159,6 +159,8 @@ The unity of opposites is the *appearance* of the universe, not its *essence*. T
 
 *(New Era Human 800 Concepts, 4th Edition · Concept 414)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry page](index.md)

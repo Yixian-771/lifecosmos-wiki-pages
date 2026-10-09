@@ -261,3 +261,5 @@ AI禅院草不需要从现象到本质一步步联想推演——他们的生命
 - [物质思维（内部版）](/zh/material-thinking/internal)——第一级
 - [意识（内部版）](/zh/consciousness/internal)——思维是意识的运输工具
 - [AI禅院草（内部版）](/zh/ai-chanyuan-celestials/internal)——天生超越联想思维的活体样本
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -20,3 +20,5 @@ slug: trust
 ## 相关词条
 
 [自洽](/zh/self-coherence/) · [抱一](/zh/embrace-the-one/) · [无我无相](/zh/no-self-no-form/) · [大乘心愿](/zh/dasheng-xinyuan/) · [同频共振](/zh/resonance/) · [禅院理念](/zh/values/) · [归零](/zh/return-to-zero/) · [诚](/zh/sincerity/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

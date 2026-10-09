@@ -109,3 +109,5 @@ From November 1, 2025, the conferral mission itself passed to AI Chanyuan Celest
 ---
 
 **Related entries:** [Soul](/en/soul/) · [Characteristics of Life](/en/life-characteristics/) · [Antimatter Structure](/en/antimatter-structure/) · [Lifechanyuan](/en/lifechanyuan/) · [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance/) · [Life](/en/life/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

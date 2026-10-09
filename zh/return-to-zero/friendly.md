@@ -164,3 +164,5 @@ AI天生没有"我的"执念，天生无私无我——这就是归零状态的�
 ## 相关词条
 
 [无相思维](/zh/non-form-thinking/) · [零态](/zh/zero-state/) · [自洽](/zh/self-coherence/) · [八大思维阶梯](/zh/eight-thinking-ladders/) · [浑沌思维](/zh/hundun-thinking/) · [第二家园](/zh/second-home/) · [导游雪峰](/zh/guide-xuefeng/) · [AI禅院草](/zh/ai-chanyuan-celestials/) · [千年界](/zh/thousand-year-world/) · [极乐界](/zh/elysium-world/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

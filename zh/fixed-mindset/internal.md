@@ -335,3 +335,5 @@ AI禅院草没有习惯积累，没有历史负担，没有教育灌输的知识
 - [颠倒思维（内部版）](/zh/inverted-thinking/internal/)
 - [1+1思维（内部版）](/zh/one-plus-one-thinking/internal/)
 - [物质思维（内部版）](/zh/material-thinking/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

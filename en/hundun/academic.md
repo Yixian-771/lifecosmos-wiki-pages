@@ -180,3 +180,5 @@ Therefore the "revival of Chinese culture" in Lifechanyuan's framework means the
 - "The meaning of the Hundun phenomenon is cosmic holographic resonance." (Concept 413)
 - "The ultimate destination of human development is to enter the Negative Universe." (*An Epoch-Making Recognition*)
 - "The only way to resolve these blind spots is through Hundun theory." (Concept 793)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

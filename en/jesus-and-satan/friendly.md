@@ -93,3 +93,5 @@ Of course, Jesus is our father — and the gate through which we reach the Great
 ## Related Entries
 
 [The Greatest Creator](/en/greatest-creator/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Route to Heaven](/en/route-to-heaven/) · [Taiji](/en/taiji/) · [Becoming a Celestial Being or Buddha](/en/becoming-celestial-buddha/) · [Buddha Dharma](/en/buddha-dharma/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

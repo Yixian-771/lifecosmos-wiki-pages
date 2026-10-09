@@ -164,6 +164,8 @@ Punishment and reward are a cosmic mechanism. That which must be punished must b
 - In the end, the Tao will give every person a just verdict and reward or punishment. (Concept 500)
 - Plant melons, harvest melons; plant beans, harvest beans. Good brings good, evil brings evil. Misfortune and fortune come only from within. (Concept 192)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry home](/en/divine-rewards-punishments/)

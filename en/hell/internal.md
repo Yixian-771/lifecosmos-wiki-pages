@@ -99,3 +99,5 @@ slug: hell-internal-en
 
 "Hell is sorrowful, but Hell is not beautiful at all. Warmth, harmony, joy, and auspiciousness — these are beautiful!"
 (Source: Xuefeng Corpus · Famous Figures · Sorrow Is Not Beautiful — To Liu Yong)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -65,3 +65,5 @@
 - [Free Will](/en/free-will/)
 - [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/)
 - [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

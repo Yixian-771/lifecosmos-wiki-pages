@@ -356,3 +356,5 @@ One must achieve the **fruit position of a celestial being** — possessing the 
 > "Whatever quality of LIFE structure you have, that is the space you inhabit." (Concept 468)
 > "The essence of LIFE is the soul; the essence of the soul is consciousness. Therefore, consciousness is LIFE." (Concept 376)
 > "Death is not the terminal station of LIFE." (Concept 308)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

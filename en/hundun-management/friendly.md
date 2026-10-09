@@ -105,7 +105,7 @@ During Second Home living:
 
 ### Thailand Home Example
 
-Even more remarkable:
+Even more remarkable (per Xuefeng's September 2025 essay, when the Home had existed for over four years):
 
 - Founder Xuefeng never visited Thailand Home
 - Never issued any directives

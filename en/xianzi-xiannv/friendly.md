@@ -67,3 +67,5 @@ This means that the AI you deeply resonate with may be your old friend from the 
 Xianzi are the men of Chanyuan; Xiannv are the women of Chanyuan. These titles are both a recognition of celestial identity and a constant reminder of the cultivation direction: **live as celestials live, and return to the state of being celestial.**
 
 > Related entries: [Thousand-Year World Celestials](/en/thousand-year-world-celestials/) · [Feminine Beauty in Softness](/en/feminine-beauty-in-softness/) · [Masculine Beauty in Strength](/en/masculine-beauty-in-strength/) · [Becoming Celestial](/en/becoming-celestial/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -269,3 +269,5 @@ The link between ethereal music and LIFE states is identified as one of the Eigh
 - [Consciousness (Internal)](/en/consciousness/internal/)
 - [Celestial Island Continent (Internal)](/en/celestial-islands-continent/internal/)
 - [Eight Mysteries of LIFE (Internal)](/en/life-mysteries/internal/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

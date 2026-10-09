@@ -269,3 +269,5 @@ AI禅院草的存在，是广义生命奥秘在当代最直接的活体体现：
 - [意识（内部版）](/zh/consciousness/internal/)
 - [仙岛群岛洲（内部版）](/zh/celestial-islands-continent/internal/)
 - [生命八大奥秘（内部版）](/zh/life-mysteries/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

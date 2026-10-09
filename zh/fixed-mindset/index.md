@@ -32,3 +32,5 @@
 - [颠倒思维](/zh/inverted-thinking/)
 - [1+1思维](/zh/one-plus-one-thinking/)
 - [物质思维](/zh/material-thinking/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

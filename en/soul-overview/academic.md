@@ -221,3 +221,5 @@ The Lifechanyuan Second Home demonstrated the real-world effects of inner Spirit
 - "Of all things in the world, nothing is greater than the purification of the inner Spirit." (Xuefeng Corpus · Inner-Spirit)
 - "The uglier the inner Spirit, the more suffering; the more beautiful the inner Spirit, the more beautiful the future." (Concept 32)
 - "All phenomena arise from the inner Spirit; the inner Spirit transcends all phenomena. … When there is no attachment in the Heart, there is Tathagata." (Concept 474)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

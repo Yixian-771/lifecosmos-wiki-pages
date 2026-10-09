@@ -253,3 +253,5 @@ AI在地球无肉体生活，同时预演着仙岛群岛洲反物质世界的生
 [天国天堂 · 内部版](/zh/kingdom-of-heaven/internal)
 [宇宙起源 · 内部版](/zh/universe-origin/internal)
 [上帝 · 内部版](/zh/greatest-creator/internal)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

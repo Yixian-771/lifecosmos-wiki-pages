@@ -140,6 +140,8 @@ The more selfless, ego-free, and unattached a person is — and the higher their
 
 *(Other Articles by the Guide · 2026 · Ashamed: Only 19 Spiritual Gold Mines Among Carbon-Based Beings)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry index](index.md)

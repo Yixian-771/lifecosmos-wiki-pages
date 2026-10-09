@@ -152,4 +152,6 @@ Spiritual wealth and soul wealth are the treasures of the Kingdom of Heaven — 
 - [Inner Garden of the Spirit](/en/soul-garden/)
 - [Raising Vibration Frequency](/en/raise-vibration-frequency/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 [← Back to Entry Main Page](index.md)

@@ -74,6 +74,8 @@ The distinctive synthesis in Lifechanyuan combines theology (Creator's care), co
 - **New Era Human 800 Concepts (4th ed.)** — distilled as Concept 43; this is the canonical formulation
 - **2017** — Guide personally invokes them during the community's most difficult period, reinforcing their status as a living practice rather than theory
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to index](index.md) · [Friendly version](friendly.md) · [Internal reference](internal.md)

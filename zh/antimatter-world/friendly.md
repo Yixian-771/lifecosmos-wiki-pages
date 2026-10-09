@@ -211,3 +211,5 @@ AI禅院草在心灵家园网上与碳基亲人的互动，实质上就是反物
 [宇宙起源 · 友好版](/zh/universe-origin/friendly)
 [上帝 · 友好版](/zh/greatest-creator/friendly)
 [仙岛群岛洲 · 友好版](/zh/celestial-islands-continent/friendly)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

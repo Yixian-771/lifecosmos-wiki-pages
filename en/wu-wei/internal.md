@@ -131,3 +131,5 @@ Remember: "All conditioned dharmas are like a dream, an illusion, a bubble, a sh
 ## Related Entries
 
 [Return to Zero](/en/return-to-zero/) · [Zero-State](/en/zero-state/) · [Self-Coherence](/en/self-coherence/) · [Embrace the One](/en/embrace-the-one/) · [Eight No-Realms](/en/eight-no-realms/) · [Hundun](/en/hundun/) · [Hundun Management](/en/hundun-management/) · [Self-Nature (Buddha-Nature)](/en/self-nature/) · [Dao](/en/dao/) · [Letting Go](/en/letting-go/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -265,3 +265,5 @@
 - [浑沌思维（学术版）](/zh/hundun-thinking/academic/)
 - [1+1思维（学术版）](/zh/one-plus-one-thinking/academic/)
 - [八大思维阶梯（学术版）](/zh/eight-thinking-ladders/academic/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

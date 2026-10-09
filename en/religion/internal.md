@@ -124,3 +124,5 @@ The state of religion in the Lifechanyuan era will be as follows: Jesus, Shakyam
 
 In the new era, all holidays related to divine beings, Buddhas, celestials, humans, nations, political parties, religions, and armies are no longer observed — including holidays such as Christmas and the Buddha's Birthday.
 (Source: *New Era Human 800 Concepts*, 4th ed., Concept 718)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

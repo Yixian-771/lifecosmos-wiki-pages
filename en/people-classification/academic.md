@@ -113,3 +113,5 @@ Lifechanyuan's distinctive contribution: **the direct mapping of human spiritual
 One important interpretive frame: the diversity of human types is not a problem to be solved but a natural arrangement. The text explicitly states that human classification is as natural as biological diversity — each type serves a function in the totality of LIFE's design. This framing removes the element of moral condemnation and situates the classification within Lifechanyuan's broader cosmological determinism.
 
 This does not preclude individual evolution; it contextualizes it. "Live according to your nature" is offered as a path to peace, not stagnation — the aspiration to evolve remains intact.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

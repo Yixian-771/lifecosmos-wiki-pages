@@ -150,3 +150,5 @@
 ## 相关词条
 
 [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [千年界仙](/zh/thousand-year-world-celestials/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [万年界](/zh/ten-thousand-year-world/) · [高层生命空间](/zh/high-life-spaces/) · [极乐界](/zh/elysium-world/) · [仙岛群岛洲](/zh/celestial-islands-continent/) · [提升振动频率](/zh/raise-vibration-frequency/) · [梦境](/zh/dream-state/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

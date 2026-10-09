@@ -131,3 +131,4 @@
 
 [疾病·健康](/zh/disease-health/) · [幸福](/zh/happiness/) · [爱](/zh/love/) · [感恩](/zh/gratitude/) · [宽恕](/zh/forgiveness/) · [忌妒·嫉妒](/zh/jealousy-envy/) · [傲慢](/zh/aoman/) · [同频共振](/zh/resonance/) · [反物质结构](/zh/antimatter-structure/) · [心灵花园](/zh/soul-garden/) · [灵体（反物质结构）](/zh/antimatter-structure/)
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

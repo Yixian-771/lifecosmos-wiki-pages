@@ -116,3 +116,5 @@ The Three Cosmic Elements are not merely cosmological theory — they directly g
 ## Related entries
 
 [Consciousness](/en/consciousness/) · [Structure](/en/structure/) · [Energy](/en/energy/) · [The Greatest Creator](/en/greatest-creator/) · [Spiritual Eye](/en/linyan/) · [Hundun Ontology](/en/hundun/) · [Universe Origin](/en/universe-origin/) · [Antimatter Structure](/en/antimatter-structure/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/) · [Heart-Image Thinking](/en/heart-image-thinking/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

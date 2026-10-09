@@ -129,6 +129,8 @@
 
 建议联读：[爱](/zh/love/) · [情爱·性爱](/zh/romantic-love-and-sexuality/) · [极乐妙境](/zh/jilemiaojing/) · [放下](/zh/letting-go/) · [自由意志](/zh/free-will/) · [随性而动](/zh/suixing-er-dong/) · [同频共振](/zh/resonance/) · [忌妒·嫉妒](/zh/jealousy-envy/) · [心灵花园](/zh/soul-garden/) · [归零](/zh/return-to-zero/)
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。
+
 ---
 
 [← 返回入口页](/zh/happiness/)

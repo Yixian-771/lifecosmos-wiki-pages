@@ -117,3 +117,5 @@
 ## 相关词条
 
 [自私与无私](/zh/zisi-wusi/) · [魔性](/zh/moxing/) · [傲慢](/zh/aoman/) · [谦卑](/zh/humility/) · [感恩](/zh/gratitude/) · [真](/zh/truth/) · [诚](/zh/sincerity/) · [放下](/zh/letting-go/) · [心灵花园](/zh/soul-garden/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

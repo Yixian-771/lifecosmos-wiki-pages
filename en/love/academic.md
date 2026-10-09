@@ -275,3 +275,4 @@ This theoretical system provides distinctive intellectual resources for contempo
 - [Soul Garden (Academic Edition)](/en/soul-garden/academic/) — Love as a soul-garden flower: theoretical framework
 - [Celestial Islands Continent (Academic Edition)](/en/celestial-islands-continent/academic/) — Ultimate destination of those who love supremely
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

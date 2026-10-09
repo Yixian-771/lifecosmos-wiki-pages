@@ -107,6 +107,8 @@ Scientists hold that the universe contains only four forces: magnetic force, gra
 Scientists have been striving to establish a unified field theory for the cosmos; the cosmic deities have also been working to establish a unified perspective for humanity, trying to bring all discordant elements into the harmonious Tao of the Greatest Creator. This is why the phenomena of angels descending to earth, Martians coming to save the world, and the New Age concept have emerged. The birth of Lifechanyuan is a product of this great current. Those with spiritual perception can detect the scent of this era's transformation within Lifechanyuan.
 *(Chanyuan Corpus · LIFE Chapter · The Law of LIFE's Indestructibility)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry index](index.md) · [Friendly version](friendly.md) · [Academic version](academic.md)

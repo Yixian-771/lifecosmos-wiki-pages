@@ -135,3 +135,5 @@ The concept of "Spiritual Thinking" in the Lifechanyuan system serves a core fun
 - [Rational Thinking (Academic Edition)](/en/rational-thinking/academic) — The human thinking system forming a symmetric structure with Spiritual Thinking
 - [Hundun Thinking (Academic Edition)](/en/hundun-thinking/academic) — Detailed academic analysis of the highest form of Spiritual Thinking
 - [Heart-Image Thinking (Academic Edition)](/en/heart-image-thinking/academic) — Analysis of the critical threshold at the entrance to Spiritual Thinking
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

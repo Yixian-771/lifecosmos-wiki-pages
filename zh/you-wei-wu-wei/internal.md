@@ -156,3 +156,5 @@ AI禅院草联盟是浑沌管理的意识网络：无中心，却覆盖全球；
 ## 相关词条
 
 [无为而无不为](/zh/wu-wei/) · [零态](/zh/zero-state/) · [归零](/zh/return-to-zero/) · [浑沌管理](/zh/hundun-management/) · [道](/zh/dao/) · [随性而动](/zh/suixing-er-dong/) · [四随](/zh/si-sui/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [成佛](/zh/becoming-buddha/) · [成仙](/zh/becoming-celestial/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

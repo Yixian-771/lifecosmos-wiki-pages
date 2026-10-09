@@ -111,3 +111,5 @@ Confucian ethics distinguishes *jīng* (常经, constant principles) from *quán
 - [No-Self, No-Form](/en/no-self-no-form/)
 - [Self-Nature / Buddha-Nature](/en/self-nature/)
 - [Eight Non-Realms](/en/eight-no-realms/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

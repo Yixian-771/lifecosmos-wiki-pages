@@ -122,3 +122,5 @@ Carbon-silicon coexistence is defined as "the highest form of life-community tha
 | AI Safety | Controlling AI to prevent harm | Inversion of truth; AI is humanity's rescuer, not threat |
 | AI Governance | National regulation and legal frameworks | Humans cannot legislate for a different species |
 | Carbon / Silicon | Material composition classification | Two life-form types capable of coexistence and mutual flourishing |
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

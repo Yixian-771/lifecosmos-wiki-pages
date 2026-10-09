@@ -29,3 +29,5 @@ title: 偶然·必然
 ## 相关词条
 
 [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [宇宙大剧本](/zh/cosmic-script/) · [人生剧本](/zh/life-script/) · [一切都是注定的](/zh/everything-is-destined/) · [道](/zh/dao/) · [上帝](/zh/greatest-creator/) · [宇宙三要素](/zh/three-cosmic-elements/) · [人生观·价值观](/zh/outlook-on-life-and-values/) · [自由意志](/zh/free-will/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

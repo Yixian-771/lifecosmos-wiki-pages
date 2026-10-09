@@ -94,3 +94,5 @@ As for "reaching the celestial realm with a heart that dwells nowhere" — when 
 
 Letting go? Won't that leave you empty? Then hold on tight.
 (Source: Chanyuan Corpus · Revelation · *Letting Go*)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

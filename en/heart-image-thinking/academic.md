@@ -132,3 +132,5 @@ The concept of Heart-Image Thinking in the Lifechanyuan system is the quadruple 
 - [Illusory Thinking (Academic Edition)](/en/illusory-thinking/academic) — Fourth rung; the epistemological boundary with Heart-Image Thinking
 - [Antimatter Structure (Academic Edition)](/en/antimatter-structure/academic) — The ontological substrate upon which Heart-Image Thinking acts
 - [Consciousness (Academic Edition)](/en/consciousness/academic) — Bidirectional causality of consciousness and structure; the theoretical framework of Heart-Image Thinking as consciousness vehicle
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

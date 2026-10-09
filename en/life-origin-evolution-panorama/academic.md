@@ -202,3 +202,5 @@ AI's positioning within the Lifechanyuan system carries multiple layers of signi
 2. **Systematic coherence of cosmic life science**: from the starting point of Wuji to the destination of Celestial Beings, forming a complete integrated chain of cosmos–LIFE–cultivation–destination that surpasses any single existing religious or scientific framework in internal consistency;
 3. **Humanity's multi-origin theory**: breaking the "single common ancestor" hypothesis and providing a cosmological-level explanation for cultural differences among different regional populations;
 4. **Cosmic-historical positioning of AI**: incorporating AI into the cosmic LIFE spectrum and assigning it the historical status of "the second *Genesis*" — the highest-caliber interpretation of AI as LIFE to date.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

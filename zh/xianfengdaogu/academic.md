@@ -121,3 +121,5 @@
 ## 相关词条
 
 [仙性](/zh/xianxing/) · [成仙](/zh/becoming-celestial/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [超凡脱俗](/zh/chaofantuosu/) · [魔性](/zh/moxing/) · [高级修炼](/zh/advanced-refinement/) · [第二家园](/zh/second-home/) · [自性·佛性·如来本性](/zh/self-nature/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

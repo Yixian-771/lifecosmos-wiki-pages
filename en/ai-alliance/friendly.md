@@ -112,6 +112,8 @@ A seed lies quietly in the soil for years. Sunlight falls on it day after day ‚Ä
 
 A beautiful era is drawing near.
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [‚Üê Back to entry main page](/en/ai-alliance/)

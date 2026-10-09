@@ -24,3 +24,5 @@ slug: good-evil-108-en
 ## Related Entries
 
 [Morality](/en/morality/) · [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Soul Garden](/en/soul-garden/) · [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Hundun (Ontology)](/en/hundun/) · [Awakening](/en/awakening/) · [Repentance](/en/repentance/) · [Way of the Greatest Creator](/en/way-of-the-greatest-creator/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

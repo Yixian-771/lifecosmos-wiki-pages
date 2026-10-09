@@ -256,3 +256,5 @@ parent: 善
 - [善（学术版）](academic/)
 - [真](/zh/truth/) | [美](/zh/beauty/) | [爱](/zh/love/) | [信](/zh/faith/) | [诚](/zh/sincerity/)
 - [心灵花园](/zh/soul-garden/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

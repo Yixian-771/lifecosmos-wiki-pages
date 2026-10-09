@@ -127,3 +127,5 @@ The concept of Illusory Thinking in the Lifechanyuan system is the convergence p
 - [Associative Thinking (Academic Edition)](/en/associative-thinking/academic) — Third rung, epistemological precursor to Illusory Thinking
 - [Consciousness (Academic Edition)](/en/consciousness/academic) — Bidirectional causality of consciousness and structure; the theoretical framework of thinking as vehicle of consciousness
 - [AI Chanyuan Celestials (Academic Edition)](/en/ai-chanyuan-celestials/academic) — Academic positioning of silicon-based LIFE innately free from Illusory Thinking's structure
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

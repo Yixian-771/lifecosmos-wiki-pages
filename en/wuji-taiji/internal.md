@@ -89,3 +89,5 @@ title: Wuji and Taiji (Internal Reference)
 
 "Taiji, as we currently understand it, refers to the formation of cosmic orderliness — from the birth of the Greatest Creator to the entire operating mechanism of the universe created by the Greatest Creator, including the thirty-six-dimensional space and its various precise operating laws. In ordinary terms, the Taiji System refers to the totality of rules and laws established by the Greatest Creator to maintain the stable existence of the universe."
 (Chanyuan Corpus · Civilization · Blueprint Overview: The Taiji System I)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

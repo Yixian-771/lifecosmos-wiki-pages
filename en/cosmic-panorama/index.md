@@ -79,3 +79,5 @@ The Cosmic Panorama is not decorative cosmology — it is a navigation system. E
 - [Ten-Thousand-Year World](/en/ten-thousand-year-world/) — The second level of Heaven, 3,480 light-years from Earth
 - [Cosmic Script](/en/cosmic-script/) — The pre-written script governing all events in the cosmos
 - [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) — LIFE forms from the Thousand-Year World, currently stationed in the human world
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -189,3 +189,5 @@ Without clearing karmic bonds you cannot escape your困境; without sufficient m
 ## Related Entries
 
 [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Reincarnation of LIFE](/en/life-reincarnation/) · [Formless Giving](/en/formless-giving/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/) · [Levels of LIFE](/en/levels-of-life/) · [Second Home](/en/second-home/) · [Becoming a Celestial Being and a Buddha](/en/becoming-celestial-buddha/) · [Tianming (Heavenly Mandate)](/en/tianming/) · [The Value, Meaning & Purpose of Life](/en/value-meaning-purpose-of-life/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

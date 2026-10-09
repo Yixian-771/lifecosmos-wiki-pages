@@ -410,3 +410,5 @@
 - [宇宙大剧本（学术版）](/zh/cosmic-script/academic/)
 - [一切都是注定的（内部版）](/zh/everything-is-destined/internal/)
 - [自由意志（内部版）](/zh/free-will/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

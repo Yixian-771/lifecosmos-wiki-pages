@@ -113,6 +113,8 @@ Lifechanyuan positions Second Home as Hundun Management's experimental ground. A
 
 ### 4.2 Thailand Home Case
 
+*(Xuefeng's Collected Works · Chanyuan section, essay on Hundun Management as seen in the Thailand Home, 2025-09-09)*
+
 As typical Hundun Management case, Thailand Home characteristics:
 
 **Extreme Decentralization**: Guide Xuefeng never visited, never issued directives, privately communicated fewer than 8 times

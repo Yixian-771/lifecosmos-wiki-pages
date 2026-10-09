@@ -46,3 +46,5 @@ Cosmic holography is one of the foundational principles in the Lifechanyuan syst
 ## Related Entries
 
 [Hundun (Ontology)](/en/hundun/) · [Dao](/en/dao/) · [The Greatest Creator](/en/greatest-creator/) · [Consciousness](/en/consciousness/) · [Resonance](/en/resonance/) · [Space-Time](/en/spacetime/) · [Antimatter World](/en/antimatter-world/) · [Becoming a Celestial](/en/becoming-celestial/) · [Repentance](/en/repentance/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

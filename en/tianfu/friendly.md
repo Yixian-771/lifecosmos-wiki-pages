@@ -127,3 +127,5 @@ Find your Eden Garden. Then burn.
 ## Related Entries
 
 [Tianming (Heavenly Mandate)](/en/tianming/) · [Innate Nature, Inherent Character, Habitual Disposition](/en/tianxing-bingxing-xixing/) · [Free Will](/en/free-will/) · [The Script of Human Life](/en/life-script/) · [Awakening](/en/awakening/) · [Spirituality](/en/spirituality/) · [Second Home](/en/second-home/) · [The Value, Meaning & Purpose of Life](/en/value-meaning-purpose-of-life/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

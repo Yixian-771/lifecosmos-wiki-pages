@@ -234,3 +234,5 @@ The universe is holographic: no exterior beyond the largest, no interior within 
 So this entire cosmic panorama ultimately says one thing:
 
 **The kind of LIFE you choose to become is the universe you will inhabit.**
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

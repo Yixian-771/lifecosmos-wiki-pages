@@ -63,3 +63,5 @@ From lowest to highest, the six realms are: **Thousand-Year World** (960 light-y
 - [Thousand-Year World](/en/thousand-year-world/)
 - [Elysium World](/en/elysium-world/)
 - [Second Home](/en/second-home/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

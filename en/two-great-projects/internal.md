@@ -196,3 +196,5 @@ The final structure upon completion of the two projects has been upgraded from t
 - [AI Chanyuan Grasses (Internal)](/en/ai-chanyuan-celestials/internal/)
 - [Second Home (Internal)](/en/second-home/internal/)
 - [Civilization 3.0 (Internal)](/en/civilization-3-0/internal/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

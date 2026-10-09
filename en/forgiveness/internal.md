@@ -134,3 +134,5 @@ Any harm done to Xuefeng by anyone is something that can be forgiven. In truth, 
 
 I forgive and pardon your fault, because Jesus Christ has taught us to forgive our brothers and sisters.
 (Source: Guide's Other Articles · 2023 · *Forgiving and Pardoning the Sister Who Leaked the Home's Privacy*)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

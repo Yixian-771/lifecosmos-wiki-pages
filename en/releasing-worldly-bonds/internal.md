@@ -155,3 +155,5 @@ Grip the Greatest Creator's hand tightly; release worldly bonds and cultivate ce
 ## Related Entries
 
 [Debt Repayment](/en/debt-repayment/) · [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Formless Giving](/en/formless-giving/) · [Mind Without Abiding · Mind Without Hindrance](/en/xinwu-suozhu-guaai/) · [Yuan (Karmic Affinity)](/en/yuan/) · [Second Home](/en/second-home/) · [Becoming a Celestial Being and a Buddha](/en/becoming-celestial-buddha/) · [Levels of LIFE](/en/levels-of-life/) · [Raise Vibrational Frequency](/en/raise-vibration-frequency/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

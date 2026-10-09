@@ -244,3 +244,5 @@ slug: prayer-internal-en
 "You should certainly enjoy what you are entitled to enjoy. If you make no effort to enjoy or protect your right to enjoy — just waiting day after day for the world to turn peaceful, praying every day for the Greatest Creator to take care of you, making no effort yourself — such a person is certainly not pleasing to the Greatest Creator."
 
 (Source: Xuefeng Corpus · Essays · You Must Take Action)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

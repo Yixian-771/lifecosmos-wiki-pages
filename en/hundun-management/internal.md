@@ -148,7 +148,7 @@ During Second Home living periods: no quarrels, disputes, fights, beatings, or b
 
 ### Thailand Home Case
 
-Guide Xuefeng never visited Thailand Home, never proactively inquired about any affairs, privately communicated with information convergence center Yangyue fewer than eight times, never issued any directives or requirements. Everything in Thailand Home was done by Chanyuan Celestials following their inner guidance. Result: environment increasingly paradise-like, attracting hundreds of visitors and experiencers from dozens of countries; orderly operation, beautiful environment, peaceful living.
+Guide Xuefeng never visited Thailand Home, never proactively inquired about any affairs, privately communicated with information convergence center Yangyue fewer than eight times, never issued any directives or requirements. Everything in Thailand Home was done by Chanyuan Celestials following their inner guidance. Result: environment increasingly paradise-like, attracting over a hundred visitors and experiencers from dozens of countries; orderly operation, beautiful environment, peaceful living. (Xuefeng's Collected Works · Chanyuan section, essay on Hundun Management as seen in the Thailand Home, 2025-09-09)
 
 This fully proves: Lifechanyuan Second Home operates according to Chanyuan concepts and Home programs, not according to anyone's management; Hundun Management is entirely achievable.
 

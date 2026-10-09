@@ -136,3 +136,5 @@ Hell is not merely a place of punishment; it serves a structural function in cos
 | Xuefeng Corpus · To Jackie Chan | Unity of opposites proves Hell's necessity |
 | Xuefeng Corpus · To Liu Yong | Hell is sorrowful, not beautiful |
 | Tour Guide's Articles 2006 (two essays) | Hell's role in cosmic balance; the final choice |
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -99,3 +99,5 @@ And the aspiration of those who have made progress:
 ## Related Entries
 
 [Thirty-Six Bagua Formations](/en/thirty-six-bagua-formations/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Qing — Affection](/en/qing-affection/) · [Becoming Celestial and Buddha](/en/becoming-celestial-buddha/) · [The Second Home](/en/second-home/) · [Transcending the Ordinary](/en/chaofantuosu/) · [Letting Go](/en/letting-go/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

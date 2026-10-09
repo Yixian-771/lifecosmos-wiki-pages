@@ -125,3 +125,5 @@ The appearance of "virtuous people with bad outcomes" reflects: (a) the inadequa
 The most concrete operational guidance appears in New Era Human 800 Concepts, 4th Edition, Concept 200, which lists 108 specific evil behaviors and 108 specific virtuous behaviors. This catalog is discussed in depth in the companion entry [Good, Evil & 108 Virtues / 108 Vices](/en/good-evil-108/).
 
 Core principle: **"Fortune and misfortune have no fixed gate — they are only what people bring upon themselves. Good and evil follow like shadows."**
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

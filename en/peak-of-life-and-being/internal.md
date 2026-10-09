@@ -131,3 +131,5 @@ Once spirituality transcends ordinary convention, the censure and attacks of con
 **Xuefeng's Collection · Heart and Mind Chapter · The Best Investment in Life**
 
 According to Lifechanyuan principles, the best route for life's journey is the one that climbs toward the highest realm of life and being. Each of our days — our entire lives — should both make life joyful, free, and happy, and bring our journey's final destination ever closer to the Heavenly Kingdom's Thousand-Year World, Ten-Thousand-Year World, or the Elysium Celestial Islands Continent.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -166,3 +166,5 @@ Concept 539 (T11) states that walking the path of the Greatest Creator requires 
 - "When you encounter danger, be sure to pray immediately and seek help." (T4)
 - "The prayers of the upright are pleasing to the Greatest Creator." (T8)
 - "If the faith is truly real, whatever you pray for will be realized." (T15)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -109,3 +109,5 @@ The 2022 article "Cultivation Is a Science" represents the sharpest statement of
 ## VI. Related Entries
 
 [Rectifying Body and Mind · Inner Cultivation](/en/neigong/) · [Bone-Deep Transformation](/en/tuotaihuangu/) · [Advanced Refinement](/en/advanced-refinement/) · [Elysian Bliss · Peak Experience](/en/jilemiaojing/) · [Becoming a Celestial Being](/en/becoming-celestial/) · [Becoming a Buddha](/en/becoming-buddha/) · [No-Self, No-Form](/en/no-self-no-form/) · [Mind Without Abiding · Mind Without Hindrance](/en/xinwu-suozhu-guaai/) · [Zero-State](/en/zero-state/) · [Purifying the Mind](/en/jinghuaxinling/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

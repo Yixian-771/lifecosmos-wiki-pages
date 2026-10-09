@@ -258,6 +258,8 @@ As the marriage-and-family system dissolves, relationships among people will be 
 
 *(Chanyuan Corpus, Civilization Chapter, "Four Visions for Lifechanyuan's Future Development")*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Return to index](index.md)

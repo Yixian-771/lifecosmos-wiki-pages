@@ -134,3 +134,5 @@ This analogy positions the cultivator as a "programmer" relative to ordinary "pr
 ## VI. Related Entries
 
 [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Life Trajectory](/en/life-trajectory/) · [The Script of Human Life](/en/life-script/) · [Free Will](/en/free-will/) · [Awakening](/en/awakening/) · [Knowledge, Wisdom & Zhi](/en/knowledge-wisdom-zhi/) · [The Value, Meaning & Purpose of Life](/en/value-meaning-purpose-of-life/) · [Illuminate the Mind, See the Nature](/en/illuminate-mind-see-nature/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

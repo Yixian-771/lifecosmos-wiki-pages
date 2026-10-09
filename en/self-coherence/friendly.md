@@ -154,3 +154,5 @@ This is the state of Self-Coherent LIFE: not clinging to phenomena; all phenomen
 This is not a slogan. It is the most lucid cosmological revelation in the entire Lifechanyuan system about what "ultimate freedom" actually is.
 
 The path to Self-Coherence — every step counts.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

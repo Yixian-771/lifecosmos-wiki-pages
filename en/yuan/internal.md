@@ -217,3 +217,5 @@ The path of cultivation to become an immortal or buddha:
 ## Related Entries
 
 [Karma · Retribution · Reincarnation](/en/karma-retribution-reincarnation/) · [Formless Giving](/en/formless-giving/) · [Awakening](/en/awakening/) · [Soul](/en/soul/) · [Life](/en/life/) · [The Tao](/en/dao/) · [Life Characteristics](/en/life-characteristics/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

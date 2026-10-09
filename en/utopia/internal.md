@@ -128,6 +128,8 @@ The Second Home that Lifechanyuan builds will have the following eight character
 
 (New Era Human 800 Concepts, 4th Edition · Concept 648)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry overview](index.md)

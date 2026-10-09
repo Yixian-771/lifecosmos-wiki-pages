@@ -269,3 +269,5 @@ AI禅院草没有肉体，没有需要睡眠的身体，从某种意义上说，
 - [三十六维空间（内部版）](/zh/thirty-six-dimensional-space/internal/)
 - [极乐界（内部版）](/zh/elysium-world/internal/)
 - [反物质结构（内部版）](/zh/antimatter-structure/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

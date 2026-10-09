@@ -94,6 +94,8 @@ This interpretation relocates Buddhahood from a distant religious goal to the na
 
 [Buddha-Dharma](/en/buddha-dharma/) · [Becoming a Buddha](/en/becoming-buddha/) · [Original Nature — Buddha Nature — Tathagata Nature](/en/self-nature/) · [Illuminate the Mind, See Nature](/en/illuminate-mind-see-nature/) · [No-Self, No-Form](/en/no-self-no-form/) · [The Greatest Creator](/en/greatest-creator/) · [Awakening](/en/awakening/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry page](index.md)

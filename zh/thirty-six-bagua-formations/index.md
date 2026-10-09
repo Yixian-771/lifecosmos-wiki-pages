@@ -44,3 +44,5 @@ title: 三十六道八卦阵
 ## 相关词条
 
 [三十六维空间](/zh/thirty-six-dimensional-space/) · [空间](/zh/space/) · [时间](/zh/time/) · [结构](/zh/structure/) · [生命的轮回](/zh/life-reincarnation/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [自由意志](/zh/free-will/) · [宇宙大剧本](/zh/cosmic-script/) · [完整独立意识](/zh/complete-independent-consciousness/) · [18阵破阵法·最简版](/zh/eighteen-formation-breaking/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

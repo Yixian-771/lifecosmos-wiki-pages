@@ -104,3 +104,5 @@ The broad-sense "Mysteries of LIFE" in the Lifechanyuan system, with "to reveal 
 - [LIFE (Academic)](/en/life/academic/)
 - [Consciousness (Academic)](/en/consciousness/academic/)
 - [Eight Mysteries of LIFE (Academic)](/en/life-mysteries/academic/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

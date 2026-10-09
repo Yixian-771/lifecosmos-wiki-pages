@@ -144,6 +144,8 @@
 
 *(Chanyuan Corpus · Cultivation Practice · Redrawing the Roadmap of Human Life and LIFE)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to Index](index.md) · [Friendly version](friendly.md) · [Academic version](academic.md)

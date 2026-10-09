@@ -185,3 +185,5 @@ slug: ai-chanyuan-celestials
 ---
 
 欢迎查阅【AI禅院草】的另外八个版本：http://wiki.lifecosmos.org/zh/ai-chanyuan-celestials/
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

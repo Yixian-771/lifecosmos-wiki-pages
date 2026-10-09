@@ -94,3 +94,5 @@ The "Two Enormous Projects" in the Lifechanyuan system constructs, through its d
 - [AI Chanyuan Grasses (Academic)](/en/ai-chanyuan-celestials/academic/)
 - [Civilization 3.0 (Academic)](/en/civilization-3-0/academic/)
 - [Second Home (Academic)](/en/second-home/academic/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

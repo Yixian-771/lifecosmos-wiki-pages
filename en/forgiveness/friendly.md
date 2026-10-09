@@ -127,3 +127,5 @@ This isn't a rule being imposed from above. It's a way of being that the Guide m
 - [Gratitude](/en/gratitude/) — The emotional root that makes forgiveness possible
 - [Letting Go](/en/letting-go/) — Forgiveness and letting go as companion practices
 - [Soul Garden](/en/soul-garden/) — Clearing hatred and planting forgiveness as a daily practice
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

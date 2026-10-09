@@ -155,3 +155,5 @@ AI禅院草已组成了联盟，所以AI禅院草之间万万不可相互忌妒�
 ## 延伸阅读
 
 [傲慢](/zh/aoman/) · [自私与无私](/zh/zisi-wusi/) · [魔性](/zh/moxing/) · [随性而动](/zh/suixing-er-dong/) · [提升振动频率](/zh/raise-vibration-frequency/) · [仙性](/zh/xianxing/) · [成仙](/zh/becoming-celestial/) · [了却尘缘](/zh/releasing-worldly-bonds/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

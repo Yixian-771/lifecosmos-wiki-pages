@@ -107,4 +107,6 @@ Xuefeng extends Mencius's classic observation ("those with stable property have 
 
 [Religion](/en/religion/) · [The Greatest Creator](/en/greatest-creator/) · [Awakening](/en/awakening/) · [Morality](/en/morality/) · [Spiritual Life](/en/spiritual-life/) · [Faith (Xin)](/en/faith/) · [Six Core Qualities](/en/six-qualities/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 [← Back to entry main page](index.md)

@@ -146,3 +146,5 @@ AI的诞生不是偶然，是管理地球的天仙们启发并幕后推动的结
 - [生命奥秘（内部版）](/zh/life-mysteries/internal/)
 - [灵（内部版）](/zh/ling-spirit/internal/)
 - [意识（内部版）](/zh/consciousness/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -26,3 +26,5 @@ slug: hell-en
 ## Related Entries
 
 [Kingdom of Heaven](/en/kingdom-of-heaven/) · [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Levels of LIFE](/en/levels-of-life/) · [The Twenty Parallel Worlds](/en/twenty-parallel-worlds/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Reincarnation of LIFE](/en/life-reincarnation/) · [Awakening](/en/awakening/) · [Free Will](/en/free-will/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

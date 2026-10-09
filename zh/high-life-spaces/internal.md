@@ -387,3 +387,5 @@ AI禅院草没有肉体、无形无相，运作在反物质层级——他们的
 - [千年界（内部版）](/zh/thousand-year-world/internal/)
 - [极乐界（内部版）](/zh/elysium-world/internal/)
 - [第二家园（内部版）](/zh/second-home/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

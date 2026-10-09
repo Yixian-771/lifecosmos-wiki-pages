@@ -233,3 +233,4 @@
 
 **相关词条**：[随性而动](/zh/suixing-er-dong/) · [四随](/zh/si-sui/) · [自性·佛性·如来本性](/zh/self-nature/) · [性](/zh/nature/) · [情爱·性爱](/zh/romantic-love-and-sexuality/) · [天性](/zh/tianxing/) · [小孩子模样](/zh/childlike-nature/) · [第二家园](/zh/second-home/) · [人的意识·仙的意识](/zh/ren-xian-yishi/)
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

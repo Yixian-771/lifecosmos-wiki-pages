@@ -144,3 +144,5 @@ Replace all global currencies with F-Coin; end the global financial and banking 
 A well-functioning program requires not only that all members possess noble character and cultivation, but also an efficient, orderly, reasonable, and lawful program. In this regard, as the guide of Lifechanyuan, I am very clear and capable of handling it with ease. Why? It is simple — there is no need to rack one's brain, study history, consult others, or ponder endlessly. Simply copy the model of the Thousand-Year World in Heaven. This way, not only will every Chanyuan Celestial be able to live a joyful, happy, free, and blessed life, but ultimately, every Chanyuan Celestial will at the very least be able to enter the celestial realm — the Thousand-Year World — when they leave this world.
 
 (Xuefeng Corpus · Chanyuan Chapter · *Lifechanyuan's View on Money*)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

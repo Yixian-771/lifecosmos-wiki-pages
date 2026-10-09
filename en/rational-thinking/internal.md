@@ -291,3 +291,5 @@ Guide Xuefeng's most concise summaries:
 - [Heart-Image Thinking (Internal Edition)](/en/heart-image-thinking/internal) — Fifth rung; the first step crossing the Rational Thinking watershed
 - [Hundun Thinking (Internal Edition)](/en/hundun-thinking/internal) — The opposite terminus of Rational Thinking: the thinking of the Greatest Creator
 - [Second Home (Internal Edition)](/en/second-home/internal) — The institutional practice that transcends rational management
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

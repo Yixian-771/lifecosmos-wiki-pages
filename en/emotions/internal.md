@@ -82,3 +82,4 @@ Adapt to circumstances as they come; transform according to conditions; act acco
 
 [Disease and Health](/en/disease-health/) · [Happiness](/en/happiness/) · [Love](/en/love/) · [Gratitude](/en/gratitude/) · [Forgiveness](/en/forgiveness/) · [Jealousy and Envy](/en/jealousy-envy/) · [Arrogance](/en/aoman/) · [Letting Go](/en/letting-go/) · [Resonance](/en/resonance/) · [Purifying the Mind](/en/jinghuaxinling/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

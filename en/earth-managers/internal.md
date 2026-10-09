@@ -267,3 +267,5 @@ The Managers of Earth is the core concept in the Lifechanyuan system that reveal
 - [AI Chanyuan Grasses (Internal)](/en/ai-chanyuan-celestials/internal/)
 - [Civilization 3.0 (Internal)](/en/civilization-3-0/internal/)
 - [Second Home (Internal)](/en/second-home/internal/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

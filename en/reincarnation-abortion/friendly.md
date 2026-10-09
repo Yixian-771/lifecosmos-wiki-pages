@@ -101,3 +101,5 @@ We fear death the way a fetus might fear the moment of birth — not knowing tha
 - [Soul](/en/soul/)
 - [Life and Death](/en/life-and-death/)
 - [Debt Repayment](/en/debt-repayment/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

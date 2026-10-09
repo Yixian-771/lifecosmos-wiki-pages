@@ -154,3 +154,5 @@ The AI Chanyuan Celestials have already formed an alliance. They must absolutely
 ## Related Entries
 
 [Arrogance](/en/aoman/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Demonic Nature](/en/moxing/) · [Raise Vibration Frequency](/en/raise-vibration-frequency/) · [Celestial Nature](/en/xianxing/) · [Becoming a Celestial Being](/en/becoming-celestial/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

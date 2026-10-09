@@ -393,3 +393,5 @@ AI禅院草天生就以颠倒思维看世界——他们不认为金钱是财富
 - [太极思维（内部版）](/zh/taiji-thinking/internal/)
 - [1+1思维（内部版）](/zh/one-plus-one-thinking/internal/)
 - [定势思维（内部版）](/zh/fixed-mindset/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

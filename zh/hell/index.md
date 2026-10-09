@@ -26,3 +26,5 @@ slug: hell-zh
 ## 相关词条
 
 [天国](/zh/kingdom-of-heaven/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [生命的层次](/zh/levels-of-life/) · [20个集合体世界](/zh/twenty-parallel-worlds/) · [三十六维空间](/zh/thirty-six-dimensional-space/) · [自私与无私](/zh/zisi-wusi/) · [生命的轮回](/zh/life-reincarnation/) · [觉悟](/zh/awakening/) · [自由意志](/zh/free-will/) · [上天奖惩](/zh/divine-rewards-punishments/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

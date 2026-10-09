@@ -152,6 +152,8 @@ You are in me, and I am in you. The universe is holographic — like attracts li
 
 *(Guide's Other Writings · 2006 · Storing Friendship for Future Enjoyment)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry page](index.md)

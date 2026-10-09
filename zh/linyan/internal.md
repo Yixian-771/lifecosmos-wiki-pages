@@ -69,3 +69,5 @@
 ## 相关词条
 
 [灵觉](/zh/spiritual-sensing/) · [净化心灵](/zh/jinghuaxinling/) · [心灵花园](/zh/soul-garden/) · [反物质世界](/zh/antimatter-world/) · [反物质结构](/zh/antimatter-structure/) · [觉悟](/zh/awakening/) · [法眼](/zh/fayan/) · [明心见性](/zh/illuminate-mind-see-nature/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

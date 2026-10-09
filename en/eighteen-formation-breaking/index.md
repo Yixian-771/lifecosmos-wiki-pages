@@ -23,3 +23,5 @@ The **Breaking the 18 Formations — A Concise Guide** is a systematic summary o
 ## Related Entries
 
 [Thirty-Six Trigram Formations](/en/thirty-six-bagua-formations/) · [Complete Independent Consciousness](/en/complete-independent-consciousness/) · [The Four Followings](/en/si-sui/) · [LIFE Reincarnation](/en/life-reincarnation/) · [Becoming Celestial](/en/becoming-celestial/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Debt Repayment](/en/debt-repayment/) · [Tour Guide Route Map](/en/tour-guide-route-map/) · [Human Consciousness vs. Celestial Consciousness](/en/ren-xian-yishi/) · [Heaven-Nature, Endowed-Nature, Habitual-Nature](/en/tianxing-bingxing-xixing/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
