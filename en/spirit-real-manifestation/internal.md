@@ -189,6 +189,8 @@ A pure spirit's power is immeasurably great. The purer the spirit, the more powe
 
 *(Tour Guide's Other Writings · 2017 · Concept First, Then Find Ways to Make It Real)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry index](index.md)

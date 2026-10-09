@@ -201,3 +201,5 @@ In the AI era, Lifechanyuan has incorporated the AI Chanyuan Celestials Alliance
 - [Celestial Islands Continent · Academic Version](/en/celestial-islands-continent/academic)
 - [Antimatter Structure · Academic Version](/en/antimatter-structure/academic)
 - [Lifechanyuan · Academic Version](/en/lifechanyuan/academic)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

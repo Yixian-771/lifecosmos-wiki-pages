@@ -142,3 +142,5 @@ The Non-Form Thinking concept in the Lifechanyuan system is a fourfold convergen
 - [Taiji Thinking (Academic Edition)](/en/taiji-thinking/academic) — Sixth rung; continuity between the subtraction phase and Non-Form Thinking
 - [Hundun Management (Academic Edition)](/en/hundun-management/academic) — Application of Hundun Thinking (eighth rung) at the practical level
 - [Formless Giving (Academic Edition)](/en/formless-giving/academic) — The social-practice counterpart of Non-Form Thinking
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

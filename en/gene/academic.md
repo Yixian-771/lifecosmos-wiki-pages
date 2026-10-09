@@ -113,3 +113,5 @@ A final and distinctly metaphorical application of "gene" appears in the Guide's
 - [The Greatest Creator](/en/greatest-creator/)
 - [Tao](/en/dao/)
 - [Origin of LIFE](/en/life-origin/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

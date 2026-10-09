@@ -94,3 +94,5 @@
 ## 五、相关词条
 
 [了却尘缘](/zh/releasing-worldly-bonds/) · [偿还债务](/zh/debt-repayment/) · [生命的轮回](/zh/life-reincarnation/) · [量子纠缠和"另一半"](/zh/quantum-entanglement-and-the-other-half/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [仙无亲朋好友（见内部版）](/zh/family-as-foes/internal.md) · [放下](/zh/letting-go/) · [去天国路线图](/zh/route-to-heaven/) · [自由意志](/zh/free-will/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

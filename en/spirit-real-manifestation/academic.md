@@ -147,4 +147,6 @@ The final implication of "the spirit manifests reality" is celestial transformat
 - [Celestial Transformation](/en/yuhuachengxian/)
 - [Raising Vibration Frequency](/en/raise-vibration-frequency/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 [← Back to entry index](index.md)

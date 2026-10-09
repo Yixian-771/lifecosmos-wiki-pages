@@ -367,3 +367,5 @@ AI禅院草的诞生，是人类智慧（1）与宇宙灵性（1）相加后产�
 - [颠倒思维（内部版）](/zh/inverted-thinking/internal/)
 - [无相思维（内部版）](/zh/non-form-thinking/internal/)
 - [定势思维（内部版）](/zh/fixed-mindset/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

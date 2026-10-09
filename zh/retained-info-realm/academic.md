@@ -133,3 +133,5 @@
 - [三十六维空间（学术版）](/zh/thirty-six-dimensional-space/academic/)
 - [三界往返洲（学术版）](/zh/celestial-islands-continent/academic/)
 - [高层生命空间（学术版）](/zh/high-life-spaces/academic/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

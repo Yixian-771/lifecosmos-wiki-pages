@@ -115,3 +115,5 @@ Upbringing is the civilized courtesy and etiquette learned from family, school, 
 ## Related Entries
 
 [Mahayana Aspiration](/en/dasheng-xinyuan/) · [Vanity and Hypocrisy](/en/xurong-xuwei/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Arrogance](/en/aoman/) · [Humility](/en/humility/) · [Repentance](/en/repentance/) · [Forgiveness](/en/forgiveness/) · [Human Nature](/en/human-nature/) · [Tianming (Heavenly Mandate)](/en/tianming/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

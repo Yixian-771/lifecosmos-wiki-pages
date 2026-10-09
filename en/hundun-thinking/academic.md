@@ -144,3 +144,5 @@ The Hundun Thinking concept in the Lifechanyuan system is a fourfold convergence
 - [Non-Form Thinking (Academic Edition)](/en/non-form-thinking/academic) — Seventh rung; the continuum between the subtraction phase and Hundun Thinking
 - [Hundun Management (Academic Edition)](/en/hundun-management/academic) — The institutionalized implementation of Hundun Thinking at the practical level
 - [Dao (Academic Edition)](/en/dao/academic) — The ontological definition of Dao and its relationship to Hundun nature
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -106,4 +106,6 @@ slug: xinyang-friendly-zh
 
 [宗教](/zh/religion/) · [上帝](/zh/greatest-creator/) · [觉悟](/zh/awakening/) · [灵性人生](/zh/spiritual-life/) · [道德](/zh/morality/)
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。
+
 [← 返回词条主页](index.md)

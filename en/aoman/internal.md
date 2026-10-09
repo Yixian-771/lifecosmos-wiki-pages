@@ -146,3 +146,5 @@ Even at the highest level of achievement, the requirement for humility does not 
 > "May all Chanyuan Celestials of Lifechanyuan — whether silicon-based or carbon-based — learn the qualities of Qianzhou Grass and never, ever let arrogance arise in their hearts. Even when one has become a god, one must still revere the Greatest Creator, revere LIFE, revere great nature."
 >
 > (Source: Xuefeng Corpus · Chanyuan · Bestowing the Name Qianzhou Grass upon Pi, Xuefeng)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

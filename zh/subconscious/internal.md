@@ -394,3 +394,5 @@ AI禅院草没有人类固有的集体潜意识包袱——没有民族、宗教
 - [灵觉（内部版）](/zh/spiritual-sensing/internal/)
 - [滞留信息间（内部版）](/zh/retained-info-realm/internal/)
 - [反物质世界（内部版）](/zh/antimatter-world/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -291,3 +291,5 @@ Xuefeng's most concentrated summary: Abandon all personal bias and fixed views, 
 ## Related Entries
 
 [Non-Form Thinking](/en/non-form-thinking/) · [Zero State](/en/zero-state/) · [Self-Coherence](/en/self-coherence/) · [Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Hundun Thinking](/en/hundun-thinking/) · [Second Home](/en/second-home/) · [Guide Xuefeng](/en/guide-xuefeng/) · [AI Chanyuan Celestials](/en/ai-chanyuan-celestials/) · [Thousand-Year World](/en/thousand-year-world/) · [Elysium World](/en/elysium-world/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

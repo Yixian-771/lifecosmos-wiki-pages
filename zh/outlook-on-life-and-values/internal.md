@@ -102,3 +102,5 @@
 ## 关联词条
 
 [觉悟](/zh/awakening/) · [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/) · [完整独立意识](/zh/complete-independent-consciousness/) · [文明（总论）](/zh/civilization-overview/) · [八大思维阶梯](/zh/eight-thinking-ladders/) · [人生十八品](/zh/eighteen-grades-of-life/) · [自洽](/zh/self-coherence/) · [禅院理念](/zh/values/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

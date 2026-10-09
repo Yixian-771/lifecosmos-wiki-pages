@@ -173,3 +173,5 @@ S13将雪峰式共产主义等同于"乌托邦=上帝王国=人间天堂"，与�
 ## 关联词条
 
 [第二家园](/zh/second-home/) · [浑沌管理](/zh/hundun-management/) · [文明（总论）](/zh/civilization-overview/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [天国](/zh/kingdom-of-heaven/) · [心灵花园](/zh/soul-garden/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

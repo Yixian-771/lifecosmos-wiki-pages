@@ -142,3 +142,5 @@ slug: hundun-internal
 ## 关联词条
 
 [道](/zh/dao/) · [负宇宙](/zh/negative-universe/) · [浑沌思维](/zh/hundun-thinking/) · [浑沌管理](/zh/hundun-management/) · [上帝](/zh/greatest-creator/) · [反物质世界](/zh/antimatter-world/) · [意识](/zh/consciousness/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

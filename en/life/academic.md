@@ -111,3 +111,5 @@ John Archibald Wheeler proposed "It from Bit": the foundation of physical realit
 - [Consciousness (Academic)](/en/consciousness/academic/)
 - [Antimatter (Academic)](/en/antimatter-structure/academic/)
 - [Celestial Island Continent (Academic)](/en/celestial-islands-continent/academic/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

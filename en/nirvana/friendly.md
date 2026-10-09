@@ -84,6 +84,8 @@ The teachings and methods are the raft. Once you've crossed — once you've atta
 
 Nirvana is not an ending. It's an arrival. It's life moving from the sea of bitterness — through cultivation, through releasing every last grip of attachment, through entering the stillness of emptiness — and finally arriving at the Elysium World: supreme freedom, an open heart, eternal joy.
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry index](index.md)

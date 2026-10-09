@@ -254,4 +254,6 @@
 
 ## 三、版本关联
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。
+
 [← 返回概览](/zh/elementary-refinement/) · [学术分析版](/zh/elementary-refinement/academic/) · [轻松入门版](/zh/elementary-refinement/friendly/)

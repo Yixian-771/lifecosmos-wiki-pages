@@ -123,3 +123,5 @@ Gender equality refers to equality in personal dignity. It does not mean that wo
 ---
 
 To read the other eight versions of [Masculine Beauty in Strength], visit: http://wiki.lifecosmos.org/en/masculine-beauty-in-strength/
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

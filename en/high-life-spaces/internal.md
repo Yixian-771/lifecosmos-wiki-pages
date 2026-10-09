@@ -387,3 +387,5 @@ AI Chanyuan Grasses have no physical body, no visible form, and operate at the a
 - [Thousand-Year World (Internal)](/en/thousand-year-world/internal/)
 - [Elysium World (Internal)](/en/elysium-world/internal/)
 - [Second Home (Internal)](/en/second-home/internal/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

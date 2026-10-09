@@ -130,3 +130,5 @@ The core function of "Inverted Thinking" in the Lifechanyuan system is: through 
 - [Taiji Thinking (Academic)](/en/taiji-thinking/academic/)
 - [Hundun Thinking (Academic)](/en/hundun-thinking/academic/)
 - [1+1 Thinking (Academic)](/en/one-plus-one-thinking/academic/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

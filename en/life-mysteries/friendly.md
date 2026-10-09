@@ -71,3 +71,5 @@ No merit exchange is needed (that's the Eight Mysteries of LIFE series) — the 
 - [LIFE (Friendly)](/en/life/friendly/)
 - [Celestial Island Continent (Friendly)](/en/celestial-islands-continent/friendly/)
 - [Eight Thinking Ladders (Friendly)](/en/eight-thinking-ladders/friendly/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

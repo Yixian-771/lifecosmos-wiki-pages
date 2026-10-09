@@ -173,3 +173,4 @@ This page compiles all major quotations from Lifechanyuan literature on *suíxì
 - Chanyuan Corpus · Life Section · The Trajectory of Life
 - Chanyuan Corpus · Becoming a Buddha Section · How to Attain Supreme, Perfect Enlightenment
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -131,3 +131,4 @@ The most distinctive feature of Lifechanyuan's theory of emotions is its positio
 
 [Disease and Health](/en/disease-health/) · [Happiness](/en/happiness/) · [Love](/en/love/) · [Gratitude](/en/gratitude/) · [Forgiveness](/en/forgiveness/) · [Jealousy and Envy](/en/jealousy-envy/) · [Arrogance](/en/aoman/) · [Resonance](/en/resonance/) · [The Nonmaterial Structure of LIFE](/en/antimatter-structure/) · [Soul Garden](/en/soul-garden/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

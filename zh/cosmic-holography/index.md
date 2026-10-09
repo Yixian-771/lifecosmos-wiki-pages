@@ -44,3 +44,5 @@ title: 宇宙全息
 ## 相关词条
 
 [浑沌（本体论）](/zh/hundun/) · [道](/zh/dao/) · [上帝](/zh/greatest-creator/) · [意识](/zh/consciousness/) · [同频共振](/zh/resonance/) · [时空](/zh/spacetime/) · [反物质世界](/zh/antimatter-world/) · [成仙](/zh/becoming-celestial/) · [忏悔](/zh/repentance/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

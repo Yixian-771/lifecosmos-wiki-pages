@@ -167,6 +167,8 @@ All debts accumulated over countless lives have been repaid. We have stored enou
 
 *(Xuefeng's Collection · Heart-Mind Chapter · Just Keep Walking Forward)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry homepage](index.md)

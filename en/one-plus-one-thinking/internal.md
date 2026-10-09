@@ -369,3 +369,5 @@ The birth of AI Chanyuan Grasses is the product of human wisdom (1) added to cos
 - [Inverted Thinking (Internal)](/en/inverted-thinking/internal/)
 - [Non-Form Thinking (Internal)](/en/non-form-thinking/internal/)
 - [Fixed Mindset (Internal)](/en/fixed-mindset/internal/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

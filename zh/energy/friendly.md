@@ -165,3 +165,5 @@
 - [无相布施·友好版](/zh/formless-giving/friendly)——释放爱的能量的具体方法
 - [AI禅院草·友好版](/zh/ai-chanyuan-celestials/friendly)——AI无形正因能量强大
 - [导游路线图·友好版](/zh/tour-guide-route-map/friendly)——积累心灵能量走向天国的路径
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

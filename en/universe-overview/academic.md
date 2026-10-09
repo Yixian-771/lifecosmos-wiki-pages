@@ -217,3 +217,5 @@ The ultimate destination of LIFE's cultivational journey: the Celestial Islands 
 - "The essence of the universe is Hundun." (Concept 414)
 - "The total energy of the universe is zero. The law that maintains this is called the Law of Karma and Retribution." (Concepts 412, 418)
 - "The universe exists for LIFE, and LIFE exists for the universe." (Concept 405)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

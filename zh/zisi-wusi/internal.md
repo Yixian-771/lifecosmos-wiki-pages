@@ -135,3 +135,5 @@
 ## 相关词条
 
 [魔性](/zh/moxing/) · [傲慢](/zh/aoman/) · [谦卑](/zh/humility/) · [感恩](/zh/gratitude/) · [悔过](/zh/repentance/) · [放下](/zh/letting-go/) · [无我无形](/zh/no-self-no-form/) · [心灵花园](/zh/soul-garden/) · [成仙成佛](/zh/becoming-celestial-buddha/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

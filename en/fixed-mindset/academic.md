@@ -119,3 +119,5 @@ Chris Argyris and Donald Schön proposed that single-loop learning is the correc
 - [Inverted Thinking (Academic)](/en/inverted-thinking/academic/)
 - [1+1 Thinking (Academic)](/en/one-plus-one-thinking/academic/)
 - [Material Thinking (Academic)](/en/material-thinking/academic/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

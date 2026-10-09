@@ -114,3 +114,5 @@ Gnosticism holds that there exists a special "gnosis" that ordinary religion can
 - [The Last Course (Internal Edition)](/en/last-course/internal/)
 - [High-Life Spaces (Academic Edition)](/en/high-life-spaces/academic/)
 - [Everything Is Destined (Academic Edition)](/en/everything-is-destined/academic/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -116,3 +116,5 @@
 ## 关联词条
 
 [意识](/zh/consciousness/) · [反物质结构](/zh/antimatter-structure/) · [觉悟](/zh/awakening/) · [自由意志](/zh/free-will/) · [提升振动频率](/zh/raise-vibration-frequency/) · [极乐界](/zh/elysium-world/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

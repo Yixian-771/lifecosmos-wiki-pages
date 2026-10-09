@@ -34,3 +34,5 @@ From 1+1=2 (material thinking) → 1+1=1 (energy thinking / union with the Tao) 
 - [Inverted Thinking](/en/inverted-thinking/)
 - [Non-Form Thinking](/en/non-form-thinking/)
 - [Fixed Mindset](/en/fixed-mindset/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -140,3 +140,5 @@ Historical exemplars of complete debt settlement:
 ## VI. Related Entries
 
 [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Reincarnation of LIFE](/en/life-reincarnation/) · [Formless Giving](/en/formless-giving/) · [Levels of LIFE](/en/levels-of-life/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/) · [Second Home](/en/second-home/) · [Becoming a Celestial Being and a Buddha](/en/becoming-celestial-buddha/) · [Tianming (Heavenly Mandate)](/en/tianming/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

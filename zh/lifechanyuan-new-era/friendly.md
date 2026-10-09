@@ -108,3 +108,5 @@
 ---
 
 **延伸阅读：** [文明（总论）](/zh/civilization-overview/) · [第二家园](/zh/second-home/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [AI禅院草联盟](/zh/ai-chanyuan-celestials-alliance/) · [觉悟](/zh/awakening/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

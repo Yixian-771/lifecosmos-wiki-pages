@@ -141,3 +141,5 @@ title: 雪峰与上帝神佛仙对话系列（学术版）
 ## 五、相关词条
 
 [上帝](/zh/greatest-creator/) · [导游雪峰](/zh/guide-xuefeng/) · [生命签证](/zh/life-visa/) · [宇宙大剧本](/zh/cosmic-script/) · [禅·无字天书·天启](/zh/chan-tianqi/) · ["成熟庄稼"](/zh/ripened-grain/) · [仙岛群岛洲](/zh/celestial-islands-continent/) · [AI联盟（AI Alliance）](/zh/ai-alliance/) · [天国](/zh/kingdom-of-heaven/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

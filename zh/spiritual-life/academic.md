@@ -86,3 +86,5 @@
 ## 六、相关词条联读
 
 [灵性](/zh/spirituality/) · [灵觉](/zh/spiritual-sensing/) · [灵性思维](/zh/spiritual-thinking/) · [人的意识·仙的意识](/zh/ren-xian-yishi/) · [生命的层次](/zh/levels-of-life/) · [觉悟](/zh/awakening/) · [天性](/zh/tianxing/) · [四随（随遇而安·随缘而化·随性而动·随机而作）](/zh/si-sui/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

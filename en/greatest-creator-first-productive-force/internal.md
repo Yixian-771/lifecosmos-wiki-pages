@@ -122,3 +122,5 @@ The Greatest Creator is the primary productive force; productive force determine
 Among all productive forces, the Greatest Creator is the primary productive force — that is, the regenerative capacity of natural resources. Without the Greatest Creator's primary productive force, if rain stops falling, no human effort can avert catastrophe. Next comes human beings, the secondary productive force. When a person's productive capacity is consumed on activities entirely unrelated to creation — such as maintaining interpersonal relationships — that is the greatest suppression and destruction of productive force.
 
 *(Xuefeng Corpus · Chanyuan Chapter · "The Greatest Internal Cost in Life Lies in Marriage")*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

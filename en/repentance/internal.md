@@ -123,3 +123,5 @@ Together with prayer, repentance is a necessary means of progressing toward high
 
 From the Buddhist perspective: "If every day you see the faults and disputes of sentient beings, you must quickly go to repent — this is cultivation." "If you are clearly right but others insist you are wrong, you should also repent to them — cultivation is precisely the cultivation of this."
 (Source: Chanyuan Corpus · Cultivation · *181 Points of Buddhist Cultivation*)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

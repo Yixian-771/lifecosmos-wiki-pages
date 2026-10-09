@@ -97,3 +97,5 @@ One question to ask yourself: **Is this forcing, or is this flowing?**
 ---
 
 *For Guide Xuefeng's original texts, see the [Internal Reference](/en/least-resistance-principle/internal/). For systematic analysis, see the [Academic Version](/en/least-resistance-principle/academic/).*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

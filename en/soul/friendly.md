@@ -179,3 +179,5 @@ Xuefeng's most essential instruction:
 > **The finest destination of LIFE is to enter the Greatest Creator's back garden — the Celestial Islands Continent.** (Concept 360)
 
 From here to there — that is the soul's most complete journey.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

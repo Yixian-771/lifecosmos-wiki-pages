@@ -107,4 +107,6 @@ Not just one of these — all five. And the last one matters as much as the rest
 
 [Religion](/en/religion/) · [The Greatest Creator](/en/greatest-creator/) · [Awakening](/en/awakening/) · [Morality](/en/morality/) · [Spiritual Life](/en/spiritual-life/)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 [← Back to entry main page](index.md)

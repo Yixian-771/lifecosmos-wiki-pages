@@ -128,3 +128,5 @@
 ## 相关词条
 
 [天性·秉性·习性](/zh/tianxing-bingxing-xixing/) · [天赋](/zh/tianfu/) · [天命](/zh/tianming/) · [自性·佛性·如来本性](/zh/self-nature/) · [道](/zh/dao/) · [灵性](/zh/spirituality/) · [随性而动·四随](/zh/si-sui/) · [觉悟](/zh/awakening/) · [仙·天仙·佛](/zh/xian-tian-xian-fo/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

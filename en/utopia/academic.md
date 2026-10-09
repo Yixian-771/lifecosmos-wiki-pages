@@ -92,6 +92,8 @@ The claim that the Thousand-Year World constitutes a proof-of-Utopia is consiste
 
 This makes Lifechanyuan's Utopian argument empirically grounded within its own cosmological frame: Utopia is not proposed as a future ideal but asserted as an already-existing reality at a different spatial-dimensional level.
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry overview](index.md)

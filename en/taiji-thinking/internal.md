@@ -341,3 +341,5 @@ Xuefeng's most concise summations:
 - [Heart-Image Thinking (Internal Edition)](/en/heart-image-thinking/internal) — Fifth rung; the step preceding Taiji Thinking
 - [Taiji (Internal Edition)](/en/taiji/internal) — The cosmological definition of Taiji
 - [Dao (Internal Edition)](/en/dao/internal) — Laozi and the relationship with Taiji Thinking
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

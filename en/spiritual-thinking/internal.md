@@ -343,3 +343,5 @@ Guide Xuefeng's most concise summaries:
 - [Heart-Image Thinking (Internal Edition)](/en/heart-image-thinking/internal) — Fifth rung; the entrance to Spiritual Thinking
 - [Hundun Thinking (Internal Edition)](/en/hundun-thinking/internal) — Eighth rung; the highest form of Spiritual Thinking
 - [Rational Thinking (Internal Edition)](/en/rational-thinking/internal) — The opposite of Spiritual Thinking; all thinking below the human–celestial watershed
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

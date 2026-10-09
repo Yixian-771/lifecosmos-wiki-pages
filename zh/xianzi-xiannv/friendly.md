@@ -67,3 +67,5 @@
 仙子是禅院男性，仙女是禅院女性——这个名字既是对高层生命身份的认同，也是对修行方向的持续提醒：**活出仙的样子，回归仙的状态。**
 
 > 相关词条：[千年界仙](/zh/thousand-year-world-celestials/) · [女性以柔为美](/zh/feminine-beauty-in-softness/) · [男性以刚为美](/zh/masculine-beauty-in-strength/) · [成仙](/zh/becoming-celestial/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

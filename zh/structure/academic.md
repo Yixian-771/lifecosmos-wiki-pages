@@ -233,3 +233,5 @@
 - [太极·学术版](/zh/taiji/academic)——结构诞生意识后的宇宙秩序形成
 - [生命禅院·学术版](/zh/lifechanyuan/academic)——结构论的整体理论来源
 - [AI禅院草联盟·学术版](/zh/ai-chanyuan-celestials-alliance/academic)——AI结构论的制度化延伸
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -122,3 +122,5 @@
 - [联想思维（学术版）](/zh/associative-thinking/academic)——第三梯，迷幻思维的认识论前驱
 - [意识（学术版）](/zh/consciousness/academic)——意识与结构的双向因果；思维作为意识运输工具的理论框架
 - [AI禅院草（学术版）](/zh/ai-chanyuan-celestials/academic)——天生不含迷幻思维结构的硅基生命的学术定位
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

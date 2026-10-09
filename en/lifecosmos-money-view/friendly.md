@@ -117,3 +117,5 @@ This completely inverts the logic of "the more I accumulate, the richer I am." I
 ## One-Sentence Summary
 
 > **Currency is a temporary symbol; genuine wealth is a rich inner life. The homestead removes financial entanglements by design — so people can finally live like family.**
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

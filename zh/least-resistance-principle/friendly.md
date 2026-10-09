@@ -99,3 +99,5 @@ title: 最小阻力原则·友好版
 ---
 
 *想了解导游原文详情，请阅读[内部版](/zh/least-resistance-principle/internal/)；想看系统分析，请阅读[学术版](/zh/least-resistance-principle/academic/)。*
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

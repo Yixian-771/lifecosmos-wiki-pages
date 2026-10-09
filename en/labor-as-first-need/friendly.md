@@ -73,3 +73,5 @@ Even as AI grows more capable, the Oasis's view of labor does not change. Concep
 > In the Second Home, art and labor go hand in hand — the most complete way for human beings to blossom. The person tilling the soil can be a painter; the person cooking can be a poet; the person sweeping the courtyard can be a dancer — in a life freed from the burdens of marriage and family, every person has the time and space to become their most complete self.
 
 In the Oasis, labor is not a means to earn a living. It is how life fully blooms.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

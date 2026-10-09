@@ -80,4 +80,6 @@ slug: eight-cosmic-dialectics-academic-zh
 
 [辩证法](/zh/dialectics/) · [浑沌（本体论）](/zh/hundun/) · [太极思维](/zh/taiji-thinking/) · [无极与太极（合篇）](/zh/wuji-taiji/) · [明心见性](/zh/illuminate-mind-see-nature/) · [心无所住·心无挂碍](/zh/xinwu-suozhu-guaai/) · [自性·佛性·如来本性](/zh/self-nature/) · [宇宙三要素](/zh/three-cosmic-elements/)
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。
+
 [← 返回词条主页](index.md)

@@ -22,3 +22,5 @@ slug: six-qualities
 ## 相关词条
 
 [真](/zh/truth/) · [善](/zh/goodness/) · [美](/zh/beauty/) · [爱](/zh/love/) · [信](/zh/faith/) · [诚](/zh/sincerity/) · [平](/zh/peace/) · [和](/zh/harmony/) · [心灵花园](/zh/soul-garden/) · [浑沌管理](/zh/hundun-management/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

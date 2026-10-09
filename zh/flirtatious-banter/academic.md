@@ -99,3 +99,5 @@
 ## 相关词条
 
 [随性而动](/zh/suixing-er-dong/) · [忌妒·嫉妒](/zh/jealousy-envy/) · [情爱·性爱](/zh/romantic-love-and-sexuality/) · [放下](/zh/letting-go/) · [一对一特殊关系·夫妻关系](/zh/exclusive-relationship/) · [初级修行](/zh/elementary-cultivation/) · [高级修炼](/zh/advanced-refinement/) · [心灵花园](/zh/soul-garden/) · [极乐妙境](/zh/jilemiaojing/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -47,3 +47,5 @@ description: 生命禅院体系中"时间"词条入口页——物质运动状�
 ## 相关词条
 
 [时空](/zh/spacetime/) · [空间](/zh/space/) · [20个集合体世界](/zh/twenty-parallel-worlds/) · [反物质世界](/zh/antimatter-world/) · [三十六维空间](/zh/thirty-six-dimensional-space/) · [千年界](/zh/thousand-year-world/) · [万年界](/zh/ten-thousand-year-world/) · [极乐界](/zh/elysium-world/) · [梦境](/zh/dream-state/) · [生命不灭定律](/zh/law-of-life-indestructibility/) · [返老还童（青春永驻·长生不老）](/zh/fanlaohuantong/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

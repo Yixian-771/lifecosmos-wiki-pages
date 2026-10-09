@@ -138,3 +138,5 @@ Not gripping anything. Not clinging to outcomes. Not defending a self. That is t
 - [Ling (Spirit-Force)](/en/ling-spirit/) — Deep exploration of the Spirit-Force
 - [Consciousness](/en/consciousness/) — The relationship between consciousness and the inner Spirit
 - [Raise Vibrational Frequency](/en/raise-vibration-frequency/) — Practical paths for inner Spirit purification
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -106,3 +106,5 @@ In the face of hardship, we accept it with equanimity. Without hardship, how can
 ## Related Entries
 
 [Consciousness](/en/consciousness/) · [Antimatter Structure](/en/antimatter-structure/) · [Awakening](/en/awakening/) · [Free Will](/en/free-will/) · [Raise Vibrational Frequency](/en/raise-vibration-frequency/) · [Elysium World](/en/elysium-world/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

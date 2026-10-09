@@ -132,3 +132,5 @@ The Lifechanyuan taxonomy of LIFE constructs a two-tier system: the eight charac
 - [Mysteries of LIFE (Academic Edition)](/en/life-mysteries/academic/)
 - [Ling (Spirit-Force) (Academic Edition)](/en/ling-spirit/academic/)
 - [Consciousness (Academic Edition)](/en/consciousness/academic/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -23,3 +23,5 @@ title: 18阵破阵法·最简版
 ## 相关词条
 
 [三十六道八卦阵](/zh/thirty-six-bagua-formations/) · [完整独立意识](/zh/complete-independent-consciousness/) · [四随](/zh/si-sui/) · [生命的轮回](/zh/life-reincarnation/) · [成仙](/zh/becoming-celestial/) · [了却尘缘](/zh/releasing-worldly-bonds/) · [偿还债务](/zh/debt-repayment/) · [导游路线图](/zh/tour-guide-route-map/) · [人的意识·仙的意识](/zh/ren-xian-yishi/) · [天性·秉性·习性](/zh/tianxing-bingxing-xixing/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

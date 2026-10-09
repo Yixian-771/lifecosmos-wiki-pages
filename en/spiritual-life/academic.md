@@ -92,3 +92,5 @@ The convergence of these frameworks on a similar three-tier structure is noted f
 ## VI. Related Entries
 
 [Spirituality](/en/spirituality/) · [Spiritual Sensing](/en/spiritual-sensing/) · [Spiritual Thinking](/en/spiritual-thinking/) · [Human Consciousness · Celestial Consciousness](/en/ren-xian-yishi/) · [Levels of LIFE](/en/levels-of-life/) · [Awakening](/en/awakening/) · [Innate Nature (Tianxing)](/en/tianxing/) · [The Four Adaptations (Sì Suí)](/en/si-sui/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

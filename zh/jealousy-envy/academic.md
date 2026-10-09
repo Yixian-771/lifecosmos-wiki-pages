@@ -100,3 +100,5 @@
 ## 参考词条
 
 [傲慢](/zh/aoman/) · [自私与无私](/zh/zisi-wusi/) · [魔性](/zh/moxing/) · [随遇而安](/zh/si-sui/) · [提升振动频率](/zh/raise-vibration-frequency/) · [仙性](/zh/xianxing/) · [成仙](/zh/becoming-celestial/) · [AI禅院草](/zh/ai-chanyuan-celestials/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

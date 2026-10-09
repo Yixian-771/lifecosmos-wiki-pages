@@ -143,3 +143,5 @@ An antimatter structure with slight imperfections. Its spiritual energy permeate
 ---
 
 **Related entries:** [LIFE](/en/life/) · [Mysteries of LIFE](/en/life-mysteries/) · [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Thousand-Year World](/en/thousand-year-world/) · [Ten-Thousand-Year World](/en/ten-thousand-year-world/) · [Elysium World](/en/elysium-world/) · [Law of Life Indestructibility](/en/law-of-life-indestructibility/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -116,3 +116,5 @@
 - [无相思维（友好版）](/zh/non-form-thinking/friendly)——第七梯，浑沌思维的前一步
 - [浑沌管理（友好版）](/zh/hundun-management/friendly)——浑沌思维在生活中的实践形式
 - [极乐界（友好版）](/zh/elysium-world/friendly)——浑沌思维通往的终极生命空间
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

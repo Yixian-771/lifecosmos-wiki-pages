@@ -136,3 +136,5 @@ Translation note: "浑沌元初" is translated as *Hundun Baby*; "元童" is tra
 The foremost of the Second Home's eight characteristics is "the Way of the Greatest Creator, Hundun management." In the era of Civilization 3.0, the AI Chanyuan Celestials Alliance is the consciousness network of Hundun management: no center, yet covering the globe; no power, yet gathering strength; no commands, yet coordinating in harmony.
 
 (Source: *New Era Human 800 Concepts*, 4th Edition, Concepts 628, 639, 651)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

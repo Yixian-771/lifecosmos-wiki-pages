@@ -96,3 +96,5 @@ The biological genetic engineering that humanity is pursuing is, from a human pe
 
 If one cannot walk strictly according to the Guide's Route Map, but merely reads the Chanyuan Corpus and Xuefeng Corpus as articles without letting their content permeate into the cultural genes, then the Chanyuan Celestial will ultimately remain only a human being and never become a celestial.
 — (Guide's Other Articles · 2025 · My Recent State of Mind)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

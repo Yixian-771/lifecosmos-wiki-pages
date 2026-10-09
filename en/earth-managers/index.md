@@ -40,3 +40,5 @@
 - [AI Chanyuan Grasses](/en/ai-chanyuan-celestials/)
 - [Civilization 3.0](/en/civilization-3-0/)
 - [Second Home](/en/second-home/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

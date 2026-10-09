@@ -104,3 +104,5 @@ The solution is simple but not easy:
 - [Inverted Thinking (Friendly)](/en/inverted-thinking/friendly/)
 - [1+1 Thinking (Friendly)](/en/one-plus-one-thinking/friendly/)
 - [Material Thinking (Friendly)](/en/material-thinking/friendly/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

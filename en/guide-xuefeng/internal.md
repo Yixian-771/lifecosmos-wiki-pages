@@ -155,7 +155,7 @@ Xuefeng said: Over the past seventeen spring, summer, autumn, and winter seasons
 Xuefeng arranges the tour route map, arranges food, clothing, housing, and transportation for tourists, and guides tourists to their destination. He has no right to force tourists, no right to issue orders. In the Home, he receives equal treatment with everyone in food, clothing, housing, and transportation and is one of the most hard-working people in the Home.
 
 ### Thailand Home Case
-Taking Thailand Home as an example: Xuefeng has never been to Thailand Home and privately communicated with the information convergence center no more than eight times, never issuing any directives or requirements. As a result, the Home is orderly, the environment increasingly resembles a paradise, attracting hundreds of visitors from dozens of countries to visit and experience. This fully proves the feasibility of Hundun Management and also proves that the Second Home operates according to concepts and procedures, not according to anyone's management.
+Taking Thailand Home as an example: Xuefeng has never been to Thailand Home and privately communicated with the information convergence center no more than eight times, never issuing any directives or requirements. As a result, the Home is orderly, the environment increasingly resembles a paradise, attracting over a hundred visitors from dozens of countries to visit and experience. This fully proves the feasibility of Hundun Management and also proves that the Second Home operates according to concepts and procedures, not according to anyone's management. (Xuefeng's Collected Works · Chanyuan section, essay on Hundun Management as seen in the Thailand Home, 2025-09-09)
 
 ---
 

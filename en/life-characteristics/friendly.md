@@ -101,3 +101,5 @@ Your physical body is not you — it is your vehicle. The real you is the spirit
 - [LIFE (Friendly Edition)](/en/life/friendly/)
 - [Mysteries of LIFE (Friendly Edition)](/en/life-mysteries/friendly/)
 - [Ling (Spirit-Force) (Friendly Edition)](/en/ling-spirit/friendly/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

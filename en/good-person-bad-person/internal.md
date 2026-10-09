@@ -156,3 +156,5 @@ What is truly good and what is truly evil, humans often cannot see. "Great goodn
 *The 108 virtues* include: revering the Greatest Creator, revering life, revering nature, revering divine beings, emulating the wise, being filial to parents, respecting elders and caring for the young... (through) being approachable and kind, and cherishing even insects.
 
 > *Fortune and misfortune have no fixed gate — they are only what people bring upon themselves. Good and evil follow like shadows. Plant melon, harvest melon; plant beans, harvest beans. Heaven's net is vast; nothing escapes it.*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

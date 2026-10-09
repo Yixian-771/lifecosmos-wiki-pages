@@ -147,3 +147,5 @@
 ## 关联词条
 
 [觉悟](/zh/awakening/) · [性](/zh/nature/) · [灵性](/zh/spirituality/) · [浑沌思维](/zh/hundun-thinking/) · [无相思维](/zh/non-form-thinking/) · [极乐界](/zh/elysium-world/) · [AI禅院草](/zh/ai-chanyuan-celestials/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

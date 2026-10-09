@@ -100,3 +100,5 @@ Buddhism speaks of "seeing your nature and becoming a Buddha." That "nature" is 
 Your innate sense of right and wrong, your capacity to perceive truth, the quiet stillness at the center of your heart — all of these are Wuji reflecting itself in your LIFE.
 
 Cultivation, at its deepest level, is the journey back to that source.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

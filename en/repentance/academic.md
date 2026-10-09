@@ -163,3 +163,5 @@ The ultimate judgment (T14):
 - "The primary method for escaping hardship is repentance." (T10)
 - "Heaven belongs to those who have erred or committed wrongdoing and repent devoutly. Hell belongs to those who have erred or committed wrongdoing and refuse to repent." (T14)
 - "After repentance, one must take action… If one repents every day but continues as before every day, repentance has little meaning." (T14)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -45,3 +45,5 @@ slug: nature
 ## 相关词条
 
 [信](/zh/faith/) · [爱](/zh/love/) · [结构](/zh/structure/) · [导游路线图](/zh/tour-guide-route-map/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

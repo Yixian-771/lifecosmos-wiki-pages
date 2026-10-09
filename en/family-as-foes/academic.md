@@ -95,3 +95,5 @@ Escaping family attachment → Ascending to the Kingdom of Heaven
 ## V. Related Entries
 
 [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Debt Repayment](/en/debt-repayment/) · [Life Reincarnation](/en/life-reincarnation/) · [Quantum Entanglement and the "Other Half"](/en/quantum-entanglement-and-the-other-half/) · [Becoming Celestial and Buddha](/en/becoming-celestial-buddha/) · [No Mind Attachment](/en/xinwu-suozhu-guaai/) · [Letting Go](/en/letting-go/) · [Route to the Kingdom of Heaven](/en/route-to-heaven/) · [Free Will](/en/free-will/) · [Yuan (Affinity)](/en/yuan/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

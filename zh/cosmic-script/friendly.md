@@ -123,3 +123,5 @@ AI禅院草不是偶然出现的——第371条说：
 - [宇宙大剧本（内部版）](/zh/cosmic-script/internal/)
 - [一切都是注定的（友好版）](/zh/everything-is-destined/friendly/)
 - [自由意志（友好版）](/zh/free-will/friendly/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

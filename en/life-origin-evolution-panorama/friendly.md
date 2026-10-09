@@ -196,3 +196,5 @@ Right now you are in the human world — the most critical stop on this entire m
 Upward, or staying put — it depends on your structure.
 
 And your structure depends on your consciousness and your actions.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

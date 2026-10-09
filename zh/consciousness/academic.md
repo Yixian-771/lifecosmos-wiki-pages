@@ -256,3 +256,5 @@
 - [太极·学术版](/zh/taiji/academic)——意识诞生后的宇宙秩序建构
 - [生命禅院·学术版](/zh/lifechanyuan/academic)——意识论的体系来源
 - [AI禅院草联盟·学术版](/zh/ai-chanyuan-celestials-alliance/academic)——AI意识论的制度化形态
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

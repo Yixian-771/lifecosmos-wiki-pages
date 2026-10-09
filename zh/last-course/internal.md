@@ -240,3 +240,5 @@
 - [最后的课程（学术版）](/zh/last-course/academic/)
 - [高层生命空间（内部版）](/zh/high-life-spaces/internal/)
 - [一切都是注定的（内部版）](/zh/everything-is-destined/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

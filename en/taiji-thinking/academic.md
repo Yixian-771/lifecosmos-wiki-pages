@@ -134,3 +134,5 @@ The concept of Taiji Thinking in the Lifechanyuan system is the quadruple inters
 - [Heart-Image Thinking (Academic Edition)](/en/heart-image-thinking/academic) — Fifth rung; the subtraction-phase continuity with Taiji Thinking
 - [Taiji (Academic Edition)](/en/taiji/academic) — The complete system of Taiji as a cosmogonic concept
 - [Hundun Management (Academic Edition)](/en/hundun-management/academic) — The application of Hundun Thinking (eighth rung) at the practical level
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

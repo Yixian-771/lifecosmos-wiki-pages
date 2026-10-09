@@ -93,3 +93,5 @@
 ## 相关词条
 
 [上帝](/zh/greatest-creator/) · [天国](/zh/kingdom-of-heaven/) · [去天国路线图](/zh/route-to-heaven/) · [太极](/zh/taiji/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [佛法](/zh/buddha-dharma/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

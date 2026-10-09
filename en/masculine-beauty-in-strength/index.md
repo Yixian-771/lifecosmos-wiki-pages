@@ -23,3 +23,5 @@ Masculine beauty in strength is a core principle in the Lifechanyuan system rega
 ## Related Entries
 
 [Feminine Beauty in Softness](/en/feminine-beauty-in-softness/) · [Celestial Bearing](/en/xianfengdaogu/) · [Standard of Perfect Human Nature](/en/perfect-human-nature/) · [Cultivation of Character](/en/jiaoyang-xiuyang-hanyang/) · [Natural Nature · Inborn Nature · Habitual Nature](/en/tianxing-bingxing-xixing/) · [Rising Above the Mundane](/en/chaofantuosu/) · [A Spiritual Life](/en/spiritual-life/) · [Truth, Goodness, Beauty, Love, Faith, and Sincerity](/en/six-qualities/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

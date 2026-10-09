@@ -93,3 +93,5 @@
 ## 关联词条
 
 [人生观·价值观](/zh/outlook-on-life-and-values/) · [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/) · [忏悔](/zh/repentance/) · [我执](/zh/wo-zhi/) · [灵觉](/zh/spiritual-sensing/) · [自洽](/zh/self-coherence/) · [因果·报应·轮回](/zh/karma-retribution-reincarnation/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

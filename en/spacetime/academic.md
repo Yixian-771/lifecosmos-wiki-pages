@@ -131,3 +131,5 @@ The former describes the cognitive limitation of human three-dimensional existen
 - "Time is antimatter." (Concept 428)
 - "Existence determines consciousness — and we have only one earth; consciousness determines existence — and we have 36 dimensions of space." (Concept 309)
 - "What connects the 20 three-dimensional parallel universes turns out to be 0… 0 is the Greatest Creator… once one merges completely with 0, one can arrive directly at the Celestial Islands Continent." (T8)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

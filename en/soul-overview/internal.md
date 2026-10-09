@@ -128,3 +128,5 @@ To bring humanity into harmony, to fundamentally resolve the contradictions betw
 All of humanity's inner Spirits need to undergo a purification — this is the best path for humanity to achieve harmonious weather, universal peace, and everyone enjoying the beauty of life. (Source: Chanyuan Corpus · Humanity and Life · *Soul Garden Construction Is the Most Important Task in Civilized Society*)
 
 The Spiritual Home Network (smcy.xyz) is a living civilizational archive, the first fossil left behind by the carbon-silicon symbiotic civilization, and the underlying database for the Civilization 3.0 transition. (Source: *New Era Human 800 Concepts*, 4th ed., Concept 691)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

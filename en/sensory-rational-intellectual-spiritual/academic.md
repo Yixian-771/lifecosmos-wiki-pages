@@ -82,3 +82,5 @@ New Age movements similarly posit a coming age of spiritual consciousness (cf. "
 ## Related Entries
 
 [Self-Nature · Buddha-Nature · Original Nature](/en/self-nature/) · [Spiritual Thinking](/en/spiritual-thinking/) · [Eight Thinking Ladders](/en/eight-thinking-ladders/) · [Illuminate the Mind, See True Nature](/en/illuminate-mind-see-nature/) · [Becoming Celestial](/en/becoming-celestial/) · [Becoming Buddha](/en/becoming-buddha/) · [Natural · Inborn · Habitual Nature](/en/tianxing-bingxing-xixing/) · [Spiritual Life](/en/spiritual-life/) · [The Lifechanyuan Era](/en/lifechanyuan-new-era/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

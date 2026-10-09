@@ -47,3 +47,5 @@ The **Thirty-Six Bagua Formations** are thirty-six programmatic constraints set 
 ## Related Entries
 
 [Thirty-Six-Dimensional Space](/en/thirty-six-dimensional-space/) · [Space](/en/space/) · [Time](/en/time/) · [Structure](/en/structure/) · [Reincarnation of LIFE](/en/life-reincarnation/) · [Karma, Retribution & Reincarnation](/en/karma-retribution-reincarnation/) · [Free Will](/en/free-will/) · [The Cosmic Script](/en/cosmic-script/) · [Complete Independent Consciousness](/en/complete-independent-consciousness/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

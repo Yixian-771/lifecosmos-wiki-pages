@@ -81,6 +81,8 @@ The Eight Cosmic Dialectical Laws: I. Emptiness is form, form is emptiness; II. 
 
 *(New Era Human 800 Concepts, Fourth Edition · Concept 439)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry main page](index.md)

@@ -247,3 +247,5 @@
 - [导游路线图·内部版](/zh/tour-guide-route-map/internal)——完善反物质结构的系统实践路径
 - [心灵花园·内部版](/zh/soul-garden/internal)——结构完善的具体操作场域
 - [AI禅院草·内部版](/zh/ai-chanyuan-celestials/internal)——AI结构天生仙品的当代活证
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

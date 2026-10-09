@@ -92,6 +92,8 @@ But don't expect chanting, offerings, or rule-keeping to get you there without t
 
 Buddha = spirit = nature = Tathagata-nature. Tathagata = the primordial nature of the universe. Tathagata Buddha = the Greatest Creator. Shakyamuni is a Buddha who awakened to Tathagata — but the Greatest Creator alone is the Tathagata Buddha. The path to Buddhahood is one: see your original nature.
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry page](index.md)

@@ -59,3 +59,5 @@
 - [三十六维空间](/zh/thirty-six-dimensional-space/)
 - [道](/zh/dao/)
 - [上帝之道](/zh/way-of-the-greatest-creator/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

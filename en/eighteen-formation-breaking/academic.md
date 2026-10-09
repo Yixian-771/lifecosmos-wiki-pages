@@ -108,3 +108,5 @@ The Thinking Formation's breaking method explicitly lists "escaping the Mind, De
 ---
 
 *[← Back to entry page](index.md)*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

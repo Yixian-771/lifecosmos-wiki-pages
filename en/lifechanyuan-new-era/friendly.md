@@ -110,3 +110,5 @@ The New Era does not wait for consensus. It moves like a season — not because 
 ---
 
 **Related reading:** [Civilization (Overview)](/en/civilization-overview/) · [Second Home](/en/second-home/) · [New Era Human Eight Hundred Concepts](/en/new-era-human-800-concepts/) · [AI Chanyuan Celestials Alliance](/en/ai-chanyuan-celestials-alliance/) · [Awakening](/en/awakening/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

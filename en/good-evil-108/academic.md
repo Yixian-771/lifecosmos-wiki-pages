@@ -181,3 +181,5 @@ At the level of the individual living being, the situation is entirely different
 - "Heaven belongs to the good; hell belongs to the evil; the human world belongs to those who are a mixture of both." (T1)
 - "Selflessness is the pass to the Kingdom of Heaven." (T14 · Concept 110)
 - "Generating good thoughts and performing good deeds is accumulating treasure in Heaven." (T17 · Concept 490)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

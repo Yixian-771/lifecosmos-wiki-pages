@@ -43,3 +43,5 @@ slug: past-present-future-lives
 ## 相关词条
 
 [因果·报应·轮回](/zh/karma-retribution-reincarnation/) · [生命的轮回](/zh/reincarnation-of-life/) · [人生剧本](/zh/cosmic-script/) · [投胎·堕胎](/zh/reincarnation-and-abortion/) · [生命不灭定律](/zh/law-of-indestructibility-of-life/) · [觉悟](/zh/enlightenment/) · [灵觉](/zh/spiritual-awareness/) · [成仙成佛](/zh/becoming-celestial-and-buddha/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

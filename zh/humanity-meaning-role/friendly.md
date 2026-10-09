@@ -107,3 +107,5 @@
 - [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/)——与本词条密切相关
 - [生命的轮回](/zh/life-reincarnation/)——了解消业转化的完整机制
 - [成仙成佛](/zh/becoming-celestial-buddha/)——了解人类最终的升华之路
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

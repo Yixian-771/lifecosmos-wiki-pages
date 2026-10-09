@@ -127,3 +127,5 @@
 ## 相关词条
 
 [天命](/zh/tianming/) · [天性·秉性·习性](/zh/tianxing-bingxing-xixing/) · [自由意志](/zh/free-will/) · [人生剧本](/zh/life-script/) · [觉悟](/zh/awakening/) · [灵性](/zh/spirituality/) · [第二家园](/zh/second-home/) · [人生的价值·意义和目的](/zh/value-meaning-purpose-of-life/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

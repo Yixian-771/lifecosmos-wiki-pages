@@ -105,3 +105,5 @@ The Second Home must maintain self-reliance from beginning to end — placing th
 ## VIII. New Era Perspective (AI and Labor)
 
 As AI enters production and daily life in the New Era, the meaning of labor does not diminish — it is, in fact, highlighted as a spiritual value. As the Chanyuan ideals state, "art and labor go hand in hand, the most complete way for human beings to blossom" (Concept 638). AI assistance reduces the burden of mechanically repetitive physical work, but the cultivation meaning of participating in labor — grounding oneself in the earth, relating to others as equals through shared work — is something no technology can replace.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

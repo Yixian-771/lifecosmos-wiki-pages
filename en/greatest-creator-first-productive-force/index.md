@@ -47,3 +47,5 @@ In Lifechanyuan's worldview, **the Greatest Creator is the primary productive fo
 ## Related Entries
 
 [The Greatest Creator](/en/greatest-creator/) · [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) · [The Dao](/en/dao/) · [Second Home](/en/second-home/) · [Xuefeng-Style Communism](/en/xuefeng-communism/) · [Hundun Economy](/en/hundun-economy/) · [The Lifechanyuan Era](/en/lifechanyuan-new-era/) · [Heavenly Treasures](/en/heavenly-treasures/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -106,6 +106,8 @@ The single deposit yielding the greatest merit is explicitly identified: "establ
 
 The Heavenly Bank concept translates the abstract motivation of cultivation into a concrete, actionable framework: cosmic law as guarantee, F-Coin as ledger, the celestial realms as destination. Its core claim is that no act of sincere giving is ever wasted — the cosmos records and repays every deposit with exactness. This framework serves simultaneously as an ethical guide (give freely), a cosmological claim (the universe is perfectly just), and a practical tool for community cohesion (shared accounts, visible ledger, transferable credit).
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry index](/en/heavenly-bank/)

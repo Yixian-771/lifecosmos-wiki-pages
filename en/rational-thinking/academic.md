@@ -133,3 +133,5 @@ The concept of "Rational Thinking" occupies a distinctive critical position in t
 - [Heart-Image Thinking (Academic Edition)](/en/heart-image-thinking/academic) — Fifth rung; the critical threshold crossing the Rational/Spiritual watershed
 - [Hundun Management (Academic Edition)](/en/hundun-management/academic) — The institutional practice transcending rational management
 - [Spirituality (Academic Edition)](/en/spirituality/academic) — The system of "celestial thinking" opposite to Rational Thinking
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

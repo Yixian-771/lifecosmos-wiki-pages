@@ -121,3 +121,5 @@ Uniquely, Lifechanyuan does not stop at restoration of tianxing. The aspiration 
 ## Related Entries
 
 [Innate Nature · Inherent Character · Habitual Disposition](/en/tianxing-bingxing-xixing/) · [Natural Talent (Tianfu)](/en/tianfu/) · [Tianming (Heavenly Mandate)](/en/tianming/) · [Self-Nature (Buddha-Nature)](/en/self-nature/) · [Dao](/en/dao/) · [Spirituality](/en/spirituality/) · [The Four Adaptations](/en/si-sui/) · [Awakening](/en/awakening/) · [Celestial Beings, Heavenly Celestials, and Buddhas](/en/xian-tian-xian-fo/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

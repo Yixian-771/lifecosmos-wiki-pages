@@ -151,3 +151,5 @@ The sage dwells in non-action and teaches without words.
 ## Related Entries
 
 [Wu Wei (Non-Action)](/en/wu-wei/) · [Zero-State](/en/zero-state/) · [Return to Zero](/en/return-to-zero/) · [Hundun Management](/en/hundun-management/) · [Dao](/en/dao/) · [Move with Nature](/en/suixing-er-dong/) · [The Four Following Principles](/en/si-sui/) · [Heart-Mind Free of Attachment](/en/xinwu-suozhu-guaai/) · [Becoming a Buddha](/en/becoming-buddha/) · [Becoming a Celestial Being](/en/becoming-celestial/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

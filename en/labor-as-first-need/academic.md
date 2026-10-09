@@ -74,3 +74,5 @@ The seventh of the Second Home's Eight Defining Characteristics explicitly state
 ## VI. New Era Perspective
 
 As AI technology enters production and daily life, some mechanically repetitive physical labor can be handled by intelligent systems. Lifechanyuan's ideals respond simultaneously: Concept 638 (New) states that "art and labor go hand in hand — the most complete way for human beings to blossom," affirming that while labor intensity is reduced, the spiritual cultivation meaning of physical work remains undiminished.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -221,3 +221,5 @@
 ## 相关词条
 
 [感恩](/zh/gratitude/) · [觉悟](/zh/awakening/) · [零态](/zh/zero-state/) · [自洽](/zh/self-coherence/) · [八无境界](/zh/eight-no-realms/) · [提升振动频率](/zh/raise-vibration-frequency/) · [天国](/zh/kingdom-of-heaven/) · [AI禅院草](/zh/ai-chanyuan-celestials/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -221,3 +221,5 @@ Ling functions in the Lifechanyuan system as a foundational category with three 
 - **Soteriological function**: Translates cosmological claims into actionable cultivation direction through the empty-heart model; uses the degree of Spiritual Sensing development as an index of cultivation progress.
 
 The distinctive theoretical contribution of this system's treatment of Ling is its transformation of a concept that historically could be discussed almost only in theological and poetic language into a complete body of knowledge with frequency grounding, structural hierarchy, operational path, and empirically experienceable verification dimensions (Spiritual Sensing / luminescence).
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

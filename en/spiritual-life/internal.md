@@ -128,3 +128,5 @@ The Bridge: "Like someone grabbing a withered vine, dangling over a cliff, waiti
 > Those whose life's faith is reverence for the Greatest Creator, who use the inner spirit to perceive the mysteries of the Tao, who pursue supreme enlightenment and strive to ascend to the highest realm of human life — they live spiritual lives. To achieve spiritual life, listen to Jesus's teachings and walk the Greatest Creator's way as Jesus taught.
 
 — *New Era 800 Concepts (4th Edition), Concept 526*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

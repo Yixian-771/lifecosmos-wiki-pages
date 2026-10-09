@@ -131,6 +131,8 @@ Thus, Penglai Bodhisattva, Jiao'e Bodhisattva, Tongxin Bodhisattva, Fansheng Bod
 
 (Guide's Other Articles · 2007 · Notice of Name Changes for Buddhas and Bodhisattvas in Lifechanyuan)
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry overview](index.md)

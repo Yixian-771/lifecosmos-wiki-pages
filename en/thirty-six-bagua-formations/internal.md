@@ -271,3 +271,5 @@ Independent consciousness means having a clear standard within your own consciou
 
 Nothing that obstructs our attainment of a joyful, happy, free, and blissful life — nothing that obstructs our journey to the Kingdom of Heaven in the Thousand-Year World, Ten-Thousand-Year World, or Celestial Islands Continent — whether power, status, money, fame, beauty, emotion, friendship, acquaintance, scripture, authority, a master, parents, a spouse, children, friends, a teacher, a confidant, supernatural powers, gods, or the Jade Emperor himself — none of these can be allowed to move us.  
 (Guide's Other Articles · 2009 · Independent Consciousness Is Needed to Walk Out of the 36 Bagua Formations)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

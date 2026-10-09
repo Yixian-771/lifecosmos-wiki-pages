@@ -121,3 +121,5 @@
 - [心像思维（学术版）](/zh/heart-image-thinking/academic)——第五梯，跨越理性/灵性分水岭的临界点
 - [浑沌管理（学术版）](/zh/hundun-management/academic)——超越理性管理的制度实践
 - [灵性（学术版）](/zh/spirituality/academic)——与理性思维相对的"仙的思维"体系
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

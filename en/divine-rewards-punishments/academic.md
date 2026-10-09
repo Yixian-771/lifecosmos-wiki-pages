@@ -142,6 +142,8 @@ The doctrine generates direct behavioral and attitudinal prescriptions for Chany
 
 These prescriptions form a coherent ethical-spiritual system oriented around cosmic alignment rather than compliance with external rules.
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry home](/en/divine-rewards-punishments/)

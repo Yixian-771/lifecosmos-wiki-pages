@@ -178,3 +178,5 @@ This passage marks a conceptual expansion: the "ripened grain" category now exte
 - "'Ripened grain' must necessarily be grown-up children." (T9)
 - "Lifechanyuan is simply the form in which Hundun Yuanchu harvests the ripened grain." (T5)
 - "I look only at whether their love, goodwill, trust, and true feeling are enduring." (T6)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

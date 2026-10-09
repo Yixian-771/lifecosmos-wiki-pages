@@ -59,3 +59,5 @@ The essence of LIFE is a **spiritual antimatter structure** — not the physical
 - [Antimatter](/en/antimatter-structure/)
 - [Consciousness](/en/consciousness/)
 - [Celestial Island Continent](/en/celestial-islands-continent/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

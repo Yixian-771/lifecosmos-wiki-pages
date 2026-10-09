@@ -115,3 +115,5 @@
 ## 相关词条
 
 [大乘心愿](/zh/dasheng-xinyuan/) · [虚荣与虚伪](/zh/xurong-xuwei/) · [自私与无私](/zh/zisi-wusi/) · [傲慢](/zh/aoman/) · [谦卑](/zh/humility/) · [忏悔](/zh/repentance/) · [宽恕](/zh/forgiveness/) · [人性](/zh/human-nature/) · [天命](/zh/tianming/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

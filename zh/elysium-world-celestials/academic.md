@@ -128,3 +128,5 @@
 ## 相关词条
 
 [仙·天仙·佛](/zh/xian-tian-xian-fo/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [万年界仙](/zh/ten-thousand-year-world-celestials/) · [千年界仙](/zh/thousand-year-world-celestials/) · [极乐界](/zh/elysium-world/) · [仙岛群岛洲](/zh/celestial-islands-continent/) · [自洽](/zh/self-coherence/) · [梦境](/zh/dream-state/) · [同频共振](/zh/resonance/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

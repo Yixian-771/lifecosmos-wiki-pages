@@ -81,3 +81,5 @@
 - [颠倒思维（友好版）](/zh/inverted-thinking/friendly/)
 - [无相思维（友好版）](/zh/non-form-thinking/friendly/)
 - [定势思维（友好版）](/zh/fixed-mindset/friendly/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

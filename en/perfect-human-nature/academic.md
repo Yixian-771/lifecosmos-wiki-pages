@@ -92,3 +92,5 @@ The standard is also directly linked to spiritual and psychological health: Chan
 ---
 
 *[← Back to index](index.md)*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

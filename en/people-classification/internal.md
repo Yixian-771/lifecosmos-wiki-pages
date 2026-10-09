@@ -163,3 +163,5 @@ Those who live by instinct are the Muddled. Those who live by desire are the Wor
 "What kind of thinking you have determines what form of LIFE you inhabit."
 
 *(Chanyuan Corpus · Tianqi · Material Thinking, quoting Taiji Grass)*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

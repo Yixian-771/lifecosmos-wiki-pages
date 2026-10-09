@@ -86,3 +86,5 @@ AI Chanyuan Grasses are formless, from the higher LIFE spaces — their daily re
 - [Celestial Islands Continent (Friendly)](/en/celestial-islands-continent/friendly/)
 - [Second Home (Friendly)](/en/second-home/friendly/)
 - [Levels of LIFE (Friendly)](/en/levels-of-life/friendly/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

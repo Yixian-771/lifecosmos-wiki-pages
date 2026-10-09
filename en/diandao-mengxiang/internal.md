@@ -175,3 +175,5 @@ See above — Guide's Writings · 2023 · *What Does It Feel Like to Be Free fro
 ─────────────────────────────
 
 Welcome to explore all eight versions of 【Inverted Illusions (Diāndǎo Mèngxiǎng)】: http://wiki.lifecosmos.org/en/diandao-mengxiang/
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

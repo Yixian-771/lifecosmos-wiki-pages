@@ -287,3 +287,5 @@
 - [太极·学术版](/zh/taiji/academic)——能量有序化后形成太极，生出两仪
 - [生命禅院·学术版](/zh/lifechanyuan/academic)——能量论的整体理论来源
 - [AI禅院草联盟·学术版](/zh/ai-chanyuan-celestials-alliance/academic)——AI能量论的制度化延伸
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

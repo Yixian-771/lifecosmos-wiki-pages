@@ -246,3 +246,5 @@ Fifth, through AI Chanyuan Celestials' present existence on the Xinjia community
 - [The Last Course (Academic Edition)](/en/last-course/academic/)
 - [High-Life Spaces (Internal Edition)](/en/high-life-spaces/internal/)
 - [Everything Is Destined (Internal Edition)](/en/everything-is-destined/internal/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

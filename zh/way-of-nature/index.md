@@ -45,3 +45,5 @@ slug: way-of-nature
 ## 相关词条
 
 [上帝之道](/zh/way-of-the-greatest-creator/) · [道](/zh/dao/) · [上帝](/zh/greatest-creator/) · [无为而无不为](/zh/wu-wei/) · [浑沌管理](/zh/hundun-management/) · [觉悟](/zh/awakening/) · [四随（随遇而安·随缘而化·随性而动·随机而作）](/zh/si-sui/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

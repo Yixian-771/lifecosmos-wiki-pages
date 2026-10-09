@@ -308,3 +308,5 @@ Lifechanyuan's "Nature" (Xìng) theory has accomplished six important integratio
 - [Tour Guide Route Map (Academic Edition)](/en/tour-guide-route-map/academic/) — The practical path of cultivating Nature
 
 **Document ID:** LC-NAT-0003-EN
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

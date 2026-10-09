@@ -44,3 +44,5 @@ title: 时空隧道
 ## 相关词条
 
 [时空](/zh/spacetime/) · [20个集合体世界](/zh/twenty-parallel-worlds/) · [三十六维空间](/zh/thirty-six-dimensional-space/) · [反物质世界](/zh/antimatter-world/) · [宇宙全息](/zh/cosmic-holography/) · [三十六道八卦阵](/zh/thirty-six-bagua-formations/) · [仙岛群岛洲](/zh/celestial-islands-continent/) · [灵眼](/zh/linyan/) · [极乐妙境](/zh/elysium-world/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -343,3 +343,5 @@ Guide Xuefeng's most concise summaries:
 - [Non-Form Thinking (Internal Edition)](/en/non-form-thinking/internal) — Seventh rung; the step preceding Hundun Thinking
 - [Hundun Management (Internal Edition)](/en/hundun-management/internal) — The direct institutionalization of Hundun Thinking
 - [Elysium World (Internal Edition)](/en/elysium-world/internal) — The ultimate LIFE space that Hundun Thinking leads toward
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

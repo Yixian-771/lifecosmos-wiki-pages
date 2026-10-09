@@ -46,3 +46,5 @@ slug: way-of-nature
 ## Related Entries
 
 [The Way of the Greatest Creator](/en/way-of-the-greatest-creator/) · [Dao](/en/dao/) · [The Greatest Creator](/en/greatest-creator/) · [Non-Action and Non-Non-Action](/en/wu-wei/) · [Hundun Management](/en/hundun-management/) · [Awakening](/en/awakening/) · [The Four Alignments](/en/si-sui/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

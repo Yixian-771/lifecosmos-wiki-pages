@@ -193,3 +193,5 @@ Eighteen items of consciousness to transform:
 
 "The future of humanity is extraordinarily beautiful. May all 8 billion people on Earth enter the Kingdom of the Greatest Creator and live in the Lifechanyuan Era!"
 (Chanyuan Corpus · Human Life Chapter · *A Brief Introduction to Civilization 3.0*)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -114,3 +114,5 @@
 ## 七、相关词条
 
 [提升振动频率](/zh/raise-vibration-frequency/) · [八无境界](/zh/eight-no-realms/) · [心灵花园](/zh/soul-garden/) · [成仙](/zh/becoming-celestial/) · [成佛](/zh/becoming-buddha/) · [偿还债务](/zh/debt-repayment/) · [了却尘缘](/zh/releasing-worldly-bonds/) · [极乐妙境](/zh/jilemiaojing/) · [大乘心愿](/zh/dasheng-xinyuan/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

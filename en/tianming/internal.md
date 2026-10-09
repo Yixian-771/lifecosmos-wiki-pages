@@ -185,3 +185,5 @@ In the Lifechanyuan system, "Tianming" (Heavenly Mandate) encompasses three leve
 > All phenomena arise from the heart-mind; the heart-mind transcends all phenomena. The heart arises from circumstance; circumstance is created by the heart. For the masses, everything is tianming — one can only follow Heaven's arrangement. … For those of small wisdom and small faith — you have only a little cleverness, you can be lucid for a moment now and then, but most of the time you are muddled and confused. You do not have enough wisdom and energy to escape the inevitable bonds of the program. Therefore, for you as well, everything is fate.
 
 (Source: Chanyuan Corpus · Wisdom · Fate and the Transcendence of Fate, Xuefeng)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -56,3 +56,5 @@
 - [反物质](/zh/antimatter-structure/)
 - [意识](/zh/consciousness/)
 - [仙岛群岛洲](/zh/celestial-islands-continent/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

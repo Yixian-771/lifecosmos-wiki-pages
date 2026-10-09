@@ -95,3 +95,5 @@ As someone cultivating immortality, maintain an attitude of roaming at ease, rom
 ---
 
 *[Back to entry page](/en/sui-yuan-fangguan/) · [Friendly version](/en/sui-yuan-fangguan/friendly/) · [Academic version](/en/sui-yuan-fangguan/academic/)*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -300,3 +300,5 @@
 ## 关联词条
 
 [第二家园](/zh/second-home/) · [生命禅院](/zh/lifechanyuan/) · [浑沌管理](/zh/hundun-management/) · [文明（总论）](/zh/civilization-overview/) · [生命禅院时代（新时代）](/zh/lifechanyuan-new-era/) · [新时代人类八百理念](/zh/new-era-human-800-concepts/) · [心灵花园](/zh/soul-garden/) · [天国](/zh/kingdom-of-heaven/) · [生命绿洲生活三字经（简俭坚）](/zh/life-oasis-three-character-classic/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

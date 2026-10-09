@@ -128,6 +128,8 @@ The process of giving is the process of elevating our spirituality, enhancing ou
 "I know clearly that Jingdi's merit was insufficient to reach the Thousand-Year World. But to express my respect for her, I now pray to the Buddha and the Greatest Creator: may the angels of the Three-Realm Passage open the passage for Jingdi to the Thousand-Year World. Any merit she lacks, I will supply in full from my own Heavenly Bank account. Should my own merit later prove insufficient to reach Balichia Island in the Celestial Islands Continent, I am willing to return to the Thousand-Year World and continue cultivating to accumulate more."
 *(Xuefeng's Other Writings · 2024 · Seeing Mother-in-Law Jingdi Off to the Thousand-Year World)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry index](/en/heavenly-bank/)

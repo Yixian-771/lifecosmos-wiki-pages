@@ -94,3 +94,5 @@ This converts a complex inner cultivation state into a directly experienceable l
 ---
 
 *[Back to entry page](/en/sui-yuan-fangguan/) · [Friendly version](/en/sui-yuan-fangguan/friendly/) · [Internal reference](/en/sui-yuan-fangguan/internal/)*
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -128,3 +128,5 @@
 - [太极思维（学术版）](/zh/taiji-thinking/academic/)
 - [浑沌思维（学术版）](/zh/hundun-thinking/academic/)
 - [1+1思维（学术版）](/zh/one-plus-one-thinking/academic/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -207,3 +207,5 @@ The spirit world is the goal for the human being, but not the final destination 
 - "The soul is the root; spirit is a kind of vitality that grows from that root." (Xuefeng Corpus · Soul Series)
 - "Keep the kidneys undisturbed, and *jing* is complete; keep the body undisturbed, and *qi* is complete; keep the heart undisturbed, and *shen* is complete. When the three are round and the three are complete, one naturally becomes an immortal." (Concept 758)
 - "Material nobles and power nobles will not bring humanity freedom, peace, dignity, and happiness. Only spiritual nobles are the hope of humanity." (Xuefeng Corpus · Essays)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

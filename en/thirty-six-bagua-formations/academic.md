@@ -126,3 +126,5 @@ Of the thirty-six formations, the Guide publicly wrote about only the first eigh
 | Freud's id / ego / superego | Psychological-level constraints | Lifechanyuan extends to space-time, structure, fate, gravity — all dimensions simultaneously |
 | Existentialist "thrownness" | One cannot choose the conditions of one's birth | Lifechanyuan attributes this to past-life karma and specifies that next-life conditions can be shaped by present cultivation |
 | Daoist "transcending the Three Realms" | Transcending worldly constraints | Lifechanyuan renders "the Three Realms" concrete as thirty-six analyzable, escapable programmatic formations |
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

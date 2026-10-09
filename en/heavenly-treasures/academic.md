@@ -124,6 +124,8 @@ From the source texts combined:
 - **Dishonesty**: Even one false F-coin bars entry; heaven "tolerates not one iota of falsehood" *(Chanyuan Collection · Propagation Chapter · Revelation from the Angel at Heaven's Gate)*
 - **Unresolved karmic debts**: Even abundant Heavenly Treasures cannot compensate for unpaid debts — all three conditions are indispensable
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry homepage](index.md)

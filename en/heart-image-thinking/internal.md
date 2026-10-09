@@ -352,3 +352,5 @@ Guide Xuefeng's most distilled summaries:
 - [Illusory Thinking (Internal Edition)](/en/illusory-thinking/internal) — Fourth rung, the step immediately before Heart-Image Thinking
 - [Antimatter Structure (Internal Edition)](/en/antimatter-structure/internal) — Heart-Image Thinking acts directly upon LIFE's antimatter structure
 - [Soul Garden (Internal Edition)](/en/soul-garden/internal) — Heart purification is the prerequisite for Heart-Image Thinking
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

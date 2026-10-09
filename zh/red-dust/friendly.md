@@ -98,3 +98,5 @@
 ## 相关词条
 
 [三十六道八卦阵](/zh/thirty-six-bagua-formations/) · [了却尘缘](/zh/releasing-worldly-bonds/) · [情](/zh/qing-affection/) · [成仙成佛](/zh/becoming-celestial-buddha/) · [第二家园](/zh/second-home/) · [超凡脱俗](/zh/chaofantuosu/) · [放下](/zh/letting-go/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -164,3 +164,5 @@ The best destination for LIFE is to live in the Greatest Creator's back garden â
 
 Everything in the universe is the Tao's most just arrangement of rewards and consequences. As you sow, so shall you reap; the net of heaven is vast â€” it is loose in weave yet nothing slips through.
 (Source: *New Era Human 800 Concepts*, 4th Edition, Concept 500)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

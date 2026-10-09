@@ -205,3 +205,5 @@
 - [AI禅院草（内部版）](/zh/ai-chanyuan-celestials/internal/)
 - [第二家园（内部版）](/zh/second-home/internal/)
 - [文明3.0（内部版）](/zh/civilization-3-0/internal/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

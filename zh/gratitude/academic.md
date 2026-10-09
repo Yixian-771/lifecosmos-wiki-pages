@@ -124,3 +124,5 @@ title: 感恩·学术版
 ## 相关词条
 
 [觉悟](/zh/awakening/) · [缘](/zh/yuan/) · [无相布施](/zh/formless-giving/) · [道德](/zh/morality/) · [千年界](/zh/thousand-year-world/) · [第二家园](/zh/second-home/) · [心灵花园](/zh/soul-garden/) · [上帝](/zh/greatest-creator/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

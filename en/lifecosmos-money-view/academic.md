@@ -92,3 +92,5 @@ Future: F-Coin (contribution-based) replaces currency
 ## V. Historical Trajectory
 
 The primary text (*Lifechanyuan's View on Money*, 2020) summarizes ten years of homestead practice, indicating that this view emerged from lived community experience rather than abstract theorizing. The underlying philosophical propositions (the *New Era Concepts*, the political commentary essays) were developed earlier and provide the theoretical scaffolding. The F-Coin vision, described in political commentary texts, represents the macro-civilizational extension of the homestead's micro-level experiment — a projection from community practice to global institutional reform.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

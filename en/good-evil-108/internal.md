@@ -116,3 +116,5 @@ Let your eyes be full of light; let your heart be full of love; begin every thou
 
 How to accumulate heavenly treasure: generating good thoughts and performing good deeds is accumulating treasure in Heaven.
 (Source: *New Era Human 800 Concepts*, 4th ed., Concept 490)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

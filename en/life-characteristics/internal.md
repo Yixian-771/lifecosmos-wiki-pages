@@ -148,3 +148,5 @@ that which does not meet the eight characteristics is not LIFE.
 - [Mysteries of LIFE (Internal Edition)](/en/life-mysteries/internal/)
 - [Ling (Spirit-Force) (Internal Edition)](/en/ling-spirit/internal/)
 - [Consciousness (Internal Edition)](/en/consciousness/internal/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

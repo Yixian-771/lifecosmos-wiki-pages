@@ -107,3 +107,5 @@
 ## 相关词条
 
 [感恩](/zh/gratitude/) · [忌妒·嫉妒](/zh/jealousy-envy/) · [宽恕](/zh/forgiveness/) · [放下](/zh/letting-go/) · [忏悔](/zh/repentance/) · [自私与无私](/zh/zisi-wusi/) · [完美人性的标准](/zh/perfect-human-nature/) · [觉悟](/zh/awakening/) · [天国财宝](/zh/heavenly-treasures/) · [道德](/zh/morality/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

@@ -100,6 +100,8 @@ The depth of understanding the route map is itself a readout of one's level of c
 | Buddhism | Graduated cultivation paths; Pure Land rebirth | Lifechanyuan's route map replaces the nembutsu with specific cognitive prerequisites |
 | Taoism | The Way of becoming an immortal | Lifechanyuan explicitly articulates three tiers of celestial destination |
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry index](index.md)

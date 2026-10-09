@@ -23,3 +23,5 @@
 ## 相关词条
 
 [天性](/zh/tianxing/) · [仙风道骨](/zh/xianfengdaogu/) · [完美人性的标准](/zh/perfect-human-nature/) · [教养·修养·涵养](/zh/jiaoyang-xiuyang-hanyang/) · [天性·秉性·习性](/zh/tianxing-bingxing-xixing/) · [超凡脱俗](/zh/chaofantuosu/) · [灵性人生](/zh/spiritual-life/) · [真善美爱信诚](/zh/six-qualities/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

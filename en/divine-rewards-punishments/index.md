@@ -51,3 +51,5 @@ slug: divine-rewards-punishments
 ## Related Entries
 
 [Karma · Retribution · Reincarnation](/en/karma-retribution-reincarnation/) · [The Tao](/en/dao/) · [The Greatest Creator](/en/greatest-creator/) · [Heavenly Bank](/en/heavenly-bank/) · [Hell](/en/hell/) · [Heavenly Treasures](/en/heavenly-treasures/) · [Levels of Life](/en/levels-of-life/) · [Cosmic Holography](/en/cosmic-holography/) · [Debt Repayment](/en/debt-repayment/) · [Life Visa](/en/life-visa/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

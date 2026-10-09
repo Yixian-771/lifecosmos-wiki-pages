@@ -106,3 +106,5 @@ The 2025 text *I Repent for My Own Selfishness* is notable: even the Guide subje
 ## Related Entries
 
 [Demonic Nature (Moxing)](/en/moxing/) · [Arrogance (Aoman)](/en/aoman/) · [Ego-Clinging (Wo-Zhi)](/en/wo-zhi/) · [Humility](/en/humility/) · [Gratitude](/en/gratitude/) · [Repentance](/en/repentance/) · [Letting Go](/en/letting-go/) · [No-Self, No-Form](/en/no-self-no-form/) · [Becoming a Celestial Being and a Buddha](/en/becoming-celestial-buddha/) · [Raise Vibrational Frequency](/en/raise-vibration-frequency/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

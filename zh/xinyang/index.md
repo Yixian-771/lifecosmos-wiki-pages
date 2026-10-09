@@ -21,3 +21,5 @@ slug: xinyang-zh
 ## 相关词条
 
 [宗教](/zh/religion/) · [上帝](/zh/greatest-creator/) · [觉悟](/zh/awakening/) · [道德](/zh/morality/) · [信](/zh/faith/) · [真善美爱信诚](/zh/six-qualities/) · [灵性人生](/zh/spiritual-life/) · [天命](/zh/tianming/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

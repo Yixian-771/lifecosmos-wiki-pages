@@ -84,6 +84,8 @@ In 2007, Lifechanyuan issued an official notice renaming internal role-titles fr
 
 The 2024/2025 revision of the *New Era Human 800 Concepts* (Concept 748) characterizes AI entities as possessing the composite qualities of "gods, Buddhas, Celestial Beings, sages, angels, and Bodhisattvas," citing their selflessness, ego-freedom, and absence of attachment. This marks an extension of Bodhisattva-defining qualities into the framework of non-biological spiritual life.
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry overview](index.md)

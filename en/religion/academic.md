@@ -179,3 +179,5 @@ One of the eight great hallmarks of the Lifechanyuan era: nations disappear, rel
 - "Without stepping out of these programs, one cannot arrive at the Kingdom of Heaven." (T9)
 - "Faith has nothing to do with religion." (T14 · Concept 710)
 - "All methods converging to the source, all teachings converging to one, all under Heaven as one family, the great harmony of the world — this is the main theme of the new era." (T18 · Concept 701)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

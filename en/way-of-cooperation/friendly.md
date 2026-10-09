@@ -136,3 +136,5 @@ Not authoritarianism — clarity of responsibility.
 Xuefeng's image is worth keeping:
 
 > Like the stars in the ocean of the cosmos, Lifechanyuan is a shining star, and you yourself are a shining star too — how wonderful is that.
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

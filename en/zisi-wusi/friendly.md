@@ -121,3 +121,5 @@ You don't need to become fully selfless overnight. But some starting points:
 ## Related Entries
 
 [Demonic Nature (Moxing)](/en/moxing/) · [Arrogance (Aoman)](/en/aoman/) · [Humility](/en/humility/) · [Gratitude](/en/gratitude/) · [Repentance](/en/repentance/) · [Letting Go](/en/letting-go/) · [No-Self, No-Form](/en/no-self-no-form/) · [Soul Garden](/en/soul-garden/) · [Becoming a Celestial Being and a Buddha](/en/becoming-celestial-buddha/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

@@ -118,3 +118,4 @@ title: 宇宙三要素（内部版）
 
 [意识](/zh/consciousness/) · [结构](/zh/structure/) · [能量](/zh/energy/) · [上帝](/zh/greatest-creator/) · [法眼](/zh/linyan/) · [浑沌（本体论）](/zh/hundun/) · [宇宙起源](/zh/universe-origin/) · [反物质结构](/zh/antimatter-structure/) · [提升振动频率](/zh/raise-vibration-frequency/)
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

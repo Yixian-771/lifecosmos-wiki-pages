@@ -268,3 +268,4 @@ parent: 爱
 - [心灵花园（学术版）](/zh/soul-garden/academic/) — 爱作为心灵花卉的理论框架
 - [仙岛群岛洲（学术版）](/zh/celestial-islands-continent/academic/) — 至爱者的终极归宿
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

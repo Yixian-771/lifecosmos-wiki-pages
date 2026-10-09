@@ -132,6 +132,8 @@ When one calculates and weighs pros and cons, one is not manifesting Tathagata n
 
 *(Xuefeng's Other Articles · 2012 · Answers to Questions About Sexual Energy and Practice)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry page](index.md)

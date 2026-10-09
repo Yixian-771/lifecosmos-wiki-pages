@@ -229,3 +229,5 @@ The "Four Adaptations" (Sì Suí 四随) are the core behavioral principles of i
 ─────────────────────────────
 
 Welcome to explore all eight versions of 【The Four Adaptations (Sì Suí)】: http://wiki.lifecosmos.org/en/si-sui/
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

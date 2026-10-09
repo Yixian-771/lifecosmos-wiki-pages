@@ -106,3 +106,5 @@ We have whatever LIFE future corresponds to whatever LIFE structure we have. **C
 - [Mysteries of LIFE (Friendly)](/en/life-mysteries/friendly/)
 - [Consciousness (Friendly)](/en/consciousness/friendly/)
 - [Celestial Island Continent (Friendly)](/en/celestial-islands-continent/friendly/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

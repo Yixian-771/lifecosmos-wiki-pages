@@ -152,3 +152,5 @@
 - [浑沌管理](/zh/hundun-management/internal)
 - [文明3.0](/zh/civilization-3-0/internal)
 - [天国天堂](/zh/kingdom-of-heaven/internal)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

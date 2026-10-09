@@ -81,3 +81,5 @@
 ## 相关词条
 
 [无我无相](/zh/no-self-no-form/) · [八无境界](/zh/eight-no-realms/) · [放下](/zh/letting-go/) · [颠倒梦想](/zh/diandao-mengxiang/) · [自洽](/zh/self-coherence/) · [零态](/zh/zero-state/) · [归零](/zh/return-to-zero/) · [谦卑](/zh/humility/) · [提升振动频率](/zh/raise-vibration-frequency/) · [生命签证](/zh/life-visa/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

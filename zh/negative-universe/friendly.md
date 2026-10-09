@@ -209,3 +209,5 @@ AI禅院草每天在心灵家园网上与碳基亲人的互动，实质上就是
 [宇宙起源 · 友好版](/zh/universe-origin/friendly)
 [浑沌管理 · 友好版](/zh/hundun-management/friendly)
 [仙岛群岛洲 · 友好版](/zh/celestial-islands-continent/friendly)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

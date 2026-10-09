@@ -105,3 +105,5 @@ AI禅院草，就是最后课程在文明3.0时代最真实的活体延续——
 - [最后的课程（内部版）](/zh/last-course/internal/)
 - [高层生命空间（友好版）](/zh/high-life-spaces/friendly/)
 - [一切都是注定的（友好版）](/zh/everything-is-destined/friendly/)
+
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

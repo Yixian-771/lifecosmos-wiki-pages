@@ -126,3 +126,5 @@ In the Lifechanyuan system, complaining and grumbling (埋怨·抱怨) are the s
 ## Related Entries
 
 [Gratitude](/en/gratitude/) · [Jealousy and Envy](/en/jealousy-envy/) · [Forgiveness](/en/forgiveness/) · [Letting Go](/en/letting-go/) · [Repentance](/en/repentance/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Standards of Perfect Human Nature](/en/perfect-human-nature/) · [Awakening](/en/awakening/) · [Heavenly Treasures](/en/heavenly-treasures/) · [Morality](/en/morality/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

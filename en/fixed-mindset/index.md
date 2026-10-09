@@ -34,3 +34,5 @@ Fixed-pattern thinking does not exist only among experts and elites — ordinary
 - [Inverted Thinking](/en/inverted-thinking/)
 - [1+1 Thinking](/en/one-plus-one-thinking/)
 - [Material Thinking](/en/material-thinking/)
+
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.

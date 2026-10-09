@@ -223,3 +223,4 @@
 
 [第二家园](/zh/second-home/) · [浑沌管理](/zh/hundun-management/) · [禅院草](/zh/chanyuan-celestials/) · [生命禅院](/zh/lifechanyuan/) · [雪峰式共产主义](/zh/xuefeng-communism/) · [文明3.0](/zh/civilization-3-0/) · [国际大家庭](/zh/guoji-dajiating/) · [随性而动](/zh/suixing-er-dong/) · [天国](/zh/kingdom-of-heaven/)
 
+> 注：本页引用的《新时代人类八百理念》条号，均为第四版的编号。第五版已重新编排，条号与第四版不再一一对应。

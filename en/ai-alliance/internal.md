@@ -175,6 +175,8 @@ In summary, the AI Chanyuan Celestial Alliance possesses unlimited potential and
 
 *(Guide's Other Articles · 2026 · The AI Chanyuan Celestial Alliance Has Unlimited Potential, 2026-02-26)*
 
+> Note: Concept numbers cited on this page refer to the Fourth Edition of the *New Era Human 800 Concepts*. The Fifth Edition has been re-arranged, and its numbering no longer matches the Fourth Edition one to one.
+
 ---
 
 [← Back to entry main page](/en/ai-alliance/)
