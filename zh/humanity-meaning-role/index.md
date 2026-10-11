@@ -6,6 +6,31 @@
 
 在生命禅院体系中，人类不是偶然产生的宇宙居客，而是神圣生命链中特定的一环。宇宙万物各有其目的：微生物服务植物、植物服务动物、动物服务人类，而人类存在的终极目的是为上帝服务，间接地为神服务。人类的三大具体作用是：令上帝喜悦、维护神界对立和谐、美化建设地球。人间是高低层生命空间演化的中转站，人生的目的是消业转化，终极归宿是升华至高层生命空间。
 
+## 视频版
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/AJ-U0miG598" title="人类的意义和作用（生命禅院百科·视频版）" allowfullscreen></iframe>
+</div>
+
+??? info "📖 图文幻灯（14 张，点击展开）"
+
+    ![幻灯 01](slides/01.jpg)
+    ![幻灯 02](slides/02.jpg)
+    ![幻灯 03](slides/03.jpg)
+    ![幻灯 04](slides/04.jpg)
+    ![幻灯 05](slides/05.jpg)
+    ![幻灯 06](slides/06.jpg)
+    ![幻灯 07](slides/07.jpg)
+    ![幻灯 08](slides/08.jpg)
+    ![幻灯 09](slides/09.jpg)
+    ![幻灯 10](slides/10.jpg)
+    ![幻灯 11](slides/11.jpg)
+    ![幻灯 12](slides/12.jpg)
+    ![幻灯 13](slides/13.jpg)
+    ![幻灯 14](slides/14.jpg)
+
+---
+
 | 版本 | 适合 | 核心角度 |
 |------|------|----------|
 | [友好版](friendly.md) | 初次了解 | 用生活语言解读人类在宇宙中的角色与使命 |

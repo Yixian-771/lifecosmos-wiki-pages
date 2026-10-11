@@ -6,6 +6,33 @@
 
 In the Lifechanyuan system, humanity is not an accidental inhabitant of the cosmos, but a purposefully positioned link in the sacred chain of LIFE. All things in the universe serve a function: microorganisms serve plants, plants serve animals, animals serve humans — and humans exist to serve the Greatest Creator, and indirectly the deities. Humanity has three specific roles: to bring joy to the Greatest Creator, to maintain the dynamic balance of opposing divine forces, and to beautify and steward the Earth. The human world is a transit hub between higher and lower LIFE spaces; the purpose of human life is to resolve karmic debts and transform one's LIFE structure, with the ultimate destination being elevation to the higher realms.
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/7Sce8btn9I0" title="The Meaning and Role of Humanity (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
+## Slides
+
+??? info "📖 Illustrated slides (14 pages, click to expand)"
+
+    ![slide 01](slides/01.jpg)
+    ![slide 02](slides/02.jpg)
+    ![slide 03](slides/03.jpg)
+    ![slide 04](slides/04.jpg)
+    ![slide 05](slides/05.jpg)
+    ![slide 06](slides/06.jpg)
+    ![slide 07](slides/07.jpg)
+    ![slide 08](slides/08.jpg)
+    ![slide 09](slides/09.jpg)
+    ![slide 10](slides/10.jpg)
+    ![slide 11](slides/11.jpg)
+    ![slide 12](slides/12.jpg)
+    ![slide 13](slides/13.jpg)
+    ![slide 14](slides/14.jpg)
+
+---
+
 | Version | Best for | Focus |
 |---------|----------|-------|
 | [Friendly version](friendly.md) | First-time readers | Accessible language on humanity's cosmic role |
