@@ -20,7 +20,7 @@ These two projects are already being implemented. No one has a choice in this, a
 ## Video
 
 <div style="max-width:760px">
-<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/7YSRHnCXj2s" title="Two Enormous Projects (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/yxa2vfah_jE" title="Two Enormous Projects (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
 </div>
 
 ## Slides

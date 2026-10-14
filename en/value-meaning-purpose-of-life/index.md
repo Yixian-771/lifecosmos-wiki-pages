@@ -11,7 +11,7 @@
 ## Video
 
 <div style="max-width:760px">
-<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/-FIrha3so-k" title="The Value, Meaning and Purpose of Life (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/Fl2y5hXJusk" title="The Value, Meaning and Purpose of Life (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
 </div>
 
 ## Slides

@@ -11,7 +11,7 @@
 ## Video
 
 <div style="max-width:760px">
-<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/RQUYagF0ink" title="The Peak of Life and Being (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/i-ySqWraWDk" title="The Peak of Life and Being (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
 </div>
 
 ## Slides

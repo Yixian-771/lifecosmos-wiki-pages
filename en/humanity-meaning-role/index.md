@@ -9,7 +9,7 @@ In the Lifechanyuan system, humanity is not an accidental inhabitant of the cosm
 ## Video
 
 <div style="max-width:760px">
-<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/7Sce8btn9I0" title="The Meaning and Role of Humanity (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/k_Iuc092D-M" title="The Meaning and Role of Humanity (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
 </div>
 
 ## Slides

@@ -9,7 +9,7 @@
 ## 视频版
 
 <div style="max-width:760px">
-<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/wX_XFEYmVXE" title="人生和生命的巅峰（生命禅院百科·视频版）" allowfullscreen></iframe>
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/_I0nQ11ZziY" title="人生和生命的巅峰（生命禅院百科·视频版）" allowfullscreen></iframe>
 </div>
 
 ??? info "📖 图文幻灯（14 张，点击展开）"

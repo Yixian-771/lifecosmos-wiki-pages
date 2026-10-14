@@ -5,7 +5,7 @@
 ## 视频版
 
 <div style="max-width:760px">
-<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/T8XK6CJ3Tzk" title="坚守理念·信靠家园（生命禅院百科·视频版）" allowfullscreen></iframe>
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/casl8q8G6T4" title="坚守理念·信靠家园（生命禅院百科·视频版）" allowfullscreen></iframe>
 </div>
 
 ??? info "📖 图文幻灯（14 张，点击展开）"
