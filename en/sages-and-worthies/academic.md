@@ -39,17 +39,17 @@ The Lifechanyuan classification departs from conventional moral typologies (e.g.
 |------|---------------|-----------|
 | Muddled (*húnrén*) | Instinct | Disordered, directionless |
 | Worldly (*súrén*) | Desire/interest | Profit-maximizing, manipulative |
-| Common (*fánrén*) | Emotion | Entrapped in family bonds, perpetually dissatisfied |
+| Ordinary (*fánrén*) | Emotion | Entrapped in family bonds, perpetually dissatisfied |
 | **Worthy** (*xiánrén*) | **Reason** | **Civilized, balanced, morally grounded** |
 | **Sage** (*shèngrén* / *xiān*) | **Spirituality** | **Resonant with the Tao, beyond time and space** |
 
 Critically, transitions between tiers are **qualitative transformations** of the dominant motivational force — not accumulations within the same mode. The Worthy does not become a Sage by accumulating more reason; rather, the Sage is one who has undergone a fundamental shift from rational governance to spiritual resonance.
 
-### 2.2 The Worthy: Virtuous Threshold Figure
+### 2.2 The Worthy: The Threshold Figure
 
 The Worthy occupies a structurally unique position: simultaneously a **destination** for the lower tiers and a **departure point** for sagehood.
 
-As destination: for the Muddled, Worldly, and Common, the Worthy represents an aspirational model — principled, clear-headed, joyful, free from the compulsions of instinct, greed, and family entanglement.
+As destination: for the Muddled, Worldly, and Ordinary, the Worthy represents an aspirational model — principled, clear-headed, joyful, free from the compulsions of instinct, greed, and family entanglement.
 
 As departure point: the Worthy stands "one step from truth" — a figure holding a dead vine over a precipice, waiting for rescue. That one step is the release of the entire rational framework itself: "Unless one abandons all one's thinking patterns and empties the mind, the Worthy can only ever remain a Worthy."
 

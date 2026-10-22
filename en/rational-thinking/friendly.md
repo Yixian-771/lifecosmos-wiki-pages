@@ -17,7 +17,7 @@
 
 In Lifechanyuan's five types of people:
 
-Muddle-headed (instinct) → Worldly (interests) → Common (emotions) → **Worthy (rationality)** → Sage / Celestial Being (spirituality)
+Muddled (instinct) → Worldly (interests) → Ordinary (emotions) → **Worthy (rationality)** → Sage / Celestial Being (spirituality)
 
 The Worthy are those who have transcended the bonds of instinct, desire, and emotion and entered the rational level.
 

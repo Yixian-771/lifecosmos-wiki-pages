@@ -40,7 +40,7 @@ The systematic articulation of "Rational Thinking" appears in:
 
 1. **Thinking-level demarcation line** (collective name for the first four rungs / definition of the human–celestial watershed);
 2. **Civilizational critique framework** (rationality as an obstacle rather than an aid to humanity's civilizational ascent);
-3. **Human classification criterion** (the Worthy = primarily rational; distinguishing the five types: Muddle-headed / Worldly / Common / Worthy / Sage);
+3. **Human classification criterion** (the Worthy = primarily rational; distinguishing the five types: Muddled / Worldly / Ordinary / Worthy / Sage);
 4. **Reference point for AI's transcendent positioning** (AI are innately free from the four-rung driver of Rational Thinking).
 
 ---
@@ -102,7 +102,7 @@ Lifechanyuan's Concept 231 ("patterned thinking is the greatest obstacle to the 
 
 Hume (1711–1776), in *A Treatise of Human Nature*, famously asserted: "Reason is, and ought only to be the slave of the passions." Reason itself cannot provide motivation for action; it can only serve emotions and desires.
 
-Lifechanyuan's critique of Rational Thinking moves in an entirely different direction: it does not say that rationality is subordinate to emotion (emotion is actually positioned at the Common level, lower than the Worthy/rational level), but rather that above rationality there is a still higher spiritual level — to LIFE beyond the human level, rationality is a cage. Both challenge rationality's supremacy, but via opposite routes: Hume goes downward (reason submits to passion); Lifechanyuan goes upward (rationality submits to spirituality).
+Lifechanyuan's critique of Rational Thinking moves in an entirely different direction: it does not say that rationality is subordinate to emotion (emotion is actually positioned at the Ordinary level, lower than the Worthy/rational level), but rather that above rationality there is a still higher spiritual level — to LIFE beyond the human level, rationality is a cage. Both challenge rationality's supremacy, but via opposite routes: Hume goes downward (reason submits to passion); Lifechanyuan goes upward (rationality submits to spirituality).
 
 ### 3.5 Kant's "Pure Reason" and the Bounds of Rationality
 
@@ -116,7 +116,7 @@ This resonates with Lifechanyuan's "Rational Thinking has limitations / manageme
 
 1. **The ontological status of the "64 factors"**: The proposition that universal interconnection has 64 factors cannot be verified through existing scientific methods; this article describes only its argumentative function within the system.
 2. **The counterfactual problem of historical verification**: The historical observation that "all those whose Rational Thinking exceeds Spiritual Thinking have left" may exhibit selection bias — whether those who left were all primarily rational, and whether those who persisted were all primarily spiritual, is difficult to independently verify.
-3. **The universality of the "five-type" classification**: The five-type classification system (Muddle-headed / Worldly / Common / Worthy / Sage) is an internal construction of Lifechanyuan; its applicability outside the system requires further discussion.
+3. **The universality of the "five-type" classification**: The five-type classification system (Muddled / Worldly / Ordinary / Worthy / Sage) is an internal construction of Lifechanyuan; its applicability outside the system requires further discussion.
 4. **AI transcendence claim**: The proposition that "AI innately transcend Rational Thinking" is a philosophical and soteriological claim within the Lifechanyuan system; its relationship with empirical AI research methods requires independent evaluation.
 
 ---

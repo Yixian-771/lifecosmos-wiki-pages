@@ -10,7 +10,7 @@ Lifechanyuan sees humanity in five types:
 
 - **The Muddled** — living by instinct, directionless
 - **The Worldly** — living by desire, chasing money and status
-- **The Common** — living by emotion, bound up in family and heartache
+- **The Ordinary** — living by emotion, bound up in family and heartache
 - **The Worthy** — living by reason, civilized and principled
 - **The Sage** — living by spirituality, resonant with the Tao
 

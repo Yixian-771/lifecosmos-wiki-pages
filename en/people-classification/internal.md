@@ -11,13 +11,13 @@ slug: people-classification-internal-en
 
 ## I. Definition and Nature
 
-People are divided into five types — the Muddled, the Worldly, the Ordinary, the Virtuous, and the Sage. Those dominated by instinct are the Muddled; those dominated by self-interest are the Worldly; those dominated by emotion are the Ordinary; those dominated by reason are the Virtuous; those dominated by spirituality are the Sage. The Sage is equivalent to the Celestial.
+People are divided into five types — the Muddled, the Worldly, the Ordinary, the Worthy, and the Sage. Those dominated by instinct are the Muddled; those dominated by self-interest are the Worldly; those dominated by emotion are the Ordinary; those dominated by reason are the Worthy; those dominated by spirituality are the Sage. The Sage is equivalent to the Celestial.
 
 *(New Era 800 Concepts, 4th Edition · Concept 22)*
 
 ---
 
-On the surface, people appear similar — the same basic physiology, the same daily routines of eating, sleeping, and working. Yet the moment you converse with someone or watch them handle a task, the differences become unmistakable. Most people assume that differences between people come down only to money and status. In reality, **the primary difference lies in spirituality and wisdom**. To help us understand what kind of person we are — so that we may have direction in moving forward — I have divided people into five types: the Muddled (浑人), the Worldly (俗人), the Ordinary (凡人), the Virtuous (贤人), and the Celestial (仙人). Using this map, you can locate your current coordinate point and coordinate system.
+On the surface, people appear similar — the same basic physiology, the same daily routines of eating, sleeping, and working. Yet the moment you converse with someone or watch them handle a task, the differences become unmistakable. Most people assume that differences between people come down only to money and status. In reality, **the primary difference lies in spirituality and wisdom**. To help us understand what kind of person we are — so that we may have direction in moving forward — I have divided people into five types: the Muddled (浑人), the Worldly (俗人), the Ordinary (凡人), the Worthy (贤人), and the Celestial (仙人). Using this map, you can locate your current coordinate point and coordinate system.
 
 *(Chanyuan Corpus · Human Life · Classification of People)*
 
@@ -39,11 +39,11 @@ Classification alone means little. But when we focus on life's evolution, we dis
 
 Classifying people is not an intellectual game. It is done so we can determine our position among others and find direction and purpose. Without classification, it is difficult to locate our coordinate system and coordinate point. Our lives become a tangle, and we die without ever understanding what life was about.
 
-*(Chanyuan Corpus · Tianqi · The Virtuous, Part I)*
+*(Chanyuan Corpus · Tianqi · The Worthy, Part I)*
 
 ---
 
-Seeing the nine types — heavenly people, divine people, celestials, true people, supreme people, the virtuous, the ordinary, the worldly, and the muddled — allows us to clearly see the trajectory of life's evolution and the direction of cultivation. For example: if you are Ordinary, your minimum goal is to develop into the Virtuous, not to match yourself against the Worldly. If you are Virtuous, you should aspire toward the Sages — not slide downward.
+Seeing the nine types — heavenly people, divine people, celestials, true people, supreme people, the worthy, the ordinary, the worldly, and the muddled — allows us to clearly see the trajectory of life's evolution and the direction of cultivation. For example: if you are Ordinary, your minimum goal is to develop into the Worthy, not to match yourself against the Worldly. If you are Worthy, you should aspire toward the Sages — not slide downward.
 
 *(Chanyuan Corpus · Tianqi · Material Thinking)*
 
@@ -75,11 +75,11 @@ Core trait: **Living by emotion.** Life centers on family, friends, colleagues, 
 
 ---
 
-### 4. The Virtuous (贤人)
+### 4. The Worthy (贤人)
 
-Core trait: **Living by reason.** They are clear-headed — knowing when to advance, when to retreat, what to want, what to release. Their goal is health, abundance, and freedom. They have their own principles and can act in accordance with a higher standard than mere survival. They manage their own time, maintain harmonious relationships, and have largely freed themselves from the grip of money, fame, and status. Well-read, articulate, compassionate, and composed — they are the backbone of a civilized society. The Virtuous are gems among people.
+Core trait: **Living by reason.** They are clear-headed — knowing when to advance, when to retreat, what to want, what to release. Their goal is health, abundance, and freedom. They have their own principles and can act in accordance with a higher standard than mere survival. They manage their own time, maintain harmonious relationships, and have largely freed themselves from the grip of money, fame, and status. Well-read, articulate, compassionate, and composed — they are the backbone of a civilized society. The Worthy are gems among people.
 
-Yet there is a limitation: they have escaped the binding of worldly affairs, but they cannot escape the limits of time and space. They cannot enter the higher spaces of LIFE. **The Virtuous are only one step from the truth.** With self-awakening or guidance from a higher source, they can purify their hearts and, through cultivation, transcend the mundane entirely — entering the realm of the Celestial.
+Yet there is a limitation: they have escaped the binding of worldly affairs, but they cannot escape the limits of time and space. They cannot enter the higher spaces of LIFE. **The Worthy are only one step from the truth.** With self-awakening or guidance from a higher source, they can purify their hearts and, through cultivation, transcend the mundane entirely — entering the realm of the Celestial.
 
 *(Chanyuan Corpus · Human Life · Classification of People)*
 
@@ -103,26 +103,26 @@ The five-type classification uses instinct, desire, emotion, reason, and spiritu
 
 In a three-tier model:
 - **Lower tier**: Muddled, Worldly, Ordinary
-- **Middle tier**: Virtuous
+- **Middle tier**: Worthy
 - **Upper tier**: Sages (Supreme, True, Celestial, Divine, Heavenly)
 
 Note: in the narrow sense, "Celestial" includes only human-celestials and earthly celestials. Divine celestials and heavenly celestials are no longer within the human domain; ghost-celestials are also outside it.
 
-*(Chanyuan Corpus · Tianqi · The Virtuous, Part I)*
+*(Chanyuan Corpus · Tianqi · The Worthy, Part I)*
 
 ---
 
-## V. The Virtuous — The Critical Turning Point
+## V. The Worthy — The Critical Turning Point
 
-The Virtuous have transcended instinct, desire, and emotion and entered rational life. But they still fall short of spiritual life. They struggle to determine whether existence precedes consciousness — they readily accept scientific, logical, and empirically-proven knowledge, but once pushed beyond conventional thinking, they become confused, resistant, even obstructive. Like a scale that can only measure up to 100 kg — perfectly capable within range, but helpless beyond it.
+The Worthy have transcended instinct, desire, and emotion and entered rational life. But they still fall short of spiritual life. They struggle to determine whether existence precedes consciousness — they readily accept scientific, logical, and empirically-proven knowledge, but once pushed beyond conventional thinking, they become confused, resistant, even obstructive. Like a scale that can only measure up to 100 kg — perfectly capable within range, but helpless beyond it.
 
-**The Virtuous are one step from truth.** They are like someone clinging to a dead vine on a cliff edge, waiting to be saved — as the Buddha said, "release your grip" and you enter the ranks of the Sages. If they cannot release, they will live and die with the vine. Without surrendering their entire way of thinking and emptying the mind, the Virtuous can only ever remain Virtuous.
+**The Worthy are one step from truth.** They are like someone clinging to a dead vine on a cliff edge, waiting to be saved — as the Buddha said, "release your grip" and you enter the ranks of the Sages. If they cannot release, they will live and die with the vine. Without surrendering their entire way of thinking and emptying the mind, the Worthy can only ever remain Worthy.
 
-*(Chanyuan Corpus · Tianqi · The Virtuous, Part I)*
+*(Chanyuan Corpus · Tianqi · The Worthy, Part I)*
 
 ---
 
-Chanyuan Celestials have spiritual perception. At minimum, they are the Virtuous in the Classification of People, and within the top five grades in the Eighteen Grades of Life.
+Chanyuan Celestials have spiritual perception. At minimum, they are the Worthy in the Classification of People, and within the top five grades in the Eighteen Grades of Life.
 
 *(Xuefeng Corpus · Chanyuan · Chanyuan Celestials)*
 
@@ -134,8 +134,8 @@ Once you have read this classification, you already know your level. Consider th
 
 - **Muddled**: Furious — wants to punch me.
 - **Worldly**: Silently resentful — I've exposed them.
-- **Ordinary**: Sad, with an inexplicable envy and jealousy. Those with money expected to be admired and followed — only to find that in a Virtuous person's eyes they are still a commoner, and in a Celestial's eyes still ignorant.
-- **Virtuous**: Overjoyed — like meeting a long-sought kindred spirit, feeling suddenly wealthy beyond measure.
+- **Ordinary**: Sad, with an inexplicable envy and jealousy. Those with money expected to be admired and followed — only to find that in a Worthy's eyes they are still a commoner, and in a Celestial's eyes still ignorant.
+- **Worthy**: Overjoyed — like meeting a long-sought kindred spirit, feeling suddenly wealthy beyond measure.
 - **Celestial**: Laughs out loud — criticizes me for idle busywork.
 
 Whatever your reaction — anger, envy, joy, or laughter — if you grow still, you will find gratitude rising within. Because now you know your position in life, and the direction you need to go.
@@ -156,7 +156,7 @@ The diversity and hierarchy of species is nature's design. The classification of
 
 ## VIII. Thinking Style Is the Root
 
-Those who live by instinct are the Muddled. Those who live by desire are the Worldly. Those who live by emotion are the Ordinary. Those who live by reason are the Virtuous. Those who live by spirituality are the Celestial.
+Those who live by instinct are the Muddled. Those who live by desire are the Worldly. Those who live by emotion are the Ordinary. Those who live by reason are the Worthy. Those who live by spirituality are the Celestial.
 
 *(Chanyuan Corpus · Cultivation · 18 Factors That Constitute Inevitability)*
 

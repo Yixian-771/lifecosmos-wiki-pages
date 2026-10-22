@@ -5,7 +5,7 @@ slug: people-classification-en
 
 # Classification of People
 
-The Classification of People is Lifechanyuan's systematic framework for understanding the spiritual levels of human beings. Based on which inner force predominates in a person's life — instinct, desire, emotion, reason, or spirituality — people are divided into five types: **the Muddled, the Worldly, the Ordinary, the Virtuous, and the Celestial**. This classification is not a moral judgment but a map: it helps each person find their "coordinate point," understand their current level, and determine the direction of their life's evolution.
+The Classification of People is Lifechanyuan's systematic framework for understanding the spiritual levels of human beings. Based on which inner force predominates in a person's life — instinct, desire, emotion, reason, or spirituality — people are divided into five types: **the Muddled, the Worldly, the Ordinary, the Worthy, and the Celestial**. This classification is not a moral judgment but a map: it helps each person find their "coordinate point," understand their current level, and determine the direction of their life's evolution.
 
 > The difference between people lies mainly in spirituality and wisdom — not in wealth or social status.
 

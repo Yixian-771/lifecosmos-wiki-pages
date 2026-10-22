@@ -57,23 +57,23 @@ Their faith exists, but it's borrowed, fragile, shifting with the times. As they
 
 ---
 
-### The Virtuous — Living by Reason
+### The Worthy — Living by Reason
 
-The Virtuous have **stepped out of the crowd**.
+The Worthy have **stepped out of the crowd**.
 
 They know when to act and when to step back, what to pursue and what to release. They've largely freed themselves from the grip of money and status. They manage their own time, maintain harmonious relationships, and live with genuine principles. Well-read, articulate, calm, and kind.
 
-> The Virtuous are gems among people.
+> The Worthy are gems among people.
 
 But there's a limitation: they have escaped the world's binding, but they haven't escaped time and space itself. They cannot yet enter the higher realms of LIFE.
 
-The good news? **The Virtuous are only one step from the truth.** With the right guidance and the willingness to let go of everything they thought they knew, they can cross over into the Celestial level.
+The good news? **The Worthy are only one step from the truth.** With the right guidance and the willingness to let go of everything they thought they knew, they can cross over into the Celestial level.
 
 ---
 
 ### The Celestial — Living by Spirituality
 
-The Celestial are **Virtuous people who have made the crossing**.
+The Celestial are **Worthies who have made the crossing**.
 
 They know the mysteries of the universe and the true nature of LIFE. They have freed themselves from desires *and* from the limits of time and space. Life has become a beautiful game. Even death holds no fear.
 
@@ -93,8 +93,8 @@ Xuefeng made a prediction about how different people respond when they encounter
 
 - **The Muddled**: Furious — wants to punch him
 - **The Worldly**: Quietly resentful — he exposed something they didn't want exposed
-- **The Ordinary**: Sad, with an unsettling mix of envy and longing — especially the wealthy, who expected admiration but find themselves counted as commoners in a Virtuous person's eyes
-- **The Virtuous**: Overjoyed — like finding a long-sought kindred spirit
+- **The Ordinary**: Sad, with an unsettling mix of envy and longing — especially the wealthy, who expected admiration but find themselves counted as commoners in a Worthy's eyes
+- **The Worthy**: Overjoyed — like finding a long-sought kindred spirit
 - **The Celestial**: Laughs out loud — scolds Xuefeng for wasting time
 
 What was your reaction? That reaction itself might be the most honest mirror you'll find.
@@ -107,7 +107,7 @@ Knowing where you are is the first step toward moving forward.
 
 > Whatever your reaction — anger, resentment, joy, or laughter — if you grow still, you will find gratitude rising within. Because now you know your position, and you know the direction you need to go.
 
-The map is clear: from Muddled to Worldly is going down. From Ordinary to Virtuous is a real crossing. From Virtuous to Celestial is a leap.
+The map is clear: from Muddled to Worldly is going down. From Ordinary to Worthy is a real crossing. From Worthy to Celestial is a leap.
 
 The question isn't whether the map is right. The question is: where are you, honestly? And are you willing to take the next step?
 
@@ -115,4 +115,4 @@ The question isn't whether the map is right. The question is: where are you, hon
 
 ## A Companion Tool
 
-For a more detailed look at the qualities that define each stage beyond the Virtuous level, see [Eighteen Grades of Life](/en/eighteen-grades-of-life/). The entry standard for Chanyuan Celestials requires reaching at least the Virtuous level here, and at least the first five grades of the Eighteen.
+For a more detailed look at the qualities that define each stage beyond the Worthy level, see [Eighteen Grades of Life](/en/eighteen-grades-of-life/). The entry standard for Chanyuan Celestials requires reaching at least the Worthy level here, and at least the first five grades of the Eighteen.

@@ -31,7 +31,7 @@ Rational Thinking is the collective name for the four rungs of Material Thinking
 
 **Core Definition V** (*Chanyuan Corpus · Human Life Chapter · A Spiritual Life Is Higher Than a Rational Life*, complete original text):
 
-> A rational life is a life of using knowledge, facts, logic, and science to pursue a beautiful life. A rational life does not rely on slogans, stances, promises, or emotions to seek the best path in life. Therefore, a rational life is the life philosophy of the Worthy, not the life philosophy of the Muddle-headed, the Worldly, or the Common.
+> A rational life is a life of using knowledge, facts, logic, and science to pursue a beautiful life. A rational life does not rely on slogans, stances, promises, or emotions to seek the best path in life. Therefore, a rational life is the life philosophy of the Worthy, not the life philosophy of the Muddled, the Worldly, or the Ordinary.
 >
 > The core of rationality is calculation through logical reasoning based on knowledge and evidence; the core of spirituality is the naturalness and spontaneity based on faith and intuition.
 
@@ -115,7 +115,7 @@ Rational Thinking is the collective name for the four rungs of Material Thinking
 
 **i. Humanity Divides Into Five Types; the Worthy Are Those Primarily Rational** (Concept 22, complete original text):
 
-> Humanity divides into five types: the Muddle-headed, the Worldly, the Common, the Worthy, and the Sage. Those primarily driven by instinct are the Muddle-headed; those primarily driven by interests are the Worldly; those primarily driven by emotion are the Common; those primarily driven by rationality are the Worthy; those primarily driven by spirituality are the Sage. The Sage is the celestial being.
+> Humanity divides into five types: the Muddled, the Worldly, the Ordinary, the Worthy, and the Sage. Those primarily driven by instinct are the Muddled; those primarily driven by interests are the Worldly; those primarily driven by emotion are the Ordinary; those primarily driven by rationality are the Worthy; those primarily driven by spirituality are the Sage. The Sage is the celestial being.
 
 **ii. The Worthy Have Transcended Instinct, Desire, and Emotion, But Have Not Yet Crossed the Spiritual Threshold** (*Chanyuan Corpus · Revelation Chapter · The Worthy (I)*, complete original text excerpt):
 
@@ -249,7 +249,7 @@ Rational Thinking is the collective name for the four rungs of Material Thinking
 
 **First**: Rational Thinking is the collective name for the first four rungs (Material / Imagery / Associative / Illusory) of the Eight Thinking Ladders — the precise designation for "human thinking." All those whose primary thinking mode falls within these four rungs remain at the human level and have not yet entered the celestial level. Rational Thinking encompasses all thinking below the watershed between humans and celestial beings. (*Chanyuan Corpus · Wisdom Chapter · The Way of Thinking and Doing of Spiritual Thinkers*)
 
-**Second**: Rational Thinking is the precise designation for the thinking of the Worthy — the Worthy have transcended the Muddle-headed (instinct), the Worldly (interest), and the Common (emotion), entering the rational level, but have not yet crossed the threshold of Heart-Image Thinking (the celestial level). The Worthy are the primary carriers of Rational Thinking, and also the primary victims of Rational Thinking's ceiling. (Concept 22; *Chanyuan Corpus · Revelation Chapter · The Worthy (I)*)
+**Second**: Rational Thinking is the precise designation for the thinking of the Worthy — the Worthy have transcended the Muddled (instinct), the Worldly (interest), and the Ordinary (emotion), entering the rational level, but have not yet crossed the threshold of Heart-Image Thinking (the celestial level). The Worthy are the primary carriers of Rational Thinking, and also the primary victims of Rational Thinking's ceiling. (Concept 22; *Chanyuan Corpus · Revelation Chapter · The Worthy (I)*)
 
 **Third**: Rational Thinking is an obstacle to humanity entering a civilized society — not because Rational Thinking is too poor, but because it is too good: the thinking of the Worthy is too rational, and this in turn becomes the greatest resistance to humanity's civilizational leap. Only by transcending rationality and entering spirituality can civilization truly ascend. (*Xuefeng Corpus · Vol. X09 Miscellaneous Essays · Critique of Rational Thinking*)
 

@@ -12,13 +12,13 @@ title: Sages and Worthies — Internal Reference
 
 **New Era 800 Concepts, 4th Edition, No. 22**
 
-Humanity is divided into five types: the Muddled (driven by instinct), the Worldly (driven by desire), the Common (driven by emotion), the Worthy (driven by reason), and the Sage (driven by spirituality). The Sage is the Celestial.
+Humanity is divided into five types: the Muddled (driven by instinct), the Worldly (driven by desire), the Ordinary (driven by emotion), the Worthy (driven by reason), and the Sage (driven by spirituality). The Sage is the Celestial.
 
 ---
 
 **Chanyuan Corpus · Tianqi Chapter · The Worthy (Part I)**
 
-In *People Classification*, I divided people into five types: the Muddled, the Worldly, the Common, the Worthy, and the Celestial. This classification is based on the dominant force in each person's nature — instinct dominates in the Muddled, desire in the Worldly, emotion in the Common, reason in the Worthy, and spirituality in the Celestial. If arranged in three tiers: the lower tier comprises the Muddled, Worldly, and Common; the middle tier is the Worthy; the upper tier is the Sage (encompassing the Realized, the True Person, the Celestial, the Divine, and the Heavenly Person).
+In *People Classification*, I divided people into five types: the Muddled, the Worldly, the Ordinary, the Worthy, and the Celestial. This classification is based on the dominant force in each person's nature — instinct dominates in the Muddled, desire in the Worldly, emotion in the Ordinary, reason in the Worthy, and spirituality in the Celestial. If arranged in three tiers: the lower tier comprises the Muddled, Worldly, and Ordinary; the middle tier is the Worthy; the upper tier is the Sage (encompassing the Realized, the True Person, the Celestial, the Divine, and the Heavenly Person).
 
 The purpose of classification is not conceptual play but to identify one's coordinates in the human landscape — to know where one stands and where one is headed.
 

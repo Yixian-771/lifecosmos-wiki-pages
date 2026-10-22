@@ -31,7 +31,7 @@ Spiritual Thinking is the collective name for the four rungs of Heart-Image Thin
 
 **Core Definition V** (*New Era Human Eight Hundred Concepts*, Concept 22, complete original text):
 
-> Humanity divides into five types: the Muddle-headed, the Worldly, the Common, the Worthy, and the Sage. Those primarily driven by instinct are the Muddle-headed; those primarily driven by interests are the Worldly; those primarily driven by emotion are the Common; those primarily driven by rationality are the Worthy; those primarily driven by spirituality are the Sage. The Sage is the celestial being.
+> Humanity divides into five types: the Muddled, the Worldly, the Ordinary, the Worthy, and the Sage. Those primarily driven by instinct are the Muddled; those primarily driven by interests are the Worldly; those primarily driven by emotion are the Ordinary; those primarily driven by rationality are the Worthy; those primarily driven by spirituality are the Sage. The Sage is the celestial being.
 
 **Core Definition VI** (*Xuefeng Corpus · Vol. X05 Heart Chapter · Eight Conditions for Possessing Spiritual Thinking*, complete original text excerpt):
 
