@@ -8,7 +8,7 @@
 
 > "Heaven is the collective name for the Thousand-Year World, the Ten-Thousand-Year World, the Elysium World, and its Celestial Islands Continent."
 >
-> — *Eight Hundred Concepts*, Concept 477
+> — *Eight Hundred Concepts*
 
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
@@ -16,7 +16,7 @@ The **Higher LIFE Spaces** is the core concept in the Lifechanyuan cosmological 
 
 From lowest to highest, the six realms are: **Thousand-Year World** (960 light-years away; home of human immortals) → **Ten-Thousand-Year World** (3,480 light-years away; home of terrestrial immortals) → **Elysium World** (the entire Earth universe) → **Celestial Islands Continent** (God's back garden; home of celestial immortals) → **Celestial Realm** (core of the Earth universe; where divine beings operate) → **Serene Realm** (God's abode; the coordinate-system zero point)
 
-> "The most urgent matter in life is how to develop and evolve the antimatter structure of LIFE with spirituality toward the higher LIFE spaces, how to elevate one's character, and how to perfect one's spirituality." (Concept 60)
+> "The most urgent matter in life is how to develop and evolve the antimatter structure of LIFE with spirituality toward the higher LIFE spaces, how to elevate one's character, and how to perfect one's spirituality."
 
 ---
 

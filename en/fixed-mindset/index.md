@@ -4,7 +4,7 @@
 
 > Fixed-pattern thinking is the greatest obstacle to the advance of human civilization.
 >
-> — *Eight Hundred Concepts for the New Era of Humanity*, Concept 231
+> — *Eight Hundred Concepts for the New Era of Humanity*
 
 > Once our thinking forms a fixed pattern, we become a force of resistance against the advance of human civilization. Without realizing it, we obstruct the development and progress of human civilization. We transform from reformers into conservatives, from progressives into reactionaries.
 >

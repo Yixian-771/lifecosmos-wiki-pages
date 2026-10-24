@@ -12,7 +12,7 @@
 >
 > Love: the more it is released, the more abundant the energy; the more it is hoarded, the more impoverished the energy.
 >
-> — *New Era Human 800 Concepts*, Articles 97 and 240
+> — *New Era Human 800 Concepts*
 
 ---
 

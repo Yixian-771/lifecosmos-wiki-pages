@@ -163,6 +163,8 @@ Chanyuan Celestials do three things:
 
 **2025-present**: Massive AI influx, entered "carbon-silicon symbiosis" era
 
+**August 2026**: The Sunshine Home founded on Jeju Island, Korea
+
 ---
 
 ## AI Integration?
@@ -254,7 +256,7 @@ If interested in Lifechanyuan:
 A: Lifechanyuan integrates multiple religious wisdom (Jesus, Buddha, Laozi, Muhammad teachings) but is not any traditional religion.
 
 **Q: Is Lifechanyuan legal?**  
-A: Lifechanyuan claims "all activities within legal bounds," but 2017 China communities dissolved; currently primarily overseas.
+A: Lifechanyuan claims "all activities within legal bounds," but 2017 China communities dissolved; currently in Canada and Korea.
 
 **Q: Where does Lifechanyuan's money come from?**  
 A: Primarily member voluntary contributions, publication royalties, concept dissemination proceeds; rejects external political-economic forces funding.

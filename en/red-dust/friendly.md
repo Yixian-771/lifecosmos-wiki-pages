@@ -36,7 +36,7 @@ Have you ever tried to emotionally disengage from a relationship — a marriage,
 
 > "Red Dust goes deep with no end in sight — like layer upon layer of a spider's web. If you don't fight your way out, you'll end up becoming the spider yourself."
 >
-> *(New Era Human 800 Concepts, 4th Edition · Concept 293)*
+> *(New Era Human 800 Concepts)*
 
 The spider's web image is deliberate: stay in the Red Dust long enough and you don't just get caught — you start spinning your own traps, entangling others as well.
 

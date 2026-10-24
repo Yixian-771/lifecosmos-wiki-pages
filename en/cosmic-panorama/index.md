@@ -13,7 +13,7 @@
 
 > The universe exists for LIFE; LIFE exists for the universe. Should LIFE perish, the universe collapses; should the universe die, LIFE is extinguished.
 >
-> — Concept 405
+> — *New Era Human 800 Concepts*
 
 ---
 
@@ -50,7 +50,7 @@ The Cosmic Panorama is not decorative cosmology — it is a navigation system. E
 
 > Whatever quality of LIFE structure you have, that is the space you inhabit.
 >
-> — Concept 468
+> — *New Era Human 800 Concepts*
 
 ---
 

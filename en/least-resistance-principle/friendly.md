@@ -60,7 +60,7 @@ Here's something remarkable: the universe itself operates by this principle.
 
 > The universe will do everything it can, on the principle of least resistance and at the greatest possible speed, to help you realize your wish.
 >
-> — New Era Human 800 Concepts · Concept 333
+> — New Era Human 800 Concepts
 
 When you hold a genuine intention — through visualization or sincere prayer — the universe arranges the most effortless path to bring it about. You don't need to struggle and suffer for every goal.
 

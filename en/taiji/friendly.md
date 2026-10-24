@@ -126,7 +126,7 @@ In simpler terms: when you face a complex situation, Taiji thinking tells you to
 
 Where does Taiji thinking sit in the hierarchy of cognitive modes?
 
-In the Lifechanyuan framework (Article 666), thinking levels from lowest to highest are:
+In the Lifechanyuan framework, thinking levels from lowest to highest are:
 
 Material thinking → illusory thinking → imaginative thinking → associative thinking → **Taiji thinking** → formless thinking → hundun-order thinking (the thinking of the Greatest Creator).
 

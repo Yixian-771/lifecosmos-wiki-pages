@@ -107,7 +107,7 @@ In the era of Civilization 3.0, the global operation follows the same principle:
 
 ## The Final Sentence of the Entire Book
 
-Concept 800 — the very last entry in the *New Era Human 800 Concepts* — ends this way:
+The very last of the *New Era Human 800 Concepts* ends this way:
 
 > … to prevent the loss of the system's Hundun nature.
 

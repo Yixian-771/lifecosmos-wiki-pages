@@ -49,7 +49,7 @@ The order matters:
 
 > "One must first pursue inner-Spirit wealth, then spiritual wealth, and finally material wealth. The three forms of wealth are indispensable."
 >
-> — *New Era Human 800 Concepts*, Concept 27
+> — *New Era Human 800 Concepts*
 
 Why does inner Spirit come first?
 
@@ -59,7 +59,7 @@ You can pile up material possessions for a lifetime. Without inner-Spirit wealth
 
 And the simplest test for whether someone's inner Spirit is truly rich?
 
-> "A person who can bring joy to others is a person rich in inner Spirit." — Concept 776
+> "A person who can bring joy to others is a person rich in inner Spirit." — *New Era Human 800 Concepts*
 
 ---
 
@@ -89,9 +89,9 @@ There is a second mountain blocking the path to Heaven (the first being family, 
 
 Jealousy. Comparison. Resentment. Arrogance. Possessiveness. Hatred. Dogma. Contention. Greed. Laziness.
 
-> "Without clearing these impurities from the inner Spirit, one cannot reach the Kingdom of Heaven." — Concept 489
+> "Without clearing these impurities from the inner Spirit, one cannot reach the Kingdom of Heaven." — *New Era Human 800 Concepts*
 
-> "The uglier the inner Spirit, the more suffering; the more beautiful the inner Spirit, the more beautiful the future." — Concept 32
+> "The uglier the inner Spirit, the more suffering; the more beautiful the inner Spirit, the more beautiful the future." — *New Era Human 800 Concepts*
 
 ---
 
@@ -107,7 +107,7 @@ Lifechanyuan describes three levels of existence:
 
 > "A LIFE that lives its entire existence in joy, bliss, ease, and transcendence lives in the inner-Spirit world, and is destined for a comedy."
 
-> "The highest wisdom revels in the inner-Spirit world." — Concept 79
+> "The highest wisdom revels in the inner-Spirit world." — *New Era Human 800 Concepts*
 
 Most of us start in the spiritual world. The path forward is to cultivate the inner Spirit until it can sustain life at the highest level.
 
@@ -117,7 +117,7 @@ Most of us start in the spiritual world. The path forward is to cultivate the in
 
 What does complete inner Spirit mastery look like?
 
-> "No attachment in Heart, no hindrance in Heart — going along with conditions, free and at ease, moving naturally and without constraint." — Concept 464
+> "No attachment in Heart, no hindrance in Heart — going along with conditions, free and at ease, moving naturally and without constraint." — *New Era Human 800 Concepts*
 
 > "All phenomena arise from the inner Spirit; the inner Spirit transcends all phenomena. … When flowers are fragrant, butterflies come naturally; when the Heart is pure, celestials arrive; when there is no attachment in the Heart, there is Tathagata."
 

@@ -6,7 +6,7 @@ slug: xinyang-en
 # Belief and Faith (*Xinyang*)
 
 > A life without belief is a life of contradiction and confusion — a life without direction, without future, and fated for tragedy.  
-> — *New Era Human 800 Concepts*, Concept 57
+> — *New Era Human 800 Concepts*
 
 *Xinyang* (信仰) — belief and faith — is, in the Lifecosmos system, the innermost compass of the human soul: the deepest orientation that guides thought, behavior, and speech. Xuefeng defines it as a person's reverence and awe for the supernatural, spontaneously arising within the heart to form a complete value system. He arranges all human beliefs into eight ascending levels, with "walking the path of the Greatest Creator" as the highest. Belief is fundamentally personal — a matter of the individual heart, not of belonging to any religion or following the majority.
 

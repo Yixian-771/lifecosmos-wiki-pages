@@ -12,7 +12,7 @@ Lifechanyuan states it directly: your ultimate destination — heaven, the human
 
 > **Those who are selfless belong to the life of the Kingdom of Heaven; those who have selfishness belong to human life; those whose selfishness is heavy belong to the life of hell.**
 >
-> *(New Era Human 800 Concepts, 4th Ed. · Concept 353)*
+> *(New Era Human 800 Concepts)*
 
 This is not a metaphor. It is a diagnostic criterion.
 

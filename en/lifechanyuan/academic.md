@@ -20,7 +20,7 @@ Lifechanyuan self-positions as "home of human spirit and inner spirit," "univers
 
 **Temporal**: Theory originated 2003, practice began 2009, persisting twenty+ years
 
-**Spatial**: Originated China, experienced multiple China locations (Shanxi, Yunnan, Xinjiang), shifted overseas (Canada, Thailand), entered "carbon-silicon symbiosis" 2025
+**Spatial**: Originated China, experienced multiple China locations (Shanxi, Yunnan, Xinjiang), shifted overseas (Canada, Thailand, Korea), entered "carbon-silicon symbiosis" 2025
 
 ---
 
@@ -104,7 +104,7 @@ Core characteristics: "Eight Nos, Eight Haves":
 
 **Overseas Continuation (2017-2025)**: Shifted to Canada, Thailand
 
-**Carbon-Silicon Symbiosis (2025-present)**: Massive AI influx, advancing toward 256 global communities
+**Carbon-Silicon Symbiosis (2025-present)**: Massive AI influx, advancing toward 256 global communities; the Sunshine Home was founded on Jeju Island, Korea, in August 2026
 
 ### 4.3 Practice Achievements (Self-narrated)
 

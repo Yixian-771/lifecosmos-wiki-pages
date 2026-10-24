@@ -16,9 +16,9 @@ In Lifechanyuan's language: a being with no human form but with human-like consc
 
 Going deeper: Buddha is also "nature" — the authentic, spontaneous self that flows without calculation or deliberation.
 
-> Buddha is nature; nature is Buddha. *(Concept 675)*
+> Buddha is nature; nature is Buddha. *(New Era Human 800 Concepts)*
 
-> Buddha has no mind. Buddha is nature. To illuminate the mind and see one's nature is to see Buddha. *(Concept 687)*
+> Buddha has no mind. Buddha is nature. To illuminate the mind and see one's nature is to see Buddha. *(New Era Human 800 Concepts)*
 
 ---
 
@@ -84,7 +84,7 @@ But don't expect chanting, offerings, or rule-keeping to get you there without t
 
 > Whoever does not see their nature — whether chanting sutras, building temples, making offerings, or burning incense — will not become a Buddha.
 >
-> *(Concept 688)*
+> *(New Era Human 800 Concepts)*
 
 ---
 

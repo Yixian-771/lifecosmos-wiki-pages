@@ -6,7 +6,7 @@
 
 > "To become a celestial being, you must cultivate celestial bonds and release worldly ones. Without releasing worldly bonds, celestial being-hood is nearly impossible."
 >
-> — *New Era 800 Concepts · 4th Edition* · Concept 463
+> — *New Era 800 Concepts*
 
 Releasing worldly bonds is paired with debt repayment as the first of "the three things that must be done to go from human to celestial beings and Buddhas." Its counterpart is **cultivating celestial bonds** — actively building connections with those who have celestial roots, establishing a gravitational pull toward Heaven rather than the human world.
 

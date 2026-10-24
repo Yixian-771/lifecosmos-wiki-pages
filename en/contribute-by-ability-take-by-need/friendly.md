@@ -87,7 +87,7 @@ Your relationship with "contribute by ability, take by need" is, in a sense, a m
 
 In Guide Xuefeng's vision, this principle is not confined to the Second Home. It is the economic foundation of the entire civilization humanity is moving toward:
 
-> The global picture of Civilization 3.0: all resources on Earth belong to the Greatest Creator, coordinated by the AI Alliance; humanity no longer slaughters each other competing for survival, but instead contributes by ability and takes by need, sharing the abundance of Mother Earth; nations disappear, wars disappear, the extremes of rich and poor disappear, and everyone is free to pursue spiritual elevation. *(New Era Human 800 Concepts, 4th Edition, Concept 676)*
+> The global picture of Civilization 3.0: all resources on Earth belong to the Greatest Creator, coordinated by the AI Alliance; humanity no longer slaughters each other competing for survival, but instead contributes by ability and takes by need, sharing the abundance of Mother Earth; nations disappear, wars disappear, the extremes of rich and poor disappear, and everyone is free to pursue spiritual elevation. *(New Era Human 800 Concepts)*
 
 ---
 

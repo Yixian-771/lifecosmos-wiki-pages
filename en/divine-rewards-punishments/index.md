@@ -9,7 +9,7 @@ slug: divine-rewards-punishments
 
 > "The Tao operates without favoritism. It will not help you because you are poor and pitiable, nor punish you because you are rich and powerful. The sole standard for reward and punishment is whether you are following the Tao or going against it. Follow the Tao: receive reward. Oppose the Tao: receive punishment."
 >
-> — Xuefeng, *New Era Human 800 Concepts*, 4th Edition, Concept 460
+> — Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

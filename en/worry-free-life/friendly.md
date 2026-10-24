@@ -18,7 +18,7 @@ Guide Xuefeng of Lifechanyuan says: all of this has a solution. The solution is 
 
 > **The three treasures of a worry-free life: firm faith in the Greatest Creator, belief in cause and effect, and wholeheartedly doing one's best in everything.**
 >
-> — New Era Human 800 Concepts, 4th edition, Concept 43
+> — New Era Human 800 Concepts
 
 ---
 

@@ -4,7 +4,7 @@
 
 > "The most important thing in life is not to find ways to possess material things, but to find ways to change thinking."
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 42
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 
@@ -60,7 +60,7 @@ This level of thinking connects the visible to the invisible and deduces cosmic 
 
 This rung is special — **every step looks like forward progress, but after going round and round in a great circle, you end up back where you started**.
 
-Xuefeng stated this precisely in Article 667:
+Xuefeng stated this precisely in one of the 800 Concepts:
 
 > The greatest characteristic of Illusory Thinking is that every step moves forward, but the end is back at the starting point; every sentence of every theory is correct and unassailable, but after going round and round in a great circle, the end is back at the starting point.
 
@@ -124,7 +124,7 @@ This perfectly aligns with the *Tao Te Ching*, yet Xuefeng has made it concrete 
 
 This is one of Xuefeng's most distinctive revelations:
 
-> **Thinking is a form of spiritual power. Spiritual power is higher-level thinking information waves that bind lower-level thinking.** (Article 315)
+> **Thinking is a form of spiritual power. Spiritual power is higher-level thinking information waves that bind lower-level thinking.**
 
 This means higher-level thinking can genuinely "bind" lower-level thinking. Divine thinking can influence human thinking; celestial thinking can transcend the Thinking Formation of humans. This is not a philosophical claim — it is a real energy phenomenon occurring in the universe.
 

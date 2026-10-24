@@ -46,7 +46,7 @@ Many people feel small. Their daily choices seem insignificant against the vastn
 
 > The universe is holographic; Heaven and humanity are one. The flutter of a butterfly's wings in Alaska will stir up a storm at the Cape of Good Hope. Therefore, no one should underestimate their smallest effort — one person's cough can shake the heavens.
 >
-> — *New Era Human 800 Concepts, 4th Edition, Concept 792*
+> — *New Era Human 800 Concepts*
 
 You have heard of the butterfly effect — a small flutter in Alaska triggering a storm in South Africa. That is cosmic holography in everyday language. Your kindness sends ripples through the cosmos. Your resentment does the same. Every thought, every action leaves its mark.
 

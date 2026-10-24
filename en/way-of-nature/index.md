@@ -9,7 +9,7 @@ slug: way-of-nature
 
 > The core of the Way of Nature is harmonious coexistence — among people, between people and society, and between humanity and the natural world.
 >
-> — New Era Human 800 Concepts, 4th Edition, Concept 713
+> — New Era Human 800 Concepts
 
 ## Video
 

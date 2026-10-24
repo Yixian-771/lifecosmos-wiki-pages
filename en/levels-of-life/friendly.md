@@ -83,15 +83,15 @@ Humans at Level 5 are not all equivalent. Within the human level, there are five
 
 **Conflict decreases:**
 "The higher the level of LIFE, the fewer conflicts LIFE has with its surrounding environment; the lower the level of LIFE, the more conflicts."
-*(New Era Human 800 Concepts, Concept 366)*
+*(New Era Human 800 Concepts)*
 
 **Love increases:**
 "The core component of a higher LIFE's consciousness is love. The higher the LIFE, the higher the love content in its consciousness; the lower the LIFE, the lower the love content."
-*(New Era Human 800 Concepts, Concept 367)*
+*(New Era Human 800 Concepts)*
 
 **Heaven and hell are defined by this:**
 "The lower the level of LIFE, the more it lacks love and affection. What is hell? A place with no love and affection. The higher the level of LIFE, the richer its love and affection. What is heaven? A place filled with love and affection."
-*(New Era Human 800 Concepts, Concept 585)*
+*(New Era Human 800 Concepts)*
 
 ---
 

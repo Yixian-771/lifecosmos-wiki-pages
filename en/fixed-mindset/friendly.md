@@ -4,7 +4,7 @@
 
 > "Fixed-pattern thinking is the greatest obstacle to the advance of human civilization."
 >
-> — *Eight Hundred Concepts for the New Era of Humanity*, Concept 231
+> — *Eight Hundred Concepts for the New Era of Humanity*
 
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
@@ -28,7 +28,7 @@ Fixed-pattern thinking is thinking that has solidified into a mold — unconscio
 
 The most frightening thing is: **you cannot feel it working.**
 
-> "Every person's mind is covered by an invisible web of thought; every person carries a heavy cross on their back — they simply cannot feel it, or they can feel it but lack the strength and courage to break free from its constraints." (Concept 668)
+> "Every person's mind is covered by an invisible web of thought; every person carries a heavy cross on their back — they simply cannot feel it, or they can feel it but lack the strength and courage to break free from its constraints."
 
 ---
 
@@ -68,7 +68,7 @@ This is not a criticism of others. It is a self-examination for every one of us.
 
 > "The tide of the times surges forward. People constrained by mental inertia have been left behind by the times … those who remained most heavily influenced by old thinking felt strong resistance, psychological imbalance — some spent all day grumbling; others began to steal and corrupt." (*The Harm of Mental Inertia*)
 
-> "Kodak had no choice but to exit history. Horse-carts could only enter museums." (Concept 679)
+> "Kodak had no choice but to exit history. Horse-carts could only enter museums."
 
 Every major turning point in history leaves behind those with fixed-pattern thinking.
 
@@ -88,13 +88,13 @@ The solution is simple but not easy:
 - **Change habits** — do not take "it has always been this way" for granted
 - **Step outside knowledge** — ask whether there is another possibility
 - **Let go of history** — tradition is a reference, not a prison
-- **Return to zero** — "Return to zero at any time. Do not rely on position, do not rely on past merit, do not rely on the past." (Concept 165)
+- **Return to zero** — "Return to zero at any time. Do not rely on position, do not rely on past merit, do not rely on the past."
 
 ---
 
 ## The Most Important Thing in Life
 
-> "The most important thing in life is not to find ways to possess material things — it is to find ways to change one's thinking." (Concept 42)
+> "The most important thing in life is not to find ways to possess material things — it is to find ways to change one's thinking."
 
 ---
 

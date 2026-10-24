@@ -13,7 +13,7 @@
 
 > Health, peacefulness, joy, contentment, and tranquility are the rewards of the Greatest Creator.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 114
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

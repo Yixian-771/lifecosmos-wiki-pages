@@ -6,7 +6,7 @@ title: The Thirty-Six Bagua Formations
 
 > There are 36 Bagua Formations in the universe, and countless traps in LIFE — only by escaping these traps can LIFE attain true freedom.
 >
-> — New Era Human 800 Concepts (4th Edition), Concept 344
+> — New Era Human 800 Concepts
 
 The **Thirty-Six Bagua Formations** are thirty-six programmatic constraints set by the Greatest Creator throughout the universe, serving a dual function: they confine each LIFE to its designated space-time level and consciousness tier, enabling orderly cycles of growth and decay, while simultaneously protecting the balanced coexistence of all life layers. Every formation has an exit — those who find it can ascend to higher LIFE spaces. Of the thirty-six formations, eighteen have been explicitly described in the Guide's writings; the remaining eighteen have not yet been revealed.
 

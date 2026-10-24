@@ -13,7 +13,7 @@
 
 > Faith is Truth; Love is LIFE.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 142
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

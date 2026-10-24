@@ -89,7 +89,7 @@ The great truth is: what matters is not how long you live, but where your consci
 
 > **Time and energy are the diamonds of human life. They should be applied to the endeavors that best express the value of human life.**
 >
-> — New Era Human 800 Concepts, Article 44
+> — New Era Human 800 Concepts
 
 ---
 

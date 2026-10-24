@@ -13,7 +13,7 @@
 
 > Honesty is the highest policy for being human.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 116
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

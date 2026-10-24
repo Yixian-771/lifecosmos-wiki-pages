@@ -18,7 +18,7 @@ Lifechanyuan offers an answer rooted in the ancient wisdom of the *I Ching* and 
 
 > "The origin of the universe is not the Big Bang, but Wuji giving birth to Taiji, and primordial chaos transforming into the ordered cosmos."
 >
-> — New Era of Humanity's 800 Concepts, 4th Edition · Concept 402
+> — New Era of Humanity's 800 Concepts
 
 Two words. **Wuji.** **Taiji.**
 

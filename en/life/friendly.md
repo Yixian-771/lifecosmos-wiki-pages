@@ -4,7 +4,7 @@
 
 > "LIFE is a spiritual antimatter structure."
 >
-> — *Eight Hundred Concepts for the New Era of Humanity*, Concept 357
+> — *Eight Hundred Concepts for the New Era of Humanity*
 
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 

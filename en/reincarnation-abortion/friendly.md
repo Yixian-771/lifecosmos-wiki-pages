@@ -44,7 +44,7 @@ The framework provides a detailed map:
 
 > Those who embody supreme love ascend as Heavenly Celestials; those who embody supreme goodness ascend as Buddhas; the filial are reborn into paths of blessing; the fair return to the human path; the ignorant go to the animal world; the cruel descend into the fire-refinement layer.
 >
-> — New Era Human 800 Concepts, 4th Edition · Concept 364
+> — New Era Human 800 Concepts
 
 ---
 
@@ -54,7 +54,7 @@ Consciousness is, in a sense, a homebody. It longs for the familiar and feels lo
 
 > Consciousness has a territorial nature. Consciousness favors familiar environments and feels discomfort in unfamiliar ones. Therefore, when reincarnating, one is generally reborn in a familiar environment. If you aspire to be born in a certain place, first familiarize your consciousness with that place.
 >
-> — New Era Human 800 Concepts, 4th Edition · Concept 660
+> — New Era Human 800 Concepts
 
 This is why cross-cultural and cross-racial reincarnations are rare — not because such souls don't exist, but because the soul's antimatter "gravity" pulls it back to what it knows.
 
@@ -64,7 +64,7 @@ This is why cross-cultural and cross-racial reincarnations are rare — not beca
 
 > If one still has unfulfilled wishes, one will reincarnate in the human world once more.
 >
-> — New Era Human 800 Concepts, 4th Edition · Concept 363
+> — New Era Human 800 Concepts
 
 Debts to parents, children, friends, nature — any unpaid obligations act like tethers on the soul. The path to not returning is not to escape those ties, but to meet them fully and release them.
 
@@ -88,7 +88,7 @@ The entire tradition closes with one of its most beautiful teachings:
 
 > The ultimate goal of life is not to march toward death, but to pass into another world — just as the ultimate goal of a fetus is not to grow in the womb, but to come into the human world. So human society is a great womb, and a person must pass through the channel that appears to be "death" to reach another world. Death is therefore not an ending, but the beginning of yet another journey of LIFE.
 >
-> — New Era Human 800 Concepts, 4th Edition · Concept 662
+> — New Era Human 800 Concepts
 
 We fear death the way a fetus might fear the moment of birth — not knowing that what looks like the end of one world is the beginning of a far larger one.
 

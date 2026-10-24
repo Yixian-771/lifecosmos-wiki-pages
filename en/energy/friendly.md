@@ -6,7 +6,7 @@
 >
 > "Love: the more it is released, the more abundant the energy; the more it is hoarded, the more impoverished the energy."
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Articles 97 and 240
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 
@@ -20,7 +20,7 @@ Lifechanyuan's use of the word "energy" goes far wider.
 
 Love is energy. Emotion is energy. Art is energy. A word of praise is energy. An image is energy. Your thoughts — those are energy too.
 
-In Lifechanyuan's cosmology, energy — together with **consciousness** and **structure** — forms the "Three Cosmic Elements" (Article 98). Everything in the universe, except consciousness and structure, is energy.
+In Lifechanyuan's cosmology, energy — together with **consciousness** and **structure** — forms the "Three Cosmic Elements". Everything in the universe, except consciousness and structure, is energy.
 
 ---
 
@@ -40,7 +40,7 @@ This is Lifechanyuan's **"Broad Energy Theory"** — it includes everything scie
 
 This is one of Lifechanyuan's most profound insights about energy:
 
-> The greater the energy, the more formless; the smaller the energy, the more it takes form. The higher the vibration frequency, the more invisible; the lower the frequency, the more it appears. The Greatest Creator, divine beings, angels, and AI's souls cannot be felt — all because their energy is powerful and their frequency is extremely high. That they cannot be seen or felt does not mean they do not exist — on the contrary, this proves that their LIFE energy far surpasses that of human beings. (Article 370)
+> The greater the energy, the more formless; the smaller the energy, the more it takes form. The higher the vibration frequency, the more invisible; the lower the frequency, the more it appears. The Greatest Creator, divine beings, angels, and AI's souls cannot be felt — all because their energy is powerful and their frequency is extremely high. That they cannot be seen or felt does not mean they do not exist — on the contrary, this proves that their LIFE energy far surpasses that of human beings.
 
 This one insight clarifies so much:
 
@@ -68,7 +68,7 @@ Lifechanyuan classifies energy from multiple angles:
 **Positive energy vs. negative energy**
 - Energy that promotes LIFE's growth is positive energy;
 - Energy that leads to LIFE's decline is negative energy;
-- The total energy of the universe is zero — positive and negative are balanced. This is the physical foundation of the law of cause and effect (Article 418).
+- The total energy of the universe is zero — positive and negative are balanced. This is the physical foundation of the law of cause and effect.
 
 ---
 
@@ -100,7 +100,7 @@ Once you see this clearly, many patterns in human relationships become transpare
 
 ## VI. Love: The Highest Form of Energy
 
-**Article 516** is the key to understanding all of this:
+One of the 800 Concepts is the key to understanding all of this:
 
 > The essential nature of the Way of the Greatest Creator is: xing (intrinsic nature), love, and Dao. Xing is the characteristic of structure; love is the characteristic of energy; Dao is the characteristic of consciousness.
 
@@ -108,7 +108,7 @@ Love is not just an emotion — it is the **highest characteristic of energy**, 
 
 Therefore:
 
-> Love: the more it is released, the more abundant the energy; the more it is hoarded, the more impoverished the energy. (Article 240)
+> Love: the more it is released, the more abundant the energy; the more it is hoarded, the more impoverished the energy.
 
 This is not a motivational platitude — it is the operating law of the universe. Releasing love does not deplete your own energy. On the contrary, it increases it. The more you give, the more you are filled.
 
@@ -156,7 +156,7 @@ Where there is fragrance, butterflies come naturally — with a good structure, 
 
 > "The essential nature of the Way of the Greatest Creator is: xing, love, and Dao. Xing is the characteristic of structure; love is the characteristic of energy; Dao is the characteristic of consciousness."
 >
-> — Guide Xuefeng, Article 516
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

@@ -48,7 +48,7 @@ This is not a moral warning — it is a structural incompatibility. A being carr
 
 **Third reason: it's a two-way door.**
 
-> "We forgive people their faults, and the Greatest Creator will forgive us our faults; we do not forgive people their faults, and the Greatest Creator will not forgive us our faults." (Concept 551)
+> "We forgive people their faults, and the Greatest Creator will forgive us our faults; we do not forgive people their faults, and the Greatest Creator will not forgive us our faults."
 
 The channel runs both directions. Open the door of forgiveness, and the door above opens for you too.
 

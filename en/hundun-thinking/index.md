@@ -13,7 +13,7 @@
 
 > The highest realm of thinking is Hundun Thinking — this is the thinking of the Greatest Creator, the thinking that ordinary people cannot imagine; one may say it is also the thinking of gods.
 >
-> — *New Era Human 800 Concepts*, Concept 666
+> — *New Era Human 800 Concepts*
 
 **Important Note**: Hundun Thinking cannot be disclosed. Guide Xuefeng has systematically explained the first seven rungs and has led everyone to the border of the Celestial Kingdom; the final rung can only be realized through one's own Chan awakening. This is not concealment — it is itself one of the most profound characteristics of Hundun Thinking.
 

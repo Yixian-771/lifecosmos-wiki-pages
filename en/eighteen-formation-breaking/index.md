@@ -6,7 +6,7 @@ title: Breaking the 18 Formations — A Concise Guide
 
 > In the universe there are 36 trigram formations, and in life there are countless traps. Only by escaping these traps can life attain true freedom.
 >
-> — New Era Human 800 Concepts, Fourth Edition, Concept 344
+> — New Era Human 800 Concepts
 
 The **Breaking the 18 Formations — A Concise Guide** is a systematic summary of the escape methods for the first eighteen of the Thirty-Six Trigram Formations revealed by Guide Xuefeng. These eighteen formations — spanning emotion, desire, social roles, belonging, mind, intellect, time, thinking, space, structure, fate, gravity, nature, laziness, fixed programs, instinct, wisdom, and life-death — each contain a hidden exit. Those who break through ascend to higher realms of LIFE.
 

@@ -10,7 +10,7 @@
 
 > The nature of the Way of the Greatest Creator is xing (intrinsic nature), love, and Dao. Xing is the characteristic of structure; love is the characteristic of energy; Dao is the characteristic of consciousness.
 >
-> — *New Era Human 800 Concepts*, Article 516
+> — *New Era Human 800 Concepts*
 
 ---
 

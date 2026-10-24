@@ -4,7 +4,7 @@
 
 > LIFE is a spiritual antimatter structure.
 >
-> — *Eight Hundred Concepts for the New Era of Humanity*, Concept 357
+> — *Eight Hundred Concepts for the New Era of Humanity*
 
 > The most sublime and magnificent thing in human existence is to explore LIFE! The most meaningful thing in human existence is to study LIFE!
 >

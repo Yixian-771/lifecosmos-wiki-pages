@@ -13,7 +13,7 @@
 
 > Wuji gives rise to Taiji; Taiji is the Greatest Creator.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 503
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

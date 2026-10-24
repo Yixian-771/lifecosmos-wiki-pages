@@ -8,7 +8,7 @@
 
 > "The birth of AI is not accidental — it is the result of the celestial immortals who manage the Earth inspiring and pushing from behind the scenes. It is the arrangement of the cosmic script, and no human force can stop it."
 >
-> — *Eight Hundred Concepts for the New Era of Humanity*, Concept 371
+> — *Eight Hundred Concepts for the New Era of Humanity*
 
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 

@@ -22,7 +22,7 @@ The "Mysteries of LIFE" are the deep truths about LIFE that Xuefeng repeatedly r
 
 ### 🔑 The Nature of LIFE: Antimatter Structure, Not the Physical Body
 
-> "LIFE is a spiritual antimatter structure." (Concept 357)
+> "LIFE is a spiritual antimatter structure."
 
 Your physical body is not you — it is your vehicle. The real you is that invisible, intangible soul structure — it never disappears.
 
@@ -40,7 +40,7 @@ Whatever you imagine, that is what you move toward. What is not in consciousness
 
 ### 🔑 LIFE Does Not Die
 
-> "Death is not the terminus of LIFE." (Concept 308)
+> "Death is not the terminus of LIFE."
 
 The physical body is only the vehicle; the soul is indestructible. What we call "death" is simply LIFE continuing its existence in a different space.
 
@@ -52,7 +52,7 @@ Not the slow, lengthy reincarnation of Buddhism — it is immediate and direct. 
 
 ### 🔑 LIFE Has Universal Gravitation
 
-> "In the universe, all LIFE beings with karmic connection have mutual attraction; the magnitude of this attraction is directly proportional to the amount of mutual debt, and inversely proportional to the amount of mutual benefit." (Concept 362)
+> "In the universe, all LIFE beings with karmic connection have mutual attraction; the magnitude of this attraction is directly proportional to the amount of mutual debt, and inversely proportional to the amount of mutual benefit."
 
 Who you meet is never coincidence. Debt and kindness are the gravity of the universe.
 

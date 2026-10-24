@@ -6,7 +6,7 @@ slug: xinyang-friendly-en
 # Belief and Faith (*Xinyang*) · Friendly Version
 
 > A life without belief is a life of contradiction and confusion — a life without direction, without future, and fated for tragedy.  
-> — *New Era Human 800 Concepts*, Concept 57
+> — *New Era Human 800 Concepts*
 
 ---
 

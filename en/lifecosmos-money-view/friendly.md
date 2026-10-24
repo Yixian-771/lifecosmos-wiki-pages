@@ -83,7 +83,7 @@ This is fundamentally different from how conventional societies fight corruption
 
 > "Having nothing is the only way to possess everything."
 >
-> — *New Era Concepts for Humanity*, 4th Edition, Concept 115
+> — *New Era Concepts for Humanity*
 
 This sounds paradoxical. How can having nothing mean you possess everything?
 
@@ -91,7 +91,7 @@ In the homestead, residents have no private property, no personal savings — bu
 
 Meanwhile, people in the outside world who spend their lives accumulating money and property often find themselves enslaved by it — burdened by mortgages, anxious about losses, unable to enjoy what they have.
 
-**The more you possess, the more troubles you have.** (Concept 113)
+**The more you possess, the more troubles you have.**
 
 ---
 
@@ -108,7 +108,7 @@ More F-Coin = better LIFE quality = greater respect from others.
 
 > "Giving and contributing is the best way to store treasures in Heaven."
 >
-> — Concept 111
+> — *New Era Human 800 Concepts*
 
 This completely inverts the logic of "the more I accumulate, the richer I am." In Lifechanyuan's framework, **the more you give, the richer you are.**
 

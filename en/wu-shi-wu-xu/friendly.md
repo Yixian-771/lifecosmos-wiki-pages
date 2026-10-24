@@ -91,7 +91,7 @@ You don't need to wait until you're "wealthy enough" to start pursuing the ideal
 Think honestly:
 
 > Are you toiling for **survival** — or for **living**? If only for survival, that's a great waste.
-> *(New Era 800 Human Concepts, 4th Ed. · Concept 223)*
+> *(New Era 800 Human Concepts)*
 
 The two are not the same. Survival means keeping your body going. Living means growing into something greater — experiencing genuine happiness, elevating your LIFE quality, and moving toward the kind of existence that makes this brief human life worth having.
 

@@ -12,7 +12,7 @@ Guide Xuefeng says this is exactly what feminine softness is about.
 
 > "Women find beauty in softness. Softness overcomes hardness. Feminine softness is not weakness, not lack of conviction, not indiscriminate acceptance, not willingness to be bullied — on the contrary, feminine softness is the ultimate strength, strength contained within softness, like the gentle flow of water that can cleanse all impurity, pierce stone, and conquer everything."
 >
-> *(800 New Era Concepts, 4th Edition, Concept 599)*
+> *(800 New Era Concepts)*
 
 ---
 
@@ -43,7 +43,7 @@ There's a simple principle behind all of this:
 
 > "Men find beauty in strength; women find beauty in softness. A man who is excessively soft becomes ugly; a woman who is excessively hard becomes ugly."
 >
-> *(800 New Era Concepts, 4th Edition, Concept 178)*
+> *(800 New Era Concepts)*
 
 Male strength and feminine softness are not opposites in conflict — they are complementary, like yin and yang, like mountain and river. Each has its own kind of beauty, and each becomes ugly when pushed to an extreme.
 

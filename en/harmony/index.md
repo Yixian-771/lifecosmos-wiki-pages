@@ -13,7 +13,7 @@
 
 > The Way's attributes have no contradiction. Where there is contradiction, it is not the Way.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 444
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

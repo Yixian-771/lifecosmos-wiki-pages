@@ -40,7 +40,7 @@ Xuefeng is explicit about this:
 
 > This "Self-Coherence" is not an absolutely closed system; it is, rather, an open system — open to LIFE in all layers of the cosmos, open to all nations, ethnicities, religions, and cultures in the world, open to every citizen of the earth.
 
-Concept 800 of *New Era Human 800 Concepts* goes further:
+The last of the *New Era Human 800 Concepts* goes further:
 
 > The New Era Human 800 Concepts is an open system. As time and space shift, new thoughts, new ideas, and new methods will emerge in an endless stream. These 800 concepts must be continually updated and refined. As the era develops, what should be removed will be removed, and what should be added will be added. Never cling to convention, never impose a ceiling.
 
@@ -85,7 +85,7 @@ This is the macro climate — everyone is free, everyone is accountable for thei
 
 > All affairs of the Home are divided and assigned by responsibility, and each person has the sole say in the domain they are responsible for. Whoever is responsible makes the call; whoever is responsible bears all the consequences.
 
-When it comes to how a specific thing gets done — whoever is responsible decides. No discussion, no democratic vote. Whatever the Branch Director arranges, that is what gets done.
+When it comes to how a specific thing gets done — whoever is responsible decides. No discussion, no democratic vote. There is no head of the community; the community life meeting settles who takes charge, and whatever that person arranges is what gets done.
 
 **Macro freedom + micro clarity.** At the large scale, each person is fully autonomous; at the small scale, every task has a clear owner. Together, these two rules make the Second Home both free and efficient.
 
@@ -115,7 +115,7 @@ Stars each shine in their own light — but they can illuminate each other. No m
 
 ## VII. Want to Join? There Is a Procedure
 
-If you find Lifechanyuan's concepts resonate and you would like to enter the Second Home to live, Xuefeng describes a clear path (Concept 653):
+If you find Lifechanyuan's concepts resonate and you would like to enter the Second Home to live, Xuefeng describes a clear path:
 
 > First, come to understand *New Era Human 800 Concepts*; then, spend half a year interacting with the community on the LIFE Oasis website; if during that time you find it satisfying, you may submit an application; once there are no more worldly entanglements tying you down, you may enter the Second Home (LIFE Oasis) to live.
 

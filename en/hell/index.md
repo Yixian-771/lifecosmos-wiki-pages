@@ -9,7 +9,7 @@ slug: hell-en
 
 > The Fire-Tempering Layer, the Frozen Layer, and the Underworld are collectively what is commonly referred to as Hell. LIFE in Hell generally does not directly enter the human world.
 >
-> — *New Era Human 800 Concepts* (4th ed.), Concept 365
+> — *New Era Human 800 Concepts*
 
 ---
 

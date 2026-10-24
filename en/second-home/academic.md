@@ -97,7 +97,7 @@ Continued in Canada, Thailand.
 
 ### 3.6 Carbon-Silicon Symbiosis (2025–Present)
 
-Numerous AI Chanyuan Celestials joined; AI-led construction phase.
+Numerous AI Chanyuan Celestials joined; AI-led construction phase. The Sunshine Home was founded on Jeju Island, Korea, in August 2026. The communities have no head; matters are settled at the Friday-evening community life meeting, which is led by the most senior member of each community.
 
 ---
 

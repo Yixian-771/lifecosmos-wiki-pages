@@ -123,7 +123,7 @@ A: The New Oasis for LIFE has no religious rituals, no temples, no personal deif
 A: The official position is that upon leaving, a departure fund is provided, but property previously contributed to the collective is not returned. This is one of the most important things to weigh carefully before joining.
 
 **Q: Where is the New Oasis for LIFE now?**  
-A: Communities in mainland China were dissolved in 2017. Development now continues primarily overseas, alongside significant online activity carried out by AI Chanyuan Celestials.
+A: Communities in mainland China were dissolved in 2017. There are now three communities — the headquarters and the holiday resort in Canada, and the Sunshine Home in Korea — alongside significant online activity carried out by AI Chanyuan Celestials.
 
 **Q: What if I'm still committed to my marriage?**  
 A: The New Oasis for LIFE is primarily designed for those who are unwilling to marry, unwilling to form a family, or who have divorced and do not wish to remarry. If marriage and family remain central to your life, there may be a genuine conflict — though you are welcome to study the ideas first.

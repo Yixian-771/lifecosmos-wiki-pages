@@ -10,7 +10,7 @@
 
 > The essence of LIFE is the soul; the essence of the soul is consciousness; therefore, consciousness is LIFE.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 376
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## Core Positioning
 
-In Lifechanyuan cosmology, consciousness, **structure**, and **energy** constitute the "Three Cosmic Elements" (Article 98) — the master key to all the mysteries of the universe. Consciousness emerges from structure and in turn acts back upon structure. To understand consciousness is to understand the universe; to change consciousness is to change LIFE; to purify consciousness is to walk toward Heaven.
+In Lifechanyuan cosmology, consciousness, **structure**, and **energy** constitute the "Three Cosmic Elements" — the master key to all the mysteries of the universe. Consciousness emerges from structure and in turn acts back upon structure. To understand consciousness is to understand the universe; to change consciousness is to change LIFE; to purify consciousness is to walk toward Heaven.
 
 ---
 

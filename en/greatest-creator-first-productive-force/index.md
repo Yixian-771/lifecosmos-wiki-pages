@@ -9,7 +9,7 @@ In Lifechanyuan's worldview, **the Greatest Creator is the primary productive fo
 
 > "The Greatest Creator is the primary productive force."
 >
-> — *New Era Concepts for Humanity*, 4th Edition, Concept 34
+> — *New Era Concepts for Humanity*
 
 ## Video
 

@@ -13,7 +13,7 @@
 
 > Love is a state of LIFE, like the sun and the flowers in full bloom.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 147
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

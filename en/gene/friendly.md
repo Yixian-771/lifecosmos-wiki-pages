@@ -4,7 +4,7 @@
 
 > The brain is a microcosm of the universe; the gene is the scripture of LIFE.
 >
-> — *New Era Human 800 Concepts*, Concept 409
+> — *New Era Human 800 Concepts*
 
 ---
 

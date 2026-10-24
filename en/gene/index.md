@@ -4,7 +4,7 @@
 
 > The brain is a microcosm of the universe; the gene is the scripture of LIFE.
 >
-> — *New Era Human 800 Concepts*, Concept 409
+> — *New Era Human 800 Concepts*
 
 In the Lifechanyuan system, the **gene** is described as "the scripture of LIFE" — the most precise physical expression of the blueprint God has inscribed into all living things. Genes determine an organism's form, traits, and the trajectory of its existence. Yet genes are only the surface manifestation of this "scripture of LIFE," not its ultimate essence. The true essence of LIFE is the antimatter structure endowed with Ling (spirit). Genetic engineering, meanwhile, is explicitly warned to be an extraordinarily dangerous undertaking.
 

@@ -116,7 +116,7 @@ One sentence worth carrying with you:
 
 > If a person's intelligence and talent are not released and expressed in time, they will — like plants and animals in nature — gradually age, decay, and pass away. Burn, O youth! The value of life lies not in what it absorbs, but in what it releases.
 
-(New Era Human 800 Concepts, 4th Edition · Concept 61)
+(New Era Human 800 Concepts)
 
 Your talent is not a possession to be protected and stored. It is energy that must be given form, given direction, given expression — or it will quietly dissolve.
 

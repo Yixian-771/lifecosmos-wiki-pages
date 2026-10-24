@@ -13,7 +13,7 @@
 
 > Those primarily driven by spirituality are holy people. Holy people are immortals.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 22
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

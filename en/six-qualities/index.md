@@ -13,7 +13,7 @@
 
 > The Greatest Creator is love, is Truth-Goodness-Beauty, is Faithfulness-Sincerity, is joy, happiness, freedom, bliss — therefore emulate the Greatest Creator.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 543
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

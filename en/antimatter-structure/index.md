@@ -13,7 +13,7 @@
 
 > Perfecting LIFE's antimatter structure is the core of cultivation.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 455
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

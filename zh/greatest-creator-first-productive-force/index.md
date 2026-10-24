@@ -9,7 +9,7 @@ slug: greatest-creator-first-productive-force
 
 > "上帝是第一生产力。"
 >
-> ——《新时代人类八百理念》第四版·第34条
+> ——《新时代人类八百理念》
 
 ## 视频版
 

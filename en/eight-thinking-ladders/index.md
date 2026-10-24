@@ -10,7 +10,7 @@ The **Eight Thinking Ladders** is the core framework in the Lifechanyuan theoret
 
 > The eight ladders of thinking, in ascending order, are: Material Thinking, Imagery Thinking, Associative Thinking, Illusory Thinking, Heart-Image Thinking, Taiji Thinking, Non-Form Thinking, and Hundun Thinking.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 87
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

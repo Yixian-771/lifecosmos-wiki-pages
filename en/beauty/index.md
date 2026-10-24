@@ -13,7 +13,7 @@
 
 > Beauty lies in symmetrical proportion, and beauty also lies in simplicity and purity.
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 253
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

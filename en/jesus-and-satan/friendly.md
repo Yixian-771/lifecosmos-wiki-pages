@@ -78,7 +78,7 @@ Lifechanyuan's guidance is clear and direct:
 
 > "542. Walk the way of the Greatest Creator, not the way of gods — because Satan is also a god."
 >
-> *(Eight Hundred Concepts of the New Era for Humanity, 4th edition · Concept 542)*
+> *(Eight Hundred Concepts of the New Era for Humanity)*
 
 Jesus is a god. But Satan is a god too. If you simply say "I'll walk the god's way," which god are you walking toward? So the goal is to go beyond the struggle between Jesus and Satan and orient directly toward the Greatest Creator — that is the ultimate direction of cultivation.
 

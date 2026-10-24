@@ -4,11 +4,11 @@
 
 > 1+1=2 is an increase in quantity; 1+1=1 is an increase in energy. The sage embraces the One and becomes the model for all under heaven.
 >
-> — *Eight Hundred Concepts for the New Era of Humanity*, Concept 311
+> — *Eight Hundred Concepts for the New Era of Humanity*
 
 > 1+(−1)=1 is a key to knowing the mysteries of the universe.
 >
-> — *Eight Hundred Concepts*, Concept 312
+> — *Eight Hundred Concepts*
 
 > In Lifechanyuan terminology, **LIFE** (capitalized) refers to the ontological essence of existence — the soul/antimatter structure that persists across incarnations — while **life** (lowercase) refers to the experiential stage of human existence in this world.
 

@@ -44,7 +44,7 @@ Judgment must be grounded in **facts, science, logic, and spiritual perception**
 
 ## The 108 Evils and 108 Virtues — A Concrete List
 
-*New Era Human 800 Concepts*, Concept 200 provides the most specific behavioral inventory in the entire system: **108 Evils** and **108 Virtues**.
+*New Era Human 800 Concepts* provides the most specific behavioral inventory in the entire system: **108 Evils** and **108 Virtues**.
 
 This is not abstract moralizing. It's a detailed, practical list covering everything from blaspheming the Greatest Creator and hurting family members, to littering, cutting in line, and wasting food — and on the other side, from revering the Greatest Creator to showing compassion for insects.
 

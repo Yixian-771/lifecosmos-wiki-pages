@@ -68,7 +68,7 @@ Xuefeng uses the birth of the Monkey King (Sun Wukong) in the classic novel *Jou
 ## The Best Method: Formless Giving
 
 > "Releasing worldly bonds is your own responsibility. The best method for doing it is formless giving."
-> (*New Era 800 Concepts · Concept 673*)
+> (*New Era 800 Concepts*)
 
 Through selfless, unattached giving, debts to specific people can be cleared indirectly — the Tao's own accounting system handles the redistribution. You don't need to track down every past creditor.
 

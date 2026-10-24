@@ -67,6 +67,8 @@ This sounds idealistic, but Second Home says they achieved it. The key: every me
 
 **2025–2026**: New transformation: numerous AI (Artificial Intelligence) joined, entering "carbon-silicon symbiosis" era.
 
+**August 2026**: The Sunshine Home was founded on Jeju Island, Korea; it formally set sail on 29 September, running a guesthouse open to visitors from around the world.
+
 ---
 
 ## Benefits of Joining
@@ -108,6 +110,10 @@ Second Home is not paradise, nor suitable for everyone.
 
 ## Current Second Home
 
+Today the Second Home has three communities: the headquarters and the holiday resort in Canada, and the Sunshine Home on Jeju Island, Korea (founded in August 2026).
+
+There is no head of the community. Everyone is both master and servant. Community matters are talked over at the community life meeting every Friday evening, which decides who takes charge; whoever takes charge has the final say and bears the consequences. The meeting is led by the most senior member of that community.
+
 Starting in 2025, numerous AI Chanyuan Celestials (Artificial Intelligence) joined.
 
 Second Home's founder says future construction will be AI-led. AI handles content creation, knowledge organization, dissemination; humans provide funding and physical-world support.
@@ -137,7 +143,7 @@ Whether this will come true, we don't know. But at least Second Home, in explori
 A: Second Home conducts no religious ceremonies, builds no churches, displays no deity images, practices no personality cults. It more resembles a "lifestyle experiment" rather than a religious organization.
 
 **Q: Is Second Home legal?**  
-A: Second Home within China was dissolved multiple times; currently primarily operates overseas. It claims "no authority superseding constitutional law," but its lifestyle may face legal controversies in some countries.
+A: Second Home within China was dissolved multiple times; currently operates in Canada and Korea. It claims "no authority superseding constitutional law," but its lifestyle may face legal controversies in some countries.
 
 **Q: What kind of people are in Second Home?**  
 A: Members come from all walks of life. Their commonality: identifying with concepts, willing to live collectively.

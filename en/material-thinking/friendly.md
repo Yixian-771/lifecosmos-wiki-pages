@@ -9,7 +9,7 @@
 
 > "The most important thing in life is not to find ways to possess material things, but to find ways to change one's thinking."
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 42
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

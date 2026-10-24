@@ -44,7 +44,7 @@ The Heart Sutra puts it plainly:
 
 > Relying on the Prajna Paramita, the mind has no obstacles. With no obstacles, there is no fear; having moved far from delusion and confusion, one arrives at Ultimate Nirvana.
 >
-> *(New Era Human 800 Concepts, Fourth Edition · Concept 693)*
+> *(New Era Human 800 Concepts)*
 
 As long as your heart is still caught on something — someone, something, some fear, some resentment — you can't reach Nirvana. The cultivation is a gradual releasing, one attachment at a time.
 

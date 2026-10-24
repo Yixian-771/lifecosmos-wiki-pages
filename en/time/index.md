@@ -7,7 +7,7 @@ description: Entry page for "Time" in the Lifechanyuan Encyclopedia — time as 
 
 > **Time is the recorder of matter's state of motion. Time originates from motion; without motion, there is no time.**
 >
-> — New Era Human 800 Concepts, Article 427
+> — New Era Human 800 Concepts
 
 In the Lifechanyuan system, time is not an eternal backdrop but a product of material movement — it arises with motion and ceases when matter disappears. Time has eight distinct characteristics, most notably the distinction between **longitudinal time** (the familiar past–present–future sequence governing the physical body) and **lateral time** (a perpendicular dimension of eternity accessible to the soul). The antimatter world has no time and is therefore eternal. One of the central aims of cultivation is to recognize the **Time Trap** — one of the Thirty-Six Trigram Formations — and transcend it, moving from the realm of ordinary mortals into the freedom of immortals.
 

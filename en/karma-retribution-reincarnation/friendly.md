@@ -19,11 +19,11 @@ This is not religion. This is the program the universe runs on.
 
 Xuefeng gives a physics-based explanation:
 
-> **The law that maintains the sum of positive and negative energy in the universe at zero is called the Law of Karmic Retribution.** (Concept 418)
+> **The law that maintains the sum of positive and negative energy in the universe at zero is called the Law of Karmic Retribution.**
 
 Simplified:
 
-> **The sum of positive and negative energy in the universe is zero, so what each person gives and receives is always equal.** (Concept 24)
+> **The sum of positive and negative energy in the universe is zero, so what each person gives and receives is always equal.**
 
 Think of it like conservation of energy in physics. When you put kindness into the universe, the return is already encoded in the cosmic ledger — it will come back. When you send harm into the universe, the consequence is equally recorded. No one is managing the ledger. It manages itself.
 
@@ -33,11 +33,11 @@ Think of it like conservation of energy in physics. When you put kindness into t
 
 Many people imagine karma requires an administrator — a god, a judge, a cosmic referee. Xuefeng says the opposite is true:
 
-> **There is no Final Judgment. The judgment is happening every moment. It is not the Greatest Creator who judges LIFE, not the spirits or Yama, but the Tao of the Greatest Creator, and that Tao runs every second of every day.** (Concept 521)
+> **There is no Final Judgment. The judgment is happening every moment. It is not the Greatest Creator who judges LIFE, not the spirits or Yama, but the Tao of the Greatest Creator, and that Tao runs every second of every day.**
 
 The Tao is the operating system of the universe. Your every word, deed, and thought is being recorded:
 
-> Every word and deed, every action, every thought concerns the broad direction of our future. Every minute and second, every day and night, faithfully records our merits and transgressions. (Concept 59)
+> Every word and deed, every action, every thought concerns the broad direction of our future. Every minute and second, every day and night, faithfully records our merits and transgressions.
 
 No gaps. No amnesty. No exceptions.
 
@@ -53,7 +53,7 @@ A walnut tree not bearing fruit in year one doesn't mean it won't bear fruit.
 
 And crucially:
 
-> **Merit and transgression cannot cancel each other out. No matter how great one's merit, if there is also transgression, the suffering due must still be endured.** (Concept 787)
+> **Merit and transgression cannot cancel each other out. No matter how great one's merit, if there is also transgression, the suffering due must still be endured.**
 
 Doing a lot of good doesn't cancel out harm you've caused. Merit and transgression are two separate accounts.
 
@@ -67,7 +67,7 @@ You've probably seen situations that seem unfair: good people suffering, harmful
 
 A single frame of a film can look strange. The whole story always makes sense.
 
-> **There is not a single wronged person or soul in the world.** The Greatest Creator is just. The Tao runs without the slightest lapse; karmic reward and punishment are precise to the hair. (Concept 74)
+> **There is not a single wronged person or soul in the world.** The Greatest Creator is just. The Tao runs without the slightest lapse; karmic reward and punishment are precise to the hair.
 
 No one has ever been truly wronged. Every person's today was caused by their own past.
 
@@ -103,7 +103,7 @@ There is no judge delivering a verdict. Your consciousness is itself the verdict
 
 > **The state of one's consciousness at the moment of departure from the Human World determines the destination after "death." If that consciousness is the consciousness of a celestial, then that LIFE will certainly go to the celestial realm.** (*Eight Small Secrets of LIFE and Its Reincarnation*)
 
-The detailed breakdown (Concept 364):
+The detailed breakdown:
 
 | Your state | Where LIFE goes |
 |-----------|----------------|
@@ -122,7 +122,7 @@ The detailed breakdown (Concept 364):
 
 Xuefeng discovered a gravitational law specific to LIFE:
 
-> **In the universe, all LIFE beings that are karmically connected exert a mutual gravitational pull. The strength of this pull is proportional to the amount of debt owed between them and inversely proportional to the amount of kindness exchanged.** (Concept 362)
+> **In the universe, all LIFE beings that are karmically connected exert a mutual gravitational pull. The strength of this pull is proportional to the amount of debt owed between them and inversely proportional to the amount of kindness exchanged.**
 
 In plain terms:
 - The more you owe someone, the stronger the gravitational pull between you — in the next life, that pull drags you toward them, even if it means being born as their livestock to work off the debt.
@@ -130,9 +130,9 @@ In plain terms:
 
 Two more rules:
 
-> **If a wish remains unfulfilled, the person will reincarnate into the Human World again.** (Concept 363)
+> **If a wish remains unfulfilled, the person will reincarnate into the Human World again.**
 
-> **Worldly ties not yet ended — you must reincarnate again. Debts not yet repaid — you must return.** (Concept 797)
+> **Worldly ties not yet ended — you must reincarnate again. Debts not yet repaid — you must return.**
 
 "Repaying debt and resolving karma" is not a figure of speech. It is a literal description of reducing the gravitational forces that anchor you to lower spaces.
 
@@ -140,13 +140,13 @@ Two more rules:
 
 ## X. So What Do You Do About It?
 
-Once you understand karma and reincarnation, the path of practice becomes very clear. Xuefeng says three things are essential on the path from human to celestial or Buddha (Concept 465):
+Once you understand karma and reincarnation, the path of practice becomes very clear. Xuefeng says three things are essential on the path from human to celestial or Buddha:
 
 1. **Repay debts and resolve worldly ties** — reduce cosmic gravitational pull so you can actually rise
 2. **Give and contribute, accumulate merit and virtue** — write more and more positive energy into the cosmic ledger
 3. **Perfect and complete the antimatter structure of your LIFE** — raise the quality of the soul itself
 
-And two of the Eight Great Awakenings (Concept 474):
+And two of the Eight Great Awakenings:
 
 > **Awakening to Karma**: "You reap what you sow." "Heaven's net is vast and wide — nothing slips through."
 
@@ -174,7 +174,7 @@ Reincarnation is karma extended across time: unfinished business, unpaid debts, 
 
 Xuefeng's simplest formulation:
 
-> **The three great treasures of a worry-free life: firm faith in the Greatest Creator, belief in karma, and doing everything with full heart and effort.** (Concept 43)
+> **The three great treasures of a worry-free life: firm faith in the Greatest Creator, belief in karma, and doing everything with full heart and effort.**
 
 Believe in karma: the universe is fair.
 Do everything with full heart: plant the right seeds, every day.

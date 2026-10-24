@@ -38,7 +38,7 @@ The New Era Human 800 Concepts write it as the way people and society live toget
 
 "No worthy person left in the wilds" means that people of talent and virtue are not left forgotten in the backcountry. The Guide says the two halves go together: **only when no worthy person is left in the wilds can all under heaven be one family.**
 
-How? Article 708 of the 800 Concepts is specific: the management of each locality should be entrusted to the most civilized and excellent people found among all humanity, not selected from the local people or from one's own ethnic group. In that article, localism and nationalism are called "marks of barbarism and ignorance."
+How? One of the 800 Concepts is specific: the management of each locality should be entrusted to the most civilized and excellent people found among all humanity, not selected from the local people or from one's own ethnic group. In that article, localism and nationalism are called "marks of barbarism and ignorance."
 
 The Guide also says that buried talent is the most precious of all the resources humanity lives by; to bury it is to waste it.
 

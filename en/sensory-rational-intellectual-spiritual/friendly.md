@@ -60,7 +60,7 @@ The Guide's 2023 writing makes it clear:
 - Those primarily **rational**: wise and scholarly people
 - Those primarily **spiritual**: celestial beings
 
-The *New Era Human 800 Concepts* (Concept 22) gives the full picture:
+The *New Era Human 800 Concepts* gives the full picture:
 
 > "Human beings fall into five types: the instinct-driven, the interest-driven, the emotion-driven, the rational, and the spiritual. The spiritual person is the sage — and the sage is the celestial."
 

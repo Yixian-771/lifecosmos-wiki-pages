@@ -57,7 +57,7 @@ With no currency, corrupt officials disappear too — there is nothing to embezz
 
 Could the homestead's leaders engage in corruption, extravagance, or waste? First of all, Lifechanyuan has no officials. The highest position is the General Homestead Director, followed by Branch Directors. From a worldly perspective, that sounds like an official position — but it is not. The title exists merely to accommodate secular terminology. In substance, the General Director is the "chief servant" and the Branch Director is the "branch servant" — the ones who contribute and give the most, and who care for every Chanyuan Celestial most wholeheartedly. Can such a "leader" embezzle? Besides, the money is not in the leader's hands — a designated person handles all purchasing. The leader has no opportunity to steal even if they wanted to. This is like how no theft ever occurs in the homestead: even if you could steal something, where would you put it? Your room is not really yours; someone else cleans and organizes it regularly. Would you dare hide stolen items there? Everyone eats together, works together, and participates in activities together. What would you do with stolen goods?
 
-(Xuefeng Corpus · Chanyuan Chapter · *Lifechanyuan's View on Money*)
+(Xuefeng Corpus · Chanyuan Chapter · *Lifechanyuan's View on Money*, 2020-02-13; the General Homestead Director and Branch Directors mentioned were the arrangement at the time — since September 2026 the communities have had no head, and everyone is a master)
 
 ---
 

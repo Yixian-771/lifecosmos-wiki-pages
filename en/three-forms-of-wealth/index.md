@@ -7,7 +7,7 @@ description: Lifechanyuan's framework of the "Three Forms of Wealth" — soul we
 
 > **In life, one should pursue three forms of wealth: soul wealth, spiritual wealth, and material wealth — in that order. All three are indispensable; lacking any one of them makes a perfect life impossible.**
 >
-> — 800 New Era Concepts for Humanity (4th ed.) · Concept 27
+> — 800 New Era Concepts for Humanity
 
 | Version | Best for | Focus |
 |---------|----------|-------|

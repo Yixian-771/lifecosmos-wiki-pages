@@ -13,7 +13,7 @@
 
 > The true transmission contains only one word: **Nature** (性).
 >
-> — Guide Xuefeng, *New Era Human 800 Concepts*, Article 799
+> — Guide Xuefeng, *New Era Human 800 Concepts*
 
 ---
 

@@ -42,7 +42,7 @@ If the mirror isn't wrong, what's the point of resenting what you see in it?
 
 > Complaining about reality is far less useful than transforming yourself.
 >
-> *(New Era Human 800 Concepts, 4th edition · Concept 237)*
+> *(New Era Human 800 Concepts)*
 
 ---
 
@@ -74,7 +74,7 @@ First, embrace the principle of cause and effect:
 
 > The Heavenly Tao is just. Therefore do not resent Heaven, do not resent Earth, do not resent society, do not resent others, do not resent the government.
 >
-> *(New Era Human 800 Concepts, 4th edition · Concept 37)*
+> *(New Era Human 800 Concepts)*
 
 Then redirect your attention toward your own transformation:
 
@@ -94,7 +94,7 @@ Lifechanyuan treats the elimination of complaint as an essential step in purifyi
 
 > No jealousy, no resentment, no combativeness, no greed, no attachment, no selfishness, **no grumbling toward others**...
 >
-> *(New Era Human 800 Concepts, 4th edition · Concept 492)*
+> *(New Era Human 800 Concepts)*
 
 Complaint is part of the "Egypt of the heart" — heavy spiritual territory that keeps the soul earthbound. When you finally lay down your resentment toward Heaven, Earth, society, and others, gratitude rises naturally to take its place. The heart becomes lighter. The path forward becomes clear.
 

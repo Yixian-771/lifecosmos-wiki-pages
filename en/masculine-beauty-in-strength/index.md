@@ -6,7 +6,7 @@ Masculine beauty in strength is a core principle in the Lifechanyuan system rega
 
 > "Males find beauty in strength, females find beauty in softness. A male who is overly soft is ugly; a female who is overly rigid is ugly."
 >
-> *(New Era Human 800 Concepts, 4th Edition, Concept 178)*
+> *(New Era Human 800 Concepts)*
 
 ---
 

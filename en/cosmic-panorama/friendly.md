@@ -6,7 +6,7 @@
 
 > The universe exists for LIFE; LIFE exists for the universe. Should LIFE perish, the universe collapses; should the universe die, LIFE is extinguished.
 >
-> — Concept 405
+> — *New Era Human 800 Concepts*
 
 You are not a visitor passing through the universe. You are not an accident of material evolution. The universe exists *for* you, and you exist *for* the universe.
 
@@ -34,7 +34,7 @@ Not dark matter. Not quarks. Three things:
 
 **Consciousness · Structure · Energy**
 
-These three elements constitute the entire universe (Concept 403). The universe is the product of the Greatest Creator's consciousness — without consciousness, the universe is nothing.
+These three elements constitute the entire universe. The universe is the product of the Greatest Creator's consciousness — without consciousness, the universe is nothing.
 
 There is a law you probably have not heard before:
 
@@ -52,7 +52,7 @@ A stone has low energy — you can see and touch it. A god has high energy — y
 
 ## 4) Which level of the universe are we in?
 
-The universe divides into a macrocosm and a microcosm. The one humanity inhabits is called the **Earth-cosmos**, or the **Faxuan System** (Concept 415).
+The universe divides into a macrocosm and a microcosm. The one humanity inhabits is called the **Earth-cosmos**, or the **Faxuan System**.
 
 The Faxuan System is a Taiji elliptical body that rotates around the Celestial Realm as its core. Its scale is almost incomprehensible — using space tunnels, traversing the entire Faxuan System would take about 1,860 years.
 
@@ -68,7 +68,7 @@ The Moon, by the way, was not naturally formed. It is a warehouse built by celes
 
 > Existence determines consciousness — then we have only one Earth. Consciousness determines existence — then we have thirty-six dimensions.
 >
-> — Concept 309
+> — *New Era Human 800 Concepts*
 
 Think of the thirty-six dimensions as thirty-six floors of a vast building. Each floor is a real world with real inhabitants.
 
@@ -103,7 +103,7 @@ All twenty worlds connect to one point — the **Cool Serenity Realm (the Origin
 
 > The Greatest Creator's essence resides in the Cool Serenity Realm; his spirit pervades all things in the universe. The Cool Serenity Realm is the zero point of the coordinate system. All twenty parallel worlds connect to this zero point. Without the Greatest Creator, not a single world would continue to exist.
 >
-> — Concept 511
+> — *New Era Human 800 Concepts*
 
 ---
 
@@ -125,7 +125,7 @@ Which kind you are is already pointing you in a direction.
 
 Yes. With specific addresses, specific sizes, and specific population numbers.
 
-Heaven is the collective name for the Thousand-Year World, the Ten-Thousand-Year World, and Elysium with its Celestial Islands Continent (Concept 477).
+Heaven is the collective name for the Thousand-Year World, the Ten-Thousand-Year World, and Elysium with its Celestial Islands Continent.
 
 **The Thousand-Year World** — 960 light-years from Earth, ten times Earth's size, home to roughly 200 million celestials, lifespan about 1,000 years. No sun, yet more beautiful than Earth. To qualify, you need: perfect human character — selfless, kind, honest, trustworthy, diligent.
 
@@ -139,7 +139,7 @@ Frequent dreams of flying freely, heart-spirit union with a beloved with no anxi
 
 > Celestial beings are the freest, happiest, and most blissful LIFE in the entire universe — the Greatest Creator's beloved. They bear no responsibilities and fulfill no obligations whatsoever.
 >
-> — Concept 484
+> — *New Era Human 800 Concepts*
 
 No duties, no obligations, no work to report to — only joy, freedom, and play without limit. This is what LIFE's highest destination looks like.
 
@@ -163,7 +163,7 @@ This is not a scare tactic. It is the necessary consequence of total cosmic ener
 
 > The evolution and reincarnation of LIFE are to maintain cosmic morality and the dynamic balance of all LIFE in the universe.
 >
-> — Concept 361
+> — *New Era Human 800 Concepts*
 
 Not punishment. Not arbitrary fate. Dynamic balance. Where you go depends on the quality of your LIFE:
 
@@ -172,7 +172,7 @@ Not punishment. Not arbitrary fate. Dynamic balance. Where you go depends on the
 - **Drifting heedlessly** → transitions to the Animal Realm
 - **Cruel and savage** → descends into Purgatory
 
-This is the physics of LIFE. Whatever quality of LIFE structure you have, that is the space you inhabit (Concept 468).
+This is the physics of LIFE. Whatever quality of LIFE structure you have, that is the space you inhabit.
 
 ---
 
@@ -180,7 +180,7 @@ This is the physics of LIFE. Whatever quality of LIFE structure you have, that i
 
 Guide Xuefeng gives a clear road map.
 
-**Eight conditions for the Thousand-Year World** (Concept 492):
+**Eight conditions for the Thousand-Year World**:
 
 1. Revere the Greatest Creator; firmly believe; hold gratitude
 2. Revere LIFE; revere nature
@@ -191,7 +191,7 @@ Guide Xuefeng gives a clear road map.
 7. Diligence — not lazy; keeping clean and neat
 8. Trustworthiness — keeping your word; honoring commitments
 
-**The three-step path to becoming a celestial being** (Concept 497):
+**The three-step path to becoming a celestial being**:
 
 - **Step One**: Bid farewell to worry, pain, anxiety, and fear; live in joy, freedom, and happiness. You have already become a celestial being.
 - **Step Two**: The heart has no fixed abode; the mind has no obstruction; follow conditions freely, move spontaneously. You are already a celestial being.
@@ -205,9 +205,9 @@ Notice Step One: **already a celestial being.** This is not distant. It begins w
 
 > Heaven belongs to those who are joyful and happy; it does not belong to those who are gloomy and burdened with worry.
 >
-> — Concept 485
+> — *New Era Human 800 Concepts*
 
-But on the road to Heaven there are two great mountains (Concept 489):
+But on the road to Heaven there are two great mountains:
 
 **The first mountain**: human-made programs — family roles, national identity, religious affiliation, political membership… These are ropes binding you to the Human World.
 
@@ -221,7 +221,7 @@ Cross both mountains, and Heaven is right there.
 
 > Death is not LIFE's terminal station.
 >
-> — Concept 308
+> — *New Era Human 800 Concepts*
 
 This cosmic panorama — from the highest Cool Serenity Realm (the Greatest Creator's essence, the cosmic zero point) to the deepest Purgatory; from the Human World transit station to the ultimate destination of the Celestial Islands Continent — is a real map, not a metaphor, not a symbol.
 

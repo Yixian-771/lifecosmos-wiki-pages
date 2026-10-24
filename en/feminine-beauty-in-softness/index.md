@@ -6,7 +6,7 @@ In Lifechanyuan's philosophy, feminine beauty lies in softness — not in weakne
 
 > "Women find beauty in softness. Softness overcomes hardness. Feminine softness is not weakness, not lack of conviction, not indiscriminate acceptance, not willingness to be bullied — on the contrary, feminine softness is the ultimate strength, strength contained within softness, like the gentle flow of water that can cleanse all impurity, pierce stone, and conquer everything."
 >
-> *(800 New Era Concepts, 4th Edition, Concept 599)*
+> *(800 New Era Concepts)*
 
 ---
 

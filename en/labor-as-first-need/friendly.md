@@ -10,7 +10,7 @@ In most people's life logic, the goal is to study hard, find a good job, and eve
 
 Lifechanyuan turns this completely on its head.
 
-The Second Home (Life Oasis) has one iron rule: **labor is the first need of life**. No matter who you are — the guide, the dean, a PhD, or a newcomer — if you live in the Oasis, you must participate in physical labor. No exceptions.
+The Second Home (Life Oasis) has one iron rule: **labor is the first need of life**. No matter who you are — the guide, a PhD, or a newcomer — if you live in the Oasis, you must participate in physical labor. No exceptions.
 
 ---
 
@@ -46,13 +46,13 @@ In the Oasis, there is no class division between mental and physical laborers, n
 
 ## The Hearts of Laborers Are the Most Beautiful
 
-The *New Era Human 800 Concepts* (Concept 636) puts it this way:
+The *New Era Human 800 Concepts* puts it this way:
 
 > The hearts of laborers are the most beautiful. They may not be able to write brilliant articles; they may lack debating skill; they may seem too plain to show off their cleverness. But their hearts are the most beautiful — their conduct itself proves they have honored the teachings of Jesus, Shakyamuni Buddha, Laozi, and the sages.
 
 Labor isn't just getting work done. It is cultivation, it is living proof of truth, goodness, and love. It is the most grounded path toward the celestial life.
 
-**Labor and creation are the source of joy. True joy lies in the process of selfless labor and creation.** (Concept 270)
+**Labor and creation are the source of joy. True joy lies in the process of selfless labor and creation.**
 
 ---
 
@@ -60,7 +60,7 @@ Labor isn't just getting work done. It is cultivation, it is living proof of tru
 
 Lifechanyuan's judgment on laziness is unsparing:
 
-> Laziness is the greatest enemy of the Second Home. Diligence symbolizes beauty; laziness represents ugliness. Laziness can destroy everything — it corrodes will, spirit, soul, and body, can bring down a diligent community, spreads like a virus, and ultimately causes everything to wither and collapse. (Concept 635)
+> Laziness is the greatest enemy of the Second Home. Diligence symbolizes beauty; laziness represents ugliness. Laziness can destroy everything — it corrodes will, spirit, soul, and body, can bring down a diligent community, spreads like a virus, and ultimately causes everything to wither and collapse.
 
 The Second Home is not a resort where you pay and then relax. It is a place for repaying karmic debts across lifetimes and accumulating heavenly treasure. It is a place for cultivation toward higher life spaces. Only by taking on hardships we have never faced can we hope to achieve our deepest wishes.
 
@@ -68,7 +68,7 @@ The Second Home is not a resort where you pay and then relax. It is a place for 
 
 ## New Era: Art and Labor Side by Side
 
-Even as AI grows more capable, the Oasis's view of labor does not change. Concept 638 (New) says:
+Even as AI grows more capable, the Oasis's view of labor does not change. One of the 800 Concepts says:
 
 > In the Second Home, art and labor go hand in hand — the most complete way for human beings to blossom. The person tilling the soil can be a painter; the person cooking can be a poet; the person sweeping the courtyard can be a dancer — in a life freed from the burdens of marriage and family, every person has the time and space to become their most complete self.
 

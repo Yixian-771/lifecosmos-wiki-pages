@@ -6,7 +6,7 @@ In the Lifechanyuan system, the **spousal relationship**, **marriage** as an ins
 
 > "Marriage is the grave of love; family is the cradle of human evil. Once a person enters marriage, freedom is lost. Once a person has a family, selfishness takes hold. The suffering caused by marriage and family is beyond counting — marriage and family are a boundless sea of bitterness."
 >
-> *(New Era Human 800 Concepts, 4th edition, Concept 620)*
+> *(New Era Human 800 Concepts)*
 
 ---
 
