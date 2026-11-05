@@ -19,7 +19,8 @@ import importlib, os, re, subprocess, sys, time
 
 VP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PY = r"C:\Users\yixia\AppData\Roaming\uv\python\cpython-3.11.15-windows-x86_64-none\python.exe"
-PYPATH = r"E:\CodexData\temp\edge_tts_latest;C:\Users\yixia\AppData\Local\hermes\hermes-agent\venv\Lib\site-packages"
+# edge_tts 7.3.1 要排在 hermes 自带的 7.2.7 前面，否则微软接口返回 403（备份副本在 小工具\依赖\，原件在 E:\CodexData\temp\）
+PYPATH = r"F:\百科馆\小工具\依赖\edge_tts_latest;C:\Users\yixia\AppData\Local\hermes\hermes-agent\venv\Lib\site-packages"
 
 
 def recipe_name(mod):
