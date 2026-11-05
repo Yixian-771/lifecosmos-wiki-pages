@@ -36,3 +36,6 @@ video-pilot/_frames/
 video-pilot/_superseded/
 video-pilot/_stale_cache/
 video-pilot/_render_baseline
+
+# 渲染队列脚本与日志（tools/render_queue.py 生成，不进仓库）
+video-pilot/_queues/

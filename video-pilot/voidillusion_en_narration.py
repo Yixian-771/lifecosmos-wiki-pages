@@ -1,0 +1,160 @@
+# -*- coding: utf-8 -*-
+"""
+158 The Grand Void Illusion English recipe (2026-10-28).
+"""
+
+NAME = "voidillusion_en_show"
+VOICE = "en-US-AndrewNeural"
+FONT = r"C:\Windows\Fonts\msyhl.ttc"
+RATE = "+0%"
+MUSIC = r"F:\百科馆\百科BGM\Quiet Study.mp3"
+WATERMARK = "Lifechanyuan"
+
+META = [
+    {"quote": 'The Grand Void Illusion'},
+    {"quote": 'Every Illusory Realm'},
+    {"quote": 'Who Can Taste It?'},
+    {"quote": 'Baoyu Falls into a Dream'},
+    {"quote": 'The Fairy of Disenchantment'},
+    {"quote": 'When the False Is Taken as True'},
+    {"quote": 'Ghost Ships'},
+    {"quote": 'A Family Aboard'},
+    {"quote": 'Three in the Morning'},
+    {"quote": 'What She Saw'},
+    {"quote": 'The Unreal Is Real'},
+    {"quote": 'Inside the Dream, Outside It'},
+    {"quote": 'Four Keys to Enter'},
+    {"quote": 'The Grand Void Illusion Is Fairyland'},
+]
+
+SLIDES = [
+    ("slides_voidillusion_en/slide_01.png", [
+        'Last time we spoke of Taiji, the first structure of the universe.',
+        'This time: a name that sounds like a novel, the Grand Void Illusion.',
+        'The place where Jia Baoyu dreams his way in Dream of the Red Chamber.',
+        'Xuefeng reads that passage and finds another layer in it.',
+        'He says: every illusory realm is the Antimatter World. Everything unreal is truly there.',
+        'This episode starts from the novel.',
+    ]),
+    ("slides_voidillusion_en/slide_02.png", [
+        'First, what is "antimatter"?',
+        "It is not the physicist's antimatter.",
+        'In Lifechanyuan, antimatter has no mass, no weight, cannot be seen by the eye or detected by any instrument; only consciousness can observe and experience it.',
+        'Your thoughts, your feelings, your consciousness: all antimatter.',
+        'Dreams are the Antimatter World.',
+        'Almost everyone dreams, so entering the Antimatter World is not hard.',
+        'Every illusory realm is the Antimatter World. Everything unreal is truly there.',
+    ]),
+    ("slides_voidillusion_en/slide_03.png", [
+        'Cao Xueqin, author of Dream of the Red Chamber, left four lines:',
+        'Pages full of absurd words, a handful of bitter tears.',
+        'They all call the author mad, but who can taste what lies within?',
+        'Countless people have read Dream of the Red Chamber. Who can taste what lies within?',
+        'Let us take it step by step.',
+    ]),
+    ("slides_voidillusion_en/slide_04.png", [
+        'Chapter five of Dream of the Red Chamber: Jia Baoyu journeys in a dream to the Grand Void.',
+        'No sooner had Baoyu closed his eyes than he drifted off, floating along to a place.',
+        'Vermilion railings and jade steps, green trees and a clear stream, where no human footprint comes and no flying dust reaches.',
+        'In the dream he was delighted and thought: what a fine place; if I could spend my life here, it would beat being scolded every day by my parents and teachers.',
+        'While he was musing, he heard someone singing behind the hill:',
+        'Spring dreams vanish with the clouds, fallen flowers follow the water.',
+        'A word to all you young ones: why go looking for idle grief?',
+    ]),
+    ("slides_voidillusion_en/slide_05.png", [
+        'Before the song had ended, a beauty came out, graceful and light-footed, quite unlike a mortal.',
+        'A fairy.',
+        'Baoyu bowed and asked: fairy sister, where have you come from, and where are you going? I do not even know where this is; please take me along.',
+        'The fairy said: I dwell above the Heaven of Parting Sorrow, in the Sea of Pouring Grief; I am the Fairy of Disenchantment of the Grand Void Illusion.',
+        'She governs the debts of passion and love in the human world, and the grievances and follies of men and women.',
+        'The longing, the grievance and the folly between men and women all fall under her.',
+        'She said: not far from here I have tea I picked myself, wine I brewed myself, and new songs I wrote; will you come with me?',
+        'Baoyu leapt for joy, and went with her.',
+    ]),
+    ("slides_voidillusion_en/slide_06.png", [
+        'They came to a place where a stone archway stood, with the words "Grand Void Illusion" in large characters.',
+        'On either side, a couplet:',
+        'When the false is taken as true, the true also becomes false; where nothingness is treated as something, something also becomes nothing.',
+        "Cao Xueqin's handful of bitter tears: who can taste what lies within?",
+        'It is all in this couplet.',
+        'Take the false for true, and the true turns false.',
+        'Take nothing for something, and something turns into nothing.',
+        'The material world we think so solid, seen from a higher dimension, is the illusory one.',
+    ]),
+    ("slides_voidillusion_en/slide_07.png", [
+        'Is the Grand Void Illusion only a dream in a book?',
+        'The corpus tells of something else.',
+        'In the last seventy years or so, more than two thousand ghost ships have been recorded in the South Atlantic.',
+        'A ghost ship has no one aboard, no one at the helm, and drifts alone on the ocean.',
+        'The question is: where did the people on board go?',
+    ]),
+    ("slides_voidillusion_en/slide_08.png", [
+        'One account records what happened to a family.',
+        'They lived on a boat, by fishing.',
+        'One morning they woke to find their younger son gone, the cabin door wide open; they called until their voices cracked, and there was no answer.',
+        'The next day, the elder son was gone too.',
+        'The captain, Sanro, realised that everyone in the family except himself loved fish roe.',
+        "He opened the ship's log. The last day read: today we caught many of this fish, most with roe in the belly, the roe tastes better, and everyone fought to eat it.",
+        'He reasoned that the disappearances might have something to do with eating the roe.',
+        'But his wife had already eaten it.',
+        'Telling her would only fill her with fear.',
+        'He thought for a while, and made up his mind.',
+    ]),
+    ("slides_voidillusion_en/slide_09.png", [
+        'That night the captain pretended to sleep.',
+        'At about three in the morning his wife Lisa rose quietly and slipped out.',
+        'He followed her in secret.',
+        'By the light of the stars he saw her face blank, as if asleep, yet with a strange brightness in her eyes.',
+        "Her steps were slow and mechanical, like a wooden figure's, yet she passed every obstacle lightly and exactly.",
+        'She went to the stern and looked down at the sea.',
+        'The captain leapt forward, held her tight, and carried her back to the cabin.',
+        'She did not move, and did not struggle.',
+    ]),
+    ("slides_voidillusion_en/slide_10.png", [
+        'Next morning his wife woke, quite normal, as if nothing had happened.',
+        'The captain told her everything that had happened before dawn.',
+        'As she listened, her face changed.',
+        'She said: I remember now. Last night after I fell asleep, I heard a very lovely voice say softly to me: look.',
+        'I saw a strange land of peace.',
+        'Wondrous birds flying in the sky, shining treasures strewn on the ground, like a paradise on earth.',
+        'Joyful people saw me and called me together.',
+        "So what did the captain's wife see?",
+        'What she saw was the Antimatter World.',
+    ]),
+    ("slides_voidillusion_en/slide_11.png", [
+        'In this world, what is real?',
+        'The past is gone, and is illusion.',
+        'The future has not come, and is illusion.',
+        'Everything imagined with closed eyes is illusion.',
+        'Yet the effect of all illusion on a person is wholly real.',
+        'Think of something from years ago, and your heart still aches, or still laughs.',
+        'The thing itself is long gone. The ache and the laughter are real.',
+    ]),
+    ("slides_voidillusion_en/slide_12.png", [
+        'Some examples.',
+        "The shots in a horror film: no one is really hurt, yet the viewer's heart pounds and palms sweat.",
+        'A frightening scene in a dream, in a novel, or one we imagine ourselves: they affect us almost the same way.',
+        'Love is the same. Many who dream of making love find it feels little different from reality, and some find it even more wonderful.',
+        'That is to say, illusion and reality are not very different.',
+        'The facts tell us: the unreal is not unreal.',
+        'The age-old riddle of the Grand Void Illusion is, in truth, the real Antimatter World.',
+    ]),
+    ("slides_voidillusion_en/slide_13.png", [
+        'The question is: how to enter this more wonderful Antimatter World, and feel a life of such richness?',
+        'To enter the Antimatter World takes four things.',
+        'Go in reverse. Do not follow common sense; think the other way round.',
+        'Think against the current. See the world from an unexpected angle.',
+        'Let imagination run wild. Allow yourself to think what looks impossible.',
+        'See form and emptiness as one. Do not call the visible real and the invisible false.',
+    ]),
+    ("slides_voidillusion_en/slide_14.png", [
+        'Cao Xueqin asked: who can taste what lies within?',
+        'The corpus answers with a poem:',
+        'Flowers that are not flowers, dreams that are not dreams, structure and consciousness show their true form.',
+        'After the plum has bloomed a few times, the dream wakes, and one cultivates a grain of truth: the Grand Void Illusion is the realm of celestial beings.',
+        'The place called illusion is the one that is real.',
+        'As cultivation deepens, the world once called "illusion" becomes more real, and more beautiful, than the ground one stands on.',
+        'When the false is taken as true, the true also becomes false; where nothingness is treated as something, something also becomes nothing.',
+        'Next time: Sound Wave Energy.',
+    ]),
+]

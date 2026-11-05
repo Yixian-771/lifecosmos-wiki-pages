@@ -1,125 +1,182 @@
 # -*- coding: utf-8 -*-
 """
-"Nature (Xing)" slide narration (031 English, 14 art slides, no photo pages).
-Each element = (slide image, [sentences]). One sentence = one subtitle.
-Written independently from the zh script; content from en internal.md《Nature》, terminology from deck.
-Deck page order = NotebookLM's actual ordering (verified page by page) and DIFFERS from the zh deck:
-here 佛即性 is p4 and Character(性格) is p11 (zh has 性格 at p4, 佛即性 at p5).
-Order: cover / secret in one word (p1) -> Nature is the characteristic of structure (p2)
--> the iron law (p3) -> to see your Nature is to see Buddha (p4) -> the mechanics of consciousness (p5)
--> the three architectures (p6) -> understanding the formation / escape (p7)
--> holographic consciousness / six Natures (p8) -> diagnosing the OS: human vs immortal (p9)
--> the cosmic fabric (p10) -> character: the inherited grain (p11) -> the civilizational trajectory (p12)
--> the ultimate shortcut is action (p13) -> Structure Changes Nature (p14, teases Energy).
-"上帝"=the Greatest Creator; 性=Nature (per deck).
+186 English 配方（2026-11-04）。
 """
 
-NAME = "nat_en_show"
+NAME = "nature_en_show"
 VOICE = "en-US-AndrewNeural"
-FONT = r"C:\Windows\Fonts\georgia.ttf"
+FONT = r"C:\Windows\Fonts\msyhl.ttc"
 RATE = "+0%"
 MUSIC = r"F:\百科馆\百科BGM\Open Fields.mp3"
 WATERMARK = "Lifechanyuan"
 
 META = [
-    {"quote": "The secret to self-alteration is one word"},
-    {"quote": "Nature is the characteristic of structure"},
-    {"quote": "Energy cannot change structure"},
-    {"quote": "To see your Nature is to see Buddha"},
-    {"quote": "The less mind, the more Nature shows"},
-    {"quote": "The three architectures of the self"},
-    {"quote": "You cannot escape Nature"},
-    {"quote": "You carry six Natures"},
-    {"quote": "Human-Nature and Immortal-Nature"},
-    {"quote": "The universe is the stage of Nature"},
-    {"quote": "Character: the inherited grain"},
-    {"quote": "Sensibility, rationality, intellectuality, spirituality"},
-    {"quote": "The ultimate shortcut is action"},
-    {"quote": "Structure changes Nature"},
+    {"quote": 'Human Nature'},
+    {"quote": 'Four Essences'},
+    {"quote": 'What Honesty Looks Like'},
+    {"quote": 'Every Person Holds Eight Natures'},
+    {"quote": 'Human Nature Cannot Be Fathomed'},
+    {"quote": 'The Mirror of Environment'},
+    {"quote": 'Go Where You Want to Become'},
+    {"quote": 'Truth'},
+    {"quote": 'Goodness'},
+    {"quote": 'Beauty'},
+    {"quote": 'Perfect Human Nature, Part One'},
+    {"quote": 'Perfect Human Nature, Part Two'},
+    {"quote": 'When Human Nature Appears, Thorns and Spears'},
+    {"quote": 'The Smog and the Pass'},
 ]
 
 SLIDES = [
-    ("slides_nat_en/slide_01.png", [
-        "Have you ever tried, with all your strength, to change yourself — and failed?",
-        "You have not lacked willpower; the Lifechanyuan teaching says you have simply been pushing on the wrong lever.",
-        "What makes you you is the root of why ten thousand things wear ten thousand faces — it is one word: Nature.",
+    ("slides_nature_en/slide_01.png", [
+        'Last time we looked at the eight thinking ladders.',
+        'This time we look at human nature.',
+        'Is human nature good by birth, or evil?',
+        'People have argued about it for thousands of years.',
+        'Lifechanyuan begins with one fact: human nature is not fixed, it changes.',
+        'This time: the essence of human nature, why it cannot be fathomed, its core values, and how to walk out of its smog.',
     ]),
-    ("slides_nat_en/slide_02.png", [
-        "Start with the definition: Nature is the absolute characteristic of structure.",
-        "Whatever kind of structure exists, that precise kind of Nature manifests — mountains possess mountain-Nature, water possesses water-Nature.",
-        "Nature is not an aura; it is determined entirely by a thing's structural architecture.",
-        "If things lost their self-nature, the universe would collapse into primordial chaos.",
+    ("slides_nature_en/slide_02.png", [
+        'Honesty is the essence of human nature.',
+        'Dullness is the essence of things.',
+        'Cunning is the essence of animals.',
+        'Transcendence is the essence of Buddhas.',
+        'Every kind of life in the universe has an essence of its own.',
+        'A rock is dull, a beast is cunning, a Buddha is transcendent.',
+        'And a human being is honest.',
     ]),
-    ("slides_nat_en/slide_03.png", [
-        "From this comes an iron law: structure unchanged, Nature unchanged; and energy cannot change structure.",
-        "So pouring in more energy, piling on more knowledge, alters nothing — that is only the surface.",
-        "To turn one kind of LIFE into another, you cannot just apply more energy; you must alter its underlying architecture.",
-        "Want to change? Change the structure first.",
+    ("slides_nature_en/slide_03.png", [
+        'Honesty is more than not lying.',
+        'Honesty means seeking truth from facts: not inflating, not shrinking.',
+        'If you do not know, you say you do not know. If you cannot, you say you cannot.',
+        'A deer is a deer, a horse is a horse.',
+        "Put on the emperor's new clothes, and you are wearing nothing at all.",
+        'Thirsty is thirsty, hungry is hungry.',
+        'What the mouth says is what the heart thinks.',
+        'No hedging, no going round in circles, no bending with the wind, no deceiving those above and hiding things from those below.',
+        'Dishonesty is the opposite: half true and half false, opportunism, flattery, one face in front and another behind the back, words that do not match deeds, lying, quibbling, denying, cheating.',
     ]),
-    ("slides_nat_en/slide_04.png", [
-        "Here is the teaching's most stunning revelation: Nature is Buddha, and Buddha is Nature.",
-        "LIFE is an antimatter structure possessing spirituality — so LIFE itself is Nature; a LIFE that lives fully according to its Tathagata-Nature is Buddha.",
-        "Bodhidharma said: if you do not see your Nature, all speech is demonic speech.",
-        "Clarify the mind, and see the Nature.",
+    ("slides_nature_en/slide_04.png", [
+        'The universe is holographic.',
+        'One flower, one world. One leaf, one bodhi.',
+        'Every person carries the character of everything in the universe:',
+        'the divine, the demonic, the Buddha, the celestial, the human, the animal, the object and the empty.',
+        'When a person is in the world of the gods, they are a god.',
+        'In the world of demons, they are a demon.',
+        'In the world of humans, they are human.',
+        'In the world of beasts, they are a beast.',
     ]),
-    ("slides_nat_en/slide_05.png", [
-        "Between mind and Nature runs one mechanism: the less mind you apply, the more your true Nature shows.",
-        "When mind arises, calculation and active thought conceal the underlying Nature.",
-        "When mind ceases, pure Nature manifests — no mind is Tathagata.",
-        "The Way is Nature — the blood of the universe — and it surfaces only in a quiet mind.",
+    ("slides_nature_en/slide_05.png", [
+        'Whether a person is good or evil is decided by the environment they live in.',
+        'A good environment leads to good, an evil one to evil.',
+        'An angel who enters an evil environment turns evil. A demon who enters a good environment turns good.',
+        'So never fix the nature of a living person. Only when the coffin is closed can a verdict be given.',
+        'And no one should define themselves as a good person or a bad one, a kind person or a wicked one.',
+        'When the environment changes, you will change.',
+        'No one can be sure what kind of person they will become.',
+        'That is why human nature cannot be fathomed.',
     ]),
-    ("slides_nat_en/slide_06.png", [
-        "Nature also has a precise threefold architecture of the self.",
-        "Heavenly Nature is the universal class — the essential attribute from the Creator, the formless state of emptiness; it is Way-Nature.",
-        "Innate Nature is the type class — the state of Taiji with distinction; it is Virtue-Nature.",
-        "Habitual Nature is the individual class — habits formed through environment; it is rationality, the birthplace of the social virtues.",
+    ("slides_nature_en/slide_06.png", [
+        'History bears witness.',
+        'In constant war, people love fighting.',
+        'In cold and hunger, people love stealing.',
+        'In comfort and plenty, people love lust.',
+        'When wicked people rule, people love greed.',
+        'When mercy floods, people love being cheated.',
+        'When law is harsh, people love cunning.',
+        'When sages govern, people love the worthy.',
+        'Reality is a clear mirror too.',
+        'Poor couples love without limit, rich couples complain without end.',
     ]),
-    ("slides_nat_en/slide_07.png", [
-        "So how do you escape this formation? First, the truth: you cannot escape Nature, because you are Nature.",
-        "Transcendence is a process of navigation — overcome Habitual Nature, discard Innate Nature, restore Heavenly Nature.",
-        "That is: sublimate beyond the rationality of the virtues, and return to pure Way-Nature.",
-        "From the tangle of habit, step by step back to the open field.",
+    ("slides_nature_en/slide_07.png", [
+        'All eight natures are there. The environment wakes one of them.',
+        'So whatever you want to become, go and stay in that environment.',
+        'To become a beast, go among beasts.',
+        'To become a person, deal with people every day.',
+        'To become a celestial, steep yourself in the celestial world.',
+        'To become a god, live wholly in the anti-matter world.',
     ]),
-    ("slides_nat_en/slide_08.png", [
-        "The universe is holographic — every person is born carrying all six Natures.",
-        "Divine, Buddha, Immortal, Human, Beast, and Matter — all present at once.",
-        "You become the Nature that dominates: divine-Nature fills you, you are divine; human-Nature is full, you are human.",
-        "By environment and effort, some cultivate a superb life, while others reduce themselves to waste.",
+    ("slides_nature_en/slide_08.png", [
+        'Truth, goodness and beauty are the core values of human nature.',
+        'They are also the source and essence of every art form in the great world.',
+        'First, truth.',
+        'Truth is the source of the art forms.',
+        'Without truth in human nature, a person lacks human nature.',
+        'A person with no God in the heart cannot have perfect human nature. The animal side may break out at any moment and harm other people and the natural world.',
+        'Truth is eternal and unchanging. What changes is not truth.',
+        'There is only one truth in the universe.',
+        'Apart from God, everything else is an appearance, an art form of God.',
     ]),
-    ("slides_nat_en/slide_09.png", [
-        "The core of all cultivation is simply to rise from Human-Nature to Immortal-Nature.",
-        "Human-Nature: selfish, shortsighted, prizing money, power, name, and gain; jealous, angry, greedy, fearful; disregarding conscience for interest.",
-        "Immortal-Nature: possessing nothing, wholly unbound; leaving feeling everywhere yet never clinging.",
-        "Acting through non-action, moving with the Way — the bearing of the Way-bones.",
+    ("slides_nature_en/slide_09.png", [
+        'Next, goodness.',
+        'Goodness is the mechanism that keeps order and harmony.',
+        'God designed the order of the universe by the law of utmost goodness.',
+        'For an individual human being, the wish and the deed of keeping the harmony of the great world is goodness.',
+        'It means working to keep order and harmony between oneself and the lives around one, and the ecology that life depends on.',
+        'A mind that reveres God, reveres life and reveres nature is goodness.',
+        'Deeds that protect God, protect order, love life and guard nature are goodness.',
+        'Goodness is the measure of whether a person has human nature.',
+        'To see whether someone is good, see whether they keep harmony with the world around them.',
+        'Goodness comes in great and small.',
+        'Great goodness belongs to God and the gods and Buddhas. Small goodness belongs to sages and the wise.',
     ]),
-    ("slides_nat_en/slide_10.png", [
-        "Pull the lens back to its widest: the universe is the stage of Nature; the ten thousand appearances are its dance.",
-        "Mountain-Nature, water-Nature, Buddha-Nature — who can exist apart from Nature?",
-        "We dwell within Nature exactly as a fish dwells within water.",
-        "Coming from it, living within it, returning to it.",
+    ("slides_nature_en/slide_10.png", [
+        'Then beauty.',
+        'The law of beauty is harmonious proportion and symmetry.',
+        'From the arrangement of the heavenly bodies to the look of plants.',
+        'From the structure of crystals to the form of animals.',
+        'From the shade of colour to the play of light and dark.',
+        'Everywhere there is harmonious proportion and symmetry, giving the eye an endless sense of beauty.',
+        'The universe is made by combining truth, goodness and beauty. Without them there would be no universe.',
+        'If we hold a fairly perfect measure of truth, goodness and beauty in our human nature, what is hard about becoming a celestial?',
     ]),
-    ("slides_nat_en/slide_11.png", [
-        "One thing shows this most clearly: character.",
-        "Character is the characteristic of your LIFE-vehicle inherited from your previous existence — a consciousness-potential, not just parental genetics.",
-        "Interest clouds wisdom, wisdom clouds the mind, and the mind clouds Nature — the more you calculate for interest, the further you push from your true inner grain.",
-        "As the saying goes: rivers and mountains are easily changed; innate Nature is hard to alter.",
+    ("slides_nature_en/slide_11.png", [
+        'Perfect human nature, for an individual, is the necessary condition for a life to enter the higher spaces.',
+        'For all humanity, it is the precondition of a value system of justice, peace and happiness.',
+        'Perfect human nature has eight conditions.',
+        'One: revere God, respect the gods and Buddhas, honour others.',
+        'Two: no urge to win, no urge to fight.',
+        'Shakyamuni said: one who attains the samadhi of no contention is first among humans.',
+        'To reach the state of no urge to win and no urge to fight is to reach the highest state of being human, to rise beyond life and death and no longer go round the cycle of rebirth.',
+        'Three: love nature.',
+        'Four: be humble, keep your word, be honest.',
     ]),
-    ("slides_nat_en/slide_12.png", [
-        "Across human history, one civilization is the trajectory of Nature itself.",
-        "The age of Sensibility — Lemuria; the age of Rationality — Atlantis; the age of Intellectuality — the ten thousand years after.",
-        "And now, the age of Spirituality — the Lifechanyuan era, Civilization 3.0.",
-        "Its mark is to freely blossom your self-nature in its season, no longer trapped inside ideology, doctrine, or organization.",
+    ("slides_nature_en/slide_12.png", [
+        'Five: have sympathy and compassion.',
+        'Six: in good times and in bad, adjust yourself and stay calm.',
+        'Seven: follow the laws of nature and seek nothing extraordinary.',
+        'Eight: love life, love labour.',
+        'The person with the brightest future in human society is the person with perfect human nature.',
+        'Presidents, scientists, national heroes, artists, writers and ordinary people all come after.',
     ]),
-    ("slides_nat_en/slide_13.png", [
-        "The whole of it condenses into a single practice: the ultimate shortcut is action.",
-        "To cultivate Buddhahood is to cultivate Nature; any cultivation that ignores Nature is just scratching an itch from outside the boot.",
-        "There are no vast tomes required, no daily chanting — the shortcut to becoming a celestial is simply this: act according to Immortal-Nature.",
-        "Even the illiterate, acting by this, will arrive.",
+    ("slides_nature_en/slide_13.png", [
+        "Immortal nature does not meddle in other people's hearts or other people's business.",
+        "What is not one's own concern, one does not trouble about.",
+        'Human nature keeps its eyes on others and wants them to follow its will.',
+        'It always wants to be admired in a crowd.',
+        'Restrain human nature, and let immortal nature show.',
+        'When human nature appears, thorns and spears. When immortal nature shows, wind and rain are kind.',
+        'The first evil of human nature is the love of judging others.',
+        'The second is the love of managing others. Where two or three people gather, each wants to manage the rest and stand out from the crowd.',
+        'Living is simple at heart, but the evils of human nature have made it complicated.',
     ]),
-    ("slides_nat_en/slide_14.png", [
-        "Back to where we began: you cannot change yourself by repainting the surface.",
-        "What truly defines you is Nature — the characteristic of structure.",
-        "Change your structure, live out your Nature, and you live as a Buddha.",
-        "Next time: Energy — that invisible force that leaves you drained after some people and lifted after others. What is it, really? See you then.",
+    ("slides_nature_en/slide_14.png", [
+        'Human nature is originally clean and bright, without a speck of dust, like a bright mirror.',
+        'But a person needs food, clothing, shelter, and has birth, ageing, sickness and death, and needs safety and respect.',
+        'So the person cannot settle, and stirs and strives for money, power, status, fame and gain, and sex.',
+        'The bright mirror gathers dust, and human nature is stained.',
+        'Anxiety, worry, resentment, anger, fear, strife and confrontation stir up like silt, and form the smog of human nature.',
+        'Under the smog, truth is twisted, good and evil change their faces, people are at a loss, the false, the evil and the ugly run unchecked, and the true, the good and the beautiful cannot move a step.',
+        'How to walk out?',
+        'Hold the bottom line of human nature. Lessen desire and restrain impulse.',
+        'Look for no shortcut and do not hurry: the more haste, the more disorder.',
+        'Let the restless heart grow quiet, and watch quietly how things develop and change.',
+        'Believe that the sandstorm will pass, and that after the dark the light is certain to come.',
+        'The one pass to the higher spaces of life is perfect human nature.',
+        'When flowers are fragrant, butterflies come. When the heart is clean, celestials arrive.',
+        'The kind of mind and consciousness one has makes the kind of person, and the events and surroundings.',
+        'Outside factors are secondary. Human nature is primary.',
+        'If our human nature grows more and more perfect, our future is without doubt in heaven.',
+        'Next time: female awakening.',
     ]),
 ]

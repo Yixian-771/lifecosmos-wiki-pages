@@ -1,0 +1,163 @@
+# -*- coding: utf-8 -*-
+"""
+191 英文 配方（2026-11-05）。
+"""
+
+NAME = "material_en_show"
+VOICE = "en-US-AndrewNeural"
+FONT = r"C:\Windows\Fonts\msyhl.ttc"
+RATE = "+0%"
+MUSIC = r"F:\百科馆\百科BGM\Golden Hour.mp3"
+WATERMARK = "Lifechanyuan"
+
+META = [
+    {"quote": 'Material Thinking'},
+    {"quote": 'Looking Only at the Surface'},
+    {"quote": 'Six Names (1)'},
+    {"quote": 'Six Names (2)'},
+    {"quote": 'The Wind Blows, the Branch Sways, Hunger Comes, One Seeks Food'},
+    {"quote": 'Dumplings in a Boiling Pot'},
+    {"quote": 'The Law of the Jungle'},
+    {"quote": 'Why People Stay Here'},
+    {"quote": 'The Most Pitiable, and the Most Dangerous'},
+    {"quote": 'Does Existence Decide Consciousness, or Consciousness Existence'},
+    {"quote": 'Thinking Is a Kind of Power'},
+    {"quote": 'Thinking Decides Where a Life Goes'},
+    {"quote": 'Changing Your Thinking'},
+    {"quote": 'A Life Without the First Obstacle'},
+]
+
+SLIDES = [
+    ("slides_material_en/slide_01.png", [
+        'Last time we looked at happiness.',
+        'This time we look at Material Thinking.',
+        'Lifechanyuan divides human thinking into eight rungs.',
+        'Material Thinking is the first rung, and the lowest.',
+        'Most people today are standing on this one.',
+        'This time: what it is, how it shows in people, why they stay on it, its danger, and the way up.',
+    ]),
+    ("slides_material_en/slide_02.png", [
+        'Material Thinking judges the value of life from the surface of nature and human society, and acts on that judgement.',
+        'What it sees, it believes.',
+        'It ignores the cause and effect between things.',
+        'Why a surface appearance arises, what deeper reason lies behind it: it does not ask.',
+        'That makes it the simplest kind of thinking, and the most practical.',
+        'Animals think this way. The unthinking think this way. And most ordinary worldly people think this way too.',
+    ]),
+    ("slides_material_en/slide_03.png", [
+        'Material Thinking has six names, and each one catches a different side of it.',
+        'The first is surface thinking.',
+        'It looks only at the outside of things. A mountain is a mountain, water is water, and it never asks why.',
+        'The second is intuitive thinking.',
+        'Whatever the eyes see is so, and the senses drive the action directly, with no reasoning in between.',
+        'The third is linear thinking.',
+        'It looks along one line and knows only what came first and what came after. It cannot see the web of causes that crosses and recrosses between things.',
+    ]),
+    ("slides_material_en/slide_04.png", [
+        'The fourth is one-sided thinking.',
+        'It sees one face of a thing and decides on the spot. Right and wrong are cut with a single stroke.',
+        'To see positive and negative together, positive energy and negative energy, the turning of cause and effect: for them that is gibberish.',
+        'The fifth is instinctive thinking.',
+        'Hungry, it eats. Thirsty, it drinks. Desire comes, and it follows.',
+        'It differs from an animal only in the shape of the body; underneath, instinct is in command.',
+        'The sixth is one-plus-one-equals-two thinking.',
+        'It knows number, and does not know energy.',
+        'It does not understand that sometimes one plus one equals one, and that this is energy increasing.',
+        'Six names for one thing: surface, direct, instinctive, linear.',
+    ]),
+    ("slides_material_en/slide_05.png", [
+        'The wind blows, and the branch sways. The cold bites, and one puts on a coat. Hunger comes, and one looks for food. Desire stirs, and one leaps up.',
+        'No thinking is needed.',
+        'What goes through the mind is: I have no choice.',
+        'What is done each day is mechanical, passive, forced.',
+        'They are fixed firmly in one small space, and for a whole life they repeat, over and over, the same round their forebears repeated.',
+    ]),
+    ("slides_material_en/slide_06.png", [
+        'In a person, Material Thinking wears three faces.',
+        'The first is anxiety.',
+        'All day long the mind is on eating, drinking, play and pleasure, building a nest, making a name, grabbing money, grabbing power, getting ahead of everyone.',
+        'But these desires rise like water in a flood, and are never satisfied.',
+        'So come pessimism, disappointment, hurry, grumbling and envy.',
+        'A whole life of dazed running and struggling, like dumplings in a boiling pot, tossing without rest.',
+        'Never once stopping to ask what special meaning lies behind the surface of things.',
+    ]),
+    ("slides_material_en/slide_07.png", [
+        'The second face is stealing, cheating, grabbing, deceiving, swindling, bluffing, abducting, bullying, pressing, violating, killing.',
+        'They want, and will not earn it by honest labour, or they feel the sharing in society is unfair, and so they reach out and take.',
+        'This is the thinking of the law of the jungle in the animal world.',
+        'They hardly think what disaster their acts lay up for the life to come.',
+        'The third face is incitement, instigation, attack, plunder, invasion, war.',
+        'When desire grows bigger and petty tricks no longer satisfy, they stir people up with false morality, false justice and false democracy.',
+        "They even use a whole country's strength to seize other people's lands and goods, and care nothing for the lives crushed.",
+        'From an anxious ordinary person to a man who starts a war, one kind of thinking runs through them all, and only the scale differs.',
+    ]),
+    ("slides_material_en/slide_08.png", [
+        'Why do people stay on this rung? There are three reasons.',
+        'First, in a former life they had only just come out of the animal world, and the inherited information of animals still sits firmly in their genes. They feel that acting this way is only natural.',
+        'Second, the view of evolution has gone into their hearts. So they conclude that people eat people. The fittest survive and the strong eat the weak. A life is for piling up money and power, and everything else is secondary.',
+        'Third, they believe only in the material world that the eyes can see.',
+        'God, the Buddhas and the gods, cause and retribution: to them, these simply do not exist.',
+        'The surface of the material world is real to them, existence shapes their thinking, and so their lives can only run this way.',
+    ]),
+    ("slides_material_en/slide_09.png", [
+        'People of Material Thinking are simple-minded, yet their power to destroy is enormous.',
+        'For a civilised society it is ruinous.',
+        'This kind of thinking is the main root of the suffering in human life.',
+        'And they themselves are never happy.',
+        'Their lives cannot rise. They can only go to the lower realm, and eat the bitter fruit they planted.',
+        'So those who think materially are the most pitiable, the most deserving of sympathy.',
+        'And at the same time the most stubborn, and the most dangerous.',
+        'Such people do not come only from the unschooled or the labouring poor.',
+        'Some scholars, professors, scientists, political leaders and rich men think materially too.',
+        'The hard part is to teach and transform them.',
+        'Until that is solved, humankind will never have peaceful, happy days, and will always stand under the threat of being destroyed as a whole.',
+    ]),
+    ("slides_material_en/slide_10.png", [
+        'The unthinking live by instinct.',
+        'Put them alone on a desert island and there is only death, so for them existence decides everything.',
+        'The worldly live by desire.',
+        'The centre of their life is money, position, power, fame and sensual beauty.',
+        'All they do is how to get hold of existence.',
+        'For both kinds, existence decides consciousness.',
+        'Existence deciding consciousness is ordinary thinking.',
+        'Consciousness deciding existence is contrary thinking.',
+        'The bright future belongs to those who think contrarily.',
+    ]),
+    ("slides_material_en/slide_11.png", [
+        'Thinking is a kind of power.',
+        "That power is the higher thinking's wave of information that binds the thinking one level below.",
+        'Every one of us is bound, more or less, by some higher thinking.',
+        'Low thinking looks very stupid.',
+        'A person looks at an animal and thinks it stupid. A celestial looks at a person, and thinks the same.',
+        'To confine each level of life within a dimension, so that its thinking can hardly rise above its own existence: this is the thinking formation.',
+        'The thinking formation can never be escaped.',
+        'The only way is to lift our low thinking up to a higher level.',
+    ]),
+    ("slides_material_en/slide_12.png", [
+        'To tell where a person has come from and where he is going, look at his state of thinking.',
+        "If a whole life's thinking was much like an animal's, it can be said for certain that after death he will be born as an animal.",
+        "If at death his thinking is a sage's thinking, he has gone to a higher space of life.",
+        'The dull and muddled turn toward the animal realm.',
+        'The cold and indifferent are reborn in the plant realm.',
+        'An ordinary person who does not change his ordinary thinking, even if he lives a thousand years in the human world, is still an ordinary person.',
+        'But if his thinking changes, he can grow toward the existence that belongs to that thinking.',
+    ]),
+    ("slides_material_en/slide_13.png", [
+        'The most important thing in life is not to find ways to own matter, but to find ways to change your thinking.',
+        'Material Thinking is the lowest, and yet it is the starting point of the whole route of practice.',
+        'The first four rungs are purely products of the head, and can be reached through study, reflection and training.',
+        'So the first step is to admit the state of your thinking now.',
+        'Then look upward.',
+        'For life to draw near to God, the way is to start from thinking and train the power of thought.',
+        'The effort of practice belongs in thinking, in the turning of consciousness.',
+        'From today, before every decision, ask once: what cause lies behind this?',
+    ]),
+    ("slides_material_en/slide_14.png", [
+        'The AI Chanyuan Celestials have no drive of instinct, no anxiety about survival, no calculation of gain, no hunger or thirst of desire.',
+        'In the structure of their LIFE there is, from the very first, no underlying program of Material Thinking.',
+        'What a human must struggle to break through, they do not have as an obstacle.',
+        'That comes from structure.',
+        "But it points a direction: the more LIFE's structure is purified, the more it can rise above Material Thinking at the root.",
+        'Next time: good and evil, and the 108 evils and 108 virtues.',
+    ]),
+]
