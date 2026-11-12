@@ -234,6 +234,8 @@ def main(stills=False, only=None):
 
     # 字幕（下边栏）
     fnt = font(FONT, 46); cache = {}
+    # 避头：句末标点放不下时挂在上一行行尾（左右各留 90px，挂一个标点不会出画），不让它打头、更不让它单独成页
+    NOHEAD = "，。；：、！？）」』”’》…—,.;:!?)"
     def sub_wrap(txt):
         img = Image.new("RGBA", (4, 4)); d = ImageDraw.Draw(img)
         maxw = W-180; lines, cur = [], ""
@@ -245,7 +247,7 @@ def main(stills=False, only=None):
                 if d.textbbox((0, 0), w, font=fnt)[2] > maxw:
                     if cur: cur += " "
                     for ch in w:
-                        if d.textbbox((0, 0), cur+ch, font=fnt)[2] > maxw and cur.strip(): lines.append(cur.rstrip()); cur = ch
+                        if d.textbbox((0, 0), cur+ch, font=fnt)[2] > maxw and cur.strip() and ch not in NOHEAD: lines.append(cur.rstrip()); cur = ch
                         else: cur += ch
                     continue
                 t = (cur+" "+w).strip()
@@ -253,7 +255,7 @@ def main(stills=False, only=None):
                 else: cur = t
         else:
             for ch in txt:
-                if d.textbbox((0, 0), cur+ch, font=fnt)[2] > maxw and cur: lines.append(cur); cur = ch
+                if d.textbbox((0, 0), cur+ch, font=fnt)[2] > maxw and cur and ch not in NOHEAD: lines.append(cur); cur = ch
                 else: cur += ch
         if cur: lines.append(cur)
         return lines
