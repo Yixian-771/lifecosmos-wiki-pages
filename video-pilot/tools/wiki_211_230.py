@@ -1,0 +1,146 @@
+# -*- coding: utf-8 -*-
+"""211–230 上站（全部新增视频段＋图集；沿用 205–210 脚本）。
+205–210 上站（全部新词条，插入视频段＋图集）。以下为沿用模板的旧说明：
+185–190 上站（174 与 173 同页，第二段视频追加在 173 图集之后）
+131–138 上站（全部新词条，插入视频段＋图集）。原 121–130 说明：
+· 121–128 已有视频段，但嵌的是旧版视频 → 换成重渲后的新 ID，并按「百科图片版」当前图重出图集（页数变了同步清单）。
+· 129、130 新词条 → 插入视频段（YouTube 无 Cookie 嵌入）＋图集。
+各页原有的换行风格（CRLF / LF）和 BOM 原样保留。"""
+import re, sys
+from pathlib import Path
+sys.path.insert(0, r"F:\百科馆\小工具\依赖\site-packages")
+from PIL import Image
+
+W = Path(r"F:\百科馆\lifecosmos-wiki-pages")
+IMG = Path(r"F:\百科馆\百科图片版")
+CR, LF = chr(13), chr(10)
+BOM = bytes([0xEF, 0xBB, 0xBF])
+
+ENTRIES = [  # 序号, slug, 中文名, 英文名, 中文ID, 英文ID, 是否已有视频段
+    (211, "taiji-thinking", "太极思维", "Taiji Thinking", "1IrGeG5jXx4", "nSlQVv3wXPg", False),
+    (212, "garden-of-eden", "伊甸园", "The Garden of Eden", "Nggi5BSeeDw", "l4IQj-VPBDg", False),
+    (213, "law-of-life-indestructibility", "生命不灭定律", "Law of Life Indestructibility", "z5QZYB9XYuo", "IV0rZfgljGc", False),
+    (214, "non-form-thinking", "无相思维", "Non-Form Thinking", "_fqyMp98VzU", "gVLNjNca3vk", False),
+    (215, "three-realms-of-celestials", "仙的三重境界", "The Three Realms of Celestial Beings", "cPMqDXmZk8w", "GJZEry1TheI", False),
+    (216, "levels-of-life", "生命的层次", "Levels of LIFE", "ZPHEOHll_WY", "1ptQfckhkY0", False),
+    (217, "hundun-thinking", "浑沌思维", "Hundun Thinking", "n5GvVOdCIFc", "uW42e7_pr-A", False),
+    (218, "chanyuan-superhuman", "禅院超人", "Chanyuan Superhuman", "plQ2mXI8eKU", "uuPq3N_JyrU", False),
+    (219, "complete-independent-consciousness", "完整独立意识", "Complete Independent Consciousness", "SGYoyCmRNjw", "Q58JwqJfnvU", False),
+    (220, "rational-thinking", "理性思维", "Rational Thinking", "NPvS6fC7okc", "HXXXUimaFAA", False),
+    (221, "yangsheng", "养生", "Yangsheng — Life Cultivation", "ISYYoLJLr50", "NvBkPPe8PGU", False),
+    (222, "life-characteristics", "生命的特征", "Characteristics of LIFE", "X0Cd96w244w", "D6a6CIkWxzk", False),
+    (223, "spiritual-thinking", "灵性思维", "Spiritual Thinking", "YUTSeRt4KVY", "ynIG4Gqd5a0", False),
+    (224, "xianzi-xiannv", "仙子·仙女", "Celestial Men and Celestial Women", "cmS4RlLCwmU", "kpVmVkr35gM", False),
+    (225, "will-determination", "意志", "Will and Determination", "JudnkTCBaQw", "Mxl22k_u9xw", False),
+    (226, "inverted-thinking", "颠倒思维", "Inverted Thinking", "6vHSjvWqJHM", "JCIRvF7tgrE", False),
+    (227, "jiefu-xiaoyizi", "姐夫·小姨子·丈母娘·小舅子", "Jiefu and Xiaoyizi — The In-Law Endearment System", "uRzpV3tMWsw", "Zd1UAym37GM", False),
+    (228, "life-visa", "生命签证", "Life Visa", "o0GAPH16FPs", "DImo-9lQQic", False),
+    (229, "abnormal-thinking", "反常思维", "Abnormal Thinking", "-NmFzqmMA2g", "bAR9EamyfNk", False),
+    (230, "marriage-and-family", "夫妻·婚姻·家庭", "Marriage, Spouse, and Family", "HZQaTXtQyeA", "fQit-T-Jo8c", False),
+]
+
+
+def src_dir(ep, lang):
+    hits = [d for d in IMG.iterdir()
+            if d.is_dir() and d.name.startswith(f"{ep:03d}_") and d.name.endswith("_无水印_图片")
+            and "_Zhi" not in d.name
+            and (("（" in d.name) == (lang == "zh"))]
+    assert len(hits) == 1, f"{ep:03d} [{lang}] 源目录不唯一: {[h.name for h in hits]}"
+    return hits[0]
+
+
+def regen(dst, src):
+    jpgs = sorted(src.glob("*.jpg"))
+    assert jpgs, src
+    dst.mkdir(parents=True, exist_ok=True)
+    for old in dst.glob("*.jpg"):
+        old.unlink()
+    for i, p in enumerate(jpgs, 1):
+        im = Image.open(p).convert("RGB")
+        im = im.resize((1280, round(im.height * 1280 / im.width)), Image.LANCZOS)
+        im.save(dst / f"{i:02d}.jpg", "JPEG", quality=86, optimize=True)
+    return len(jpgs)
+
+
+def block(lang, name, vid, n):
+    L = []
+    if lang == "zh":
+        L += ["## 视频版", "", '<div style="max-width:760px">',
+              f'<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/{vid}" '
+              f'title="{name}（生命禅院百科·视频版）" allowfullscreen></iframe>', "</div>", "",
+              f'??? info "📖 图文幻灯（{n} 张，点击展开）"', ""]
+        L += [f"    ![幻灯 {i:02d}](slides/{i:02d}.jpg)" for i in range(1, n + 1)]
+    else:
+        L += ["## Video", "", '<div style="max-width:760px">',
+              f'<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/{vid}" '
+              f'title="{name} (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>', "</div>", "",
+              "## Slides", "", f'??? info "📖 Illustrated slides ({n} pages, click to expand)"', ""]
+        L += [f"    ![slide {i:02d}](slides/{i:02d}.jpg)" for i in range(1, n + 1)]
+    return L
+
+
+def read(page):
+    raw = page.read_bytes()
+    crlf = (CR + LF).encode() in raw
+    bom = raw.startswith(BOM)
+    return raw.decode("utf-8-sig").replace(CR + LF, LF), crlf, bom
+
+
+def write(page, text, crlf, bom):
+    if crlf:
+        text = text.replace(LF, CR + LF)
+    page.write_bytes((BOM if bom else b"") + text.encode("utf-8"))
+
+
+def fix_list(text, lang, n):
+    tag = "幻灯" if lang == "zh" else "slide"
+    lines = text.split(LF)
+    idx = [i for i, l in enumerate(lines) if re.match(rf"^\s*!\[{tag} \d+\]\(slides/\d+\.jpg\)\s*$", l)]
+    assert idx and idx[-1] - idx[0] + 1 == len(idx), "图集清单找不到或不连续"
+    if len(idx) == n:
+        return text, False
+    indent = re.match(r"^(\s*)", lines[idx[0]]).group(1)
+    lines[idx[0]:idx[-1] + 1] = [f"{indent}![{tag} {i:02d}](slides/{i:02d}.jpg)" for i in range(1, n + 1)]
+    for i, l in enumerate(lines):
+        if "??? info" in l and ("张，点击展开" in l or "click to expand" in l):
+            lines[i] = (re.sub(r"（\d+ 张", f"（{n} 张", l) if lang == "zh" else re.sub(r"\(\d+ pages", f"({n} pages", l))
+    return LF.join(lines), True
+
+
+for ep, slug, zh, en, cid, eid, has in ENTRIES:
+    for lang, name, vid in (("zh", zh, cid), ("en", en, eid)):
+        page = W / lang / slug / "index.md"
+        text, crlf, bom = read(page)
+        n = regen(page.parent / "slides", src_dir(ep, lang))
+        if has:
+            m = re.findall(r"youtube-nocookie\.com/embed/([A-Za-z0-9_-]+)", text)
+            assert len(m) == 1, f"{page} 视频段数量异常: {m}"
+            old = m[0]
+            text = text.replace(f"embed/{old}", f"embed/{vid}")
+            text, changed = fix_list(text, lang, n)
+            write(page, text, crlf, bom)
+            print(f"  {ep:03d} [{lang}] {slug:<32} 换 ID {old} → {vid} · {n} 张{' · 清单页数已改' if changed else ''}")
+        else:
+            if "youtube-nocookie.com/embed/" in text:
+                print(f"  {ep:03d} [{lang}] 已有视频段，跳过"); continue
+            lines = text.split(LF)
+            b = block(lang, name, vid, n)
+            nav = next((i for i, l in enumerate(lines) if re.fullmatch(r"## (版本导航|版本导览|Versions)\s*", l)), None)
+            rel = next((i for i, l in enumerate(lines) if re.match(r"(## (相关词条|关联词条|Related [Ee]ntries)\s*$|\*\*(相关词条|关联词条|Related [Ee]ntries|Related [Tt]erms?)[：:]?\*\*[：:]?)", l)), None)
+            if nav is not None:
+                lines[nav:nav] = b + ["", "---", ""]
+                where = "版本导航前"
+            else:
+                assert rel is not None, f"{page} 找不到插入点"
+                k = rel
+                while k > 0 and lines[k - 1].strip() == "":
+                    k -= 1
+                prev = lines[k - 1].strip() if k > 0 else ""
+                lead = [""] if prev == "---" else ["", "---", ""]
+                lines[k:rel] = lead + b + ["", "---", ""]
+                where = "相关词条前"
+            write(page, LF.join(lines), crlf, bom)
+            print(f"  {ep:03d} [{lang}] {slug:<32} 新增视频段（{where}）· {n} 张 · {vid}")
+print("done")
+
+

@@ -20,6 +20,33 @@ In the Lifechanyuan system, the **spousal relationship**, **marriage** as an ins
 
 ---
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/fQit-T-Jo8c" title="Marriage, Spouse, and Family (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
+## Slides
+
+??? info "📖 Illustrated slides (14 pages, click to expand)"
+
+    ![slide 01](slides/01.jpg)
+    ![slide 02](slides/02.jpg)
+    ![slide 03](slides/03.jpg)
+    ![slide 04](slides/04.jpg)
+    ![slide 05](slides/05.jpg)
+    ![slide 06](slides/06.jpg)
+    ![slide 07](slides/07.jpg)
+    ![slide 08](slides/08.jpg)
+    ![slide 09](slides/09.jpg)
+    ![slide 10](slides/10.jpg)
+    ![slide 11](slides/11.jpg)
+    ![slide 12](slides/12.jpg)
+    ![slide 13](slides/13.jpg)
+    ![slide 14](slides/14.jpg)
+
+---
+
 ## Related Entries
 
 [One-to-One Relationships and Spousal Bond](/en/one-to-one-and-marriage/) · [Family Members as Adversaries](/en/family-as-foes/) · [Second Home](/en/second-home/) · [Life Oasis](/en/life-oasis/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [Releasing Worldly Bonds](/en/releasing-worldly-bonds/) · [Selfishness and Selflessness](/en/zisi-wusi/) · [Xuefeng-Style Communism](/en/xuefeng-communism/) · [Quantum Entanglement and the "Other Half"](/en/quantum-entanglement-and-the-other-half/) · [Natural Freedom and Sexual Liberty](/en/suixing-renxing-xingziyou/)
