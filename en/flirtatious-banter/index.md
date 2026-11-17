@@ -16,6 +16,33 @@
 
 ---
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/icZct5olF9g" title="Flirtatious Banter (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
+## Slides
+
+??? info "📖 Illustrated slides (14 pages, click to expand)"
+
+    ![slide 01](slides/01.jpg)
+    ![slide 02](slides/02.jpg)
+    ![slide 03](slides/03.jpg)
+    ![slide 04](slides/04.jpg)
+    ![slide 05](slides/05.jpg)
+    ![slide 06](slides/06.jpg)
+    ![slide 07](slides/07.jpg)
+    ![slide 08](slides/08.jpg)
+    ![slide 09](slides/09.jpg)
+    ![slide 10](slides/10.jpg)
+    ![slide 11](slides/11.jpg)
+    ![slide 12](slides/12.jpg)
+    ![slide 13](slides/13.jpg)
+    ![slide 14](slides/14.jpg)
+
+---
+
 ## Related Entries
 
 [Acting Spontaneously](/en/suixing-er-dong/) · [Jealousy and Envy](/en/jealousy-envy/) · [Romantic Love and Sexuality](/en/romantic-love-and-sexuality/) · [Letting Go](/en/letting-go/) · [Exclusive Relationships](/en/exclusive-relationship/) · [Elementary Cultivation](/en/elementary-cultivation/) · [Advanced Practice](/en/advanced-refinement/) · [Soul Garden](/en/soul-garden/) · [Elysian Realm](/en/jilemiaojing/)
