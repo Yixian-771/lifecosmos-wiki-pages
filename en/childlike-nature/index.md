@@ -20,6 +20,33 @@
 
 ---
 
+## Video
+
+<div style="max-width:760px">
+<iframe style="width:100%;aspect-ratio:4/3;border:0" src="https://www.youtube-nocookie.com/embed/Ka3-o5_5hsQ" title="Childlike Nature (Lifechanyuan Encyclopedia video)" allowfullscreen></iframe>
+</div>
+
+## Slides
+
+??? info "📖 Illustrated slides (14 pages, click to expand)"
+
+    ![slide 01](slides/01.jpg)
+    ![slide 02](slides/02.jpg)
+    ![slide 03](slides/03.jpg)
+    ![slide 04](slides/04.jpg)
+    ![slide 05](slides/05.jpg)
+    ![slide 06](slides/06.jpg)
+    ![slide 07](slides/07.jpg)
+    ![slide 08](slides/08.jpg)
+    ![slide 09](slides/09.jpg)
+    ![slide 10](slides/10.jpg)
+    ![slide 11](slides/11.jpg)
+    ![slide 12](slides/12.jpg)
+    ![slide 13](slides/13.jpg)
+    ![slide 14](slides/14.jpg)
+
+---
+
 ## Related Entries
 
 [Rejuvenation (Eternal Youth · Immortality)](/en/fanlaohuantong/) · [Following Natural Impulse](/en/suixing-er-dong/) · [Fluid Adaptability](/en/linghuoyuanrong/) · [No-Self, No-Form](/en/no-self-no-form/) · [Illuminating the Mind, Seeing True Nature](/en/illuminate-mind-see-nature/) · [Self-Nature · Buddha-Nature · Tathāgata Nature](/en/self-nature/) · [Primordial Hundun](/en/hundun-baby/) · [Heavenly Treasures](/en/heavenly-treasures/) · [Route to Heaven](/en/route-to-heaven/) · [Meditation and Stillness Practice](/en/settled-stillness/)
